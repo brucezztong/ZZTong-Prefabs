@@ -1,0 +1,55 @@
+If you have questions about the GPLv3 you should seek advice available on the
+web. This document will attempt to answer some common questions.
+
+Q: Do I have to release my changes to your modlet?
+A: No. The GPL does not require you to release a modified version of this
+modlet or any derivitive works made from the POIs. Do what you want with the
+content for your own private amusement. If, however, you decide to release
+some or all of this modlet or the POIs within, including derivitive works,
+then you cannot constrain others from the files necessary to make derivitive
+works.
+
+Q: Do I have to notify you before I distribute my changes?
+A: No, The GPL does not require you to notify me for you to use it or
+redistribute some or all of this modlet or its POIs. However, I like knowing
+when people do. (It makes me feel good.) Notifying me gives me the opportunity
+to learn about your project and perhaps pass along suggestions. For the price
+of an email, maybe you could make me happy... zztong@gmail.com
+
+Q: Why bother with a license? Isn't "public domain" good enough?
+A: Sure, 99/100 times public domain is good enough. But when civility ends,
+the law begins.
+
+COMPOPACK
+
+I don't believe the GPLv3 prohibits the CompoPack in any way. That is, I
+recognize the CompoPack needs to make derivitive works in order to maintain
+the consistency and integrity of the CompoPack. Derivitive works of my POIs
+are fine, so long as they're still bound by the GPLv3. The CompoPack as I
+know it seems to be well within the spirit of the matter.
+
+CURATED MODLETS
+
+I don't believe the GPLv3 prohibits my POIs from appearing in "Curated Modlets"
+in any way. By that, I mean if you want to make a modlet for your server to
+distribute to your users that should be fine. Similarly, if you want to make a
+"Top 100 POIs" modlet, that should be fine too. (I would be flattered to be
+among them.) Redistribution is fine so long as my POIs are still bound by
+the GPLv3.
+
+OVERHAUL MODS
+
+I don't believe the GPLv3 prohibits Overhaul Mods from making derivitive works
+of these POIs or from distributing those works, so long as these POIs are still
+bound by the GPLv3.
+
+Overhaul Mods like to introduce new code and artistic works. I don't believe
+any code or artistic works related to custom blocks is encumbered by this
+license because those work products are not part of these POIs or derivitives
+of these POIs. That is, derivitive POIs my have references to the code and
+artistic works that embody a custom block but those references do not represent
+a claim of any type over the code or artistic works that define the custom
+blocks. Similarly, the POIs do not claim any rights over the block definitions
+that clearly belong to The Fun Pimps and are distributed with the 7 Days to Die
+game. That is to say, a POI is just an expression of how blocks should be
+arranged and displayed, not the underlying blocks themselves.

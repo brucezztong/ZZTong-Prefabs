@@ -74,21 +74,9 @@ Installing this Mod should be all that is necessary to include this content
 when generating a new world using the 7D2D built-in Random World Generator. Of
 course, it is up the the RWG to determine if, when, and where to place things.
 
-KINGGEN:
-
-Using KingGen with A20 versions of this modlet involves special steps that are
-best described by those who develop, or otherwise support, KingGen. I am not
-including any configuration files to support KingGen because KingGen does not
-support new POI features, such as Parts and Tiles. That will prevent some
-of the content in this Modlet from being fully and correctly placed into a world.
-
-NITROGEN:
-
-I'm not aware of any Nitrogen support for A20 content at this time.
-
 POI NOTES:
 
-If you'd like extra information about each POI, check out the About.txt file
+If you'd like extra information about each POI, check out the ABOUT.txt file
 also located in this directory. I decided to put all the 'behind the scenes'
 stuff there.
 
@@ -111,9 +99,20 @@ appear in CP49, and so on.
 
 I am receptive to others including these POIs into their own packs and custom
 games. All I ask is that you give proper credit and/or attribution. (I prefer
-you use the handle "ZZTong.") If you do include these POIs in something you
-plan to distribute, I'd appreciate knowing. Just send me a quick message at
-zztong@gmail.com and let me know.
+you use the handle "ZZTong" or "zztong".) If you do include these POIs in
+something you plan to distribute, I'd appreciate knowing. Just send me a quick
+message at zztong@gmail.com and let me know.
+
+Please note the GPLv3 license on this modlet. You should find it accomodating
+for your project. If not, reach out to me and we can discuss the matter.
+
+COPYRIGHT
+
+These POIs are copyright by Bruce Tong. Do not panic. This does not preclude
+derivitive works. It only establishes my rights in accordance with the GPLv3.
+Note that I am not able to express the copy right on the individual files of
+the modlet because they are often binary files. This notice covers the entire
+modlet.
 
 THANKS:
 

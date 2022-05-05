@@ -213,6 +213,23 @@ Some people might not care for it because it doesn't have a "sucker's path"
 designed for it. In my mind, each building is rather straight foward and
 doesn't need a path.
 
+INTERSECTION 02
+
+It seemed like a waste to make an intersection tile and then only have one
+POI to fit the unique space, so this is an open-air Galleria-style mall.
+Having the mall elevated above the roads and parking was the plan. All of
+the other walkways and 3D aspects to the POI were not originally planned
+but sort of emerged.
+
+INTERSECTION 03
+
+This POI was influenced by downtown Indianapolis in that elevated walkways
+linked stores in the lower levels of office buildings. I didn't really get to
+making offices in upper floors as the number of triangles and vertices would
+have gone higher than I think some user systems would comfortably support.
+The end result is another mall-like collection of shops, but in more of a
+downtown vibe.
+
 KZTV 01
 
 Here is yet another POI to fill the media company niche. I was thinking of a
@@ -298,6 +315,12 @@ This early A19 POI was partly an experiment with explosive blocks that turned
 out to be so much fun that I really enjoyed extending it to A20. To fit the
 A20 Tiles it had to get bigger. Oh, I hope your players like to use firearms
 around this POI and that they're bad shots. (Evil laugh.)
+
+RANCH 01
+
+This POI resulted as part of my desires to make T5 content for the Wilderness.
+Drawn like moths, we drift into the city... The timeless old attraction...
+Err, yeh. Let's show the wilderness some love.
 
 REMNANT HOUSE 01
 
