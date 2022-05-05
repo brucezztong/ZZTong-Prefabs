@@ -24,7 +24,7 @@ CLIENT INSTALLATION: (Windows)
 2. Locate or Create a "Mods" folder.
 	The folder does not exist by default. If this is your first Mod, then you
 	will need to create the Mods folder.
-3. Place the "ZZTong Prefabs" folder in the Mods folder:
+3. Place the "ZZTong-Prefabs" folder in the Mods folder:
 	%APPDATA%/7DaysToDie/Mods
 4. Review the "Conflicts" Section, below.
 
@@ -49,8 +49,8 @@ both. When that happens, it becomes likely they'll be placed near each other
 The answer is to remove the duplicate content from one of the Mods. The first
 choice you have to make is to decide which Mod to change.
 
-If the CompoPack Mod is newer than the ZZTong Prefabs Mod, then remove the
-ZZTong Prefabs Mod because the CompoPack will include the most current
+If the CompoPack Mod is newer than the ZZTong-Prefabs Mod, then remove the
+ZZTong-Prefabs Mod because the CompoPack will include the most current
 content.
 
 Generally speaking, however, the CompoPack will be the older Mod since it tends
@@ -135,9 +135,12 @@ Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
 
-A20.4 - ZZ008 - Fixed bugs in Store_XS_06 and Farm_02. Added
-rwg_tile_downtown_intersection_zztong_01 and Intersection_01 to go with it.
-The intersection POIs are somewhat experimental.
+A20.4 - ZZ008 - Fixed numerous bugs and rebalanced loot. Added
+rwg_tile_downtown_intersection_zztong_01 and Intersection_01, Intersection_02
+and Intersection_03 to go with it. Added Ranch_01.
+Added all my custom Parts because parts are cool, parts are wonderful.
+Introduced this modlet to GitHub for my own sanity and peace of mind.
+Introduced this modlet to the GPLv3 license.
 
 A20.1 - ZZ007 - Added Farm_01, Farm_02, Farm_03, Farm_04, Farm_05, Farm_06
 Farm_07, Farm_08, Garage_01, Stormwater_Detention_Pond_01, Biowaste_Dump_01,
