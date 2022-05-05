@@ -1,0 +1,15 @@
+﻿<rwgmixer>
+	<append xpath="/rwgmixer">
+		<streettile name="rwg_tile_rural_straight_zztong_01">
+			<property name="maxtiles" value="24"/>
+			<property name="mintiles" value="0"/>
+			<property name="maxdensity" value="120"/>
+		</streettile>
+		
+		<streettile name="rwg_tile_downtown_intersection_zztong_01">
+			<property name="maxtiles" value="1"/>
+			<property name="mintiles" value="1"/>
+			<property name="maxdensity" value="120"/>
+		</streettile>
+	</append>
+</rwgmixer>

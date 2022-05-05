@@ -1,0 +1,493 @@
+TRIVIA / BEHIND THE SCENES
+
+I occassionally (okay, very rarely) get asked about a POI, so here's the
+background for each one. In general, I make POIs that do not have dungeon
+paths because when I play I tend to either ignore them, or be to dense to
+follow them. I also tend to avoid parkour. By my reasoning, why would I
+risk falling when I can just fix the steps? And, by fixing the steps, it
+becomes possible to bring my motorcycle to the top of the Dishong Tower.
+
+Some POIs have "TFP" in the title to credit them as the original creators.
+Those POIs appearing in this pack are derivitive works.
+
+
+APARTMENT 01 & APARTMENT 01 DESTROYED
+
+Originally designed for A19 before we knew of A20's standard sizes. Shifting
+to A20 meant the lot had to be extended slightly, which led to the garden in
+the back. The trailer (TFP RWG Part) can appear optionally. It was the first
+RWG Part I tried to place.
+
+The destroyed version is an attempt to support the CompoPack's desire to have
+Wasteland-specific content. This version was made by using a rocket launcher
+in-game and then saving the result. Ahh, so satisfying.
+
+APARTMENT 02 & APARTMENT 02 DESTROYED
+
+Originally designed for A19. This was just riffing on the Apartment 01 theme
+with the added realization there was no Chinese Buffet in Navezgane. It is
+a universal constant that there be Chinese Buffets everywhere. Until TFP
+make one and knock our socks off, mine will have to do. The solar-covered
+parking was added for A20 as I needed to stretch the POI to fit a standard
+RWG size.
+
+BAR POOL 01
+
+This was an early A19 POI for me that attempts to mix a honkytonk with a pool
+hall. A20 didn't change it much.
+
+BIOWASTE DUMP 01
+
+More filler for the Rural XS POI and Tile variety. I suspect the zombie
+placement within this POI might prove a challenge for somebody who wants to
+snipe the Zombies without waking them. Each zombie is placed with their head
+near an explosive barrel. Like the Propane POI, careless gunplay might bring
+a player more trouble than they expected.
+
+BROWNSTONES 01
+
+Made for A19, this POI really suffered under A20. To meet the standard POI
+sizes I could either stretch it into a much larger POI or shrink it. One of
+the apartments was cutoff to make it fit. Folks have liked the appearance
+of the front, and it did take a lot of work. Part of me regrets making this
+POI because a NYC Brownstone is really out of place in an Arizona setting.
+
+CABIN FORT 01
+
+This is a very early A19 POI that is one of my favorites. The idea for the
+earthen wall was inspired by imagery for a pseudo-viking settlement and the
+realization that some desperate guy out in the wilderness with access to a
+bulldozer and road construction supplies could whip up an earthen wall and
+make a fort pretty quick if they just had a day or two of warning. A20 did
+not change this POI very much.
+
+CAVE 01
+
+This POI was made as part of my effort to create Wilderness content so that
+players might have more of a reason to leave the cities. It was made late in
+A19 when I knew some A20 RWG details.
+
+CEMENT PLANT 01
+
+A quick review of vanilla's Industrial content suggests there's a shortage of
+POIs and a need for more variety. Cement is a popular resource. Cement Plants
+are industrial. I regret I don't know how these plants work, but this is at
+least an attempt to satisfy demand.
+
+DRIVE IN MOVIE 01
+
+I was inspired by memories of a trip to a little drive-in movie theater
+outside of Council Bluffs, Iowa. It happened to be the first such theater
+I had seen that use a low-power FM broadcasts to distribute the movie audio
+instead of having the little speaker boxes on posts. This A19 POI was updated
+to A20. I also noticed TFP added a drive-in with A20 that is very well done.
+It's bigger, targeted at city/town edge, and has the old-school speaker posts.
+I targeted mine at the countrytown districts to keep them from being placed
+beside each other.
+
+ELECTRICAL SUBSTATION 01
+
+More XS rural filler.
+
+EMS 01
+
+A couple of pals and I made this POI on the Not-a-Gamer-Gaming longterm
+server during A19 play by renovating a TFP remnant. I decided to recreate
+it as a POI. Now it is updated to A20. To fit the new standard sizes the
+entire backyard emergency/overflow medical center was added.
+
+FARM 01
+
+This is one of my maternal grandparents farm houses from my youth. The main
+house was expanded to include a back entryway and the expanded further to
+include what had been a root cellar. The rest of the farm is way, way, way
+to big to put onto a 60x60 POI so the fields, silo, barn, are there for
+appearance. In reality, the house and the barnyard would be larger than a
+150x150 Tile and the fields would be an 8k map.
+
+FARM 02
+
+This is the farm house of my paternal grandparents and I believe it still
+stands. If you look at this POI from above you would think the architect
+was crazy, but the layout was a result of expansion and remodeling. The
+main house expanded to include a new kitchen and a large "mud" room. Then
+it later expanded to connect to the garage to facilitate elderly needs.
+Like FARM 01, the real farm is far to big to represent on a 150x150 Tile.
+
+FARM 03
+
+This is the retirement farm house of my parents. Like the other farms, there
+just isn't enough map to capture all the fields, hills, forest. Even the size
+of the barns are way too small.
+
+FARM 04
+
+This is a childhood house that was in a city on beach-front property of Lake
+Erie, but I felt like making it part of a farm.
+
+FARM 05
+
+A small commercial farm, so there is no farm house.
+
+FARM 06
+
+A small farm with a trailer instead of a farm house.
+
+FARM 07
+
+A small commercial chicken (or turkey) farm. There was one of these near my
+maternal grandparent's farm and again practical 7D2D scale is much smaller
+than reality.
+
+FARM 08
+
+Call this a Frankenstein POI. This is an amalgamation of TFP content to make
+a farm. The farm house is a modified version of a TFP house that is kind of
+spooky and was an overnight hideout once for a friend and I. The barn is also
+a modified version of a TFP prefab. There's a nifty hidden bunker that is a
+modified version of one of my favorite TFP bunker which they appear to have
+abandoned in A20.
+
+FARMERS MARKET 01
+
+This mini farmer's market was inspired by my local real-life market. It was
+quickly thrown together in A19 and didn't change much for A20. The small
+trees are to represent a Christmas Tree salesman. At least locally, our
+farmer's market is held within the city limits as is not the same as a
+roadside produce stand.
+
+GARAGE 01
+
+This POI is a small county garage to hold a couple of state vehicles. I made
+it pretty quickly as we're kind of short on XS POIs for Rural tiles.
+
+HOUSE 01
+
+My first POI based on a real house. The odd basement with a crawl-space
+leading to a full-height basement is part of the actual house. I figured
+a person with one-day's notice of an apocalypse might shovel dirt in front
+of the crawlspace door, then rig a ladder to let them drop down from the
+living room through the HVAC cold air return into the basement. This was
+resized for A20.
+
+HOUSE 02
+
+Another POI based on a real house. This was resized for A20.
+
+HOUSE 03
+
+I must have been thinking of Cabin Fort 01 when I made this POI for A19
+because they are kind of similar. I had been dabbling with Nitrogen's
+Farm features and lamenting a lack of farm houses. A20 made me stretch
+the front lawn out a little.
+
+KZMB RADIO 01 & KZMB RADIO DESTROYED
+
+I made this POI after I realized we didn't have any POIs for media companies.
+I think every good city needs a classic rock FM station and there might as
+well be news on AM. The "morning poo crew" is a nod to various morning radio
+shows that seem to get a lot of milage out of fart jokes. A20 didn't change
+this POI much. The destroyed version of this was made with my favorite build
+tool -- a rocket launcher.
+
+A20 saw the creation of a radio station by TFP. Their station, KLZ, has a
+small downtown studio and an short antenna that suggests it is a low-power
+station, else it would irradiate the building's inhabitants. (Is it warm in
+here, or is it just me?) Three-letter call signs belong to really old stations
+(pre-1922) and they are usually (66%) AM stations. Another possibility is for
+marketing they leave off the first K, so they might be KKLZ AM or FM.
+
+Now all we need is a DJ so we can "Crawl out through the fallout, baby..."
+
+INTERSECTION 01 and RWG_TILE_DOWNTOWN_INTERSECTION_ZZTONG_01
+
+I wanted to build a POI across a road, but Tiles to-date place POIs on either
+side of the road. The only way to build across a road is to place a POI in
+the normal place for a road and then build the road into the POI. After that
+you cannot just let any POI place there so a custom tag is needed. Thus, this
+POI is the experimental one and the Navezgane Tribune took advantage of the
+new possibility. A Savage Country sweat shop also built out over the road a
+little. Both the POI and the Tile have an integrated storm sewer and a subway
+which greatly extends its conent. Collectively, this is a very large POI.
+Some people might not care for it because it doesn't have a "sucker's path"
+designed for it. In my mind, each building is rather straight foward and
+doesn't need a path.
+
+KZTV 01
+
+Here is yet another POI to fill the media company niche. I was thinking of a
+small time TV station like Weird Al's station in the UHF movie. It contains
+only two studios and some sorry excuses for TV cameras that make me laugh
+whenever I see them. I made this POI close to the A20 experimental release.
+
+LAW OFFICES 01
+
+This is based on some real life law offices. I figure the game will be
+perpetually short on law offices, so here, have another! It was made for A19
+and resized for A20.
+
+LUMBER YARD 01
+
+This POI was inspired by a small lumber yard from my youth. It was just a
+small mom-pop business, not a big chain. This was an A19 POI that didn't need
+a lot of change for A20.
+
+MASONRY 01
+
+I was inspired to make this POI based on a small business my grandfather (and
+others) founded years ago. While the original is in Findlay, Ohio, I
+converted it to a business for Arizona. It is smaller than the real thing
+because game scale differences but also because making it actual size would
+give away lots and lots of cement and cobble.
+
+MASS GRAVE 01, 02
+
+These stated as POIs, become decoration, were rarely placed, and are back to
+being POIs because of the niche for Rural XS POIs. This kind of filler content
+is generally not found in the CompoPack so you're not likely to get this POI
+outside of this modlet.
+
+MOTOCROSS 01
+
+The Motocross POI has some potential for use for community events, such as
+motorcycle and mini-bike races. If you're running a server with those kinds
+of events, it could be a lot of fun with a horde to complicate things.
+
+OFFICE BUILDING 01 & OFFICE BUILDING 01 DESTROYED
+
+I wanted to make an office building and I was thinking of a software company.
+While I did use red, green, blue as a vague reference to Google, I wasn't
+really thinking of them when I made the building. This is an A19 POI that
+did not need a lot of work for A20. The original version had a pathetic
+attempt at a modern art sculpture out front.
+
+OFFICE BUILDING 02
+
+I was inspired to make this office building based on a TFP remnant. I never
+quite decided what they were selling, but there's a small data center on one
+of the upper floors with some larger IZM (cough IBM) computers. This A19 POI
+did not need a lot of conversion for A20.
+
+OFFICE BUILDING 03 & OFFICE BUILDING 03 DESTROYED
+
+This POI was originally supposed to be a grand skyscraper of some 15+ floors
+and two underground parking levels. Oh boy. I sure learned a lot about how a
+POI can influence game performance. It was on track to be 8-10 times more
+triangles/polygons than TFP's tall skyscraper. The remaining floors stay in
+the realm of reasonable performance. A20 didn't change it much though the
+vanilla Tiles in A20 don't give it a lot of chance to be placed. The
+destroyed version was created by taking out my frustrations with a rocket
+launcher.
+
+PHARMACY 01 & PHARMACY 01 DESTROYED
+
+Any similarity to the real life "Rite Aid" Pharmacy is purely intentional.
+It is parody. Rite Aid gets free advertising. Rite Aid is not being depicted
+in a negative light -- at least not any worse than the rest of humanity.
+Rite Aid executives and lawyers should take comfort in knowing they are a
+source of medicines that every player needs. A20 did not change much.
+
+PRESIDIO MUSEUM 01
+
+I wanted to make some content for the oldwest town. I had to resize it for
+use in A20. It is mildly based on images of a presidio in Arizona.
+
+PROPANE 01
+
+This early A19 POI was partly an experiment with explosive blocks that turned
+out to be so much fun that I really enjoyed extending it to A20. To fit the
+A20 Tiles it had to get bigger. Oh, I hope your players like to use firearms
+around this POI and that they're bad shots. (Evil laugh.)
+
+REMNANT HOUSE 01
+
+I made this POI largely just goofing off waiting for A20. Somebody had made a
+comment that players like rennovating remnant structures.
+
+RESTAURANT 01
+
+Lets just say I miss the Burrito Buggy. Pandemic be damned! Err, well really
+this was inspired by the realization that Navezgane has no Mexican restaurant.
+How could that be? This was an attempt to make one of those mom and pop places
+where familes can celebrate a quinceanera upstairs and have a mariachi band
+wander around between the tables downstairs. This was an A19 POI that I had
+to squeeze into A20 standard sizes. It barely fit.
+
+SHELTER 01 & SHELTER 01 DESTROYED
+
+I created this POI after trying to think what would happen to a Salvation Army
+homeless shelter during a zombie apocolypse. It was made for A19 and was made
+bigger during the A20 conversion.
+
+SKYSCRAPER 01 & SKYSCRAPER 01 DESTROYED
+
+This was my second attempt to make a Skyscraper. It was made using A19 but
+knowing what the A20 sizes would be. It managed to be tall enough to be a
+game skyscraper, but it is still to squat looking. I probably shouldn't have
+had the empire state building in mind. A more boxy skyscraper might have
+been better.
+
+SOLAR FARM 01
+
+I made this POI as one of my early efforts. It was a nice small project with
+which to learn more about the Prefab Editor. It also appealed to me as a
+person who likes to advocate for solar power. Arizona is certainly a good
+climate for this kind of thing. Converting from A19 to A20 was quick.
+
+STONE QUARRY 01
+
+People dig all the time in-game. When I drive my motorcycle into the holes
+they leave behind I think back to how the quarries I've seen had fences around
+them and look, I put a fence around it, okay?! The transition from A19 to A20
+was quick and easy.
+
+STORE XS 01 - AVALANCHE PIZZA
+
+This is a tribute to the greatest real life pizza on Earth. It was the first
+POI I made with A20 standard sizes in mind, but still using A19. This POI is
+a replica of the real life store, intended as a tribute.
+
+STORE XS 02 - NET CAFE & COMPUTER STORE
+
+I was thinking of a mom and pop computer store mixed with internet cafes I saw
+while traveling in the UK and Europe. It is another A19 POI built for A20.
+
+STORE XS 03 - PET VET
+
+I wanted to make a medical POI but figured we already had several of those. It
+was built for A20 using A19.
+
+STORE XS 04 - JEWELER
+
+No story here; made for A20 using A19. The name is based on an entry in the NYC
+Yellow Pages.
+
+STORE XS 05 - RED ROCK COMICS
+
+I wanted to make a comic book store. I don't think I picked a name for an
+actual business. Made for A20 using A19.
+
+STORE XS 06 - SLUMBER WORLD
+
+There's not story here either. I was looking through objects in the game to
+see if I could spot something that would carry a store. Beds! Yeh, beds! Made
+for A20 using A19.
+
+STORE XS 07 - GAME START & HARMONY CANDLES
+
+This intentionally tries to mimic Game Stop, plus I had the idea to connect
+two stores with a little vertical play. I don't parkour in game, so the amount
+of jumping is minimal. I'll leave the elaborate jumping to TFP and others who
+are more into that. Another POI made for A20 using A19.
+
+STORE XS 08 - FOR LEASE
+
+I admit it. I made a failed Blockbuster store for A19, saw TFP's "4-Ever Video"
+for A20, and then recolored and removed my Blockbuster gag. They're a quality
+operation. You want variety. I'm the cheap knock-off. Made for A20 using A19.
+
+STORE XS 09 - REALTOR
+
+Like lawyer POIs, can you really have enough realtors? This was made for A20
+using A19.
+
+STORE XS 10 - SUDS AND DUDS
+
+I finished up this run of 10 POIs by imortalizing a local business that has
+long since failed. They combined a bar with a laundromat. We used to say it
+was a place where you and your laundry could get loaded at the same time.
+It was a clever idea; still failed. Made for A20 using A19.
+
+STORMWATER DETENTION POND 01
+
+There are opportunities for placement in XS Rural POIs. The challenge is
+finding a good subject match. These ponds are used for handling stormwater
+runoff in areas prone to flash flooding, including deserts. This kind of
+filler content is generally not found in the CompoPack so you're not likely
+to get this POI outside of this modlet.
+
+STRIP MALL 01
+
+The Armed Forces Career Center was an attempt to explain why Navezgane has
+so many military POIs. Buy-2-Own is a play on Rent-2-Own.
+
+STRIP MALL 02
+
+Another strip mall. The only note I have for it is that the A20 version had
+to get bigger which led to the OFI Mondays restaurant, which is a play on
+TGI Fridays. If that rubs some lawyers the wrong way, see the notes for the
+Pharmacy POI, above.
+
+SURVIVOR SITE URBAN 01
+
+The premis for this POI was that all of TFP's Survivor Sites were for rural or
+country settings and that I wanted to explore what an organized group of
+survivors might do in an urban setting. I started with a remnant POI by TFP
+and then expanded it into a full building for A19 and then enclosed the
+courtyard with a trailer and a bus that acted like a gate. When A20 became
+available the POI had to get bigger to fit into a standard size, so I added
+additional buildings and the bridges between them. The survivors obviously
+failed to last in this make-shift fortress. It has become one of my favorite
+POIs.
+
+TFP ARMY BARRACKS 01
+
+I have fond memories of this POI from an earlier alpha when it served as a
+base. TFP had updated it for A19 and added a bunch to it, but I missed the
+older, smaller layout so I went back and brought that version forward to A19
+and now A20.
+
+TFP CEMETARY 01
+
+I found this POI when playing an earlier alpha and remembered it being kind
+of creepy at night. I brought it forward to A19 and A20 at the same time I
+was working on the TFP ARMY BARRACKS.
+
+TFP HOUSE NEW 04
+
+This POI was brought forward to A19 and A20 at the request of Evil Geoff of
+CompoPack Discord fame. Apparently it was one of his favorites. It took a
+decent amount of work to bring it to A19, and even more work to make it fit
+into an A20 standard size.
+
+TFP RANGER STATION 01
+
+I fondly remember this POI as one of the first POIs I encountered playing the
+game and continued to encounter in many play-throughs. I missed it, so I went
+back and brought it forward to A19 and A20.
+
+TFP SKYSCRAPER 02
+
+Many know Skyscaper 02 as the Crack-A-Book HQ. For A20 the Fun Pimps did an
+extensive renovation, basically making a whole new (wonderful) building. This
+is the A19 version brought forward to A20 for those who feel nostalgic and
+converted into a Shamway Corporate Headquarters. A French rediscovery of the
+miracles of cooking with potted meat products led to explosive sales growth in
+Europe. Combined with steady sales growth in North and Central America and
+Shamway's factory had to displace its test kitchen and senior offices. The
+vacated Crack-A-Book building was perfect.
+
+TRAILER PARK 01
+
+I thought the TFP's A19 Trailer Park was really creative and I was inspired to
+make one of my own. I spent a bunch of play time in A19 using trailers as
+bases while on a minimalist kick.
+
+WAREHOUSE 01
+
+A19 seemed to have a shortage of industrial POIs, which led to this creation.
+A significant challenge with this POI was balancing loot, as there is great
+temptation to fill a warehouse with crates and there is a large variety of
+loot crates that can be used.
+
+WIND TURBINE 01
+
+This kind of POI seemed perfect for wilderness placement, though I cannot
+control the terrain around it, so you can find a wind turbine in places where
+nobody would actually build one. The A19 version suffered from a lack of
+block choices, so it looked kind of blocky, but A20 brought new round blocks
+that were a better fit, so the POI got a little better looking. I wanted to
+put blades onto the POI but there are structural integrity issues that would
+lead the blades to fall off if/when somebody modified the tower in-game, so
+I elected to build the POI as if the blades had already failed due to some
+unknown event.
