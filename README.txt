@@ -2,7 +2,7 @@ ZZTONG PREFABS READ-ME for A20.4
 
 GOAL:
 
-My goal is to provide semi-plain "meat and potatoes" POIs, Parts, Tiles,
+This modlet provides semi-plain "meat and potatoes" POIs, Parts, Tiles,
 Decorations and Stamps of an acceptable quality and in enough quantity to fill
 gaps in world generation and make a meaningful dent in player demands for
 variety. I hope you'll find these to be good enough to help round out the
@@ -10,13 +10,9 @@ nooks and crannies of your generated worlds.
 
 INFO:
 
-This mod does not contain any custom blocks, resources, objects, etc. It
+This modlet does not contain any custom blocks, resources, objects, etc. It
 depends only on the vanilla game and introduces no other requirements or
 dependencies.
-
-This content conforms to CompoPack rules for contributions, which means they
-will often contain more Zombies than Vanilla content. The loot is intended to
-work out the same as Vanilla content, but that balance is subjective.
 
 CLIENT INSTALLATION: (Windows)
 
@@ -62,11 +58,9 @@ wonderful and challenging non-ZZTong content from the CompoPack.
 
 CONFLICTS: (Overhaul Mods)
 
-Overhaul Mods tend to have their own versions of POIs. Those Mods tend to
-include the ZZTong POIs in their own mod, so you should not need to also have
-the ZZTong Mod installed at the same time. Generating a world with both
-installed may lead to unexpected results, including Exceptions related to the
-inclusion of unknown blocks.
+Overhaul Mods tend to have their own versions of POIs. You should not need to
+also have the ZZTong Mod installed at the same time. Doing so can result in
+duplicate content.
 
 VANILLA RANDOM WORLD GENERATOR (RWG):
 
@@ -85,20 +79,14 @@ DECORATIONS
 The Hunters Traps and Tents are built like POIs, but they have no zombies.
 They're more like obsticals. An aware player will avoid falling into them.
 A distracted, rushed or clumbsy player will fall in. Please know the traps
-can be deadly. You'll land on spikes and take damage every few seconds until
-either the spikes break or you die. You may not want these to be included in
-your map. If not, edit/remove the biomes.xml file found in the Mod's config
-directory. The appeal of this is they do not displace POIs.
+can be deadly. You may not want these to be included in your map. If not,
+edit/remove the biomes.xml file found in the Mod's config directory.
+Decorations do not displace POIs.
 
 INCLUSION IN OTHER PACKS AND MODS:
 
-I have been contributing these POIs to the CompoPack, so if you're using the
-CompoPack you might find this mod to be redundant. The first of these POIs
-should appear in CP48. Anything created after the release of CP48 would then
-appear in CP49, and so on.
-
-I am receptive to others including these POIs into their own packs and custom
-games. All I ask is that you give proper credit and/or attribution. (I prefer
+I am receptive to others including these POIs into their own packs and Overhaul
+mods. All I ask is that you give proper credit and/or attribution. (I prefer
 you use the handle "ZZTong" or "zztong".) If you do include these POIs in
 something you plan to distribute, I'd appreciate knowing. Just send me a quick
 message at zztong@gmail.com and let me know.
@@ -112,7 +100,9 @@ These POIs are copyright by Bruce Tong. Do not panic. This does not preclude
 derivitive works. It only establishes my rights in accordance with the GPLv3.
 Note that I am not able to express the copy right on the individual files of
 the modlet because they are often binary files. This notice covers the entire
-modlet.
+modlet. My copyright only applies to my changes to any POIs that are
+derivitite works, such as TFP POIs brought forward from older versions of the
+game. I hope TFP does not consider this a challenge to their copyrights.
 
 THANKS:
 
@@ -122,9 +112,8 @@ modified. The TFP's front loader from their Saw Mill was also modified. My
 thanks to TFP for creating inspiring POIs and amazing arrangements of blocks.
 
 One or more POIs may include references to "Canuck Coffee" by Not-a-Gamer
-Gaming (DaphyDuck91 and Genosis). NAGG, as they are known, provide a number
-of POIs in their own mod and the CompoPack, as well as providing
-YouTube/Twitch entertainment and hosting a nice community on their servers.
+Gaming (DaphyDuck91 and Genosis). NAGG, as they are known, have provided to the
+community a number of POIs as well as providing YouTube/Twitch entertainment.
 
 Finally, special thanks to Stallionsden and Battlepapi of CompoPack fame, plus
 any and all who lurk on in the #prefabbers-hangout Discord channel. Their
