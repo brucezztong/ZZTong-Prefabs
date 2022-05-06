@@ -4,9 +4,10 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
-  <property name="DifficultyTier" value="0" />
-  <property name="ShowQuestClearCount" value="1" />
+  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="DifficultyTier" value="5" />
+  <property name="ShowQuestClearCount" value="3" />
+  <property name="QuestTags" value="clear,fetch"/>
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 43, 64" />
   <property name="RotationToFaceNorth" value="2" />
