@@ -37,9 +37,6 @@
     <property class="Rally">
       <property name="0" value="27, 3, 1" />
     </property>
-    <property class="brBlock">
-      <property name="0" value="34, 7, 17" />
-    </property>
   </property>
   <property class="Stats">
     <property name="TotalVertices" value="300530" />

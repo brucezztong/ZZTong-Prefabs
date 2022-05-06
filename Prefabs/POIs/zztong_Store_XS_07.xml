@@ -94,9 +94,6 @@
       <property name="0" value="19, 10, 14" />
       <property name="1" value="19, 10, 16" />
     </property>
-    <property class="brBlock">
-      <property name="0" value="6, 2, 6" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="21, 9, 12" />
     </property>

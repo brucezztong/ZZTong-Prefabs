@@ -99,9 +99,6 @@
     <property class="FetchContainer">
       <property name="0" value="18, 4, 13" />
     </property>
-    <property class="brBlock">
-      <property name="0" value="20, 7, 5" />
-    </property>
     <property class="quest_feather">
       <property name="0" value="12, 15, 13" />
       <property name="1" value="13, 15, 16" />

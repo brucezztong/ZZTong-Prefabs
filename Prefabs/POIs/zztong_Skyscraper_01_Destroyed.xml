@@ -25,10 +25,6 @@
   <property name="Tags" value="wasteland,downtown" />
   <property name="PrefabSize" value="42, 22, 42" />
   <property class="IndexedBlockOffsets">
-    <property class="brBlock">
-      <property name="0" value="5, 10, 29" />
-      <property name="1" value="9, 10, 30" />
-    </property>
     <property class="POILight">
       <property name="0" value="23, 8, 21" />
       <property name="1" value="24, 12, 21" />

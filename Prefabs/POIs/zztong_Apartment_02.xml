@@ -44,10 +44,6 @@
     <property class="FetchContainer">
       <property name="0" value="54, 13, 22" />
     </property>
-    <property class="brBlock">
-      <property name="0" value="24, 17, 16" />
-      <property name="1" value="24, 17, 18" />
-    </property>
     <property class="Rally">
       <property name="0" value="31, 2, 1" />
     </property>

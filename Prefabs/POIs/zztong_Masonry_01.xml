@@ -97,8 +97,5 @@
       <property name="2" value="37, 6, 17" />
       <property name="3" value="37, 7, 20" />
     </property>
-    <property class="brBlock">
-      <property name="0" value="32, 8, 8" />
-    </property>
   </property>
 </prefab>

@@ -25,10 +25,10 @@
   <property name="Tags" value="snow,desert,downtown,pine_forest" />
   <property name="PrefabSize" value="42, 80, 42" />
   <property class="Stats">
-    <property name="TotalVertices" value="2111067" />
+    <property name="TotalVertices" value="2111355" />
     <property name="TotalTriangles" value="2446618" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1826699" />
+      <property name="Vertices" value="1826987" />
       <property name="Triangles" value="2263700" />
     </property>
     <property class="ChunkMeshes0">
@@ -73,10 +73,6 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="brBlock">
-      <property name="0" value="30, 10, 32" />
-      <property name="1" value="29, 10, 36" />
-    </property>
     <property class="Rally">
       <property name="0" value="20, 3, 1" />
     </property>
