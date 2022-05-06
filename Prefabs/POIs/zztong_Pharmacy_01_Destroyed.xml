@@ -17,7 +17,7 @@
   <property name="SleeperVolumeSize" value="22, 9, 26" />
   <property name="SleeperVolumeStart" value="14, 5, 6" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,6,7" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -33,6 +33,9 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="PrefabSize" value="42, 13, 42" />
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="4, 5, 37" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="12, 6, 26" />
       <property name="1" value="19, 6, 33" />
@@ -41,19 +44,16 @@
       <property name="0" value="14, 8, 28" />
       <property name="1" value="17, 8, 31" />
     </property>
-    <property class="Rally">
-      <property name="0" value="13, 5, 33" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="24, 6, 16" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="360888" />
-    <property name="TotalTriangles" value="275157" />
+    <property name="TotalVertices" value="352947" />
+    <property name="TotalTriangles" value="266189" />
     <property class="BlockEntities">
-      <property name="Vertices" value="336074" />
-      <property name="Triangles" value="253946" />
+      <property name="Vertices" value="328133" />
+      <property name="Triangles" value="244978" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="15566" />

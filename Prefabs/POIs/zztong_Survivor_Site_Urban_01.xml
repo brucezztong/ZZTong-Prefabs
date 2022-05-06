@@ -24,14 +24,14 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="snow,wasteland,desert,commercial,pine_forest" />
-  <property name="POIMarkerSize" value="6, 8, 3#6, 8, 3#4, 3, 6#4, 3, 6#5, 5, 5" />
-  <property name="POIMarkerStart" value="5, 3, 42#5, 3, 16#9, 19, 49#9, 19, 6#48, 19, 28" />
-  <property name="POIMarkerGroup" value="lift1,lift2,roof1,roof2,roof3" />
-  <property name="POIMarkerTags" value="####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_lift_01,part_lift_01,part_greeble_rooftop_06,part_greeble_rooftop_06,part_greeble_rooftop_04" />
-  <property name="POIMarkerPartRotations" value="2,0,2,0,3" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.8,0.8,1" />
+  <property name="POIMarkerSize" value="6, 8, 3#6, 8, 3#4, 3, 6#4, 3, 6#5, 5, 5#1, 1, 1#1, 1, 1#1, 1, 1" />
+  <property name="POIMarkerStart" value="5, 3, 42#5, 3, 16#9, 19, 49#9, 19, 6#48, 19, 28#45, 9, 10#10, 14, 9#10, 14, 46" />
+  <property name="POIMarkerGroup" value="lift1,lift2,roof1,roof2,roof3,crate1,crate2,crate3" />
+  <property name="POIMarkerTags" value="#####shotgun#shotgun#shotgun" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_lift_01,part_lift_01,part_greeble_rooftop_06,part_greeble_rooftop_06,part_greeble_rooftop_04,part_zztong_crate_shotgunmessiah_01,part_zztong_crate_shotgunmessiah_01,part_zztong_crate_shotgunmessiah_01" />
+  <property name="POIMarkerPartRotations" value="2,0,2,0,3,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.8,0.8,1,0.4,0.4,0.4" />
   <property name="PrefabSize" value="60, 21, 60" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
@@ -54,15 +54,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1561691" />
-    <property name="TotalTriangles" value="1723692" />
+    <property name="TotalVertices" value="1515575" />
+    <property name="TotalTriangles" value="1670097" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1369827" />
-      <property name="Triangles" value="1602494" />
+      <property name="Vertices" value="1323727" />
+      <property name="Triangles" value="1548907" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="163259" />
-      <property name="Triangles" value="86727" />
+      <property name="Vertices" value="163279" />
+      <property name="Triangles" value="86737" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -97,8 +97,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes9">
-      <property name="Vertices" value="36" />
-      <property name="Triangles" value="18" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>

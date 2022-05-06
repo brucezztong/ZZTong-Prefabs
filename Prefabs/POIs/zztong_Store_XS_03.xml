@@ -33,11 +33,11 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="PrefabSize" value="25, 13, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="361351" />
-    <property name="TotalTriangles" value="346858" />
+    <property name="TotalVertices" value="362480" />
+    <property name="TotalTriangles" value="348162" />
     <property class="BlockEntities">
-      <property name="Vertices" value="338962" />
-      <property name="Triangles" value="331620" />
+      <property name="Vertices" value="340091" />
+      <property name="Triangles" value="332924" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="18614" />

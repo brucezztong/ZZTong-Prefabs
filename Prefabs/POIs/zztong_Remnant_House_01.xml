@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="DifficultyTier" value="1" />
+  <property name="DifficultyTier" value="0" />
   <property name="Zoning" value="ResidentialOld" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-6" />
@@ -25,11 +25,11 @@
   <property name="Tags" value="wasteland,countryresidential,rural" />
   <property name="PrefabSize" value="25, 14, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="54004" />
-    <property name="TotalTriangles" value="58399" />
+    <property name="TotalVertices" value="46096" />
+    <property name="TotalTriangles" value="49314" />
     <property class="BlockEntities">
-      <property name="Vertices" value="40563" />
-      <property name="Triangles" value="47098" />
+      <property name="Vertices" value="32655" />
+      <property name="Triangles" value="38013" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="8394" />

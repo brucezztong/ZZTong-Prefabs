@@ -34,11 +34,11 @@
   <property name="POIMarkerPartRotations" value="0,0,0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.6,0.6" />
   <property class="Stats">
-    <property name="TotalVertices" value="1772725" />
-    <property name="TotalTriangles" value="1637702" />
+    <property name="TotalVertices" value="1692409" />
+    <property name="TotalTriangles" value="1547607" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1326422" />
-      <property name="Triangles" value="1383997" />
+      <property name="Vertices" value="1246106" />
+      <property name="Triangles" value="1293902" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="404807" />
