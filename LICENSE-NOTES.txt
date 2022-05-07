@@ -20,6 +20,12 @@ Q: Why bother with a license? Isn't "public domain" good enough?
 A: Sure, 99/100 times public domain is good enough. But when civility ends,
 the law begins.
 
+STREAMERS, YOUTUBE, TWITCH, ETC.
+
+I believe the GPLv3 grants you the license you need to include this modlet's
+content in your videos and streams. If you find otherwise, please let me know.
+It should also allow persons to make and use photographs and screen captures.
+
 COMPOPACK
 
 I don't believe the GPLv3 prohibits the CompoPack in any way. That is, I
