@@ -496,6 +496,12 @@ I thought the TFP's A19 Trailer Park was really creative and I was inspired to
 make one of my own. I spent a bunch of play time in A19 using trailers as
 bases while on a minimalist kick.
 
+VAULT K9 01
+
+This is a tribute to the Fallout series of games plus a mashup with my Pet-Vet
+fake business name. The vault number uses a randomizer, so you should find it
+to be different every time the POI resets.
+
 WAREHOUSE 01
 
 A19 seemed to have a shortage of industrial POIs, which led to this creation.
