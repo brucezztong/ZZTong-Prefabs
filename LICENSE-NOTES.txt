@@ -53,3 +53,31 @@ blocks. Similarly, the POIs do not claim any rights over the block definitions
 that clearly belong to The Fun Pimps and are distributed with the 7 Days to Die
 game. That is to say, a POI is just an expression of how blocks should be
 arranged and displayed, not the underlying blocks themselves.
+
+THE FUN PIMPS
+
+The license for the game 7 Days to Die ensures The Fun Pimps can do pretty much
+anything they want to with my POIs. Quoting from their license:
+
+"The Software may allow you to create content, including but not limited to a
+gameplay map, screenshot or a video of your game play. In exchange for use of
+the Software, and to the extent that your contributions through use of the
+Software give rise to any copyright interest, you hereby grant Licensor an
+exclusive, perpetual, irrevocable, fully transferable and sub-licensable
+worldwide right and license to use your contributions in any way and for any
+purpose in connection with the Software and related goods and services,
+including the rights to reproduce, copy, adapt, modify, perform, display,
+publish, broadcast, transmit, or otherwise communicate to the public by any
+means whether now known or unknown and distribute your contributions without
+any further notice or compensation to you of any kind for the whole duration of
+protection granted to intellectual property rights by applicable laws and
+international conventions. You hereby waive any moral rights of paternity,
+publication, reputation, or attribution with respect to Licensor’s and other
+players’ use and enjoyment of such assets in connection with the Software and
+related goods and services under applicable law. This license grant to
+Licensor, and the above waiver of any applicable moral rights, survives any
+termination of this License."
+
+This seems fair to me, especially since some of my POIs are derivitive works
+of theirs. Since the relationship is going to be this close, it might as well
+be incestuous.
