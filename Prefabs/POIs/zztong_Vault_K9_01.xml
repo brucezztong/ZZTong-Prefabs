@@ -8,19 +8,19 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="41, 12, 42" />
+  <property name="PrefabSize" value="57, 22, 62" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property class="Stats">
-    <property name="TotalVertices" value="721785" />
-    <property name="TotalTriangles" value="516441" />
+    <property name="TotalVertices" value="1210063" />
+    <property name="TotalTriangles" value="841963" />
     <property class="BlockEntities">
-      <property name="Vertices" value="580036" />
-      <property name="Triangles" value="435116" />
+      <property name="Vertices" value="959022" />
+      <property name="Triangles" value="704780" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="115245" />
-      <property name="Triangles" value="68073" />
+      <property name="Vertices" value="224537" />
+      <property name="Triangles" value="123931" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="26504" />
@@ -61,35 +61,10 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="30, 9, 40" />
-      <property name="1" value="30, 9, 39" />
-      <property name="2" value="30, 9, 38" />
-      <property name="3" value="30, 9, 37" />
-      <property name="4" value="30, 9, 36" />
-      <property name="5" value="30, 9, 35" />
-      <property name="6" value="30, 9, 34" />
-      <property name="7" value="30, 9, 33" />
-      <property name="8" value="30, 9, 32" />
-      <property name="9" value="30, 9, 31" />
-      <property name="10" value="30, 9, 30" />
-      <property name="11" value="30, 9, 29" />
-      <property name="12" value="30, 9, 28" />
-      <property name="13" value="30, 9, 27" />
-      <property name="14" value="39, 9, 27" />
-      <property name="15" value="39, 9, 28" />
-      <property name="16" value="39, 9, 29" />
-      <property name="17" value="39, 9, 30" />
-      <property name="18" value="39, 9, 31" />
-      <property name="19" value="39, 9, 32" />
-      <property name="20" value="39, 9, 33" />
-      <property name="21" value="39, 9, 34" />
-      <property name="22" value="39, 9, 35" />
-      <property name="23" value="39, 9, 36" />
-      <property name="24" value="39, 9, 37" />
-      <property name="25" value="39, 9, 38" />
-      <property name="26" value="39, 9, 39" />
-      <property name="27" value="39, 9, 40" />
-      <property name="28" value="35, 3, 39" />
+      <property name="0" value="47, 15, 57" />
+      <property name="1" value="47, 15, 58" />
+      <property name="2" value="47, 15, 59" />
+      <property name="3" value="47, 15, 60" />
     </property>
   </property>
 </prefab>
