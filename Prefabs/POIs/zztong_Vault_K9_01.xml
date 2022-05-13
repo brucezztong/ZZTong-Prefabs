@@ -11,20 +11,29 @@
   <property name="PrefabSize" value="100, 36, 100" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
+  <property name="POIMarkerSize" value="4, 3, 4#4, 1, 1#6, 2, 4#6, 12, 4#6, 3, 4#5, 1, 5#4, 1, 1" />
+  <property name="POIMarkerStart" value="7, 28, 67#58, 27, -1#58, 28, 36#4, 28, 36#41, 28, 83#57, 28, 9#51, 28, 38" />
+  <property name="POIMarkerGroup" value="appliance,road,dumpster,electric,generat,mines,spikes" />
+  <property name="POIMarkerTags" value="######" />
+  <property name="POIMarkerType" value="PartSpawn,RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_appliance_pile_01,,part_dumpster,part_electrical_tower_01,part_generator_01,part_zztong_mine_field_03,part_zztong_spikes_wood4" />
+  <property name="POIMarkerPartRotations" value="0,2,3,0,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.2,1,0.2,0.2,0.2,0.2,0.2" />
+  <property name="YOffset" value="-28" />
   <property class="Stats">
-    <property name="TotalVertices" value="3191228" />
-    <property name="TotalTriangles" value="2729587" />
+    <property name="TotalVertices" value="3757927" />
+    <property name="TotalTriangles" value="3281730" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2772398" />
-      <property name="Triangles" value="2446559" />
+      <property name="Vertices" value="3317578" />
+      <property name="Triangles" value="2980743" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="336626" />
-      <property name="Triangles" value="183040" />
+      <property name="Vertices" value="341712" />
+      <property name="Triangles" value="187332" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="26824" />
-      <property name="Triangles" value="13412" />
+      <property name="Vertices" value="26888" />
+      <property name="Triangles" value="13444" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="0" />
@@ -35,8 +44,8 @@
       <property name="Triangles" value="32" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="2760" />
-      <property name="Triangles" value="2268" />
+      <property name="Vertices" value="19129" />
+      <property name="Triangles" value="15903" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -64,9 +73,10 @@
       <property name="0" value="84, 28, 29" />
     </property>
     <property class="POILight">
-      <property name="0" value="67, 14, 35" />
-      <property name="1" value="67, 14, 39" />
-      <property name="2" value="67, 14, 43" />
+      <property name="0" value="85, 29, 28" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="84, 32, 9" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="54, 12, 39" />
