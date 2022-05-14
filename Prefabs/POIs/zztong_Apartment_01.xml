@@ -24,14 +24,14 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="snow,commercial,pine_forest" />
-  <property name="POIMarkerSize" value="11, 2, 5" />
-  <property name="POIMarkerStart" value="1, 7, 36" />
-  <property name="POIMarkerGroup" value="new" />
-  <property name="POIMarkerTags" value="" />
-  <property name="POIMarkerType" value="PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_trailer_bodybags" />
-  <property name="POIMarkerPartRotations" value="0" />
-  <property name="POIMarkerPartSpawnChance" value="0.2" />
+  <property name="POIMarkerSize" value="11, 2, 5#5, 1, 5#6, 3, 4#1, 1, 4" />
+  <property name="POIMarkerStart" value="1, 7, 36#31, 7, 31#9, 19, 20#3, 7, 1" />
+  <property name="POIMarkerGroup" value="trailer,camp,greeble,new" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_trailer_bodybags,part_zztong_campsite_01,part_greeble_rooftop_06,part_zztong_spikes_wood4" />
+  <property name="POIMarkerPartRotations" value="0,1,1,1" />
+  <property name="POIMarkerPartSpawnChance" value="0.2,0.4,0.4,0.4" />
   <property name="PrefabSize" value="42, 32, 42" />
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">

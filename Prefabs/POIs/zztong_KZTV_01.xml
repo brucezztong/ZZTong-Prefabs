@@ -25,6 +25,14 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="forest,snow,desert,commercial" />
   <property name="PrefabSize" value="42, 14, 42" />
+  <property name="POIMarkerSize" value="5, 3, 5#5, 3, 5#3, 3, 7#5, 5, 11" />
+  <property name="POIMarkerStart" value="25, 11, 29#25, 11, 17#37, 3, 2#37, 3, 20" />
+  <property name="POIMarkerGroup" value="roof1,roof2,truck,trailer" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_01,part_greeble_rooftop_01,part_zztong_vehicle_service_01,part_zztong_tfp_trailer_box_loaded_01" />
+  <property name="POIMarkerPartRotations" value="0,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.8,0.4" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="2, 3, 1" />
@@ -39,11 +47,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="743518" />
-    <property name="TotalTriangles" value="795101" />
+    <property name="TotalVertices" value="725167" />
+    <property name="TotalTriangles" value="773429" />
     <property class="BlockEntities">
-      <property name="Vertices" value="688682" />
-      <property name="Triangles" value="759015" />
+      <property name="Vertices" value="670331" />
+      <property name="Triangles" value="737343" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="45877" />

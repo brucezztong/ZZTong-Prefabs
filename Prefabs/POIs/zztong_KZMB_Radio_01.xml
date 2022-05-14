@@ -25,6 +25,14 @@
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property name="PrefabSize" value="42, 60, 42" />
+  <property name="POIMarkerSize" value="1, 1, 1#4, 1, 1#4, 1, 1" />
+  <property name="POIMarkerStart" value="25, 2, 1#24, 3, 10#15, 3, 10" />
+  <property name="POIMarkerGroup" value="cart,spikes1,spikes2" />
+  <property name="POIMarkerTags" value="##" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_shopping_cart_01,part_zztong_spikes_wood4,part_zztong_spikes_wood4" />
+  <property name="POIMarkerPartRotations" value="1,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.4,0.2,0.2" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="37, 3, 6" />
@@ -41,15 +49,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="585761" />
-    <property name="TotalTriangles" value="577937" />
+    <property name="TotalVertices" value="586198" />
+    <property name="TotalTriangles" value="578457" />
     <property class="BlockEntities">
-      <property name="Vertices" value="430022" />
-      <property name="Triangles" value="481092" />
+      <property name="Vertices" value="430143" />
+      <property name="Triangles" value="481292" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="135486" />
-      <property name="Triangles" value="76496" />
+      <property name="Vertices" value="135802" />
+      <property name="Triangles" value="76816" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

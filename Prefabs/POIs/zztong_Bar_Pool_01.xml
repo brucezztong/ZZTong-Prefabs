@@ -8,7 +8,7 @@
   <property name="QuestTags" value="clear,fetch" />
   <property name="DifficultyTier" value="1" />
   <property name="RotationToFaceNorth" value="0" />
-  <property name="POIMarkerSize" value="7, 13, 2#7, 13, 2" />
+  <property name="POIMarkerSize" value="7, 13, 2#7, 13, 2#2, 1, 2#1, 1, 1#5, 5, 11" />
   <property name="Zoning" value="Commercial" />
   <property name="AllowedTownships" value="town" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
@@ -24,13 +24,13 @@
   <property name="SleeperVolumeGroupId" value="0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="snow,desert,countrytown,pine_forest,nodiagonal" />
-  <property name="POIMarkerStart" value="33, 1, 42#1, 1, 42" />
-  <property name="POIMarkerGroup" value="driveway2,driveway1" />
-  <property name="POIMarkerTags" value="countrytown#countrytown" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_02,part_driveway_countrytown_02" />
-  <property name="POIMarkerPartRotations" value="0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="POIMarkerStart" value="33, 1, 42#1, 1, 42#14, 8, 17#19, 2, 32#1, 2, 28" />
+  <property name="POIMarkerGroup" value="driveway2,driveway1,vultures,car,trailer" />
+  <property name="POIMarkerTags" value="countrytown#countrytown###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_02,part_driveway_countrytown_02,part_zztong_vultures_01,part_zztong_vehicle_car_02,part_zztong_tfp_trailer_tanker_02" />
+  <property name="POIMarkerPartRotations" value="0,0,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,0.2,0.4,0.4" />
   <property name="YOffset" value="-2" />
   <property name="PrefabSize" value="42, 10, 42" />
   <property class="IndexedBlockOffsets">
@@ -48,11 +48,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="275411" />
-    <property name="TotalTriangles" value="303513" />
+    <property name="TotalVertices" value="271850" />
+    <property name="TotalTriangles" value="297687" />
     <property class="BlockEntities">
-      <property name="Vertices" value="240730" />
-      <property name="Triangles" value="279664" />
+      <property name="Vertices" value="236179" />
+      <property name="Triangles" value="272988" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="26789" />
@@ -71,8 +71,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="2882" />
-      <property name="Triangles" value="1998" />
+      <property name="Vertices" value="3872" />
+      <property name="Triangles" value="2848" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
