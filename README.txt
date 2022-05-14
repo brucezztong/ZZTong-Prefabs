@@ -1,4 +1,4 @@
-ZZTONG PREFABS READ-ME for A20.4
+ZZTONG PREFABS READ-ME for A20.5-ZZ008
 
 GOAL:
 
@@ -123,12 +123,18 @@ Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
 
-A20.4 - ZZ008 - Fixed numerous bugs and rebalanced loot. Added
+A20.5 - ZZ008 - Fixed numerous bugs and rebalanced loot. Added
 rwg_tile_downtown_intersection_zztong_01 and Intersection_01, Intersection_02
-and Intersection_03 to go with it. Added Ranch_01.
+and Intersection_03 to go with it. Added Ranch_01 and Vault_K9_01.
 Added all my custom Parts because parts are cool, parts are wonderful.
+Spinkled Parts into many existing POIs for some subtle variety.
+A couple of POIs changed tiers.
 Introduced this modlet to GitHub for my own sanity and peace of mind.
-Introduced this modlet to the GPLv3 license.
+This should have no effect on modlet distribution, but may open up options for
+those who work on other projects, plus it gives me a nice backup location.
+Introduced this modlet to the GPLv3 license. See LICENSE.TXT and the
+LICENSE-NOTES.txt files for details. It should not represent a significant
+change for those of you who repackage, or curate, from this modlet.
 
 A20.1 - ZZ007 - Added Farm_01, Farm_02, Farm_03, Farm_04, Farm_05, Farm_06
 Farm_07, Farm_08, Garage_01, Stormwater_Detention_Pond_01, Biowaste_Dump_01,
