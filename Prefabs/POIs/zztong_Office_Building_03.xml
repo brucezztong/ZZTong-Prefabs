@@ -25,6 +25,14 @@
   <property name="ShowQuestClearCount" value="3" />
   <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property name="PrefabSize" value="100, 29, 100" />
+  <property name="POIMarkerSize" value="4, 1, 1#5, 1, 5#4, 3, 9#4, 3, 9#4, 3, 9#4, 3, 9#11, 2, 11" />
+  <property name="POIMarkerStart" value="49, 10, 4#93, 10, 56#81, 24, 71#16, 24, 71#16, 24, 20#81, 24, 20#16, 24, 49" />
+  <property name="POIMarkerGroup" value="spikes,camp,roof1,roof2,roof3,roof4,helipad" />
+  <property name="POIMarkerTags" value="######" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_spikes_wood4,part_zztong_campsite_01,part_greeble_rooftop_02,part_greeble_rooftop_02,part_greeble_rooftop_02,part_greeble_rooftop_02,part_zztong_helipad_02" />
+  <property name="POIMarkerPartRotations" value="0,2,3,1,1,3,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.2,0.8,0.8,0.8,0.8,0.8" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="17, 10, 3" />

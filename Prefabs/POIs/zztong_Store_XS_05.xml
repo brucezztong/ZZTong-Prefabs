@@ -23,21 +23,21 @@
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="Tags" value="forest,snow,desert,countrytown,nodiagonal" />
-  <property name="POIMarkerSize" value="7, 13, 2#4, 2, 4" />
-  <property name="POIMarkerStart" value="0, 2, -2#10, 11, 5" />
-  <property name="POIMarkerGroup" value="drive1,new" />
-  <property name="POIMarkerTags" value="countrytown#" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_02,part_greeble_rooftop_03" />
-  <property name="POIMarkerPartRotations" value="2,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6" />
+  <property name="POIMarkerSize" value="7, 13, 2#4, 2, 4#2, 2, 2#1, 1, 1" />
+  <property name="POIMarkerStart" value="0, 2, -2#10, 11, 5#2, 3, 5#5, 3, 5" />
+  <property name="POIMarkerGroup" value="drive1,roof,delivery,vending" />
+  <property name="POIMarkerTags" value="countrytown###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_02,part_greeble_rooftop_03,part_zztong_delivery_02,part_zztong_vending_01" />
+  <property name="POIMarkerPartRotations" value="2,0,0,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4,0.2" />
   <property name="PrefabSize" value="25, 12, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="409956" />
-    <property name="TotalTriangles" value="443959" />
+    <property name="TotalVertices" value="393010" />
+    <property name="TotalTriangles" value="423307" />
     <property class="BlockEntities">
-      <property name="Vertices" value="380174" />
-      <property name="Triangles" value="424307" />
+      <property name="Vertices" value="363228" />
+      <property name="Triangles" value="403655" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="24648" />

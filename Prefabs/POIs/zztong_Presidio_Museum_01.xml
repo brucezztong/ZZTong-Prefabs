@@ -25,6 +25,14 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="snow,desert,oldwest,pine_forest" />
   <property name="PrefabSize" value="42, 18, 42" />
+  <property name="POIMarkerSize" value="2, 2, 2#1, 1, 1#7, 4, 3#4, 1, 1" />
+  <property name="POIMarkerStart" value="17, 3, 9#12, 3, 9#31, 3, 4#26, 3, 20" />
+  <property name="POIMarkerGroup" value="delivery,vending,bus,wire" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_delivery_01,part_zztong_vending_01,part_zztong_vehicle_bus_03,part_zztong_barbwire4" />
+  <property name="POIMarkerPartRotations" value="0,1,1,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.2,0.2,0.2,0.2" />
   <property class="IndexedBlockOffsets">
     <property class="FetchContainer">
       <property name="0" value="34, 4, 30" />
@@ -39,8 +47,8 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="300530" />
-    <property name="TotalTriangles" value="268392" />
+    <property name="TotalVertices" value="301223" />
+    <property name="TotalTriangles" value="268987" />
     <property class="BlockEntities">
       <property name="Vertices" value="262550" />
       <property name="Triangles" value="241533" />
@@ -62,8 +70,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="4967" />
-      <property name="Triangles" value="3660" />
+      <property name="Vertices" value="5660" />
+      <property name="Triangles" value="4255" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />

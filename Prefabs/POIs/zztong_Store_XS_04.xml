@@ -25,7 +25,7 @@
   <property name="Tags" value="forest,snow,desert,countrytown,diagonal" />
   <property name="POIMarkerSize" value="4, 2, 4#7, 13, 2" />
   <property name="POIMarkerStart" value="10, 7, 7#9, 2, -2" />
-  <property name="POIMarkerGroup" value="new,driveway" />
+  <property name="POIMarkerGroup" value="roof,driveway" />
   <property name="POIMarkerTags" value="#countrytown" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_driveway_countrytown_02" />
@@ -33,11 +33,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.6,1" />
   <property name="PrefabSize" value="25, 16, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="240175" />
-    <property name="TotalTriangles" value="214539" />
+    <property name="TotalVertices" value="233755" />
+    <property name="TotalTriangles" value="207033" />
     <property class="BlockEntities">
-      <property name="Vertices" value="221603" />
-      <property name="Triangles" value="200833" />
+      <property name="Vertices" value="214886" />
+      <property name="Triangles" value="193072" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="12337" />
@@ -56,8 +56,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="4371" />
-      <property name="Triangles" value="3389" />
+      <property name="Vertices" value="4668" />
+      <property name="Triangles" value="3644" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
