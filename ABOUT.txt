@@ -378,7 +378,8 @@ while traveling in the UK and Europe. It is another A19 POI built for A20.
 STORE XS 03 - PET VET
 
 I wanted to make a medical POI but figured we already had several of those. It
-was built for A20 using A19.
+was built for A20 using A19. As of ZZ008, this POI got a new basement that
+attempts to connect Pet+Vet to the new Vault POI thematically.
 
 STORE XS 04 - JEWELER
 
@@ -387,7 +388,7 @@ Yellow Pages.
 
 STORE XS 05 - RED ROCK COMICS
 
-I wanted to make a comic book store. I don't think I picked a name for an
+I wanted to make a comic book store. I don't think I picked a name of an
 actual business. Made for A20 using A19.
 
 STORE XS 06 - SLUMBER WORLD
