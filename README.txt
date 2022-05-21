@@ -5,14 +5,12 @@ GOAL:
 This modlet provides semi-plain "meat and potatoes" POIs, Parts, Tiles,
 Decorations and Stamps of an acceptable quality and in enough quantity to fill
 gaps in world generation and make a meaningful dent in player demands for
-variety. I hope you'll find these to be good enough to help round out the
-nooks and crannies of your generated worlds.
+variety.
 
-INFO:
+DEPENDENCIES:
 
-This modlet does not contain any custom blocks, resources, objects, etc. It
-depends only on the vanilla game and introduces no other requirements or
-dependencies.
+This modlet depends only on the vanilla game and introduces no other
+requirements or dependencies.
 
 CLIENT INSTALLATION: (Windows)
 
@@ -21,7 +19,7 @@ CLIENT INSTALLATION: (Windows)
 	The folder does not exist by default. If this is your first Mod, then you
 	will need to create the Mods folder.
 3. Place the "ZZTong-Prefabs" folder in the Mods folder:
-	%APPDATA%/7DaysToDie/Mods
+	%APPDATA%/7DaysToDie/Mods ... %APPDATA/7DaysToDie/Mods/ZZTong-Prefabs
 4. Review the "Conflicts" Section, below.
 
 CLIENT INSTALLATION (Mac) - TBD
@@ -35,32 +33,29 @@ there will probably be different paths involved.
 
 CONFLICTS: (CompoPack)
 
-Much of this content is also available in the CompoPack. You can use both Mods.
-Doing so may skew the weighting of placement by your world generator. That is,
-if zztong_Store_XS_01 and xcostum_Store_XS_01(by_ZZTong) are both available,
-your world generator won't realize they are the same content and place them
-both. When that happens, it becomes likely they'll be placed near each other
-(even next to each other) and you probably won't like the results.
+These POIs are also contributed to the CompoPack. If you are also using the
+CompoPack then you have a choice to make:
 
-The answer is to remove the duplicate content from one of the Mods. The first
-choice you have to make is to decide which Mod to change.
+(1) Do nothing. You'll run a chance of getting duplicate POIs close to each
+other in vanilla settlements. Some will be from the CompoPack and some will be
+from this modlet. They're likely to be slightly different. This is the easiest
+choice to accomplish.
 
-If the CompoPack Mod is newer than the ZZTong-Prefabs Mod, then remove the
-ZZTong-Prefabs Mod because the CompoPack will include the most current
-content.
+(2) Remove this modlet. This will eliminate the chance of duplication in
+vanilla settlements, but you'll probably be using slightly older POIs and you
+might be missing a few new POIs.
 
-Generally speaking, however, the CompoPack will be the older Mod since it tends
-to get released once or twice a year. If so, remove all the files in the Prefabs
-folder with "by_ZZTong" in the filename. In this way, you'll get all the same
-ZZTong content that appears in the CompoPack plus any new content which the
-CompoPack has not yet released. And, of course, you would still get all of the
-wonderful and challenging non-ZZTong content from the CompoPack.
+(3) Remove the "by_ZZTong" files found in the CompoPack's folders of POIs for
+vanilla settlements. Leave the "by_ZZTong" POIs in all of the CompoPack's
+custom settlements. This gives you the best combination, but involves the most
+work.
 
 CONFLICTS: (Overhaul Mods)
 
 Overhaul Mods tend to have their own versions of POIs. You should not need to
 also have the ZZTong Mod installed at the same time. Doing so can result in
-duplicate content.
+duplicate content, and depending on the overhaul mod, the POIs in this modlet
+may not be fully functional.
 
 VANILLA RANDOM WORLD GENERATOR (RWG):
 
@@ -76,12 +71,11 @@ stuff there.
 
 DECORATIONS
 
-The Hunters Traps and Tents are built like POIs, but they have no zombies.
-They're more like obsticals. An aware player will avoid falling into them.
-A distracted, rushed or clumbsy player will fall in. Please know the traps
-can be deadly. You may not want these to be included in your map. If not,
-edit/remove the biomes.xml file found in the Mod's config directory.
-Decorations do not displace POIs.
+Decorations are not questable POIs, but they do not take the place of POIs on
+your map so you're not missing anything. All of the full POIs are questable.
+Beware, some of the Hunters Traps are deadly. If you do not want these to be
+included in your map then edit/remove the biomes.xml file found in the Mod's
+config directory.
 
 INCLUSION IN OTHER PACKS AND MODS:
 
@@ -98,7 +92,7 @@ COPYRIGHT
 
 These POIs are copyright by Bruce Tong. Do not panic. This does not preclude
 derivitive works. It only establishes my rights in accordance with the GPLv3.
-Note that I am not able to express the copy right on the individual files of
+Note that I am not able to express the copyright on the individual files of
 the modlet because they are often binary files. This notice covers the entire
 modlet. My copyright only applies to my changes to any POIs that are
 derivitite works, such as TFP POIs brought forward from older versions of the
@@ -128,10 +122,13 @@ rwg_tile_downtown_intersection_zztong_01 and Intersection_01, Intersection_02
 and Intersection_03 to go with it. Added Ranch_01 and Vault_K9_01.
 Added all my custom Parts because parts are cool, parts are wonderful.
 Spinkled Parts into many existing POIs for some subtle variety.
-A couple of POIs changed tiers.
+A couple of POIs changed tiers. Added decorations for the Wasteland.
+
 Introduced this modlet to GitHub for my own sanity and peace of mind.
 This should have no effect on modlet distribution, but may open up options for
 those who work on other projects, plus it gives me a nice backup location.
+I don't recommend consumers of this modlet pull from GitHub.
+
 Introduced this modlet to the GPLv3 license. See LICENSE.TXT and the
 LICENSE-NOTES.txt files for details. It should not represent a significant
 change for those of you who repackage, or curate, from this modlet.
