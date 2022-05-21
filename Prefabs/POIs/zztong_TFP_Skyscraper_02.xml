@@ -25,20 +25,20 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="PrefabSize" value="42, 66, 42" />
   <property name="Tags" value="downtown" />
-  <property name="POIMarkerSize" value="4, 2, 4#4, 2, 4#4, 2, 4#4, 2, 4" />
-  <property name="POIMarkerStart" value="33, 43, 5#18, 43, 5#18, 43, 13#12, 43, 13" />
-  <property name="POIMarkerGroup" value="greeb1,greeb2,greeb3,greeb4" />
-  <property name="POIMarkerTags" value="###" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_greeble_rooftop_03,part_greeble_rooftop_03,part_greeble_rooftop_03" />
-  <property name="POIMarkerPartRotations" value="0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.6,0.6" />
+  <property name="POIMarkerSize" value="4, 2, 4#4, 2, 4#4, 2, 4#4, 2, 4#1, 1, 4#1, 1, 4#2, 1, 1#2, 2, 2#1, 1, 2#2, 2, 2#5, 1, 5#1, 1, 1#1, 1, 1#2, 2, 2" />
+  <property name="POIMarkerStart" value="33, 43, 5#18, 43, 5#18, 43, 13#12, 43, 13#18, 3, 11#15, 3, 4#20, 3, 9#14, 3, 17#9, 11, 4#34, 11, 16#4, 3, 16#3, 23, 5#3, 23, 5#12, 35, 18" />
+  <property name="POIMarkerGroup" value="greeb1,greeb2,greeb3,greeb4,spikes1,spikes2,spikes3,delivery1,spikes4,delivery2,mines,minefake,minegood,delivery3" />
+  <property name="POIMarkerTags" value="###########mine#mine#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_greeble_rooftop_03,part_greeble_rooftop_03,part_greeble_rooftop_03,part_zztong_spikes_wood4,part_zztong_spikes_wood4,part_zztong_spikes_wood2,part_zztong_delivery_02,part_zztong_spikes_wood2,part_zztong_delivery_03,part_zztong_mine_field_02,part_zztong_land_mine_fake_01,part_zztong_land_mine_02,part_zztong_delivery_03" />
+  <property name="POIMarkerPartRotations" value="0,0,0,0,1,1,0,0,1,0,0,0,0,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.6,0.6,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" />
   <property class="Stats">
-    <property name="TotalVertices" value="1692409" />
-    <property name="TotalTriangles" value="1547607" />
+    <property name="TotalVertices" value="1687601" />
+    <property name="TotalTriangles" value="1541387" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1246106" />
-      <property name="Triangles" value="1293902" />
+      <property name="Vertices" value="1241298" />
+      <property name="Triangles" value="1287682" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="404807" />

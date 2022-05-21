@@ -26,10 +26,17 @@
 		<decoration type="prefab" name="zztong_Tent_04" prob=".0001" onslopes="false" />
 		<decoration type="prefab" name="zztong_Tent_05" prob=".0001" onslopes="false" />
 	</append>
-	<!--
 	<append xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations">
+		<decoration type="prefab" name="zztong_Rubble_01" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_Rubble_02" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_Rubble_03" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_Rubble_04" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_Rubble_05" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_Rubble_06" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_Rubble_07" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_Rubble_08" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_Rubble_09" prob=".01" onslopes="false" />
 	</append>
-	-->
 	<append xpath="/worldgeneration/biomes/biome[@name='burnt_forest']/decorations">
 		<decoration type="prefab" name="zztong_Hunters_Trap_01" prob=".0001" onslopes="true" />
 		<decoration type="prefab" name="zztong_Hunters_Trap_02" prob=".0001" onslopes="true" />

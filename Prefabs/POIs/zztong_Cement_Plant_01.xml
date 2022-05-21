@@ -30,11 +30,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0" />
   <property name="Tags" value="industrial" />
   <property class="Stats">
-    <property name="TotalVertices" value="517594" />
-    <property name="TotalTriangles" value="510648" />
+    <property name="TotalVertices" value="483494" />
+    <property name="TotalTriangles" value="465873" />
     <property class="BlockEntities">
-      <property name="Vertices" value="359353" />
-      <property name="Triangles" value="390508" />
+      <property name="Vertices" value="325253" />
+      <property name="Triangles" value="345733" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="148714" />

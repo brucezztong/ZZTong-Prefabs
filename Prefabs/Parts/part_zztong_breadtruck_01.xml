@@ -12,6 +12,13 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="part" />
+  <property name="SleeperVolumeSize" value="3, 3, 10" />
+  <property name="SleeperVolumeStart" value="2, 0, 1" />
+  <property name="SleeperVolumeGroupId" value="0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperIsLootVolume" value="False" />
+  <property name="SleeperIsQuestExclude" value="False" />
+  <property name="SleeperVolumeFlags" value="0" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="4, 1, 0" />

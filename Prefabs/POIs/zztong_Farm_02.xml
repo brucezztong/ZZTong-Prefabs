@@ -21,14 +21,14 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
-  <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3" />
-  <property name="POIMarkerStart" value="2, 0, 25#14, 0, -2" />
-  <property name="POIMarkerGroup" value="crib,driveway" />
-  <property name="POIMarkerTags" value="#" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_farm60_corncrib_01,part_driveway_rural_12" />
-  <property name="POIMarkerPartRotations" value="1,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,1" />
+  <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#7, 7, 7#6, 3, 3#1, 1, 1#5, 1, 5#1, 1, 1" />
+  <property name="POIMarkerStart" value="2, 0, 26#14, 0, -2#7, -3, 17#19, 1, 32#55, 1, 26#50, 1, 31#18, 1, 12" />
+  <property name="POIMarkerGroup" value="crib,driveway,storm,tractor,barrel,mines,car" />
+  <property name="POIMarkerTags" value="######" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_farm60_corncrib_01,part_driveway_rural_12,part_zztong_storm_cellar_02,part_zztong_tractor_01,part_zztong_barrel_04,part_zztong_mine_field_01,part_zztong_vehicle_car_02" />
+  <property name="POIMarkerPartRotations" value="1,2,3,1,0,0,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,1,0.2,0.4,0.4,0.2,0.4" />
   <property class="Stats">
     <property name="TotalVertices" value="329181" />
     <property name="TotalTriangles" value="352298" />

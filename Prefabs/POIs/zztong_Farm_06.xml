@@ -14,14 +14,14 @@
   <property name="YOffset" value="-1" />
   <property name="PrefabSize" value="60, 10, 60" />
   <property name="Tags" value="rural" />
-  <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3" />
-  <property name="POIMarkerStart" value="4, 0, 45#19, 0, -2" />
-  <property name="POIMarkerGroup" value="shed,driveway" />
-  <property name="POIMarkerTags" value="#" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_farm60_shed_01,part_driveway_rural_12" />
-  <property name="POIMarkerPartRotations" value="2,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,1" />
+  <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#2, 1, 2#6, 3, 3#7, 7, 7#4, 1, 1" />
+  <property name="POIMarkerStart" value="4, 0, 45#19, 0, -2#38, 1, 48#49, 1, 37#4, -3, 45#20, 1, 16" />
+  <property name="POIMarkerGroup" value="shed,driveway,dogs,tractor,storm,spikes" />
+  <property name="POIMarkerTags" value="storm####storm#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_farm60_shed_01,part_driveway_rural_12,part_zztong_dog_pack_two_01,part_zztong_tractor_04,part_zztong_storm_cellar_01,part_zztong_spikes_wood4" />
+  <property name="POIMarkerPartRotations" value="2,2,0,1,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,1,0.4,0.6,0.4,0.6" />
   <property name="SleeperVolumeSize" value="7, 8, 17#34, 7, 33" />
   <property name="SleeperVolumeStart" value="2, 1, 21#9, 1, 11" />
   <property name="SleeperVolumeGroupId" value="0,0" />
@@ -30,11 +30,11 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="1158402" />
-    <property name="TotalTriangles" value="1318705" />
+    <property name="TotalVertices" value="1159583" />
+    <property name="TotalTriangles" value="1320190" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1123895" />
-      <property name="Triangles" value="1289709" />
+      <property name="Vertices" value="1125076" />
+      <property name="Triangles" value="1291194" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="25058" />

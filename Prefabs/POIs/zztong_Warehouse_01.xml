@@ -23,21 +23,21 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="Tags" value="forest,snow,desert,industrial" />
-  <property name="POIMarkerSize" value="1, 13, 13" />
-  <property name="POIMarkerStart" value="-1, 2, 10" />
-  <property name="POIMarkerGroup" value="drive" />
-  <property name="POIMarkerTags" value="industrial" />
-  <property name="POIMarkerType" value="PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_industrial_02" />
-  <property name="POIMarkerPartRotations" value="3" />
-  <property name="POIMarkerPartSpawnChance" value="1" />
+  <property name="POIMarkerSize" value="1, 13, 13#11, 5, 5#11, 5, 5#1, 1, 1#1, 1, 1#2, 2, 2" />
+  <property name="POIMarkerStart" value="-1, 2, 10#2, 3, 10#2, 3, 17#23, 4, 35#37, 4, 14#19, 4, 12" />
+  <property name="POIMarkerGroup" value="drive,trailer1,trailer2,vending,mine,delivery" />
+  <property name="POIMarkerTags" value="industrial#####" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_industrial_02,part_zztong_tfp_trailer_box_loaded_01,part_zztong_tfp_trailer_box_empty_01,part_zztong_vending_01,part_zztong_land_mine_02,part_zztong_delivery_01" />
+  <property name="POIMarkerPartRotations" value="3,3,3,2,0,3" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.8,0.4,0.4" />
   <property name="PrefabSize" value="42, 22, 42" />
   <property class="Stats">
-    <property name="TotalVertices" value="606645" />
-    <property name="TotalTriangles" value="567677" />
+    <property name="TotalVertices" value="603756" />
+    <property name="TotalTriangles" value="564589" />
     <property class="BlockEntities">
-      <property name="Vertices" value="498812" />
-      <property name="Triangles" value="502444" />
+      <property name="Vertices" value="495923" />
+      <property name="Triangles" value="499356" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="90040" />

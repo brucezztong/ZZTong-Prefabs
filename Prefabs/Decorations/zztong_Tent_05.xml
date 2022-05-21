@@ -11,17 +11,12 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="5, 3, 5" />
-  <property class="IndexedBlockOffsets">
-    <property class="brBlock">
-      <property name="0" value="3, 0, 2" />
-    </property>
-  </property>
   <property class="Stats">
-    <property name="TotalVertices" value="993" />
-    <property name="TotalTriangles" value="1202" />
+    <property name="TotalVertices" value="893" />
+    <property name="TotalTriangles" value="1002" />
     <property class="BlockEntities">
-      <property name="Vertices" value="671" />
-      <property name="Triangles" value="1050" />
+      <property name="Vertices" value="571" />
+      <property name="Triangles" value="850" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="322" />

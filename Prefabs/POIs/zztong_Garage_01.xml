@@ -21,6 +21,14 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-3" />
+  <property name="POIMarkerSize" value="2, 1, 2#1, 1, 1#5, 1, 5" />
+  <property name="POIMarkerStart" value="21, 3, 21#17, 3, 19#6, 3, 2" />
+  <property name="POIMarkerGroup" value="vultures,barrel,camp" />
+  <property name="POIMarkerTags" value="##" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_vultures_01,part_zztong_barrel_04,part_zztong_campsite_01" />
+  <property name="POIMarkerPartRotations" value="2,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.2,0.4,0.2" />
   <property class="IndexedBlockOffsets">
     <property class="FetchContainer">
       <property name="0" value="12, 3, 12" />
