@@ -1,4 +1,4 @@
-ZZTONG PREFABS READ-ME for A20.5-ZZ008
+ZZTONG-PREFABS READ-ME for A20.5-ZZ008
 
 GOAL:
 
@@ -24,12 +24,7 @@ CLIENT INSTALLATION: (Windows)
 
 CLIENT INSTALLATION (Mac) - TBD
 CLIENT INSTALLATION (Linux) - TBD
-
-SERVER INSTALLATION:
-
-There are too many variations for me to address this topic. In general,
-something similar to the Client Installation instructions has to happen, but
-there will probably be different paths involved.
+SERVER INSTALLATION - TBD
 
 CONFLICTS: (CompoPack)
 
@@ -90,13 +85,14 @@ for your project. If not, reach out to me and we can discuss the matter.
 
 COPYRIGHT
 
-These POIs are copyright by Bruce Tong. Do not panic. This does not preclude
-derivitive works. It only establishes my rights in accordance with the GPLv3.
-Note that I am not able to express the copyright on the individual files of
-the modlet because they are often binary files. This notice covers the entire
-modlet. My copyright only applies to my changes to any POIs that are
+These original POIs (and derivatives) are copyright by Bruce Tong. This does
+not preclude derivitive works. It only establishes my rights in accordance with
+the GPLv3. Note that I am not able to express the copyright on the individual
+files of the modlet because they are often binary files. This notice covers the
+entire modlet. My copyright only applies to my changes to any POIs that are
 derivitite works, such as TFP POIs brought forward from older versions of the
-game. I hope TFP does not consider this a challenge to their copyrights.
+game. I don't think this violates TFP's copyrights. I'll also note the license
+for 7D2D gives TFP an automatic license to use any POIs I've created.
 
 THANKS:
 
@@ -127,11 +123,11 @@ A couple of POIs changed tiers. Added decorations for the Wasteland.
 Introduced this modlet to GitHub for my own sanity and peace of mind.
 This should have no effect on modlet distribution, but may open up options for
 those who work on other projects, plus it gives me a nice backup location.
-I don't recommend consumers of this modlet pull from GitHub.
+I do NOT recommend consumers of this modlet pull from GitHub.
 
 Introduced this modlet to the GPLv3 license. See LICENSE.TXT and the
 LICENSE-NOTES.txt files for details. It should not represent a significant
-change for those of you who repackage, or curate, from this modlet.
+change for those of you who repackage, or curate, this modlet's content.
 
 A20.1 - ZZ007 - Added Farm_01, Farm_02, Farm_03, Farm_04, Farm_05, Farm_06
 Farm_07, Farm_08, Garage_01, Stormwater_Detention_Pond_01, Biowaste_Dump_01,

@@ -10,13 +10,11 @@ becomes possible to bring my motorcycle to the top of the Dishong Tower.
 Some POIs have "TFP" in the title to credit them as the original creators.
 Those POIs appearing in this pack are derivitive works.
 
-
 APARTMENT 01 & APARTMENT 01 DESTROYED
 
 Originally designed for A19 before we knew of A20's standard sizes. Shifting
 to A20 meant the lot had to be extended slightly, which led to the garden in
-the back. The trailer (TFP RWG Part) can appear optionally. It was the first
-RWG Part I tried to place.
+the back.
 
 The destroyed version is an attempt to support the CompoPack's desire to have
 Wasteland-specific content. This version was made by using a rocket launcher
@@ -27,7 +25,7 @@ APARTMENT 02 & APARTMENT 02 DESTROYED
 Originally designed for A19. This was just riffing on the Apartment 01 theme
 with the added realization there was no Chinese Buffet in Navezgane. It is
 a universal constant that there be Chinese Buffets everywhere. Until TFP
-make one and knock our socks off, mine will have to do. The solar-covered
+makes one and knocks our socks off, mine will have to do. The solar-covered
 parking was added for A20 as I needed to stretch the POI to fit a standard
 RWG size.
 
@@ -38,11 +36,11 @@ hall. A20 didn't change it much.
 
 BIOWASTE DUMP 01
 
-More filler for the Rural XS POI and Tile variety. I suspect the zombie
-placement within this POI might prove a challenge for somebody who wants to
-snipe the Zombies without waking them. Each zombie is placed with their head
-near an explosive barrel. Like the Propane POI, careless gunplay might bring
-a player more trouble than they expected.
+More filler for the Rural XS POI and Tile variety. There is no quest for this
+POI. I suspect the zombie placement within this POI might prove a challenge for
+somebody who wants to snipe the Zombies without waking them. Each zombie is
+placed with their head near an explosive barrel. Like the Propane POI, careless
+gunplay might bring a player more trouble than they expected.
 
 BROWNSTONES 01
 
@@ -71,8 +69,8 @@ CEMENT PLANT 01
 
 A quick review of vanilla's Industrial content suggests there's a shortage of
 POIs and a need for more variety. Cement is a popular resource. Cement Plants
-are industrial. I regret I don't know how these plants work, but this is at
-least an attempt to satisfy demand.
+are industrial. I regret I don't know how these plants really work, but this is
+at least an attempt to satisfy demand.
 
 DRIVE IN MOVIE 01
 
@@ -87,7 +85,7 @@ beside each other.
 
 ELECTRICAL SUBSTATION 01
 
-More XS rural filler.
+This is rural filler. There is no quest associated with this POI.
 
 EMS 01
 
@@ -102,8 +100,8 @@ This is one of my maternal grandparents farm houses from my youth. The main
 house was expanded to include a back entryway and the expanded further to
 include what had been a root cellar. The rest of the farm is way, way, way
 to big to put onto a 60x60 POI so the fields, silo, barn, are there for
-appearance. In reality, the house and the barnyard would be larger than a
-150x150 Tile and the fields would be an 8k map.
+appearance. In reality, the house, barn, and the barnyard would be larger than
+a 150x150 Tile and the fields would be an 8k map.
 
 FARM 02
 
@@ -112,7 +110,7 @@ stands. If you look at this POI from above you would think the architect
 was crazy, but the layout was a result of expansion and remodeling. The
 main house expanded to include a new kitchen and a large "mud" room. Then
 it later expanded to connect to the garage to facilitate elderly needs.
-Like FARM 01, the real farm is far to big to represent on a 150x150 Tile.
+Like FARM 01, the real farm is far too big to represent on a 150x150 Tile.
 
 FARM 03
 
@@ -193,9 +191,11 @@ tool -- a rocket launcher.
 A20 saw the creation of a radio station by TFP. Their station, KLZ, has a
 small downtown studio and an short antenna that suggests it is a low-power
 station, else it would irradiate the building's inhabitants. (Is it warm in
-here, or is it just me?) Three-letter call signs belong to really old stations
-(pre-1922) and they are usually (66%) AM stations. Another possibility is for
-marketing they leave off the first K, so they might be KKLZ AM or FM.
+here, or is it just me?) Perhaps their transmitter and antenna is elsewhere?
+Three-letter call signs belong to really old stations (pre-1922) and they are
+usually (66%) AM stations. Another possibility is for marketing they leave off
+the first K, so they might be KKLZ AM or FM. Or, or... okay, maybe TFP just
+wanted a radio station and, well, there it is.
 
 Now all we need is a DJ so we can "Crawl out through the fallout, baby..."
 
@@ -211,7 +211,7 @@ little. Both the POI and the Tile have an integrated storm sewer and a subway
 which greatly extends its conent. Collectively, this is a very large POI.
 Some people might not care for it because it doesn't have a "sucker's path"
 designed for it. In my mind, each building is rather straight foward and
-doesn't need a path.
+doesn't need a path. The subway isn't as good as the one TFP built.
 
 INTERSECTION 02
 
@@ -228,7 +228,7 @@ linked stores in the lower levels of office buildings. I didn't really get to
 making offices in upper floors as the number of triangles and vertices would
 have gone higher than I think some user systems would comfortably support.
 The end result is another mall-like collection of shops, but in more of a
-downtown vibe.
+classic downtown vibe.
 
 KZTV 01
 
@@ -240,7 +240,7 @@ whenever I see them. I made this POI close to the A20 experimental release.
 LAW OFFICES 01
 
 This is based on some real life law offices. I figure the game will be
-perpetually short on law offices, so here, have another! It was made for A19
+perpetually short on law offices, so here, have one! It was made for A19
 and resized for A20.
 
 LUMBER YARD 01
@@ -252,17 +252,16 @@ a lot of change for A20.
 MASONRY 01
 
 I was inspired to make this POI based on a small business my grandfather (and
-others) founded years ago. While the original is in Findlay, Ohio, I
-converted it to a business for Arizona. It is smaller than the real thing
-because game scale differences but also because making it actual size would
-give away lots and lots of cement and cobble.
+others) founded years ago. While the original is in Findlay, Ohio, I converted
+it to a business for Arizona. It is smaller than the real thing because game
+scale differences but also because making it actual size would give away lots
+and lots of cement and cobble.
 
 MASS GRAVE 01, 02
 
-These stated as POIs, become decoration, were rarely placed, and are back to
-being POIs because of the niche for Rural XS POIs. This kind of filler content
-is generally not found in the CompoPack so you're not likely to get this POI
-outside of this modlet.
+These stated as POIs, became decoration, were rarely placed, and are back to
+being POIs because of the niche for Rural XS POIs. This is filler content
+that is not questable.
 
 MOTOCROSS 01
 
@@ -302,7 +301,7 @@ Any similarity to the real life "Rite Aid" Pharmacy is purely intentional.
 It is parody. Rite Aid gets free advertising. Rite Aid is not being depicted
 in a negative light -- at least not any worse than the rest of humanity.
 Rite Aid executives and lawyers should take comfort in knowing they are a
-source of medicines that every player needs. A20 did not change much.
+source of medicines that every player needs. A20 did not change it much.
 
 PRESIDIO MUSEUM 01
 
@@ -314,18 +313,21 @@ PROPANE 01
 This early A19 POI was partly an experiment with explosive blocks that turned
 out to be so much fun that I really enjoyed extending it to A20. To fit the
 A20 Tiles it had to get bigger. Oh, I hope your players like to use firearms
-around this POI and that they're bad shots. (Evil laugh.)
+around this POI and that they're bad shots. (Evil laugh.) Adding Parts to the
+POI let me sprinkle in some rare landmines. (Another evil laugh.) Since you're
+nice enough to read this file, take this as a friendly warning to be careful.
 
 RANCH 01
 
-This POI resulted as part of my desires to make T5 content for the Wilderness.
+This POI resulted as part of my desire to make T5 content for the Wilderness.
 Drawn like moths, we drift into the city... The timeless old attraction...
 Err, yeh. Let's show the wilderness some love.
 
 REMNANT HOUSE 01
 
 I made this POI largely just goofing off waiting for A20. Somebody had made a
-comment that players like rennovating remnant structures.
+comment that players like rennovating remnant structures. Once A20 landed, it
+got a small update.
 
 RESTAURANT 01
 
@@ -346,7 +348,7 @@ SKYSCRAPER 01 & SKYSCRAPER 01 DESTROYED
 
 This was my second attempt to make a Skyscraper. It was made using A19 but
 knowing what the A20 sizes would be. It managed to be tall enough to be a
-game skyscraper, but it is still to squat looking. I probably shouldn't have
+game skyscraper, but it is still too squat looking. I probably shouldn't have
 had the empire state building in mind. A more boxy skyscraper might have
 been better.
 
@@ -375,7 +377,7 @@ STORE XS 02 - NET CAFE & COMPUTER STORE
 I was thinking of a mom and pop computer store mixed with internet cafes I saw
 while traveling in the UK and Europe. It is another A19 POI built for A20.
 
-STORE XS 03 - PET VET
+STORE XS 03 - PET+VET
 
 I wanted to make a medical POI but figured we already had several of those. It
 was built for A20 using A19. As of ZZ008, this POI got a new basement that
@@ -408,7 +410,7 @@ STORE XS 08 - FOR LEASE
 
 I admit it. I made a failed Blockbuster store for A19, saw TFP's "4-Ever Video"
 for A20, and then recolored and removed my Blockbuster gag. They're a quality
-operation. You want variety. I'm the cheap knock-off. Made for A20 using A19.
+operation. I'm the cheap knock-off. Made for A20 using A19.
 
 STORE XS 09 - REALTOR
 
@@ -424,16 +426,14 @@ It was a clever idea; still failed. Made for A20 using A19.
 
 STORMWATER DETENTION POND 01
 
-There are opportunities for placement in XS Rural POIs. The challenge is
-finding a good subject match. These ponds are used for handling stormwater
-runoff in areas prone to flash flooding, including deserts. This kind of
-filler content is generally not found in the CompoPack so you're not likely
-to get this POI outside of this modlet.
+This is rural filler. This is no quest for this POI. These ponds are used for
+handling stormwater runoff in areas prone to flash flooding, including deserts.
 
 STRIP MALL 01
 
 The Armed Forces Career Center was an attempt to explain why Navezgane has
-so many military POIs. Buy-2-Own is a play on Rent-2-Own.
+so many military POIs. Buy-2-Own is a play on Rent-2-Own. This POI got a
+little more content in the ZZ0008 release which took it up a tier.
 
 STRIP MALL 02
 
@@ -465,7 +465,7 @@ TFP CEMETARY 01
 
 I found this POI when playing an earlier alpha and remembered it being kind
 of creepy at night. I brought it forward to A19 and A20 at the same time I
-was working on the TFP ARMY BARRACKS.
+was working on the TFP Army Barracks.
 
 TFP HOUSE NEW 04
 
@@ -499,7 +499,7 @@ bases while on a minimalist kick.
 
 VAULT K9 01
 
-This is a tribute to the Fallout series of games plus a mashup with my Pet-Vet
+This is a tribute to the Fallout series of games plus a mashup with my Pet+Vet
 fake business name. The vault number uses a randomizer, so you should find it
 to be different every time the POI resets.
 
