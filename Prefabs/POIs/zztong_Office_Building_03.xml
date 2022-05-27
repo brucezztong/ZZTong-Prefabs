@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="5" />
   <property name="Zoning" value="Commercial" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
@@ -45,19 +45,16 @@
       <property name="4" value="85, 20, 75" />
       <property name="5" value="85, 20, 81" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="79, 18, 73" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="57, 11, 58" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="3505778" />
-    <property name="TotalTriangles" value="3365625" />
+    <property name="TotalVertices" value="3538887" />
+    <property name="TotalTriangles" value="3401111" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2849123" />
-      <property name="Triangles" value="2962304" />
+      <property name="Vertices" value="2882288" />
+      <property name="Triangles" value="2997818" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="571493" />
@@ -80,8 +77,8 @@
       <property name="Triangles" value="42398" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="168" />
-      <property name="Triangles" value="84" />
+      <property name="Vertices" value="112" />
+      <property name="Triangles" value="56" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />

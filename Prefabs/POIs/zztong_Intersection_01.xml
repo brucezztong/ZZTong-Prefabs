@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 52, 64" />
@@ -30,15 +30,15 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="3208156" />
-    <property name="TotalTriangles" value="3092471" />
+    <property name="TotalVertices" value="3228979" />
+    <property name="TotalTriangles" value="3113277" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2478698" />
-      <property name="Triangles" value="2607089" />
+      <property name="Vertices" value="2499617" />
+      <property name="Triangles" value="2627943" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="504585" />
-      <property name="Triangles" value="296471" />
+      <property name="Vertices" value="504609" />
+      <property name="Triangles" value="296483" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -57,8 +57,8 @@
       <property name="Triangles" value="144651" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="360" />
-      <property name="Triangles" value="180" />
+      <property name="Vertices" value="240" />
+      <property name="Triangles" value="120" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
@@ -112,9 +112,6 @@
       <property name="30" value="52, 27, 58" />
       <property name="31" value="49, 15, 59" />
       <property name="32" value="59, 26, 59" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="58, 11, 56" />
     </property>
     <property class="quest_feather">
       <property name="0" value="55, 26, 41" />

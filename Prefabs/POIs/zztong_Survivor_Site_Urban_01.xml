@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Downtown" />
   <property name="AllowedTownships" value="city" />
@@ -46,19 +46,16 @@
     <property class="quest_feather">
       <property name="0" value="33, 19, 45" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="51, 14, 6" />
-    </property>
     <property class="Rally">
       <property name="0" value="56, 6, 57" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1515591" />
-    <property name="TotalTriangles" value="1670105" />
+    <property name="TotalVertices" value="1498586" />
+    <property name="TotalTriangles" value="1651875" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1323727" />
-      <property name="Triangles" value="1548907" />
+      <property name="Vertices" value="1306722" />
+      <property name="Triangles" value="1530677" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="163295" />

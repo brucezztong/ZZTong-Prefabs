@@ -7,7 +7,7 @@
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
   <property name="ShowQuestClearCount" value="3" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 43, 64" />
   <property name="RotationToFaceNorth" value="2" />
@@ -30,19 +30,19 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="3324387" />
-    <property name="TotalTriangles" value="3104191" />
+    <property name="TotalVertices" value="3370944" />
+    <property name="TotalTriangles" value="3153105" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2474283" />
-      <property name="Triangles" value="2605693" />
+      <property name="Vertices" value="2521008" />
+      <property name="Triangles" value="2654691" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="766487" />
-      <property name="Triangles" value="419759" />
+      <property name="Vertices" value="766511" />
+      <property name="Triangles" value="419771" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="20160" />
-      <property name="Triangles" value="10080" />
+      <property name="Vertices" value="19968" />
+      <property name="Triangles" value="9984" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="816" />
@@ -96,9 +96,6 @@
       <property name="14" value="51, 23, 58" />
       <property name="15" value="51, 35, 58" />
       <property name="16" value="55, 7, 60" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="60, 25, 59" />
     </property>
     <property class="Rally">
       <property name="0" value="31, 13, 29" />

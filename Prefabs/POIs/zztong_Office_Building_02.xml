@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="3" />
   <property name="Zoning" value="Commercial" />
   <property name="AllowedTownships" value="city" />
@@ -23,7 +23,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="PrefabSize" value="42, 34, 42" />
   <property name="POIMarkerSize" value="3, 1, 2#1, 1, 1#4, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1" />
   <property name="POIMarkerStart" value="33, 24, 26#29, 3, 3#3, 3, 36#23, 19, 36#30, 19, 36#17, 19, 36#21, 24, 27" />
@@ -40,18 +40,13 @@
     <property class="Rally">
       <property name="0" value="12, 3, 41" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="26, 19, 21" />
-      <property name="1" value="24, 24, 25" />
-      <property name="2" value="22, 14, 31" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1185378" />
-    <property name="TotalTriangles" value="1145838" />
+    <property name="TotalVertices" value="1168373" />
+    <property name="TotalTriangles" value="1127608" />
     <property class="BlockEntities">
-      <property name="Vertices" value="999133" />
-      <property name="Triangles" value="1025495" />
+      <property name="Vertices" value="982128" />
+      <property name="Triangles" value="1007265" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="89218" />

@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="100, 36, 100" />
@@ -30,19 +30,19 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="3801150" />
-    <property name="TotalTriangles" value="3311976" />
+    <property name="TotalVertices" value="3829741" />
+    <property name="TotalTriangles" value="3344834" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3357937" />
-      <property name="Triangles" value="3009357" />
+      <property name="Vertices" value="3386440" />
+      <property name="Triangles" value="3042171" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="342304" />
-      <property name="Triangles" value="187828" />
+      <property name="Vertices" value="342328" />
+      <property name="Triangles" value="187840" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="26888" />
-      <property name="Triangles" value="13444" />
+      <property name="Vertices" value="26952" />
+      <property name="Triangles" value="13476" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="2272" />
@@ -86,9 +86,6 @@
     </property>
     <property class="quest_feather">
       <property name="0" value="84, 32, 9" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="54, 12, 39" />
     </property>
     <property class="Rally">
       <property name="0" value="64, 28, 4" />

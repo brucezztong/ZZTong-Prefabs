@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="3" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-2" />
@@ -23,7 +23,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="POIMarkerSize" value="4, 3, 9#5, 2, 11#7, 11, 2#6, 3, 4#3, 3, 7" />
   <property name="POIMarkerStart" value="35, 2, 18#35, 2, 29#2, 2, 19#24, 2, 20#28, 2, 10" />
   <property name="POIMarkerGroup" value="ambulance,bodies,scafolding,generator,ambulance2" />
@@ -34,9 +34,6 @@
   <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.2,0.8,0.6" />
   <property name="PrefabSize" value="42, 21, 42" />
   <property class="IndexedBlockOffsets">
-    <property class="FetchContainer">
-      <property name="0" value="28, 9, 11" />
-    </property>
     <property class="Rally">
       <property name="0" value="17, 2, 1" />
     </property>
@@ -54,11 +51,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="444862" />
-    <property name="TotalTriangles" value="435081" />
+    <property name="TotalVertices" value="431258" />
+    <property name="TotalTriangles" value="420497" />
     <property class="BlockEntities">
-      <property name="Vertices" value="400645" />
-      <property name="Triangles" value="405434" />
+      <property name="Vertices" value="387041" />
+      <property name="Triangles" value="390850" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="35776" />

@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Commercial" />
   <property name="AllowedTownships" value="town" />
@@ -23,7 +23,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
-  <property name="Tags" value="snow,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="POIMarkerSize" value="11, 2, 5#5, 1, 5#6, 3, 4#1, 1, 4" />
   <property name="POIMarkerStart" value="1, 7, 36#31, 7, 31#9, 19, 20#3, 7, 1" />
   <property name="POIMarkerGroup" value="trailer,camp,greeble,new" />
@@ -50,16 +50,13 @@
     <property class="quest_feather">
       <property name="0" value="21, 19, 32" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="23, 15, 24" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1032617" />
-    <property name="TotalTriangles" value="1212128" />
+    <property name="TotalVertices" value="1015532" />
+    <property name="TotalTriangles" value="1193858" />
     <property class="BlockEntities">
-      <property name="Vertices" value="939261" />
-      <property name="Triangles" value="1151784" />
+      <property name="Vertices" value="922256" />
+      <property name="Triangles" value="1133554" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="77835" />
@@ -82,8 +79,8 @@
       <property name="Triangles" value="6155" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="240" />
-      <property name="Triangles" value="120" />
+      <property name="Vertices" value="160" />
+      <property name="Triangles" value="80" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />

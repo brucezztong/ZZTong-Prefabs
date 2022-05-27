@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="120, 30, 120" />
@@ -30,15 +30,15 @@
   <property name="YOffset" value="-8" />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="1938124" />
-    <property name="TotalTriangles" value="1941560" />
+    <property name="TotalVertices" value="2009324" />
+    <property name="TotalTriangles" value="2018653" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1617992" />
-      <property name="Triangles" value="1725974" />
+      <property name="Vertices" value="1689168" />
+      <property name="Triangles" value="1803055" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="262952" />
-      <property name="Triangles" value="135514" />
+      <property name="Vertices" value="262976" />
+      <property name="Triangles" value="135526" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -81,9 +81,6 @@
     <property class="POILight">
       <property name="0" value="108, 11, 13" />
       <property name="1" value="108, 11, 17" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="102, 16, 19" />
     </property>
     <property class="Rally">
       <property name="0" value="59, 8, 5" />

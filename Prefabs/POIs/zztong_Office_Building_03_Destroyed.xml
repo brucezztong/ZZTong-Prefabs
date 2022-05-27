@@ -7,6 +7,7 @@
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
   <property name="ShowQuestClearCount" value="3" />
+  <property name="QuestTags" value="clear" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="3" />
   <property name="Zoning" value="downtown" />
@@ -34,9 +35,6 @@
     <property class="TraderOnOff">
       <property name="0" value="58, 12, 56" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="69, 26, 42" />
-    </property>
     <property class="Rally">
       <property name="0" value="3, 11, 82" />
     </property>
@@ -45,15 +43,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="2414153" />
-    <property name="TotalTriangles" value="2217718" />
+    <property name="TotalVertices" value="2438959" />
+    <property name="TotalTriangles" value="2243963" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1847228" />
-      <property name="Triangles" value="1861815" />
+      <property name="Vertices" value="1872146" />
+      <property name="Triangles" value="1888116" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="487115" />
-      <property name="Triangles" value="256289" />
+      <property name="Vertices" value="487091" />
+      <property name="Triangles" value="256277" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -72,8 +70,8 @@
       <property name="Triangles" value="30146" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="264" />
-      <property name="Triangles" value="132" />
+      <property name="Vertices" value="176" />
+      <property name="Triangles" value="88" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
