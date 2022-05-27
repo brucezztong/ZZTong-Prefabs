@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="3" />
   <property name="Zoning" value="downtown" />
   <property name="RotationToFaceNorth" value="2" />
@@ -39,11 +39,6 @@
       <property name="1" value="50, 5, 50" />
       <property name="2" value="49, 5, 55" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="40, 3, 46" />
-      <property name="1" value="32, 4, 54" />
-      <property name="2" value="44, 4, 54" />
-    </property>
     <property class="Rally">
       <property name="0" value="7, 3, 34" />
     </property>
@@ -52,11 +47,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="608735" />
-    <property name="TotalTriangles" value="557298" />
+    <property name="TotalVertices" value="611023" />
+    <property name="TotalTriangles" value="561295" />
     <property class="BlockEntities">
-      <property name="Vertices" value="505895" />
-      <property name="Triangles" value="490193" />
+      <property name="Vertices" value="508183" />
+      <property name="Triangles" value="494190" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="85467" />
