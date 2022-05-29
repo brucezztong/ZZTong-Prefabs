@@ -114,9 +114,10 @@ Editor, game performance issues, and more. You're awesome!
 RELEASE NOTES: (Newest to Oldest)
 
 A20.5 - ZZ009 - Added Dog_Park_01 rural filler. (Beware of the Dog)
-Re-rebalanced loot in Tier 5's because I'm a moron and a goofball.
+Added NTT_Hub_01 and NTT_HQ_01.
+Re-rebalanced loot in Tier 5's because I really screwed those up.
 Removed fetch quests from Tiers 3, 4, and 5. Apparently they're too easy.
-Added NTT_Hub_01.
+Applied numerous bug fixes spotted by the CP's eagle-eyed testers.
 
 A20.5 - ZZ008 - Fixed numerous bugs and rebalanced loot. Added
 rwg_tile_downtown_intersection_zztong_01 and Intersection_01, Intersection_02
