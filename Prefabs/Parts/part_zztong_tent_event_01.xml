@@ -8,29 +8,25 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="YOffset" value="-3" />
+  <property name="PrefabSize" value="11, 4, 8" />
   <property name="RotationToFaceNorth" value="2" />
+  <property name="Tags" value="part" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="49, 0, 45#16, 1, 16#16, 0, 16#60, 13, 60#60, 7, 60#60, 4, 60#60, 13, 60#43, 33, 42#42, 12, 42#42, 11, 42#42, 8, 42#42, 16, 42#42, 12, 42" />
-  <property name="POIMarkerStart" value="20, 3, 11#-12, 3, 67#145, 3, 67#82, 1, 0#82, 0, 0#82, 1, 0#81, 1, 0#53, 1, 84#6, 1, 84#102, 1, 84#102, 1, 84#102, 1, 84#6, 0, 84" />
-  <property name="POIMarkerGroup" value="trader,road1,road2,60,60,60,60,spot2,spot1,spot3,spot3,spot3,spot1" />
-  <property name="POIMarkerTags" value="trader############" />
-  <property name="POIMarkerType" value="POISpawn,RoadExit,RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,part_trader_tile_filler_01,part_trader_tile_filler_02,part_trader_tile_filler_03,part_zztong_gateway_truckstop_01,part_zztong_gateway_ranger_hq_01,part_zztong_gateway_trailer_park_01,part_zztong_gateway_adot_01,part_zztong_gateway_carshow_01,part_zztong_gateway_fieldday_01,part_zztong_gateway_truckpark_01" />
-  <property name="POIMarkerPartRotations" value="3,0,1,3,3,3,3,2,2,2,2,2,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,0.2,0.2,0.4,0.6,1,0.4,0.4,0.4,0.4,0.4" />
-  <property name="Tags" value="streettile,rwgonly,gatewaytile" />
-  <property name="PrefabSize" value="150, 12, 150" />
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="10, 3, 1" />
+    </property>
+  </property>
   <property class="Stats">
-    <property name="TotalVertices" value="369548" />
-    <property name="TotalTriangles" value="399833" />
+    <property name="TotalVertices" value="9310" />
+    <property name="TotalTriangles" value="8384" />
     <property class="BlockEntities">
-      <property name="Vertices" value="295943" />
-      <property name="Triangles" value="291585" />
+      <property name="Vertices" value="6586" />
+      <property name="Triangles" value="6964" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="14699" />
-      <property name="Triangles" value="12416" />
+      <property name="Vertices" value="2724" />
+      <property name="Triangles" value="1420" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -57,8 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="58906" />
-      <property name="Triangles" value="95832" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />
