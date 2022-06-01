@@ -21,15 +21,15 @@
   <property name="Tags" value="part" />
   <property name="YOffset" value="-3" />
   <property class="Stats">
-    <property name="TotalVertices" value="491856" />
-    <property name="TotalTriangles" value="487273" />
+    <property name="TotalVertices" value="491872" />
+    <property name="TotalTriangles" value="487281" />
     <property class="BlockEntities">
       <property name="Vertices" value="458030" />
       <property name="Triangles" value="462311" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="24219" />
-      <property name="Triangles" value="13702" />
+      <property name="Vertices" value="24235" />
+      <property name="Triangles" value="13710" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
