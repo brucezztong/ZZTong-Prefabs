@@ -22,15 +22,22 @@
   <property name="Tags" value="part" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="36, 3, 35" />
+      <property name="0" value="33, 7, 26" />
+      <property name="1" value="35, 5, 29" />
+      <property name="2" value="22, 5, 32" />
+      <property name="3" value="24, 5, 32" />
+      <property name="4" value="27, 5, 32" />
+      <property name="5" value="33, 5, 32" />
+      <property name="6" value="29, 3, 35" />
+      <property name="7" value="36, 3, 35" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="353918" />
-    <property name="TotalTriangles" value="341979" />
+    <property name="TotalVertices" value="330402" />
+    <property name="TotalTriangles" value="314852" />
     <property class="BlockEntities">
-      <property name="Vertices" value="253517" />
-      <property name="Triangles" value="277077" />
+      <property name="Vertices" value="230001" />
+      <property name="Triangles" value="249950" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="85856" />
