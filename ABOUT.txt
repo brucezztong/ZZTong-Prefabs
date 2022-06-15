@@ -448,6 +448,20 @@ to get bigger which led to the OFI Mondays restaurant, which is a play on
 TGI Fridays. If that rubs some lawyers the wrong way, see the notes for the
 Pharmacy POI, above.
 
+SURVIVOR BASE RUIN 01
+
+This POI was made in response to a "Pimp Dream" request by Tete1805. They
+wanted to see "bases from other survivors who didn't make it." And by that,
+they meant horde bases, not survivor settlements. The design for this POI
+was inspired by (but is not a copy of) the A19 Community Center base on the
+Not-A-Gamer Gaming (NAGG) Build Server. Notable differences is this base has
+several flaws such that I'm not seeding game worlds with pre-build bases that
+are ready for heavy hordes. Weaker materials were used, holes were punched in
+walls, and damaged blocks are liberally scattered about the place. There's no
+quest and very little loot. The "prize" is the building itself, and it is full
+of zombies. Finally, this POI is placed in the Wilderness so that it is
+unlikely to get convenient placement for most player destinations.
+
 SURVIVOR SITE URBAN 01
 
 The premis for this POI was that all of TFP's Survivor Sites were for rural or
