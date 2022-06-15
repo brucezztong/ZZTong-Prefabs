@@ -116,6 +116,8 @@ RELEASE NOTES: (Newest to Oldest)
 A20.5 - ZZ009 - Added Dog_Park_01 rural filler. (Beware of the Dog)
 Added NTT_Hub_01 and NTT_HQ_01.
 Added survivor_base_ruin_01 which has special purpose (see ABOUT.txt).
+Added a Gateway Tile and a bunch of Parts to allow for lots of possabilities.
+Added some decorations that look like ruined horde bases.
 Re-rebalanced loot in Tier 5's because I really screwed those up.
 Re-rebalanced loot in Masonry_01 and Cement_Plant_01. Still too much cement.
 Removed fetch quests from Tiers 3, 4, and 5. Apparently they're too easy.
