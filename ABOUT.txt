@@ -165,6 +165,16 @@ GARAGE 01
 This POI is a small county garage to hold a couple of state vehicles. I made
 it pretty quickly as we're kind of short on XS POIs for Rural tiles.
 
+GATEWAY CONTENT
+
+This is a collective entry for more than a dozen POIs that are currently
+implemented as Parts because of the quirks of trying to work with the Gateway
+tiles. As Parts, these cannot have Quests. Given Gateway Tiles are popular
+tiles upon which to build bases, I have intentionally not filled them with
+a normal amount of loot, kind of like how TFP does with filler and remnant
+content. I'm hopeful TFP will revisit how Gateway Tiles are implemented and
+should that happen each of these POIs can become a normal POI in the future.
+
 HOUSE 01
 
 My first POI based on a real house. The odd basement with a crawl-space
@@ -274,6 +284,15 @@ MOTOCROSS 01
 The Motocross POI has some potential for use for community events, such as
 motorcycle and mini-bike races. If you're running a server with those kinds
 of events, it could be a lot of fun with a horde to complicate things.
+
+NTT HQ 01
+NTT HUB 01
+
+Local telephone companies were common throughout the country and in some cases
+have survived into modern times despite the public's move to cellular. These
+assume Navezgane is one of those cities/counties that still support a local
+"telco" because why not. The HQ is the main office building. The Hub is a
+small service building to be found about towns and cities.
 
 OFFICE BUILDING 01 & OFFICE BUILDING 01 DESTROYED
 

@@ -26,6 +26,34 @@ CLIENT INSTALLATION (Mac) - TBD
 CLIENT INSTALLATION (Linux) - TBD
 SERVER INSTALLATION - TBD
 
+IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
+
+I don't know, but I'm going to assert I think it works as a server-side only
+modlet. The advice I get from more experienced POI developers is that all of a
+modlet's POIs need to be installed on the client-side. Please let me know if
+your testing reveals something conclusive. I don't want to be spreading
+incorrect information.
+
+VANILLA RANDOM WORLD GENERATOR (RWG):
+
+Installing this Mod should be all that is necessary to include this content
+when generating a new world using the 7D2D built-in Random World Generator. Of
+course, it is up the the RWG to determine if, when, and where to place things.
+
+As of ZZ009, this modlet changes the configuration of rwgmixer.xml to put two
+more TFP Tiles into play for increased variety. Also, it changes Cities to be
+ringed by Residential rather than Rural content. This way, Country Towns are
+surrounded by Farms, but Cities are surrounded by Houses. If you don't like
+that, then change the rwgmixer.xml file in this modlet.
+
+WORLD EDITOR:
+
+If you have already made a map and plan to place these POIs by hand then be
+aware that I make extensive use of Parts. Manual placement does not know about
+Parts, so you run the risk of ending up with a POI that is missing content.
+That content can include loot. This is an A20 reality. I have no idea if A21
+will include more widespread support for Parts.
+
 CONFLICTS: (CompoPack)
 
 These POIs are also contributed to the CompoPack. If you are also using the
@@ -47,16 +75,10 @@ work.
 
 CONFLICTS: (Overhaul Mods)
 
-Overhaul Mods tend to have their own versions of POIs. You should not need to
-also have the ZZTong Mod installed at the same time. Doing so can result in
-duplicate content, and depending on the overhaul mod, the POIs in this modlet
-may not be fully functional.
-
-VANILLA RANDOM WORLD GENERATOR (RWG):
-
-Installing this Mod should be all that is necessary to include this content
-when generating a new world using the 7D2D built-in Random World Generator. Of
-course, it is up the the RWG to determine if, when, and where to place things.
+Overhaul Mods make extensive changes to the game and I cannot give you a recipe
+for how to include these POIs. I need to know specifics. Sometimes an Overhaul
+Mod needs to change the POIs and sometimes they don't. Sometimes an Overhaul
+Mod knows how to find content in a modlet, and sometimes it doesn't.
 
 POI NOTES:
 
@@ -115,7 +137,7 @@ RELEASE NOTES: (Newest to Oldest)
 
 A20.5 - ZZ009 - Added Dog_Park_01 rural filler. (Beware of the Dog)
 Added NTT_Hub_01 and NTT_HQ_01.
-Added survivor_base_ruin_01 which has special purpose (see ABOUT.txt).
+Added Survivor_Base_Ruin_01 which has special purpose (see ABOUT.txt).
 Added a Gateway Tile and a bunch of Parts to allow for lots of possabilities.
 Added some decorations that look like ruined horde bases.
 Re-rebalanced loot in Tier 5's because I really screwed those up.
