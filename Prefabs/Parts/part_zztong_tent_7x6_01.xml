@@ -12,12 +12,19 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Tags" value="part" />
   <property name="Zoning" value="none" />
+  <property name="SleeperVolumeSize" value="7, 4, 6" />
+  <property name="SleeperVolumeStart" value="1, 0, 1" />
+  <property name="SleeperVolumeGroupId" value="0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperIsLootVolume" value="False" />
+  <property name="SleeperIsQuestExclude" value="False" />
+  <property name="SleeperVolumeFlags" value="0" />
   <property class="Stats">
-    <property name="TotalVertices" value="2514" />
-    <property name="TotalTriangles" value="1302" />
+    <property name="TotalVertices" value="6570" />
+    <property name="TotalTriangles" value="5638" />
     <property class="BlockEntities">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="4056" />
+      <property name="Triangles" value="4336" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="2514" />
