@@ -4,15 +4,16 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="1" />
+  <property name="QuestTags" value="clear,fetch"/>
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
   <property name="PrefabSize" value="18, 3, 18" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="rural" />
   <property class="Stats">
     <property name="TotalVertices" value="815914" />
     <property name="TotalTriangles" value="1143874" />
