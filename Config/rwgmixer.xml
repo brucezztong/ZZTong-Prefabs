@@ -5,14 +5,14 @@
 
 	<append xpath="/rwgmixer">
 		<streettile name="rwg_tile_rural_straight_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="1"/>
+			<property name="maxtiles" value="2"/>
+			<property name="mintiles" value="0"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
 		
 		<streettile name="rwg_tile_rural_corner_zztong_01">
 			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="1"/>
+			<property name="mintiles" value="0"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
 		
@@ -24,20 +24,20 @@
 		
 		<streettile name="rwg_tile_gateway_cap_zztong_01">
 			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="1"/>
+			<property name="mintiles" value="0"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
 
         <!-- UNUSED TFP TILES - REEVALUATE FOR A21 -->
 		<streettile name="rwg_tile_rural_t_02">
-			<property name="maxtiles" value="1"/>
+			<property name="maxtiles" value="2"/>
 			<property name="mintiles" value="1"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
 		
         <!-- UNUSED TFP TILES - REEVALUATE FOR A21 -->
 		<streettile name="rwg_tile_rural_t_03">
-			<property name="maxtiles" value="1"/>
+			<property name="maxtiles" value="2"/>
 			<property name="mintiles" value="1"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
