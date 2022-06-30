@@ -14,17 +14,17 @@
   <property name="AllowedTownships" value="wilderness" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert,burnt_forest" />
   <property name="EditorGroups" value="Wilderness" />
-  <property name="PrefabSize" value="7, 9, 7" />
+  <property name="PrefabSize" value="7, 8, 7" />
   <property class="Stats">
-    <property name="TotalVertices" value="4165" />
-    <property name="TotalTriangles" value="5327" />
+    <property name="TotalVertices" value="44767" />
+    <property name="TotalTriangles" value="77689" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1908" />
-      <property name="Triangles" value="2959" />
+      <property name="Vertices" value="44247" />
+      <property name="Triangles" value="76953" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="120" />
-      <property name="Triangles" value="60" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -39,8 +39,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="1617" />
-      <property name="Triangles" value="1572" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
