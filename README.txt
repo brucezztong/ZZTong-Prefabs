@@ -1,4 +1,4 @@
-ZZTONG-PREFABS READ-ME for A20.5-ZZ009
+ZZTONG-PREFABS READ-ME for A20.5-ZZ010
 
 GOAL:
 
@@ -134,6 +134,9 @@ CompoPack Discord channels taught me a lot about 7D2D Prefabs, the Prefab
 Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
+
+A20.5-ZZ010 - Converted 13 field parts into rural POIs with dig quests.
+Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added two rural Tiles.
 
 A20.5 - ZZ009 - Added Dog_Park_01 rural filler. (Beware of the Dog)
 Added NTT_Hub_01 and NTT_HQ_01.

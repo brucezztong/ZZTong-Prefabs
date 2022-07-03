@@ -59,6 +59,10 @@ bulldozer and road construction supplies could whip up an earthen wall and
 make a fort pretty quick if they just had a day or two of warning. A20 did
 not change this POI very much.
 
+CAR WASH 01
+
+This is very similar to a car wash in my home town.
+
 CAVE 01
 
 This POI was made as part of my effort to create Wilderness content so that
@@ -159,6 +163,14 @@ quickly thrown together in A19 and didn't change much for A20. The small
 trees are to represent a Christmas Tree salesman. At least locally, our
 farmer's market is held within the city limits as is not the same as a
 roadside produce stand.
+
+FIELDS (Various)
+
+These were first made a Parts for my library, but I hadn't used them. Since
+I've been trying to make rural tiles less sparse, I've been making XS rural
+POIs to fill in the gaps. I didn't want these to just be zombies laying in a
+field, so I burried quest satchels so players can dig a little too. Some of
+the "field" POIs are actually farm buildings.
 
 GARAGE 01
 
@@ -530,11 +542,22 @@ Europe. Combined with steady sales growth in North and Central America and
 Shamway's factory had to displace its test kitchen and senior offices. The
 vacated Crack-A-Book building was perfect.
 
+TRAILER 01
+
+There's no long story with this one. I like trailers in the game and felt
+like making one to land on a rural tile in the 25x25 spots I've been making.
+
 TRAILER PARK 01
 
 I thought the TFP's A19 Trailer Park was really creative and I was inspired to
 make one of my own. I spent a bunch of play time in A19 using trailers as
 bases while on a minimalist kick.
+
+TRAILER PARK 02
+
+This was a self-imposed challenge to make a Trailer Park higher than tier 1.
+The larger 60x60 foot-print easily supported tier 2. I've been watching the
+Breaking Bad TV show, so adding a secret drug lab got it to tier 3.
 
 VAULT K9 01
 
