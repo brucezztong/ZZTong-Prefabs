@@ -4,40 +4,57 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
-  <property name="DifficultyTier" value="0" />
+  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="DifficultyTier" value="3" />
+  <property name="QuestTags" value="clear"/>
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="60, 7, 60" />
+  <property name="PrefabSize" value="60, 18, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="rural" />
+  <property name="POIMarkerSize" value="7, 3, 3#4, 1, 1#4, 1, 1#1, 1, 1#2, 2, 2#3, 2, 2#2, 2, 2#5, 5, 11#1, 1, 1#5, 4, 5#8, 13, 3#8, 13, 3" />
+  <property name="POIMarkerStart" value="25, 8, 43#43, 8, 1#13, 8, 5#44, 8, 19#41, 8, 56#45, 8, 57#34, 8, 48#42, 8, 34#48, 8, 21#30, 8, 18#11, 7, -3#41, 7, -3" />
+  <property name="POIMarkerGroup" value="truck,spikes1,spikes2,cart,cobble,dumpster,delivery,camper,barrel,shed,drive1,drive2" />
+  <property name="POIMarkerTags" value="###########" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_vehicle_service_01,part_zztong_spikes_wood4,part_zztong_spikes_wood4,part_zztong_shopping_cart_01,part_zztong_pallets_cobble_01,part_zztong_dumpster_02,part_zztong_delivery_02,part_zztong_camper_01,part_zztong_barrel_burning_01,part_shed_03,part_driveway_rural_06,part_driveway_rural_06" />
+  <property name="POIMarkerPartRotations" value="1,0,0,0,3,0,1,0,0,1,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.2,0.4,0.4,0.6,0.4,0.6,0.6,0.4,0.6,0.8,1,1" />
+  <property name="SleeperVolumeSize" value="7, 7, 15#7, 7, 15#7, 7, 17#7, 7, 15#8, 7, 16#7, 7, 17#9, 7, 15#8, 7, 16#8, 7, 17#7, 7, 17#9, 5, 12#20, 7, 9#13, 5, 15" />
+  <property name="SleeperVolumeStart" value="2, 8, 2#2, 8, 22#2, 8, 42#21, 8, 2#21, 8, 26#31, 8, 1#30, 8, 26#50, 8, 1#51, 8, 21#51, 8, 42#41, 8, 46#20, 8, 50#27, 1, 38" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,animalZombieDog,1,1,S_-_Group_Zom_Badass,4,5,S_-_Group_Zom_Badass,8,9" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="YOffset" value="-8" />
   <property class="Stats">
-    <property name="TotalVertices" value="202467" />
-    <property name="TotalTriangles" value="208059" />
+    <property name="TotalVertices" value="767109" />
+    <property name="TotalTriangles" value="828741" />
     <property class="BlockEntities">
-      <property name="Vertices" value="111851" />
-      <property name="Triangles" value="137402" />
+      <property name="Vertices" value="633575" />
+      <property name="Triangles" value="727761" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="78496" />
-      <property name="Triangles" value="53440" />
+      <property name="Vertices" value="109631" />
+      <property name="Triangles" value="71471" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="256" />
-      <property name="Triangles" value="168" />
+      <property name="Vertices" value="528" />
+      <property name="Triangles" value="320" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="2978" />
-      <property name="Triangles" value="2173" />
+      <property name="Vertices" value="11727" />
+      <property name="Triangles" value="9455" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -48,26 +65,32 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="8886" />
-      <property name="Triangles" value="14876" />
+      <property name="Vertices" value="11620" />
+      <property name="Triangles" value="19720" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="28" />
+      <property name="Triangles" value="14" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="54, 4, 47" />
-      <property name="1" value="51, 3, 49" />
-      <property name="2" value="54, 4, 51" />
+      <property name="0" value="54, 11, 47" />
+      <property name="1" value="51, 10, 49" />
+      <property name="2" value="54, 11, 51" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="14, 8, 1" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="37, 9, 52" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="29, 2, 51" />
+      <property name="0" value="33, 1, 53" />
     </property>
   </property>
 </prefab>
