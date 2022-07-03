@@ -158,7 +158,7 @@ A couple of POIs changed tiers. Added decorations for the Wasteland.
 Introduced this modlet to GitHub for my own sanity and peace of mind.
 This should have no effect on modlet distribution, but may open up options for
 those who work on other projects, plus it gives me a nice backup location.
-I do NOT recommend consumers of this modlet pull from the head of this project.
+I do NOT recommend consumers of this modlet pull from the head of main branch.
 
 Introduced this modlet to the GPLv3 license. See LICENSE.TXT and the
 LICENSE-NOTES.txt files for details. It should not represent a significant
