@@ -137,6 +137,7 @@ RELEASE NOTES: (Newest to Oldest)
 
 A20.5-ZZ010 - Converted 13 field parts into rural POIs with dig quests.
 Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added two rural Tiles.
+Fixed a bug in Ranch_01 part list.
 
 A20.5 - ZZ009 - Added Dog_Park_01 rural filler. (Beware of the Dog)
 Added NTT_Hub_01 and NTT_HQ_01.
