@@ -16,7 +16,7 @@
   <property name="POIMarkerGroup" value="road,gas1,silo1,silo2,silo3,coop,storm,mines1,mines2" />
   <property name="POIMarkerTags" value="########" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_04,part_gas_contraption_01,part_farm60_silo_02,part_farm60_silo_02,part_farm60_silo_02,part_chicken_coup_02,part_zztong_storm_cellar_03,part_zztong_Mine_Field_02,part_zztong_mine_field_02" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_04,part_gas_contraption_01,part_farm60_silo_02,part_farm60_silo_02,part_farm60_silo_02,part_chicken_coup_02,part_zztong_storm_cellar_03,part_zztong_mine_field_02,part_zztong_mine_field_02" />
   <property name="POIMarkerPartRotations" value="2,0,3,3,3,1,1,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.8,0.8,0.8,0.8,0.8,0.8,0.2,0.2" />
   <property name="Zoning" value="none" />
