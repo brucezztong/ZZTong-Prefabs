@@ -7,7 +7,7 @@
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
   <property name="QuestTags" value="clear" />
-  <property name="ShowQuestClearCount" value="3" />
+  <property name="ShowQuestClearCount" value="5" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 40, 64" />
   <property name="RotationToFaceNorth" value="2" />
