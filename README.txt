@@ -137,8 +137,10 @@ RELEASE NOTES: (Newest to Oldest)
 
 A20.5-ZZ010 - Converted 13 field parts into rural POIs with dig quests.
 Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added four rural Tiles.
+The Apartment_02 landlord has finally painted the place. Yeeesh!
 Fixed a bug in Ranch_01 part list. Fixed a bug in Farm_08. Fixed three
 Storm Cellar Parts that had some weird layer of stone inserted in them.
+Water Tower Parts now have water. What a novel concept.
 
 A20.5 - ZZ009 - Added Dog_Park_01 rural filler. (Beware of the Dog)
 Added NTT_Hub_01 and NTT_HQ_01.
