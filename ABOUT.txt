@@ -570,7 +570,9 @@ WAREHOUSE 01
 A19 seemed to have a shortage of industrial POIs, which led to this creation.
 A significant challenge with this POI was balancing loot, as there is great
 temptation to fill a warehouse with crates and there is a large variety of
-loot crates that can be used.
+loot crates that can be used. In ZZ010 the Warehouse got some custom Crate
+blocks in response to criticism about painting wood blocks. Thanks for the
+feedback and the push.
 
 WIND TURBINE 01
 

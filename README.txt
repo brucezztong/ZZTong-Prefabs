@@ -138,6 +138,7 @@ RELEASE NOTES: (Newest to Oldest)
 A20.5-ZZ010 - Converted 13 field parts into rural POIs with dig quests.
 Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added four rural Tiles.
 Added Political_Party_HQ_01.
+Added some custom blocks and loot lists: 100% XML.
 The Apartment_02 landlord has finally painted the place. Yeeesh!
 Fixed a bug in Ranch_01 part list. Fixed a bug in Farm_08. Fixed three
 Storm Cellar Parts that had some weird layer of stone inserted in them.

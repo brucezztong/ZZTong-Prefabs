@@ -103,5 +103,18 @@
             <item name="ammoArrowStone" prob="1" count="1,5"/>
             <item name="gunBowT1WoodenBow" prob="0.2" count="1"/>
         </lootcontainer>
+
+        <lootcontainer id="1007" name="zztongBookcaseNoBooks" count="1" size="6,2" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" loot_quality_template="qualBaseTemplate">
+            <item name="resourcePaper" prob="1" count="1,10"/>
+            <item name="resourceLeather" prob="0.8" count="1"/>
+            <item name="resourceGlue" prob="0.2" count="1"/>
+            <item name="resourceTrophy1" prob="0.2" count="1"/>
+            <item name="resourceTrophy2" prob="0.2" count="1"/>
+            <item name="resourceCandleStick" prob="0.2" count="1,2"/>
+            <item name="resourceFeather" prob="0.2" count="1"/>
+            <item name="resourceBone" prob="0.2" count="1,2"/>
+            <item name="resourceLockPick" prob="0.1" count="1,4"/>
+            <item group="dyes" prob="0.1" count="1"/>
+        </lootcontainer>
 	</insertAfter>
 </lootcontainers>

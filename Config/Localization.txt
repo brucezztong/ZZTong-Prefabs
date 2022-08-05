@@ -1,4 +1,5 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+zztongBookcaseBookless,blocks,Container,,,Bookcase,,Bücherregal,Estantería,Bibliothèque,Libreria,ブックケース,책장,Regał na książki,Estante de Livros,Книжный шкаф,Kitaplık,书架,書櫃,Estantería
 zztongStorageGenericCube,blocks,Container,,,Storage Box Cube,,Aufbewahrungskiste,Caja de almacenamiento,Caisse de rangement,Scatola portaoggetti,保管ボックス,보관함,Pudło na rzeczy,Caixa de Armazenamento,Коробка для хранения,Saklama Kutusu,储物盒,儲物盒,Caja de almacenamiento
 zztongStorageGenericEmpty,blocks,Container,,,Storage Box,,Aufbewahrungskiste,Caja de almacenamiento,Caisse de rangement,Scatola portaoggetti,保管ボックス,보관함,Pudło na rzeczy,Caixa de Armazenamento,Коробка для хранения,Saklama Kutusu,储物盒,儲物盒,Caja de almacenamiento
 zztongStorageGenericAmmo,blocks,Container,,,Ammo Storage Box,,Aufbewahrungskiste,Caja de almacenamiento,Caisse de rangement,Scatola portaoggetti,保管ボックス,보관함,Pudło na rzeczy,Caixa de Armazenamento,Коробка для хранения,Saklama Kutusu,储物盒,儲物盒,Caja de almacenamiento
