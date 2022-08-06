@@ -29,7 +29,9 @@ SERVER INSTALLATION - TBD
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
 I don't know, but I'm going to assert I think it works as a server-side only
-modlet. The advice I get from more experienced POI developers is that all of a
+modlet. This modlet adds POI files and makes a few XML additions.
+
+The advice I get from more experienced POI developers is that all of a
 modlet's POIs need to be installed on the client-side. Please let me know if
 your testing reveals something conclusive. I don't want to be spreading
 incorrect information.
@@ -79,6 +81,11 @@ Overhaul Mods make extensive changes to the game and I cannot give you a recipe
 for how to include these POIs. I need to know specifics. Sometimes an Overhaul
 Mod needs to change the POIs and sometimes they don't. Sometimes an Overhaul
 Mod knows how to find content in a modlet, and sometimes it doesn't.
+
+Some Overhaul Mods choose to embed this modlet, or portions of this modlet,
+in their own distributions. I cannot predict the possible collisions and
+ramifications. I also cannot force overhaul modders to update to my latest
+versions of POIs.
 
 POI NOTES:
 
