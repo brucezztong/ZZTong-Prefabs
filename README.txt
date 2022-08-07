@@ -145,7 +145,7 @@ Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
 
-A20.6-ZZ010 - Converted 13 field parts into rural POIs with dig quests.
+A20.6-ZZ010 - Converted 13 field parts into rural filler and three quests.
 Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added four rural Tiles.
 Added Political_Party_HQ_01.
 Added some custom blocks and loot lists: 100% XML.
