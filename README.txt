@@ -1,4 +1,4 @@
-ZZTONG-PREFABS READ-ME for A20.5-ZZ010
+ZZTONG-PREFABS READ-ME for A20.6-ZZ010
 
 GOAL:
 
@@ -28,13 +28,16 @@ SERVER INSTALLATION - TBD
 
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
-I don't know, but I'm going to assert I think it works as a server-side only
-modlet. This modlet adds POI files and makes a few XML additions.
+I recommend both, but server side only should work for non-Admin players.
 
-The advice I get from more experienced POI developers is that all of a
-modlet's POIs need to be installed on the client-side. Please let me know if
-your testing reveals something conclusive. I don't want to be spreading
-incorrect information.
+As near as I have been able to determine, because POIs are rolled into the
+world distributed by the server, and all the modlet's additions to the game
+configuration are in XML, that this can be a Server-Side only modlet.
+
+However, if you also install the modlet on the Clinet-Side then there are game
+features that become supported, such as using F11 to identify a POI, or Admin
+abilities such as being able to teleport to a POI. Players may also find that
+odd things, like key boxes, only work if they have the modlet installed.
 
 VANILLA RANDOM WORLD GENERATOR (RWG):
 
@@ -142,7 +145,7 @@ Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
 
-A20.5-ZZ010 - Converted 13 field parts into rural POIs with dig quests.
+A20.6-ZZ010 - Converted 13 field parts into rural POIs with dig quests.
 Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added four rural Tiles.
 Added Political_Party_HQ_01.
 Added some custom blocks and loot lists: 100% XML.
