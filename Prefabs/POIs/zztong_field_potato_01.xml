@@ -5,7 +5,7 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
-  <property name="DifficultyTier" value="1" />
+  <property name="DifficultyTier" value="0" />
   <property name="QuestTags" value="fetch" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -22,15 +22,15 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-5" />
   <property class="Stats">
-    <property name="TotalVertices" value="133807" />
-    <property name="TotalTriangles" value="101779" />
+    <property name="TotalVertices" value="124539" />
+    <property name="TotalTriangles" value="92365" />
     <property class="BlockEntities">
-      <property name="Vertices" value="126871" />
-      <property name="Triangles" value="95739" />
+      <property name="Vertices" value="118031" />
+      <property name="Triangles" value="86609" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="4832" />
-      <property name="Triangles" value="2416" />
+      <property name="Vertices" value="4520" />
+      <property name="Triangles" value="2260" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -57,8 +57,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="2104" />
-      <property name="Triangles" value="3624" />
+      <property name="Vertices" value="1988" />
+      <property name="Triangles" value="3496" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />
@@ -67,14 +67,6 @@
     <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-  </property>
-  <property class="IndexedBlockOffsets">
-    <property class="Rally">
-      <property name="0" value="15, 5, 1" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="12, 2, 11" />
     </property>
   </property>
 </prefab>
