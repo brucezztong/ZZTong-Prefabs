@@ -55,12 +55,44 @@
             <property name="FilterTags" value="MC_building,SC_loot"/>
         </block>
 
+        <block name="zztongStorageGenericAmmoCube">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntStorageHealth"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Material" value="MwoodReinforced"/>
+            <property name="Texture" value="418"/>
+            <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
+            <property class="RepairItems">
+                <property name="resourceWood" value="10"/>
+            </property>
+            <drop event="Destroy" name="resourceWood" count="1,3"/>
+            <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+            <property name="DescriptionKey" value="creativeMenuBlockGroupDesc"/>
+            <property name="FilterTags" value="MC_building,SC_loot"/>
+        </block>
+
         <block name="zztongStorageGenericBuilding">
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="cntStorageHealth"/>
             <property name="CustomIconTint" value="6BB6E8"/>
             <property name="Class" value="Loot"/>
             <property name="LootList" value="zztongStorageCrateBldg"/>
+            <property name="Material" value="MwoodReinforced"/>
+            <property name="Texture" value="419"/>
+            <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
+            <property class="RepairItems">
+                <property name="resourceWood" value="10"/>
+            </property>
+            <drop event="Destroy" name="resourceWood" count="1,3"/>
+            <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+            <property name="DescriptionKey" value="creativeMenuBlockGroupDesc"/>
+            <property name="FilterTags" value="MC_building,SC_loot"/>
+        </block>
+
+        <block name="zztongStorageGenericBuildingCube">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntStorageHealth"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
             <property name="Material" value="MwoodReinforced"/>
             <property name="Texture" value="419"/>
             <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
@@ -91,12 +123,44 @@
             <property name="FilterTags" value="MC_building,SC_loot"/>
         </block>
 
+        <block name="zztongStorageGenericExplosivesCube">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntStorageHealth"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Material" value="MwoodReinforced"/>
+            <property name="Texture" value="420"/>
+            <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
+            <property class="RepairItems">
+                <property name="resourceWood" value="10"/>
+            </property>
+            <drop event="Destroy" name="resourceWood" count="1,3"/>
+            <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+            <property name="DescriptionKey" value="creativeMenuBlockGroupDesc"/>
+            <property name="FilterTags" value="MC_building,SC_loot"/>
+        </block>
+
         <block name="zztongStorageGenericFood">
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="cntStorageHealth"/>
             <property name="CustomIconTint" value="6BB6E8"/>
             <property name="Class" value="Loot"/>
             <property name="LootList" value="zztongStorageCrateFood"/>
+            <property name="Material" value="MwoodReinforced"/>
+            <property name="Texture" value="421"/>
+            <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
+            <property class="RepairItems">
+                <property name="resourceWood" value="10"/>
+            </property>
+            <drop event="Destroy" name="resourceWood" count="1,3"/>
+            <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+            <property name="DescriptionKey" value="creativeMenuBlockGroupDesc"/>
+            <property name="FilterTags" value="MC_building,SC_loot"/>
+        </block>
+
+        <block name="zztongStorageGenericFoodCube">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntStorageHealth"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
             <property name="Material" value="MwoodReinforced"/>
             <property name="Texture" value="421"/>
             <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
@@ -127,7 +191,41 @@
             <property name="FilterTags" value="MC_building,SC_loot"/>
         </block>
 
+        <block name="zztongStorageGenericMedicalCube">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntStorageHealth"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Material" value="MwoodReinforced"/>
+            <property name="Texture" value="284"/>
+            <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
+            <property class="RepairItems">
+                <property name="resourceWood" value="10"/>
+            </property>
+            <drop event="Destroy" name="resourceWood" count="1,3"/>
+            <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+            <property name="DescriptionKey" value="creativeMenuBlockGroupDesc"/>
+            <property name="FilterTags" value="MC_building,SC_loot"/>
+        </block>
+
         <block name="zztongStorageGenericWeapons">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntStorageHealth"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Class" value="Loot"/>
+            <property name="LootList" value="zztongStorageCrateWeaps"/>
+            <property name="Material" value="MwoodReinforced"/>
+            <property name="Texture" value="422"/>
+            <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
+            <property class="RepairItems">
+                <property name="resourceWood" value="10"/>
+            </property>
+            <drop event="Destroy" name="resourceWood" count="1,3"/>
+            <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+            <property name="DescriptionKey" value="creativeMenuBlockGroupDesc"/>
+            <property name="FilterTags" value="MC_building,SC_loot"/>
+        </block>
+
+        <block name="zztongStorageGenericWeaponsCube">
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="cntStorageHealth"/>
             <property name="CustomIconTint" value="6BB6E8"/>

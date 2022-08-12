@@ -124,6 +124,7 @@
             <item name="resourceGlue" prob="0.2" count="1"/>
             <item name="resourceFeather" prob="0.2" count="1"/>
             <item name="resourceBone" prob="0.2" count="1,2"/>
+            <item name="candle" prob="0.2" count="1,2"/>
             <item name="resourceLockPick" prob="0.1" count="1,4"/>
             <item group="dyes" prob="0.1" count="1"/>
             <item name="armorSantaHat" prob="0.1" count="1"/>

@@ -149,6 +149,9 @@ A20.6-ZZ010 - Converted 13 field parts into rural filler and three quests.
 Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added four rural Tiles.
 Added Political_Party_HQ_01.
 Added some custom blocks and loot lists: 100% XML.
+Converted Warehouse_01 to use custom crate blocks.
+Renamed "Shamway HQ" to "Beatrice Foods" in zztong_TFP_Skyscraper_02" and
+converted the POI to use custom crate blocks.
 The Apartment_02 landlord has finally painted the place. Yeeesh!
 Fixed a bug in Ranch_01 part list. Fixed a bug in Farm_08. Fixed three
 Storm Cellar Parts that had some weird layer of stone inserted in them.
