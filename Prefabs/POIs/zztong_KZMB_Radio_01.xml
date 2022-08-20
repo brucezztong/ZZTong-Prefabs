@@ -24,7 +24,7 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="commercial" />
-  <property name="PrefabSize" value="42, 60, 42" />
+  <property name="PrefabSize" value="42, 83, 42" />
   <property name="POIMarkerSize" value="1, 1, 1#4, 1, 1#4, 1, 1" />
   <property name="POIMarkerStart" value="25, 2, 1#24, 3, 10#15, 3, 10" />
   <property name="POIMarkerGroup" value="cart,spikes1,spikes2" />
@@ -45,23 +45,23 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="569193" />
-    <property name="TotalTriangles" value="560227" />
+    <property name="TotalVertices" value="575592" />
+    <property name="TotalTriangles" value="569346" />
     <property class="BlockEntities">
-      <property name="Vertices" value="413138" />
-      <property name="Triangles" value="463062" />
+      <property name="Vertices" value="418147" />
+      <property name="Triangles" value="469013" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="135802" />
-      <property name="Triangles" value="76816" />
+      <property name="Vertices" value="137416" />
+      <property name="Triangles" value="80096" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="224" />
-      <property name="Triangles" value="112" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="2308" />
