@@ -145,7 +145,9 @@ Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
 
-A20.6-ZZ011 - Gave KZMB Radio a better tower. Added vacant_lot_01.
+A20.6-ZZ011 - Gave KZMB Radio a better tower.
+Added lot_vacant_01 and lot_vacant_02.
+Added 8 Rubble and 1 Grave Decor, mostly to Desert, a little to Forest.
 
 A20.6-ZZ010 - Converted 13 field parts into rural filler and three quests.
 Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added four rural Tiles.

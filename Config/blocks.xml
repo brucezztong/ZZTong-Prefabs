@@ -288,5 +288,26 @@
             <property name="SortOrder2" value="0060"/>
             <property name="DescriptionKey" value="furnitureGroupDesc"/>
         </block>
+
+        <block name="zztongBicyle">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="vehicleBicycleChassis"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Material" value="Mmetal_thin"/>
+            <property name="EconomicBundleSize" value="1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/Vehicles?bicycle_Prefab.prefab"/>
+            <property name="Collide" value="movement,melee,rocket"/>
+            <property name="DisplayType" value="blockMulti"/>
+            <property name="MultiBlockDim" value="1,2,2"/>
+            <property name="IsTerrainDecoration" value="true"/>
+            <drop event="Destroy" name="resourceScrapIron" count="10,20"/>
+            <drop event="Fall" name="scrapMetalPile" count="1" prob="0.75" stick_chance="1"/>
+            <property name="FilterTags" value="MC_outdoor,SC_decor"/>
+            <property name="Group" value="Decor/Miscellaneous"/>
+            <property name="DescriptionKey" value="furnitureGroupDesc"/>
+            <property name="SortOrder1" value="fh38"/>
+        </block>
 	</insertAfter>
 </blocks>
