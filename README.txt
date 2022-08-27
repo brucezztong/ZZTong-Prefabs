@@ -145,7 +145,9 @@ Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
 
-A20.6-ZZ011 - Gave KZMB Radio a better tower.
+A20.6-ZZ011 -
+Added store_s_01 for countrytown.
+Gave KZMB Radio a better antenna tower.
 Added minefield markers to Strip_Mall_01 as suggested by players.
 Added lot_vacant_01 and lot_vacant_02.
 Added 8 Rubble and 2 Grave Decor to Desert, Forest, and Snow.
