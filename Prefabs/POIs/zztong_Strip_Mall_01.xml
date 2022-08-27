@@ -57,20 +57,20 @@
       <property name="0" value="36, 3, 2" />
     </property>
     <property class="quest_feather">
-      <property name="0" value="23, 8, 31" />
-      <property name="1" value="33, 8, 26" />
+      <property name="0" value="33, 8, 26" />
+      <property name="1" value="23, 8, 31" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="560925" />
-    <property name="TotalTriangles" value="654078" />
+    <property name="TotalVertices" value="561681" />
+    <property name="TotalTriangles" value="654610" />
     <property class="BlockEntities">
       <property name="Vertices" value="516005" />
       <property name="Triangles" value="622530" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="31400" />
-      <property name="Triangles" value="17018" />
+      <property name="Vertices" value="32156" />
+      <property name="Triangles" value="17550" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
