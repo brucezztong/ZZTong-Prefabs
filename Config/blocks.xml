@@ -289,9 +289,9 @@
             <property name="DescriptionKey" value="furnitureGroupDesc"/>
         </block>
 
-        <block name="zztongBicyle">
+        <block name="zztongBicycleFloat">
             <property name="CreativeMode" value="Dev"/>
-            <property name="CustomIcon" value="vehicleBicycleChassis"/>
+            <property name="CustomIcon" value="vehicleBicyclePlaceable"/>
             <property name="CustomIconTint" value="6BB6E8"/>
             <property name="Material" value="Mmetal_thin"/>
             <property name="EconomicBundleSize" value="1"/>
@@ -308,6 +308,82 @@
             <property name="Group" value="Decor/Miscellaneous"/>
             <property name="DescriptionKey" value="furnitureGroupDesc"/>
             <property name="SortOrder1" value="fh38"/>
+        </block>
+
+        <block name="zztongBicycleGround">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="vehicleBicyclePlaceable"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Material" value="Mmetal_thin"/>
+            <property name="EconomicBundleSize" value="1"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/Vehicles?bicycle_Prefab.prefab"/>
+            <property name="Collide" value="movement,melee,rocket"/>
+            <property name="GndAlign" value="1"/>
+            <property name="DisplayType" value="blockMulti"/>
+            <property name="MultiBlockDim" value="1,1,2"/>
+            <property name="IsTerrainDecoration" value="true"/>
+            <drop event="Destroy" name="resourceScrapIron" count="10,20"/>
+            <drop event="Fall" name="scrapMetalPile" count="1" prob="0.75" stick_chance="1"/>
+            <property name="FilterTags" value="MC_outdoor,SC_decor"/>
+            <property name="Group" value="Decor/Miscellaneous"/>
+            <property name="DescriptionKey" value="furnitureGroupDesc"/>
+            <property name="SortOrder1" value="fh38"/>
+        </block>
+
+        <block name="zztongBackpack01Empty">
+            <property name="CustomIcon" value="cntBackpack01"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="Class" value="Loot"/>
+            <property name="DisplayType" value="blockHardened"/>
+            <property name="Material" value="Mcloth"/>
+            <property name="MaxDamage" value="100"/>
+            <property name="LightOpacity" value="0"/>
+            <property name="StabilitySupport" value="false"/>
+            <!--  build restriction  -->
+            <property name="Shape" value="Ext3dModel"/>
+            <property name="Texture" value="293"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Model" value="#Entities/LootContainers?backpack01Prefab.prefab"/>
+            <property name="IsTerrainDecoration" value="true"/>
+            <property name="Collide" value="melee,bullet,arrow,rocket"/>
+            <property name="GndAlign" value="1"/>
+            <property name="LootList" value="playerStorage"/>
+            <drop event="Harvest" name="resourceCloth" count="2" tag="allHarvest"/>
+            <drop event="Destroy" name="resourceCloth" count="1"/>
+            <property name="FilterTags" value="MC_building,SC_loot"/>
+        </block>
+
+        <block name="zztongBackpack03Empty">
+            <property name="Extends" value="zztongBackpack01Empty"/>
+            <property name="CustomIcon" value="cntBackpack03"/>
+            <property name="Model" value="#Entities/LootContainers?backpack03Prefab.prefab"/>
+        </block>
+
+        <block name="zztongDuffle01Empty">
+            <property name="Extends" value="zztongBackpack01Empty"/>
+            <property name="CustomIcon" value="cntDuffle01"/>
+            <property name="Model" value="#Entities/LootContainers?duffle01Prefab.prefab"/>
+        </block>
+
+        <block name="zztongSportsBag01Empty">
+            <property name="Extends" value="zztongBackpack01Empty"/>
+            <property name="CustomIcon" value="cntSportsBag01"/>
+            <property name="Model" value="#Entities/LootContainers?sports_bag01Prefab.prefab"/>
+        </block>
+
+        <block name="zztongSportsBag02Empty">
+            <property name="Extends" value="zztongBackpack01Empty"/>
+            <property name="CustomIcon" value="cntSportsBag02"/>
+            <property name="Model" value="#Entities/LootContainers?sports_bag02Prefab.prefab"/>
+        </block>
+
+        <block name="zztongPurse01Empty">
+            <property name="Extends" value="zztongBackpack01Empty"/>
+            <property name="CustomIcon" value="cntPurse01"/>
+            <property name="Model" value="#Entities/LootContainers?pursePrefab.prefab"/>
         </block>
 	</insertAfter>
 </blocks>

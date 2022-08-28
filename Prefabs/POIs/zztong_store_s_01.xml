@@ -8,34 +8,42 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="42, 9, 42" />
+  <property name="PrefabSize" value="42, 17, 42" />
   <property name="RotationToFaceNorth" value="3" />
+  <property name="Zoning" value="none" />
+  <property name="SleeperVolumeSize" value="7, 5, 8#6, 6, 7#13, 6, 14#10, 4, 8#10, 4, 6#10, 4, 14#20, 6, 14#12, 5, 19#10, 5, 12#11, 6, 8#16, 6, 12#7, 6, 7#9, 6, 7#8, 6, 19" />
+  <property name="SleeperVolumeStart" value="34, 1, 1#35, 1, 9#22, 1, 1#32, 7, 7#32, 7, 1#22, 7, 1#21, 11, 1#18, 1, 22#31, 1, 29#30, 1, 21#26, 8, 22#35, 8, 34#26, 8, 34#18, 8, 22" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,4,5" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="167137" />
-    <property name="TotalTriangles" value="172327" />
+    <property name="TotalVertices" value="642918" />
+    <property name="TotalTriangles" value="649451" />
     <property class="BlockEntities">
-      <property name="Vertices" value="126970" />
-      <property name="Triangles" value="145239" />
+      <property name="Vertices" value="545407" />
+      <property name="Triangles" value="585140" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="34259" />
-      <property name="Triangles" value="18818" />
+      <property name="Vertices" value="85739" />
+      <property name="Triangles" value="51845" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="480" />
+      <property name="Triangles" value="400" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="384" />
-      <property name="Triangles" value="192" />
+      <property name="Vertices" value="936" />
+      <property name="Triangles" value="468" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="980" />
-      <property name="Triangles" value="690" />
+      <property name="Vertices" value="5646" />
+      <property name="Triangles" value="4210" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -46,7 +54,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="4544" />
+      <property name="Vertices" value="4710" />
       <property name="Triangles" value="7388" />
     </property>
     <property class="ChunkMeshes8">
@@ -59,11 +67,13 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="POILight">
-      <property name="0" value="34, 6, 37" />
-    </property>
     <property class="TraderOnOff">
-      <property name="0" value="18, 2, 23" />
+      <property name="0" value="22, 2, 13" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="38, 6, 26" />
+      <property name="1" value="38, 12, 28" />
+      <property name="2" value="37, 12, 35" />
     </property>
   </property>
 </prefab>
