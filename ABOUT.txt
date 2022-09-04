@@ -403,6 +403,12 @@ they leave behind I think back to how the quarries I've seen had fences around
 them and look, I put a fence around it, okay?! The transition from A19 to A20
 was quick and easy.
 
+STORE S 01 - PEDDLER PACKER and BELLA VINO
+These are based on two stores from my home town, though they don't look like
+that in real life. The challenge with the Peddler has been to get bikes to be
+block content, instead of a usable bike, which would drastically change the
+game dynamics early in the game.
+
 STORE XS 01 - AVALANCHE PIZZA
 
 This is a tribute to the greatest real life pizza on Earth. It was the first

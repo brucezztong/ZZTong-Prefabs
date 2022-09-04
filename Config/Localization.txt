@@ -1,6 +1,8 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
 zztongBackpack01Empty,blocks,Container,,,Empty Weathered Backpack,,Verwitterter Rucksack,Mochila erosionada,Sac à dos usé,Zaino consumato,色褪せたバックパック,오래된 백팩,Zszargany plecak,Mochila Molhada,Потрепанный рюкзак,Yıpranmış Sırt Çantası,风化的背包,褪色的背包,Mochila erosionada
 zztongBackpack03Empty,blocks,Container,,,Empty Moldy Backpack,,Muffiger Rucksack,Mochila mohosa,Sac à dos moisi,Zaino ammuffito,カビの生えたバックパック,곰팡이가 핀 백팩,Zapleśniały plecak,Mochila Mofada,Заплесневелый рюкзак,Küflenmiş Sırt Çantası,发霉的背包,發黴的背包,Mochila mohosa
+zztongBarrelGasSingle00,blocks,Block,,,Empty Rusty Barrel,,Rostiges Fass,Barril oxidado,Baril rouillé,Barile arrugginito,錆びた樽,낡은 통,Zardzewiała beczka,Barril enferrujado,Ржавая бочка,Paslı Varil,锈桶,鏽桶,Barril oxidado
+zztongBarrelGasSingle45,blocks,Block,,,Empty Rusty Barrel,,Rostiges Fass,Barril oxidado,Baril rouillé,Barile arrugginito,錆びた樽,낡은 통,Zardzewiała beczka,Barril enferrujado,Ржавая бочка,Paslı Varil,锈桶,鏽桶,Barril oxidado
 zztongBicycleFloat,vehicles,item,,,Bicycle Obj Floating,,Fahrrad,Bicicleta,Bicyclette,Bicicletta,自転車,자전거,Rower,Bicicleta,Велосипед,Bisiklet,自行车,腳踏車,Bicicleta
 zztongBicycleGround,vehicles,item,,,Bicycle Obj Ground,,Fahrrad,Bicicleta,Bicyclette,Bicicletta,自転車,자전거,Rower,Bicicleta,Велосипед,Bisiklet,自行车,腳踏車,Bicicleta
 zztongBookcaseBookless,blocks,Container,,,Bookcase,,Bücherregal,Estantería,Bibliothèque,Libreria,ブックケース,책장,Regał na książki,Estante de Livros,Книжный шкаф,Kitaplık,书架,書櫃,Estantería

@@ -145,16 +145,20 @@ Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
 
-A20.6-ZZ011 -
+A20.6-ZZ011 :
+Adjusted version number style in ModInfo.xml. (No letters? Really?)
 Added store_s_01 for countrytown.
+Added slabhouse_01 to go with a Reddit request.
 Gave KZMB Radio a better antenna tower.
 Added minefield markers to Strip_Mall_01 as suggested by players.
 Added lot_vacant_01 and lot_vacant_02.
 Added 8 Rubble and 2 Grave Decor to Desert, Forest, and Snow.
 Added 3 Mystery decorations to the Desert for grins and boggles.
+Adjusted Gas Can loot from Propane_01.
 Fixed bad driveway placement in Farm_08.
 
-A20.6-ZZ010 - Converted 13 field parts into rural filler and three quests.
+A20.6-ZZ010 :
+Converted 13 field parts into rural filler and three quests.
 Added Car_Wash_01, Trailer_01, and Trailer_Park_02. Added four rural Tiles.
 Added Political_Party_HQ_01.
 Added some custom blocks and loot lists: 100% XML.
@@ -166,7 +170,8 @@ Fixed a bug in Ranch_01 part list. Fixed a bug in Farm_08. Fixed three
 Storm Cellar Parts that had some weird layer of stone inserted in them.
 Water Tower Parts now have water. What a novel concept.
 
-A20.5 - ZZ009 - Added Dog_Park_01 rural filler. (Beware of the Dog)
+A20.5-ZZ009 :
+Added Dog_Park_01 rural filler. (Beware of the Dog)
 Added NTT_Hub_01 and NTT_HQ_01.
 Added Survivor_Base_Ruin_01 which has special purpose (see ABOUT.txt).
 Added a Gateway Tile and a bunch of Parts to allow for lots of possabilities.
@@ -176,7 +181,8 @@ Re-rebalanced loot in Masonry_01 and Cement_Plant_01. Still too much cement.
 Removed fetch quests from Tiers 3, 4, and 5. Apparently they're too easy.
 Applied numerous bug fixes spotted by the CP's eagle-eyed testers.
 
-A20.5 - ZZ008 - Fixed numerous bugs and rebalanced loot. Added
+A20.5-ZZ008 :
+Fixed numerous bugs and rebalanced loot. Added
 rwg_tile_downtown_intersection_zztong_01 and Intersection_01, Intersection_02
 and Intersection_03 to go with it. Added Ranch_01 and Vault_K9_01.
 Added all my custom Parts because parts are cool, parts are wonderful.
@@ -192,33 +198,38 @@ Introduced this modlet to the GPLv3 license. See LICENSE.TXT and the
 LICENSE-NOTES.txt files for details. It should not represent a significant
 change for those of you who repackage, or curate, this modlet's content.
 
-A20.1 - ZZ007 - Added Farm_01, Farm_02, Farm_03, Farm_04, Farm_05, Farm_06
+A20.1-ZZ007 :
+Added Farm_01, Farm_02, Farm_03, Farm_04, Farm_05, Farm_06
 Farm_07, Farm_08, Garage_01, Stormwater_Detention_Pond_01, Biowaste_Dump_01,
 Electrical_Substation_01, Cement_Plant_01. Retrieved skyscraper_02 from A19
 and brought it forward as TFP_Skyscraper_02. Promoted Mass_Grave_01 and
 Mass_Grave_02 back to being POIs. Fixed minor problems in EMS_01, Bar_Pool_01,
 House_01, House_02 and TFP_Cemetary_01. Added rwg_tile_rural_straight_zztong_01.
 
-A20.EXP-ZZ006 - A20 Experimental Support. All POIs converted to A20.
+A20.EXP-ZZ006 : A20 Experimental Support. All POIs converted to A20.
 
-A19.6-ZZ005 - Added POIs: Store_XS_09, Store_XS_10, Skyscraper_01,
+A19.6-ZZ005 :
+Added POIs: Store_XS_09, Store_XS_10, Skyscraper_01,
 Skyscraper_01_destroyed, Warehouse_01, Cave_01 and KZTV_01.
 Added Decoration: Tent_01, Tent_02, Tent_03, Tent_04, and Tent_05.
 
-A19.6-ZZ004 - Fixed a problem with TFP_Cemetary.
+A19.6-ZZ004 :
+Fixed a problem with TFP_Cemetary.
 
-A19.6-ZZ003 - Many block conversions to support the new version. I shamelessly
+A19.6-ZZ003 :
+Many block conversions to support the new version. I shamelessly
 piggy-back on the work of Stallionsden for the CompoPack. Many thanks to him
 for shepparding me through this process. Added TFP_Army_Barracks_01,
 TFP_Cemetery_01, TFP_Ranger_Station_01, TFP_House_New_04, Presidio_Museum_01,
 Store_XS_01, Store_XS_02, Store_XS_03, Store_XS_04, Store_XS_05, Store_XS_06, 
 Store_XS_07, and Store_XS_08.
 
-A19.5-ZZ002 - Fixed the Cabin_Fort_01 so that it wouldn't collapse into an
+A19.5-ZZ002 :
+Fixed the Cabin_Fort_01 so that it wouldn't collapse into an
 empty lot. (Yikes!) Fixed Filename Typo (Farmers Market), Fixed
 ShowQuestClearCount settings. New POIs: Destroyed Variants from ZZ001,
 House_03, StripMall_01, StripMall_02, Restaurant_01, Remnant_House_01,
 and Storm_Cellar_01. Added Decorations: Hunters_Trap_01 and Hunters_Trap_02.
 Converted Mass_Grave_01 and Mass_Grave_02 to Decorations.
 
-A19.5-ZZ001 - Initial Release
+A19.5-ZZ001 : Initial Release

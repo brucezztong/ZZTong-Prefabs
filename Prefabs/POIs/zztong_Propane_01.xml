@@ -31,7 +31,7 @@
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_11,part_shipping_container_04,part_zztong_barrel_burning_01,part_zztong_barrel_03,part_zztong_land_mine_01,part_zztong_land_mine_01,part_zztong_land_mine_01,part_zztong_land_mine_01,part_zztong_land_mine_01,part_zztong_land_mine_01" />
   <property name="POIMarkerPartRotations" value="0,0,0,0,0,0,0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4,0.4,0.2,0.2,0.2,0.2,0.2,0.2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4" />
   <property name="PrefabSize" value="42, 12, 42" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
@@ -51,11 +51,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="500279" />
-    <property name="TotalTriangles" value="519854" />
+    <property name="TotalVertices" value="491423" />
+    <property name="TotalTriangles" value="511598" />
     <property class="BlockEntities">
-      <property name="Vertices" value="432569" />
-      <property name="Triangles" value="441365" />
+      <property name="Vertices" value="423713" />
+      <property name="Triangles" value="433109" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="57297" />
