@@ -149,6 +149,7 @@ A20.6-ZZ011 :
 Adjusted version number style in ModInfo.xml. (No letters? Really?)
 Added store_s_01 for countrytown.
 Added slabhouse_01 to go with a Reddit request.
+Added house_04 because I wanted to make an A-Frame house.
 Gave KZMB Radio a better antenna tower.
 Added minefield markers to Strip_Mall_01 as suggested by players.
 Added lot_vacant_01 and lot_vacant_02.

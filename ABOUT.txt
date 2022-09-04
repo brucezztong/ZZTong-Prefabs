@@ -207,6 +207,12 @@ because they are kind of similar. I had been dabbling with Nitrogen's
 Farm features and lamenting a lack of farm houses. A20 made me stretch
 the front lawn out a little.
 
+HOUSE 04
+
+A-Frame houses can be a bit of a challenge, usually because of weird shapped
+windows and a roof that both players and zombies can ascend which makes the
+upper floors accessible in unusual ways.
+
 KZMB RADIO 01 & KZMB RADIO DESTROYED
 
 I made this POI after I realized we didn't have any POIs for media companies.
