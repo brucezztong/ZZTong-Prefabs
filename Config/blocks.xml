@@ -289,6 +289,7 @@
             <property name="DescriptionKey" value="furnitureGroupDesc"/>
         </block>
 
+    <!-- Bicycles are a future thing.
         <block name="zztongBicycleFloat">
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="vehicleBicyclePlaceable"/>
@@ -324,6 +325,7 @@
             <property name="GndAlign" value="1"/>
             <property name="ModelOffset" value="0,0,0.5"/>
         </block>
+    Bicycles are a future thing. -->
 
         <block name="zztongBackpack01Empty">
             <property name="CustomIcon" value="cntBackpack01"/>
