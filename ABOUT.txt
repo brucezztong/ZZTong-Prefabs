@@ -393,7 +393,10 @@ This was my second attempt to make a Skyscraper. It was made using A19 but
 knowing what the A20 sizes would be. It managed to be tall enough to be a
 game skyscraper, but it is still too squat looking. I probably shouldn't have
 had the empire state building in mind. A more boxy skyscraper might have
-been better.
+been better. Power Records is indeed a reference to Tower Records. Any
+resemblence the POI has to Tower Records in Sacramento is less planned than
+it may seem. I got lucky on the partial resemblence as I was not referring to
+pictures.
 
 SOLAR FARM 01
 

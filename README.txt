@@ -152,6 +152,7 @@ Added slabhouse_01 to go with a Reddit request.
 Added house_04 because I wanted to make an A-Frame house.
 Gave KZMB Radio a better antenna tower.
 Added minefield markers to Strip_Mall_01 as suggested by players.
+Added a couple of Z's to Office_Building_02 based on feedback.
 Added lot_vacant_01 and lot_vacant_02.
 Added 8 Rubble and 2 Grave Decor to Desert, Forest, and Snow.
 Added 3 Mystery decorations to the Desert for grins and boggles.
