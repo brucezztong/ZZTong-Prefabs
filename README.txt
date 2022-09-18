@@ -159,6 +159,7 @@ Added 3 Mystery decorations to the Desert for grins and boggles.
 Adjusted Gas Can loot from Propane_01.
 Fixed missing railing in Farm_04 and other minor adjustments.
 Fixed bad driveway placement in Farm_08.
+Fixed missing quest marker in NTT_HQ_01.
 
 A20.6-ZZ010 :
 Converted 13 field parts into rural filler and three quests.

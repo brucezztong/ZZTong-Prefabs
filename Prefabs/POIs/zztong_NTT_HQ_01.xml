@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="4" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear,fetch" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 31, 42" />
@@ -30,11 +30,11 @@
   <property name="POIMarkerPartRotations" value="0,0,0,0,3,1,2" />
   <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.8,0.2,0.4,0.4,0.6" />
   <property class="Stats">
-    <property name="TotalVertices" value="869065" />
-    <property name="TotalTriangles" value="841003" />
+    <property name="TotalVertices" value="876765" />
+    <property name="TotalTriangles" value="849175" />
     <property class="BlockEntities">
-      <property name="Vertices" value="696268" />
-      <property name="Triangles" value="725467" />
+      <property name="Vertices" value="703968" />
+      <property name="Triangles" value="733639" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="124806" />
@@ -88,6 +88,12 @@
     </property>
     <property class="quest_feather">
       <property name="0" value="35, 30, 37" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="11, 17, 33" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="28, 10, 2" />
     </property>
   </property>
 </prefab>
