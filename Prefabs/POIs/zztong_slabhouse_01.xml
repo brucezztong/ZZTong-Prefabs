@@ -21,6 +21,14 @@
   <property name="SleeperIsLootVolume" value="False,False" />
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
+  <property name="POIMarkerSize" value="19, 13, 3#1, 3, 3#1, 4, 5#2, 9, 3#1, 1, 4#1, 1, 1#3, 2, 2" />
+  <property name="POIMarkerStart" value="4, 2, -3#1, 3, 4#1, 3, 17#22, 3, 4#22, 3, 13#20, 3, 3#18, 3, 22" />
+  <property name="POIMarkerGroup" value="driveway,electric,propane,pole,wire,barrel,dumpster" />
+  <property name="POIMarkerTags" value="######" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_04,part_high_voltage_box_3,part_tank_propane_01,part_utility_pole,part_zztong_barbwire4,part_zztong_barrel_burning_01,part_zztong_dumpster_02" />
+  <property name="POIMarkerPartRotations" value="2,1,3,1,1,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.6,0.6,0.4,0.4,0.6" />
   <property class="Stats">
     <property name="TotalVertices" value="102305" />
     <property name="TotalTriangles" value="119948" />
