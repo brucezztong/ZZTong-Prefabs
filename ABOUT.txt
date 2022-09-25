@@ -213,6 +213,15 @@ A-Frame houses can be a bit of a challenge, usually because of weird shapped
 windows and a roof that both players and zombies can ascend which makes the
 upper floors accessible in unusual ways.
 
+HOUSE 05
+
+A modern house with the initial purpose of being an experimental creation
+using a great many blocks from Telric's Decoration Pack, which is a wonderful
+collection of custom blocks that would be great in POIs. Alas, that modlet is
+rigged for players, not for POIs. Try to imagine this POI with throw pillows,
+standing lamps, working mini-blinds, and beautiful cabinets. Telric does
+awesome work.
+
 KZMB RADIO 01 & KZMB RADIO DESTROYED
 
 I made this POI after I realized we didn't have any POIs for media companies.
