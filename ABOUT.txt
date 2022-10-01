@@ -427,6 +427,12 @@ that in real life. The challenge with the Peddler has been to get bikes to be
 block content, instead of a usable bike, which would drastically change the
 game dynamics early in the game.
 
+STORE S 02 - FRED E. FROMAGE
+This POI was created to experiment with custom blocks found in Cranberry
+Monster's Arcade modlet and with my own experiments into the world of making
+custom block assets. The version of this modlet found in this modlet is the
+vanilla-safe version.
+
 STORE XS 01 - AVALANCHE PIZZA
 
 This is a tribute to the greatest real life pizza on Earth. It was the first

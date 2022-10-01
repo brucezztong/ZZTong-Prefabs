@@ -148,6 +148,7 @@ RELEASE NOTES: (Newest to Oldest)
 A20.6-ZZ011 :
 Adjusted version number style in ModInfo.xml. (No letters? Really?)
 Added store_s_01 for countrytown.
+Added store_s_02 for countrytown.
 Added house_05 for residential.
 Added slabhouse_01 to go with a Reddit request.
 Added house_04 because I wanted to make an A-Frame house.
