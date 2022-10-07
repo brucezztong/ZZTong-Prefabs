@@ -159,6 +159,7 @@ Added lot_vacant_01 and lot_vacant_02.
 Added 8 Rubble and 2 Grave Decor to Desert, Forest, and Snow.
 Added 3 Mystery decorations to the Desert for grins and boggles.
 Adjusted Gas Can loot from Propane_01.
+Fixed floating debris in rwg_tile_rural_intersection_zztong_01.
 Fixed missing railing in Farm_04 and other minor adjustments.
 Fixed bad driveway placement in Farm_08.
 Fixed missing quest marker in NTT_HQ_01.
