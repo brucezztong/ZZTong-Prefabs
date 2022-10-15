@@ -1,4 +1,4 @@
-ZZTONG-PREFABS READ-ME for A20.6-ZZ011
+ZZTONG-PREFABS READ-ME for A20.6-ZZ012
 
 GOAL:
 
@@ -144,6 +144,11 @@ CompoPack Discord channels taught me a lot about 7D2D Prefabs, the Prefab
 Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
+
+A20.6-ZZ012 :
+Added a Thank You message to the loading screen. I depended on a translation
+service for all the non-English languages and my fingers are crossed that I
+did not insult a large portion of Humanity.
 
 A20.6-ZZ011 :
 Adjusted version number style in ModInfo.xml. (No letters? Really?)
