@@ -156,7 +156,7 @@ Gave KZMB Radio a better antenna tower.
 Added minefield markers to Strip_Mall_01 as suggested by players.
 Added a couple of Z's to Office_Building_02 based on feedback.
 Added lot_vacant_01 and lot_vacant_02.
-Added 8 Rubble and 2 Grave Decor to Desert, Forest, and Snow.
+Added 11 Rubble and 2 Grave Decor to Desert, Forest, and Snow.
 Added 3 Mystery decorations to the Desert for grins and boggles.
 Adjusted Gas Can loot from Propane_01.
 Added some swampland tags to four POIs to integrate with MPL's Swamp Tiles.
