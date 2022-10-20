@@ -146,6 +146,7 @@ Editor, game performance issues, and more. You're awesome!
 RELEASE NOTES: (Newest to Oldest)
 
 A20.6-ZZ012 :
+Renamed Decorations and POIs to be all lowercase.
 Added a Thank You message to the loading screen. I depended on a translation
 service for all the non-English languages and my fingers are crossed that I
 did not insult a large portion of Humanity.
