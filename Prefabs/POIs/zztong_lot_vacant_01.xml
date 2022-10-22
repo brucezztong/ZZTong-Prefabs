@@ -11,7 +11,7 @@
   <property name="PrefabSize" value="25, 4, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-2" />
-  <property name="Tags" value="countrytown,nodiagonal" />
+  <property name="Tags" value="residential,countrytown,nodiagonal" />
   <property name="SleeperVolumeSize" value="21, 5, 21" />
   <property name="SleeperVolumeStart" value="1, 2, 3" />
   <property name="SleeperVolumeGroupId" value="0" />
@@ -20,14 +20,14 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="4, 3, 4#4, 3, 4" />
-  <property name="POIMarkerStart" value="2, 2, 8#18, 2, 19" />
-  <property name="POIMarkerGroup" value="appl2,appl1" />
-  <property name="POIMarkerTags" value="#" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_appliance_pile_02,part_appliance_pile_01" />
-  <property name="POIMarkerPartRotations" value="1,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.4,0.4" />
+  <property name="POIMarkerSize" value="4, 3, 4#4, 3, 4#7, 13, 2#6, 13, 5" />
+  <property name="POIMarkerStart" value="2, 2, 8#18, 2, 19#8, 1, -2#9, 1, -5" />
+  <property name="POIMarkerGroup" value="appl2,appl1,driveway,driveway" />
+  <property name="POIMarkerTags" value="##countrytown#residential" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_appliance_pile_02,part_appliance_pile_01,part_driveway_countrytown_11,part_driveway_residential_01" />
+  <property name="POIMarkerPartRotations" value="1,2,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,1,1" />
   <property class="Stats">
     <property name="TotalVertices" value="84496" />
     <property name="TotalTriangles" value="85250" />
