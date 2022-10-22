@@ -147,6 +147,7 @@ RELEASE NOTES: (Newest to Oldest)
 
 A20.6-ZZ012 :
 Added rwg_tile_residential_straight_zztong_01, and it really is straight!
+Added rwg_tile_residential_t_zztong_01 to make room for 25x25 houses.
 Added more Parts to the pack.
 Renamed Decorations and POIs to be all lowercase.
 Added a Thank You message to the loading screen. I depended on a translation
