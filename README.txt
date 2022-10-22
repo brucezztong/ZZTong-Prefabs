@@ -147,6 +147,7 @@ RELEASE NOTES: (Newest to Oldest)
 
 A20.6-ZZ012 :
 Added rwg_tile_residential_straight_zztong_01, and it really is straight!
+Added more Parts to the pack.
 Renamed Decorations and POIs to be all lowercase.
 Added a Thank You message to the loading screen. I depended on a translation
 service for all the non-English languages and my fingers are crossed that I
