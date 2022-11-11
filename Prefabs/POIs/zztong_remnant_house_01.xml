@@ -22,8 +22,16 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeGroupId" value="0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="wasteland,countryresidential,rural" />
+  <property name="Tags" value="residential,countryresidential,rural" />
   <property name="PrefabSize" value="25, 14, 25" />
+  <property name="POIMarkerSize" value="5, 13, 1#6, 13, 5#5, 13, 3" />
+  <property name="POIMarkerStart" value="2, 5, -1#2, 5, -5#2, 5, -3" />
+  <property name="POIMarkerGroup" value="driveway,driveway,driveway" />
+  <property name="POIMarkerTags" value="countryresidential#residential#rural" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_07,part_driveway_residential_01,part_driveway_rural_02" />
+  <property name="POIMarkerPartRotations" value="2,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1" />
   <property class="Stats">
     <property name="TotalVertices" value="46096" />
     <property name="TotalTriangles" value="49314" />

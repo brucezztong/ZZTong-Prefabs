@@ -151,7 +151,7 @@ Added rwg_tile_residential_t_zztong_01 to make room for 25x25 houses.
 Added house_06, house_07, house_08, house_09, house_10, house_11, house_12.
 Added house_013.
 Tagged dog_park_01 and vacant_lot_01 to also place in residential district.
-Tagged house_01 to place in residential district.
+Tagged house_01 and remnant_house_01 to place in residential district.
 Updated apartment_01, apartment_01_destroyed, apartment_02_destroyed, ems_01.
 Added more Parts to the pack.
 Renamed Decorations and POIs to be all lowercase.
