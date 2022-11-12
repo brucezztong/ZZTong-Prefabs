@@ -30,11 +30,11 @@
   <property name="YOffset" value="-6" />
   <property name="Tags" value="residential" />
   <property class="Stats">
-    <property name="TotalVertices" value="249113" />
-    <property name="TotalTriangles" value="260235" />
+    <property name="TotalVertices" value="251508" />
+    <property name="TotalTriangles" value="262245" />
     <property class="BlockEntities">
-      <property name="Vertices" value="212829" />
-      <property name="Triangles" value="234352" />
+      <property name="Vertices" value="215224" />
+      <property name="Triangles" value="236362" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="25534" />
@@ -81,11 +81,11 @@
     <property class="Rally">
       <property name="0" value="10, 7, 1" />
     </property>
+    <property class="POILight">
+      <property name="0" value="17, 10, 12" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="17, 2, 9" />
-    </property>
-    <property class="POILight">
-      <property name="0" value="15, 13, 6" />
     </property>
   </property>
 </prefab>
