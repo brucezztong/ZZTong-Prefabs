@@ -18,7 +18,7 @@
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_09,part_dumpster,part_zztong_barbwire4,part_zztong_campsite_01,part_zztong_excavator_01,part_zztong_ladder_wood_01,part_zztong_sign_condemned_01,part_zztong_tfp_porta_potty_01" />
   <property name="POIMarkerPartRotations" value="2,0,0,2,1,0,1,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.4,0.4,0.4,0.6,0.6,0.4" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.4,0.6,0.6,0.6,0.6,0.4" />
   <property name="SleeperVolumeSize" value="14, 6, 17" />
   <property name="SleeperVolumeStart" value="2, 2, 5" />
   <property name="SleeperVolumeGroupId" value="0" />
