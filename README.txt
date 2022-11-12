@@ -153,6 +153,7 @@ Added house_013, house_14, house_15, remnant_house_02.
 Tagged dog_park_01 and vacant_lot_01 to also place in residential district.
 Tagged house_01 and remnant_house_01 to place in residential district.
 Updated apartment_01, apartment_01_destroyed, apartment_02_destroyed, ems_01.
+Updated skyscraper_01's antenna.
 Added more Parts to the pack.
 Renamed Decorations and POIs to be all lowercase.
 Added a Thank You message to the loading screen. I depended on a translation
