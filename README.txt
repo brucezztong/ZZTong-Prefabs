@@ -148,10 +148,12 @@ RELEASE NOTES: (Newest to Oldest)
 A20.6-ZZ012 :
 Added rwg_tile_residential_straight_zztong_01, and it really is straight!
 Added rwg_tile_residential_t_zztong_01 to make room for 25x25 houses.
+Added rwg_tile_residential_intersection_zztong_01 to allow for 60x60 houses.
 Added house_06, house_07, house_08, house_09, house_10, house_11, house_12.
 Added house_013, house_14, house_15, remnant_house_02.
 Tagged dog_park_01 and vacant_lot_01 to also place in residential district.
 Tagged house_01 and remnant_house_01 to place in residential district.
+Tagged tfp_house_new_04 to place in residential district instead of rural.
 Updated apartment_01, apartment_01_destroyed, apartment_02_destroyed, ems_01.
 Updated skyscraper_01's antenna.
 Added more Parts to the pack.
