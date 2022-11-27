@@ -146,9 +146,10 @@ Editor, game performance issues, and more. You're awesome!
 RELEASE NOTES: (Newest to Oldest)
 
 A20.6-ZZ012 :
-Added rwg_tile_residential_straight_zztong_01, and it really is straight!
-Added rwg_tile_residential_t_zztong_01 to make room for 25x25 houses.
-Added rwg_tile_residential_intersection_zztong_01 to allow for 60x60 houses.
+Added rwg_tile_residential_corner_zztong_01 to allow more house footprints.
+Added rwg_tile_residential_intersection_zztong_01 to allow for more houses.
+Added rwg_tile_residential_straight_zztong_01 and it really is straight.
+Added rwg_tile_residential_t_zztong_01 to allow for more house footprints.
 Added house_06, house_07, house_08, house_09, house_10, house_11, house_12.
 Added house_013, house_14, house_15, house_16, house_17.
 Added remnant_house_02, apartment_03.
