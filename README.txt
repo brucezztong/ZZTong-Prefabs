@@ -28,7 +28,7 @@ SERVER INSTALLATION - TBD
 
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
-I recommend both, but server side only should work for non-Admin players.
+I recommend installation on both, but server side only should largely work.
 
 As near as I have been able to determine, because POIs are rolled into the
 world distributed by the server, and all the modlet's additions to the game
@@ -37,7 +37,8 @@ configuration are in XML, that this can be a Server-Side only modlet.
 However, if you also install the modlet on the Clinet-Side then there are game
 features that become supported, such as using F11 to identify a POI, or Admin
 abilities such as being able to teleport to a POI. Players may also find that
-odd things, like key boxes, only work if they have the modlet installed.
+odd things, like key boxes, only work if they have the modlet installed. These
+quirks are not bugs in the modlet or the POIs.
 
 VANILLA RANDOM WORLD GENERATOR (RWG):
 
@@ -51,15 +52,21 @@ ringed by Residential rather than Rural content. This way, Country Towns are
 surrounded by Farms, but Cities are surrounded by Houses. If you don't like
 that, then change the rwgmixer.xml file in this modlet.
 
-WORLD EDITOR:
+NITROGEN AND KINGGEN:
+
+Nitrogen and KingGen are no longer supported because they do not support
+features such as Tiles and Parts. An A19 version of this modlet should still
+work if you're playing an A19 version of 7D2D and use those map generators.
+
+WORLD EDITOR AND MAP MAKERS:
 
 If you have already made a map and plan to place these POIs by hand then be
-aware that I make extensive use of Parts. Manual placement does not know about
-Parts, so you run the risk of ending up with a POI that is missing content.
-That content can include loot. This is an A20 reality. I have no idea if A21
-will include more widespread support for Parts.
+aware that I make extensive use of Parts. Manual placement via the World Editor
+does not know about Parts, so you run the risk of ending up with a POI that is
+missing content. That content can include loot. This is an A20 reality. I have]
+no idea if A21 will include more widespread support for Parts.
 
-CONFLICTS: (CompoPack)
+COMPOPACK:
 
 These POIs are also contributed to the CompoPack. If you are also using the
 CompoPack then you have a choice to make:
@@ -78,7 +85,7 @@ vanilla settlements. Leave the "by_ZZTong" POIs in all of the CompoPack's
 custom settlements. This gives you the best combination, but involves the most
 work.
 
-CONFLICTS: (Overhaul Mods)
+OVERHAUL MODS:
 
 Overhaul Mods make extensive changes to the game and I cannot give you a recipe
 for how to include these POIs. I need to know specifics. Sometimes an Overhaul
@@ -89,6 +96,36 @@ Some Overhaul Mods choose to embed this modlet, or portions of this modlet,
 in their own distributions. I cannot predict the possible collisions and
 ramifications. I also cannot force overhaul modders to update to my latest
 versions of POIs.
+
+As far as I know: (Please correct me if I'm wrong.)
+
+APOCALYPSE NOW - I'm under the impression you can using the Game's RWG to make
+maps and if this modlet is installed when you do that, then I'm told you will
+have a viable map.
+
+DARKNESS FALLS - Requires special POIs to be on a map, so you need somebody
+to make you a map and do specific placement. If that effort involves using
+the Game's RWG while this modlet is installed, then you'll see my POIs in the
+resulting map.
+
+REBIRTH - I'm aware this overhaul was removing vanilla items that I have
+referenced in my loot tables and this disconnect can cause exceptions. I'm
+told Rebirth will change to include all vanilla items. This should mean you
+are free to use this modlet in combination with Rebirth.
+
+UNDEAD LEGACY - I'm under the impression you can using the Game's RWG to make
+maps and if this modlet is installed when you do that, then I'm told you will
+have a viable map.
+
+LINUX SERVERS:
+
+I often get questions about how to install this modlet on a Linux Server.
+Server Admins have a lot of flexibility and I usually cannot provide a solid
+answer when I'm ignorant of what they've done. The best I can do is make my
+own notes available related to how I configure things for my little in-house
+test server. You can find those notes here:
+
+https://drive.google.com/drive/folders/1Hq8d-k37kOFs7xgft7P2IeZesasGuI5s?usp=sharing
 
 POI NOTES:
 
@@ -153,6 +190,7 @@ Added rwg_tile_residential_t_zztong_01 to allow for more house footprints.
 Added house_06, house_07, house_08, house_09, house_10, house_11, house_12.
 Added house_013, house_14, house_15, house_16, house_17.
 Added remnant_house_02, apartment_03.
+Added five new desert cactus cluster decorations.
 Tagged dog_park_01 and vacant_lot_01 to also place in residential district.
 Tagged house_01 and remnant_house_01 to place in residential district.
 Tagged tfp_house_new_04 to place in residential district instead of rural.
