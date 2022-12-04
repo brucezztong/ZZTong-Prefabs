@@ -108,6 +108,9 @@ to make you a map and do specific placement. If that effort involves using
 the Game's RWG while this modlet is installed, then you'll see my POIs in the
 resulting map.
 
+RAVENHEARST - I'm under the impression you can using the Game's RWG to make
+maps. If so, make sure this modlet is installed when you do that.
+
 REBIRTH - I'm aware this overhaul was removing vanilla items that I have
 referenced in my loot tables and this disconnect can cause exceptions. I'm
 told Rebirth will change to include all vanilla items. This should mean you
@@ -116,6 +119,9 @@ are free to use this modlet in combination with Rebirth.
 UNDEAD LEGACY - I'm under the impression you can using the Game's RWG to make
 maps and if this modlet is installed when you do that, then I'm told you will
 have a viable map.
+
+WAR3ZUK - I do not know. I'm hoping you just need this modlet installed and
+that you can use RWG.
 
 LINUX SERVERS:
 
@@ -195,7 +201,7 @@ Tagged dog_park_01 and vacant_lot_01 to also place in residential district.
 Tagged house_01 and remnant_house_01 to place in residential district.
 Tagged tfp_house_new_04 to place in residential district instead of rural.
 Updated apartment_01, apartment_01_destroyed, apartment_02_destroyed, ems_01.
-Updated skyscraper_01's antenna. Fixed bugs in farm_04.
+Updated skyscraper_01's antenna. Fixed bugs in farm_04, masonry_01.
 Added more Parts to the pack.
 Renamed Decorations and POIs to be all lowercase.
 Added a Thank You message to the loading screen. I depended on a translation
