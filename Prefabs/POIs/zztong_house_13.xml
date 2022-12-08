@@ -78,14 +78,14 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="7, 4, 2" />
+    </property>
     <property class="POILight">
       <property name="0" value="21, 3, 16" />
       <property name="1" value="19, 6, 17" />
       <property name="2" value="13, 6, 18" />
       <property name="3" value="21, 3, 19" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="7, 4, 2" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="13, 6, 15" />
