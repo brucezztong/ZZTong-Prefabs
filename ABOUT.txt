@@ -29,6 +29,12 @@ makes one and knocks our socks off, mine will have to do. The solar-covered
 parking was added for A20 as I needed to stretch the POI to fit a standard
 RWG size.
 
+APARTMENT_03
+
+This POI is based on my impressions of main set for the Melrose Place TV Show.
+I was never a Melrose Place fan, but saw a couple of episodes and liked the
+building.
+
 BAR POOL 01
 
 This was an early A19 POI for me that attempts to mix a honkytonk with a pool
@@ -222,6 +228,73 @@ rigged for players, not for POIs. Try to imagine this POI with throw pillows,
 standing lamps, working mini-blinds, and beautiful cabinets. Telric does
 awesome work.
 
+HOUSE 06
+
+I wanted to make a house under construction. There's nothing more to the story.
+
+HOUSE 07
+
+This is my neighbor's house. Shhhh, don't tell them. It's actually a nifty
+tiny house built decades ago before the tiny house movement.
+
+HOUSE 08
+
+Just a house. I was making a bunch of residential content and this one just
+came together without any specific inspiration.
+
+HOUSE 09
+
+I wanted to make a house with solar power nicely integrated and electric
+vehicle support, as if the owner were a "green" conscious type. The loft in
+the second story reminded me of a loft bedroom I had in an apartment found in
+Omaha NE. (The Roseland Theater aparments, if you're curious.)
+
+HOUSE 10
+
+I wanted a house with pillars out front. The house is a bit smaller than the
+one I was thinking of here in my home town.
+
+HOUSE 11
+
+I wanted to make a duplex house and settled on one that I saw in a magazine.
+The very top floor wasn't part of the original design, but I thought was a
+neat addition. I'd love an observation deck like that but I bet architects
+would probably scream about the design, appearance, or whatever.
+
+HOUSE 12
+
+It probably will seem weird, but this house started with the roof. I wanted to
+break my routine of using a roof with a peak and ridge. The floor plan below
+was just trying to make the most of the space below the roof.
+
+HOUSE 13
+
+I just let this one flow without a design in mind and while I was watching TV.
+I think maybe I had a vague goal of having the entry way be offset from the
+front of the house, because... no reason. Variety?
+
+HOUSE 14
+
+I liked the offset entryway of HOUSE 13, so this house got more of the same. I
+don't recall any specific motivation for this one.
+
+HOUSE 15
+
+I probably made that porch four times. I really like the idea of a porch
+surrounding a house. This was an exploration of that idea.
+
+HOUSE 16
+
+This house was made intentionally to support a higher tier. I looked at a
+number of floor plans for inspiration, but didn't cling to any particular
+plan.
+
+HOUSE 17
+
+This is another house made intentionally to support a higher tier. Again,
+floor plans were consulted, but the layout was more dynamicly done instead
+of trying to recreate an existing house.
+
 KZMB RADIO 01 & KZMB RADIO DESTROYED
 
 I made this POI after I realized we didn't have any POIs for media companies.
@@ -380,6 +453,11 @@ REMNANT HOUSE 01
 I made this POI largely just goofing off waiting for A20. Somebody had made a
 comment that players like rennovating remnant structures. Once A20 landed, it
 got a small update.
+
+REMNANT HOUSE 02
+
+I made this POI largely just goofing off waiting for A21. Hmm, that sounds
+vaguely familiar.
 
 RESTAURANT 01
 
