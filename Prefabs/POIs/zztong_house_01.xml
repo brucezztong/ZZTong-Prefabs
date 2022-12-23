@@ -14,14 +14,14 @@
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="town" />
   <property name="EditorGroups" value="house old" />
-  <property name="SleeperVolumeStart" value="3, 6, 3#5, 1, 5" />
-  <property name="SleeperVolumeSize" value="17, 3, 14#13, 5, 11" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeStart" value="2, 6, 8#5, 1, 5#2, 6, 1#14, 6, 7" />
+  <property name="SleeperVolumeSize" value="12, 3, 9#13, 5, 11#11, 3, 7#8, 3, 11" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
   <property name="SleeperVolumeGameStageAdjust" value="," />
-  <property name="SleeperIsLootVolume" value="False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False" />
-  <property name="SleeperVolumeFlags" value="0,0" />
-  <property name="SleeperVolumeGroupId" value="0,0" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="residential,countryresidential" />
   <property name="POIMarkerSize" value="7, 13, 1#1, 4, 5#1, 1, 1#1, 1, 1#7, 13, 5#4, 1, 1#1, 1, 4" />
@@ -41,19 +41,19 @@
       <property name="0" value="9, 1, 12" />
     </property>
     <property class="Rally">
-      <property name="0" value="5, 4, 22" />
+      <property name="0" value="5, 5, 22" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="218434" />
-    <property name="TotalTriangles" value="226796" />
+    <property name="TotalVertices" value="219375" />
+    <property name="TotalTriangles" value="227433" />
     <property class="BlockEntities">
       <property name="Vertices" value="184575" />
       <property name="Triangles" value="203219" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="27366" />
-      <property name="Triangles" value="16156" />
+      <property name="Vertices" value="28077" />
+      <property name="Triangles" value="16621" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,8 +68,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="3949" />
-      <property name="Triangles" value="3297" />
+      <property name="Vertices" value="4179" />
+      <property name="Triangles" value="3469" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />

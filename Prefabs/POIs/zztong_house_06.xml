@@ -21,13 +21,13 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_06" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="SleeperVolumeSize" value="19, 9, 16#20, 5, 18" />
-  <property name="SleeperVolumeStart" value="3, 8, 5#2, 3, 3" />
-  <property name="SleeperVolumeGroupId" value="0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,2,3" />
-  <property name="SleeperIsLootVolume" value="False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False" />
-  <property name="SleeperVolumeFlags" value="0,0" />
+  <property name="SleeperVolumeSize" value="19, 4, 16#15, 3, 18#5, 3, 9#16, 6, 16" />
+  <property name="SleeperVolumeStart" value="3, 7, 5#2, 4, 3#17, 3, 5#3, 11, 5" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,3,3" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="Tags" value="residential" />
   <property class="Stats">
     <property name="TotalVertices" value="118462" />

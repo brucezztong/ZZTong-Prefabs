@@ -21,24 +21,24 @@
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_09,part_zztong_ev_charger_01,part_zztong_ev_charger_01,part_zztong_vehicle_service_01,part_zztong_vehicle_car_01,part_zztong_storm_cellar_03,part_zztong_storm_cellar_06,part_zztong_tractor_04" />
   <property name="POIMarkerPartRotations" value="2,2,2,0,2,3,3,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.4,0.4,0.4,0.4" />
-  <property name="SleeperVolumeSize" value="17, 5, 27#17, 5, 20#11, 3, 25#36, 7, 54" />
-  <property name="SleeperVolumeStart" value="2, 5, 9#2, 10, 9#5, 2, 8#21, 5, 3" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,2" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.4,0.2,0.2,0.4" />
+  <property name="SleeperVolumeSize" value="17, 5, 18#17, 5, 20#11, 3, 25#25, 7, 31#9, 4, 7" />
+  <property name="SleeperVolumeStart" value="2, 5, 9#2, 10, 9#5, 2, 8#21, 5, 17#5, 5, 28" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="419011" />
-    <property name="TotalTriangles" value="398296" />
+    <property name="TotalVertices" value="422342" />
+    <property name="TotalTriangles" value="400778" />
     <property class="BlockEntities">
-      <property name="Vertices" value="330410" />
-      <property name="Triangles" value="338222" />
+      <property name="Vertices" value="329912" />
+      <property name="Triangles" value="338833" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="71343" />
-      <property name="Triangles" value="36894" />
+      <property name="Vertices" value="75073" />
+      <property name="Triangles" value="38680" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="6462" />
-      <property name="Triangles" value="5310" />
+      <property name="Vertices" value="6561" />
+      <property name="Triangles" value="5395" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -89,7 +89,7 @@
       <property name="4" value="13, 11, 22" />
     </property>
     <property class="Rally">
-      <property name="0" value="27, 5, 4" />
+      <property name="0" value="27, 6, 4" />
     </property>
   </property>
 </prefab>

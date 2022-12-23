@@ -14,13 +14,13 @@
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="EditorGroups" value="house old" />
   <property name="Zoning" value="ResidentialOld, Residential" />
-  <property name="SleeperVolumeSize" value="31, 3, 20#31, 4, 18#31, 4, 15" />
-  <property name="SleeperVolumeStart" value="6, 4, 3#6, 7, 4#6, 11, 4" />
-  <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,3" />
-  <property name="SleeperIsLootVolume" value="False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0" />
+  <property name="SleeperVolumeSize" value="19, 3, 20#9, 4, 18#31, 4, 15#21, 4, 18#12, 3, 20" />
+  <property name="SleeperVolumeStart" value="18, 4, 3#28, 7, 4#6, 11, 4#6, 7, 4#5, 4, 3" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="snow,countryresidential,rural,pine_forest" />
   <property name="POIMarkerSize" value="5, 13, 1#4, 3, 4#1, 1, 1#5, 4, 1#5, 1, 5#1, 1, 1#1, 3, 1" />
@@ -33,11 +33,11 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.6,0.6,0.8,0.2,0.2,0.2" />
   <property name="PrefabSize" value="42, 17, 42" />
   <property class="Stats">
-    <property name="TotalVertices" value="328812" />
-    <property name="TotalTriangles" value="344327" />
+    <property name="TotalVertices" value="341958" />
+    <property name="TotalTriangles" value="362598" />
     <property class="BlockEntities">
-      <property name="Vertices" value="277231" />
-      <property name="Triangles" value="309671" />
+      <property name="Vertices" value="290377" />
+      <property name="Triangles" value="327942" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="37790" />
@@ -85,13 +85,20 @@
       <property name="0" value="38, 3, 17" />
     </property>
     <property class="POILight">
-      <property name="0" value="21, 6, 5" />
-      <property name="1" value="33, 6, 5" />
-      <property name="2" value="30, 4, 11" />
-      <property name="3" value="26, 4, 15" />
-      <property name="4" value="29, 6, 16" />
-      <property name="5" value="26, 4, 18" />
-      <property name="6" value="28, 8, 18" />
+      <property name="0" value="21, 6, 7" />
+      <property name="1" value="27, 6, 7" />
+      <property name="2" value="24, 10, 8" />
+      <property name="3" value="30, 10, 8" />
+      <property name="4" value="31, 6, 8" />
+      <property name="5" value="30, 4, 11" />
+      <property name="6" value="22, 10, 12" />
+      <property name="7" value="21, 6, 15" />
+      <property name="8" value="26, 4, 15" />
+      <property name="9" value="24, 10, 16" />
+      <property name="10" value="29, 6, 16" />
+      <property name="11" value="30, 10, 16" />
+      <property name="12" value="26, 4, 18" />
+      <property name="13" value="28, 8, 18" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="26, 8, 6" />
@@ -99,7 +106,7 @@
       <property name="2" value="34, 8, 15" />
     </property>
     <property class="Rally">
-      <property name="0" value="21, 3, 28" />
+      <property name="0" value="21, 4, 36" />
     </property>
   </property>
 </prefab>

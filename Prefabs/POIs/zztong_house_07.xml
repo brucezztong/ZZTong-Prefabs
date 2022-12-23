@@ -20,13 +20,13 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_04,part_furnace_01,part_fusebox_01,part_gas_contraption_01,part_lab_greeble_15,part_shed_01,part_tank_propane_01,part_zztong_barbwire3,part_zztong_barrel_04,part_zztong_delivery_03,part_zztong_tree_stump_01" />
   <property name="POIMarkerPartRotations" value="2,3,2,1,1,2,3,1,0,1,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.8,0.8,0.4,0.6,0.6,0.6,0.4,0.8,0.8,0.2" />
-  <property name="SleeperVolumeSize" value="14, 7, 18#9, 4, 12" />
-  <property name="SleeperVolumeStart" value="8, 7, 3#10, 3, 7" />
-  <property name="SleeperVolumeGroupId" value="0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,3,4" />
-  <property name="SleeperIsLootVolume" value="False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False" />
-  <property name="SleeperVolumeFlags" value="0,0" />
+  <property name="SleeperVolumeSize" value="14, 6, 10#9, 5, 12#14, 6, 8" />
+  <property name="SleeperVolumeStart" value="8, 8, 11#10, 3, 7#8, 8, 3" />
+  <property name="SleeperVolumeGroupId" value="0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperIsLootVolume" value="False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="YOffset" value="-7" />
   <property name="Tags" value="residential" />
   <property class="Stats">

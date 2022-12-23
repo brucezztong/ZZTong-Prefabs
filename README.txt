@@ -1,4 +1,4 @@
-ZZTONG-PREFABS READ-ME for A20.6-ZZ012
+ZZTONG-PREFABS READ-ME for A20.6-ZZ013
 
 GOAL:
 
@@ -187,6 +187,13 @@ CompoPack Discord channels taught me a lot about 7D2D Prefabs, the Prefab
 Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
+
+A20.6-ZZ013 : 
+Made POIs look a little more beat up. (I'm still not on TFP's level.)
+Put quest markers on top of deco blocks to work around buried marker issue.
+Adjusted many POIs to match Zombie density goals. (See DIFFICULTY.txt)
+Lowered the following to Tier 0: field_fish_01, field_mushroom_01, garage_01,
+mass_grave_01, mass_grave_02.
 
 A20.6-ZZ012 :
 Added rwg_tile_residential_corner_zztong_01 to allow more house footprints.

@@ -1,0 +1,83 @@
+What are the Loot Levels Like in your POIs?
+-------------------------------------------
+
+I think they're consistent with Vanilla, but here's more on the topic:
+
+Classic POI design includes a loot room as the final payoff at the end of the
+POI's dungeon path. I don't usually subscribe to this view. Players memorize
+loot room locations and engineer ways to reloot those POIs when the loot
+respawns. I don't usually make dungeon paths and I tend to scatter the loot
+about the place. I think this contibutes to the perception that I don't give
+out as much loot because players have to work a little harder to find it all.
+
+For the record, I use the CompoPack (CP) loot guidance. Indeed, this is the
+ONLY guidance available to POI designers. There is no publicly available
+TFP guidance for loot by tier. The CP's guidance comes from a study of Vanilla
+loot levels. The CP's guidance gets revised each Alpha release so it stays
+timely. For lower tiers, I will exercise some discretion with smaller POIs and
+offer less loot than I am allowed by the guidance.
+
+BUT THE CP GIVES OUT TOO MUCH LOOT!
+
+I cannot explain this opinion, other than to suggest it is a historical
+observation that people keep repeating as if it were still fact. I think this
+deserves some exploration, so here are my thoughts:
+
+* HISTORY
+
+I don't have a great perspective on A18 and earlier. For A19 I know CP guidance
+was in place, but that it went through several rounds of tweaking. There was
+a significant effort to bring POIs into line with that specification. For A20,
+the guidance got more specific and I think TFP also tightened things up in
+their POIs, making it clearer to everyone what was cool, and what was not.
+These days, I think CP loot is consistent with Vanilla and that whatever TFP's
+standard is that it allows for a wider variance. Some TFP POIs seem heavy in
+store crates.
+
+* WHAT IS LOOT?
+
+As somebody who has spent some time looking at loot levels, I can only guess
+that it might related to the presence of loot given out by objects not normally
+thought of as loot containers by designers. For instance, is a radiator loot?
+Brass collectors love them; others would rather "burn Dukes." Does a large
+kitchen with many cabinets count as too much loot? Aldo's Cabinets (a Vanilla
+POI) gives out more food because it is full of cabinets.
+
+Loot is generally considered to be final loot chests, munitions boxes, safes,
+store crates, and piles of ammo, food, meds, and books. Beyond that, things
+like medicine cabinets, kitchen cabinets, backpacks, store shelves, and so
+forth are a judgement call.
+
+* HEAVY USE OF MUNDATE LOOT
+
+Classically, the issue has been bookshelves. Books are very popular loot items.
+How do you represent a large library without giving away too many books? Some
+POI designers place empty shelves, but that seemingly doesn't make any sense.
+Who has a library with no books? So, some POI designers place a wooden block
+and then paint it to look like a bookshelf. This upsets a lot of players
+because they feel ripped off.
+
+I've gone through all of these phases and reached a point where I was willing
+to make custom blocks with custom loot lists. In this way I can have full
+looking bookshelves that don't give out books. That seems to satisfy players as
+they feel like they're getting a chance at a book and they usually get some
+other minor reward. However, making custom objects and loot lists is not a
+common POI designer practice. I urge you to go easy on POI designers who paint
+wood blocks to look like shelves. They're making do with what is available to
+them at the time and they spent hours making content for you.
+
+* BEYOND TIER 5
+
+The CP includes POIs that push the boundaries of Vanilla POI design. Those
+POIs can be massive in scale and include hundreds of Zeds. CP loot guidance
+allows those POIs to have multiple loot rooms or an even bigger loot room.
+This might contribute to the perception that CP POIs give out too much loot.
+Honestly, some of those CP extreme challenge POIs I think should come with a
+real-life beer for a reward.
+
+* OVERHAULS CHANGING THE GAME
+
+Some overhaul mods turn mundane objects into loot. For instance, I use a lot
+of boxes to fill space. Some overhauls turn those boxes into containers with
+loot. You cannot blame POI designers for that.
+

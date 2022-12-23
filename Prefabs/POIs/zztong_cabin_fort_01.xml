@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="13, 3, 17#6, 7, 14#6, 5, 14#9, 3, 31" />
   <property name="SleeperVolumeStart" value="14, 2, 13#21, 5, 14#15, 7, 14#27, 2, 5" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
@@ -41,19 +41,19 @@
       <property name="1" value="23, 12, 20" />
     </property>
     <property class="Rally">
-      <property name="0" value="20, 3, 34" />
+      <property name="0" value="20, 4, 34" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="226749" />
-    <property name="TotalTriangles" value="243033" />
+    <property name="TotalVertices" value="227547" />
+    <property name="TotalTriangles" value="243611" />
     <property class="BlockEntities">
       <property name="Vertices" value="184497" />
       <property name="Triangles" value="211920" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="34327" />
-      <property name="Triangles" value="20231" />
+      <property name="Vertices" value="34889" />
+      <property name="Triangles" value="20625" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,8 +68,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="2169" />
-      <property name="Triangles" value="1746" />
+      <property name="Vertices" value="2399" />
+      <property name="Triangles" value="1918" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -80,8 +80,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="5612" />
-      <property name="Triangles" value="9016" />
+      <property name="Vertices" value="5618" />
+      <property name="Triangles" value="9028" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />
