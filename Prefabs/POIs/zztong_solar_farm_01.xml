@@ -14,14 +14,14 @@
   <property name="AllowedTownships" value="rural" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="rural" />
-  <property name="SleeperVolumeStart" value="3, 0, 1" />
-  <property name="SleeperVolumeSize" value="36, 5, 36" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,8,10" />
+  <property name="SleeperVolumeStart" value="8, 0, 1#26, 2, 12#13, 2, 24" />
+  <property name="SleeperVolumeSize" value="15, 5, 16#13, 3, 12#15, 3, 15" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,3,4" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
-  <property name="SleeperIsLootVolume" value="False" />
-  <property name="SleeperIsQuestExclude" value="False" />
-  <property name="SleeperVolumeFlags" value="0" />
-  <property name="SleeperVolumeGroupId" value="0" />
+  <property name="SleeperIsLootVolume" value="False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="snow,desert,wilderness,pine_forest" />
   <property name="POIMarkerSize" value="5, 1, 1#4, 2, 3#5, 11, 2" />
@@ -45,15 +45,15 @@
       <property name="0" value="22, 3, 32" />
     </property>
     <property class="Rally">
-      <property name="0" value="19, 2, 40" />
+      <property name="0" value="19, 3, 40" />
     </property>
     <property class="POILight">
       <property name="0" value="21, 4, 33" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="213792" />
-    <property name="TotalTriangles" value="188180" />
+    <property name="TotalVertices" value="214022" />
+    <property name="TotalTriangles" value="188352" />
     <property class="BlockEntities">
       <property name="Vertices" value="136500" />
       <property name="Triangles" value="141237" />
@@ -75,8 +75,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="6324" />
-      <property name="Triangles" value="5921" />
+      <property name="Vertices" value="6554" />
+      <property name="Triangles" value="6093" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="144" />

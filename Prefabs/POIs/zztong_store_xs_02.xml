@@ -14,13 +14,13 @@
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="city,town" />
   <property name="EditorGroups" value="commercial" />
-  <property name="SleeperVolumeSize" value="21, 3, 15#21, 4, 21#21, 4, 21" />
-  <property name="SleeperVolumeStart" value="2, 3, 8#2, 6, 2#2, 10, 2" />
-  <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,1,2" />
-  <property name="SleeperIsLootVolume" value="False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0" />
+  <property name="SleeperVolumeSize" value="15, 3, 15#21, 4, 21#21, 4, 21#5, 3, 8" />
+  <property name="SleeperVolumeStart" value="2, 3, 8#2, 6, 2#2, 10, 2#17, 3, 15" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="forest,snow,desert,countrytown,nodiagonal" />
   <property name="POIMarkerSize" value="20, 13, 2#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1" />
@@ -33,15 +33,15 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.2,0.2,0.2,0.2,0.2" />
   <property name="PrefabSize" value="25, 13, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="311744" />
-    <property name="TotalTriangles" value="290030" />
+    <property name="TotalVertices" value="313153" />
+    <property name="TotalTriangles" value="291151" />
     <property class="BlockEntities">
       <property name="Vertices" value="273702" />
       <property name="Triangles" value="267018" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="33519" />
-      <property name="Triangles" value="17737" />
+      <property name="Vertices" value="33807" />
+      <property name="Triangles" value="17921" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -56,8 +56,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="2327" />
-      <property name="Triangles" value="1887" />
+      <property name="Vertices" value="3448" />
+      <property name="Triangles" value="2824" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -99,7 +99,7 @@
       <property name="0" value="13, 11, 4" />
     </property>
     <property class="Rally">
-      <property name="0" value="19, 3, 4" />
+      <property name="0" value="19, 4, 1" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="20, 8, 14" />

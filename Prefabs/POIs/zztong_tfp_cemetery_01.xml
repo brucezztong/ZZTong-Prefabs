@@ -9,26 +9,26 @@
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
-  <property name="SleeperVolumeSize" value="40, 13, 40" />
-  <property name="SleeperVolumeStart" value="1, 2, 1" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,6,7" />
+  <property name="SleeperVolumeSize" value="40, 10, 15#28, 10, 21#10, 11, 19" />
+  <property name="SleeperVolumeStart" value="1, 2, 4#1, 2, 20#30, 3, 22" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,3" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
-  <property name="SleeperIsLootVolume" value="False" />
+  <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="industrial" />
   <property name="SleeperIsBossVolume" value="False" />
   <property name="DifficultyTier" value="1" />
   <property name="ExcludePOICulling" value="False" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperIsQuestExclude" value="False" />
-  <property name="SleeperVolumeFlags" value="0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0" />
+  <property name="SleeperIsQuestExclude" value="False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="QuestTags" value="clear,fetch" />
   <property name="YOffset" value="-3" />
   <property name="PrefabSize" value="42, 20, 42" />
   <property class="Stats">
-    <property name="TotalVertices" value="439967" />
-    <property name="TotalTriangles" value="465535" />
+    <property name="TotalVertices" value="442011" />
+    <property name="TotalTriangles" value="467239" />
     <property class="BlockEntities">
       <property name="Vertices" value="393777" />
       <property name="Triangles" value="431575" />
@@ -50,8 +50,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="2712" />
-      <property name="Triangles" value="1920" />
+      <property name="Vertices" value="4756" />
+      <property name="Triangles" value="3624" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -82,7 +82,7 @@
       <property name="0" value="30, 3, 7" />
     </property>
     <property class="Rally">
-      <property name="0" value="22, 3, 1" />
+      <property name="0" value="21, 4, 2" />
     </property>
     <property class="POILight">
       <property name="0" value="33, 6, 24" />
