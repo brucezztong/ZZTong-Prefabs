@@ -14,14 +14,14 @@
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="town" />
   <property name="EditorGroups" value="commercial" />
-  <property name="SleeperVolumeStart" value="5, 5, 3#5, 9, 2#5, 13, 2#6, 17, 4#7, 1, 5" />
-  <property name="SleeperVolumeSize" value="18, 3, 20#18, 3, 21#18, 3, 21#15, 5, 17#13, 3, 15" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,3,4" />
+  <property name="SleeperVolumeStart" value="5, 5, 3#5, 8, 2#5, 12, 2#6, 17, 4#7, 1, 5#14, 1, 5#13, 13, 2#12, 9, 2" />
+  <property name="SleeperVolumeSize" value="18, 3, 20#7, 4, 21#8, 4, 21#15, 5, 17#7, 3, 11#8, 3, 15#10, 3, 21#11, 3, 21" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,5,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,True" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,True,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="forest,snow,desert,countrytown,diagonal" />
   <property name="POIMarkerSize" value="7, 13, 2#4, 2, 4" />
@@ -35,7 +35,7 @@
   <property name="PrefabSize" value="25, 23, 25" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="2, 5, 2" />
+      <property name="0" value="2, 6, 2" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="19, 9, 13" />
@@ -56,8 +56,8 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="393599" />
-    <property name="TotalTriangles" value="433232" />
+    <property name="TotalVertices" value="393829" />
+    <property name="TotalTriangles" value="433404" />
     <property class="BlockEntities">
       <property name="Vertices" value="338749" />
       <property name="Triangles" value="395326" />
@@ -79,8 +79,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="9523" />
-      <property name="Triangles" value="8989" />
+      <property name="Vertices" value="9753" />
+      <property name="Triangles" value="9161" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />

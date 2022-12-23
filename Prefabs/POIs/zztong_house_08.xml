@@ -20,25 +20,25 @@
   <property name="POIMarkerPartRotations" value="0,2,3,2,0,0,0,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1,0.8,0.8,0.8,0.2,0.6,0.4,0.2" />
   <property name="Zoning" value="none" />
-  <property name="SleeperVolumeSize" value="6, 6, 9#6, 3, 3#7, 3, 7#7, 3, 10#15, 3, 7#15, 5, 20#9, 3, 14#7, 5, 9#7, 5, 9#8, 3, 10#9, 5, 7" />
-  <property name="SleeperVolumeStart" value="1, 9, 15#9, 10, 12#9, 10, 5#17, 10, 5#9, 10, 16#8, 18, 4#11, 5, 7#17, 13, 14#17, 13, 5#8, 15, 5#8, 13, 16" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeSize" value="6, 6, 9#7, 3, 11#7, 3, 10#15, 3, 7#15, 5, 20#9, 3, 14#7, 5, 9#7, 5, 9#8, 3, 10#9, 5, 7" />
+  <property name="SleeperVolumeStart" value="1, 9, 15#9, 10, 5#17, 10, 5#9, 10, 16#8, 18, 4#11, 5, 7#17, 13, 14#17, 13, 5#8, 15, 5#8, 13, 16" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,3,3" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0" />
   <property name="YOffset" value="-9" />
   <property name="Tags" value="residential" />
   <property class="Stats">
-    <property name="TotalVertices" value="302530" />
-    <property name="TotalTriangles" value="313461" />
+    <property name="TotalVertices" value="302986" />
+    <property name="TotalTriangles" value="313761" />
     <property class="BlockEntities">
       <property name="Vertices" value="238216" />
       <property name="Triangles" value="272256" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="54520" />
-      <property name="Triangles" value="30579" />
+      <property name="Vertices" value="54976" />
+      <property name="Triangles" value="30879" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
