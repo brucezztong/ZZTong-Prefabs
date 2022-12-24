@@ -22,7 +22,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
-  <property name="Tags" value="forest,snow,desert,industrial" />
+  <property name="Tags" value="industrial" />
   <property name="POIMarkerSize" value="1, 13, 13#11, 5, 5#11, 5, 5#1, 1, 1#1, 1, 1#2, 2, 2" />
   <property name="POIMarkerStart" value="-1, 2, 10#2, 3, 10#2, 3, 17#23, 4, 35#37, 4, 14#19, 4, 12" />
   <property name="POIMarkerGroup" value="drive,trailer1,trailer2,vending,mine,delivery" />

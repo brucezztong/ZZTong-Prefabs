@@ -36,22 +36,22 @@
       <property name="0" value="58, 12, 56" />
     </property>
     <property class="Rally">
-      <property name="0" value="3, 11, 82" />
+      <property name="0" value="2, 12, 86" />
     </property>
     <property class="quest_wood">
       <property name="0" value="70, 11, 7" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="2438959" />
-    <property name="TotalTriangles" value="2243963" />
+    <property name="TotalVertices" value="2455812" />
+    <property name="TotalTriangles" value="2255126" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1872146" />
-      <property name="Triangles" value="1888116" />
+      <property name="Vertices" value="1888634" />
+      <property name="Triangles" value="1898484" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="487091" />
-      <property name="Triangles" value="256277" />
+      <property name="Vertices" value="485363" />
+      <property name="Triangles" value="255413" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -66,20 +66,20 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="36594" />
-      <property name="Triangles" value="30146" />
+      <property name="Vertices" value="38603" />
+      <property name="Triangles" value="31769" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="176" />
-      <property name="Triangles" value="88" />
+      <property name="Vertices" value="264" />
+      <property name="Triangles" value="132" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="42736" />
-      <property name="Triangles" value="69180" />
+      <property name="Vertices" value="42732" />
+      <property name="Triangles" value="69172" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />

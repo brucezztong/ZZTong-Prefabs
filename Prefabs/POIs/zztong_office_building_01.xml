@@ -6,7 +6,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="clear" />
-  <property name="DifficultyTier" value="4" />
+  <property name="DifficultyTier" value="3" />
   <property name="Zoning" value="Commercial" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="city" />
@@ -14,14 +14,14 @@
   <property name="YOffset" value="-6" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="commercial" />
-  <property name="SleeperVolumeStart" value="10, 35, 9#10, 28, 9#10, 21, 9#10, 14, 9#13, 3, 9" />
-  <property name="SleeperVolumeSize" value="32, 7, 32#32, 6, 32#32, 6, 32#32, 6, 32#25, 10, 28" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Businessman,9,10,S_Zom_Businessman,9,10,S_Zom_Businessman,9,10,S_Zom_Businessman,7,9,S_-Group_Generic_Zombie,6,6" />
+  <property name="SleeperVolumeStart" value="10, 33, 9#10, 26, 9#10, 19, 9#10, 12, 9#13, 6, 9#22, 2, 25#10, 26, 29#27, 19, 29#10, 19, 29" />
+  <property name="SleeperVolumeSize" value="32, 9, 32#32, 7, 20#32, 7, 20#32, 7, 32#25, 6, 28#9, 5, 8#32, 7, 12#15, 7, 12#15, 7, 12" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Businessman,9,10,S_Zom_Businessman,4,5,S_Zom_Businessman,4,4,S_Zom_Businessman,4,4,S_-Group_Generic_Zombie,3,3,S_Zom_Janitor_Only,2,2,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="commercial" />
   <property name="PrefabSize" value="42, 41, 42" />
@@ -35,7 +35,7 @@
   <property name="POIMarkerPartSpawnChance" value="0.4,0.2,0.4,0.4,0.4" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="14, 6, 5" />
+      <property name="0" value="13, 7, 2" />
     </property>
     <property class="quest_feather">
       <property name="0" value="40, 21, 24" />
@@ -49,15 +49,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1210589" />
-    <property name="TotalTriangles" value="1229775" />
+    <property name="TotalVertices" value="1214833" />
+    <property name="TotalTriangles" value="1233604" />
     <property class="BlockEntities">
-      <property name="Vertices" value="991625" />
-      <property name="Triangles" value="1084075" />
+      <property name="Vertices" value="996965" />
+      <property name="Triangles" value="1088452" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="131305" />
-      <property name="Triangles" value="71650" />
+      <property name="Vertices" value="130209" />
+      <property name="Triangles" value="71102" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

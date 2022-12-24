@@ -30,8 +30,8 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="Tags" value="wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="3829741" />
-    <property name="TotalTriangles" value="3344834" />
+    <property name="TotalVertices" value="3829971" />
+    <property name="TotalTriangles" value="3345006" />
     <property class="BlockEntities">
       <property name="Vertices" value="3386440" />
       <property name="Triangles" value="3042171" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="32" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="19129" />
-      <property name="Triangles" value="15903" />
+      <property name="Vertices" value="19359" />
+      <property name="Triangles" value="16075" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -88,7 +88,7 @@
       <property name="0" value="84, 32, 9" />
     </property>
     <property class="Rally">
-      <property name="0" value="64, 28, 4" />
+      <property name="0" value="59, 29, 1" />
     </property>
   </property>
 </prefab>

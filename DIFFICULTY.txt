@@ -118,6 +118,22 @@ ZOMBIES    TIER
 46-60      4
 61+        5
 
+And, after having tried to conform to both this density goal and the CompoPack
+tiers. I felt both goals worked well enough at Tiers 1 and 2. At Tier 3 I found
+it hard sometimes to pack the zombies in as tight and stay within the tier.
+Plainly stated, while a higher tier enjoys being able to make a more difficult
+encounter, it doesn't mean the majority of encounters should scale as high.
+When that happens, you fall short of the goal.
+
+Thus, the Density Goal found above should be viewed less rigorously at higher
+tiers. Indeed, if you take the number of Zeds allowed for a tier and divide it
+by the density goal, you only end up with a certain number of zombie volumes
+that you can use. This gets to be constraining the higher you go into the tiers
+and you'll have to abandon the idead of an increasing density goal.
+
+And so, my conclusion here is Density is important, but it isn't everything
+except perhaps at Tier 1-2, and maybe 3.
+
 
 WHAT IS THE COMPOPACK?
 
