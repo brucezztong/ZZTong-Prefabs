@@ -82,6 +82,12 @@ POIs and a need for more variety. Cement is a popular resource. Cement Plants
 are industrial. I regret I don't know how these plants really work, but this is
 at least an attempt to satisfy demand.
 
+CRATER 01
+
+TFP had an unfinished crater in A19 that didn't move up to A20. I suspect they
+were going to use it as a part for something, but it fit the right size to be
+used as a filler POI, so I finished it off.
+
 DOG PARK 01
 
 This little bit of filler for Rural Tiles just seemed obvious after having

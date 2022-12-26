@@ -189,6 +189,8 @@ Editor, game performance issues, and more. You're awesome!
 RELEASE NOTES: (Newest to Oldest)
 
 A20.6-ZZ013 : 
+Added rwg_tile_residential_cap to finish off the set.
+Added some filler POIs: crater_01, based off a TFP crater.
 Made POIs look a little more beat up. (I'm still not on TFP's level.)
 Put quest markers on top of deco blocks to work around buried marker issue.
 Adjusted many POIs to match Zombie density goals. (See DIFFICULTY.txt)
