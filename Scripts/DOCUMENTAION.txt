@@ -1,0 +1,31 @@
+teragon-scount.py
+-----------------
+
+Usage: ./teragon-scout.py
+Results: Teragon/ZZTong-Prefabs-Property-List.txt
+
+The script builds a prefab property list (data file) appropriate for use with
+Teragon. The script builds the data file based on the contents of the XML
+files for each POI, Part, or Tile found in the modlet.
+
+
+validate-modlet.py
+------------------
+
+Usage: ./validate-modlet.py
+Results: Prints a list of missing POI, Part, Tile, and Decoration files.
+
+This script is a handy check to run prior to a release as it will tell you if
+you are missing mesh files, or whatever you might have forgotten to generate
+for a new POI, Part, Tile, or Decoration.
+
+
+zz2cp.py
+--------
+
+Usage: ./zz2cp.py
+Results: A directory called CP-Export with renamed Prefabs and Config files.
+
+This script is intended to make it easier to submit a bunch of changes to the
+CompoPack. It saves the CP folks time in that they do not need to spend a
+bunch of their time renaming my files.
