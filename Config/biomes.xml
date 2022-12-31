@@ -2,11 +2,7 @@
 	<append xpath="/worldgeneration/biomes/biome[@name='snow']/decorations">
 		<decoration type="prefab" name="zztong_hunters_trap_01" prob=".0001" onslopes="true" />
 		<decoration type="prefab" name="zztong_hunters_trap_02" prob=".0001" onslopes="true" />
-		<decoration type="prefab" name="zztong_tent_01" prob=".0001" onslopes="false" />
 		<decoration type="prefab" name="zztong_tent_02" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_03" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_04" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_05" prob=".0001" onslopes="false" />
 		<decoration type="prefab" name="zztong_ruined_horde_base_02" prob=".0001" onslopes="false" />
         <decoration type="prefab" name="zztong_rubble_10" prob=".0001" onslopes="false" />
         <decoration type="prefab" name="zztong_rubble_11" prob=".0001" onslopes="false" />
@@ -15,11 +11,8 @@
 	<append xpath="/worldgeneration/biomes/biome[@name='pine_forest']/decorations">
 		<decoration type="prefab" name="zztong_hunters_trap_01" prob=".0001" onslopes="true" />
 		<decoration type="prefab" name="zztong_hunters_trap_02" prob=".0001" onslopes="true" />
-		<decoration type="prefab" name="zztong_tent_01" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_02" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_03" prob=".0001" onslopes="false" />
 		<decoration type="prefab" name="zztong_tent_04" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_05" prob=".0001" onslopes="false" />
+		<decoration type="prefab" name="zztong_tent_05" prob=".00002" onslopes="false" />
 		<decoration type="prefab" name="zztong_ruined_horde_base_01" prob=".0001" onslopes="false" />
 		<decoration type="prefab" name="zztong_ruined_horde_base_02" prob=".0001" onslopes="false" />
 		<decoration type="prefab" name="zztong_tete1805_deco_01" prob=".0001" onslopes="false" />
@@ -35,10 +28,7 @@
 		<decoration type="prefab" name="zztong_hunters_trap_01" prob=".0001" onslopes="true" />
 		<decoration type="prefab" name="zztong_hunters_trap_02" prob=".0001" onslopes="true" />
 		<decoration type="prefab" name="zztong_tent_01" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_02" prob=".0001" onslopes="false" />
 		<decoration type="prefab" name="zztong_tent_03" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_04" prob=".0001" onslopes="false" />
-		<decoration type="prefab" name="zztong_tent_05" prob=".0001" onslopes="false" />
 		<decoration type="prefab" name="zztong_ruined_horde_base_01" prob=".0001" onslopes="false" />
         <decoration type="prefab" name="zztong_grave_01" prob=".0001" onslopes="false" />
         <decoration type="prefab" name="zztong_grave_02" prob=".0001" onslopes="false" />
