@@ -116,6 +116,7 @@ for fileName in os.listdir( dirName ):
             outputFile.write( ";" + str(rotation) )
             outputFile.write( ";" + str(yoffset) )
             outputFile.write( ";" + size )
+            outputFile.write( ";64" )                   # Distance Value (from other POIs)
             outputFile.write( ";biome:" + biome )
             outputFile.write( ";region:" + region )
             outputFile.write( ";road:" + road )
