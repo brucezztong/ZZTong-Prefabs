@@ -189,6 +189,7 @@ Editor, game performance issues, and more. You're awesome!
 RELEASE NOTES: (Newest to Oldest)
 
 A20.6-ZZ013 : 
+Added terrain stamps. This is a first-time thing for the modlet.
 Added rwg_tile_residential_cap to finish off the set.
 Added some filler POIs: crater_01, based off a TFP crater.
 Made POIs look a little more beat up. (I'm still not on TFP's level.)
