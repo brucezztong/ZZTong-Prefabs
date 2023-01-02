@@ -1,5 +1,5 @@
 ﻿<lootcontainers>
-	<insertAfter xpath="/lootcontainers/lootcontainer[@id='551']">
+	<append xpath="/lootcontainers">
         <!--  zztong Storage Crates -->
         <lootcontainer id="1000" name="zztongStorageCrateAmmo" count="1" size="8,9" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" loot_quality_template="qualBaseTemplate">
             <item name="ammo9mmBulletBall" prob="1" count="4,8"/>
@@ -131,5 +131,5 @@
             <item group="dyes" prob="0.1" count="1"/>
             <item name="armorSantaHat" prob="0.1" count="1"/>
         </lootcontainer>
-	</insertAfter>
+	</append>
 </lootcontainers>
