@@ -1,5 +1,5 @@
 ﻿<blocks>
-	<insertAfter xpath="/blocks/block[@name='cntStorageGenericPOI']">
+	<append xpath="/blocks">
         <block name="zztongStorageGenericCube">
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="cntStorageHealth"/>
@@ -289,44 +289,6 @@
             <property name="DescriptionKey" value="furnitureGroupDesc"/>
         </block>
 
-    <!-- Bicycles are a future thing.
-        <block name="zztongBicycleFloat">
-            <property name="CreativeMode" value="Dev"/>
-            <property name="CustomIcon" value="vehicleBicyclePlaceable"/>
-            <property name="CustomIconTint" value="6BB6E8"/>
-            <property name="Material" value="Mmetal"/>
-            <property name="Class" value="Loot"/>
-            <property name="LootList" value="playerStorage"/>
-            <property name="Shape" value="ModelEntity"/>
-            <property name="Path" value="solid"/>
-            <property name="Model" value="#Entities/Vehicles?bicycle_Prefab.prefab"/>
-            <property name="Collide" value="movement,melee,rocket"/>
-            <property name="MaxDamage" value="250"/>
-            <property name="DisplayType" value="blockMulti"/>
-            <property name="MultiBlockDim" value="1,2,2"/>
-            <property name="IsTerrainDecoration" value="true"/>
-            <drop event="Harvest" name="terrStone" count="0" tool_category="Disassemble"/>
-            <drop event="Harvest" name="resourceForgedIron" count="1" prob="0.1" tag="salvageHarvest"/>
-            <drop event="Harvest" name="resourceMechanicalParts" count="1" prob="0.2" tag="salvageHarvest"/>
-            <drop event="Harvest" name="resourceLeather" count="1" prob="0.2" tag="salvageHarvest"/>
-            <drop event="Harvest" name="resourceSpring" count="1" prob="0.5" tag="salvageHarvest"/>
-            <drop event="Harvest" name="resourceScrapIron" count="10,20" tag="allHarvest"/>
-            <drop event="Destroy" count="0"/>
-            <drop event="Fall" name="scrapMetalPile" count="1" prob="0.75" stick_chance="1"/>
-            <property name="FilterTags" value="MC_outdoor,SC_decor"/>
-            <property name="Group" value="Decor/Miscellaneous"/>
-            <property name="DescriptionKey" value="furnitureGroupDesc"/>
-            <property name="SortOrder1" value="fh38"/>
-        </block>
-
-        <block name="zztongBicycleGround">
-            <property name="Extends" value="zztongBicycleFloat"/>
-            <property name="MultiBlockDim" value="1,1,2"/>
-            <property name="GndAlign" value="1"/>
-            <property name="ModelOffset" value="0,0,0.5"/>
-        </block>
-    Bicycles are a future thing. -->
-
         <block name="zztongBackpack01Empty">
             <property name="CustomIcon" value="cntBackpack01"/>
             <property name="CustomIconTint" value="6BB6E8"/>
@@ -426,5 +388,44 @@
             <property name="CustomIcon" value="cntBarrelGasSingle45"/>
         </block>
 
-    </insertAfter>
+        <!-- CUSTOM BLOCKS FOR DELOS POIs -->
+        <block name="zztongDelosAndroidMale">
+            <property name="Extends" value="decoEntityPolymerMaster"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="Model" value="Entities/Commercial/mannequinMalePrefab"/>
+            <property name="Class" value="Loot"/>
+            <property name="LootList" value="zztongDelosAndroid"/>
+            <property class="RepairItems">
+                <property name="resourceScrapPolymers" value="10"/>
+            </property>
+            <drop event="Harvest" name="resourceScrapPolymers" count="4,8" tag="allHarvest"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="CustomIcon" value="decoMannequinMale"/>
+        </block>
+
+        <block name="zztongDelosAndroidFemale">
+            <property name="Extends" value="zztongDelosAndroidMale"/>
+            <property name="Model" value="Entities/Commercial/mannequinFemalePrefab"/>
+            <property name="CustomIcon" value="decoMannequinFemale"/>
+        </block>
+
+        <block name="zztongDelosStorageCrate">
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntStorageHealth"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Class" value="Loot"/>
+            <property name="LootList" value="zztongStorageCrateDelos"/>
+            <property name="Material" value="MwoodReinforced"/>
+            <property name="Texture" value="572"/>
+            <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
+            <property class="RepairItems">
+                <property name="resourceWood" value="10"/>
+            </property>
+            <drop event="Destroy" name="resourceWood" count="1,3"/>
+            <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+            <property name="DescriptionKey" value="creativeMenuBlockGroupDesc"/>
+            <property name="FilterTags" value="MC_building,SC_loot"/>
+        </block>
+
+    </append>
 </blocks>

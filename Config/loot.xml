@@ -131,5 +131,48 @@
             <item group="dyes" prob="0.1" count="1"/>
             <item name="armorSantaHat" prob="0.1" count="1"/>
         </lootcontainer>
+
+        <!-- Delos (West World) Loot Lists -->
+
+        <lootcontainer id="1008" name="zztongDelosAndroid" count="1" size="6,2" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" loot_quality_template="qualBaseTemplate">
+            <item name="resourceScrapIron" count="5,10"/>
+            <item name="resourceScrapBrass" count="5,10"/>
+            <item name="resourceScrapLead" count="5,10"/>
+            <item name="resourceScrapPolymers" count="1,3"/>
+            <item name="resourceCloth" prob="1" count="1,3"/>
+            <item name="resourceMechanicalParts" count="1,2"/>
+            <item name="resourceElectricParts" count="1,2"/>
+            <item name="resourceMetalPipe" prob="1" count="1,2"/>
+            <item name="resourceSpring" count="1,2"/>
+            <item name="resourceOil" count="1,2"/>
+            <item name="resourceAcid" count="1,2"/>
+            <item name="gunBowT0PrimitiveBow" loot_prob_template="veryLow"/>
+            <item name="gunHandgunT0PipePistol" loot_prob_template="veryLow"/>
+            <item name="resourceSilverNugget" count="1,2" loot_prob_template="veryLow"/>
+            <item name="resourceGoldNugget" count="1,2" loot_prob_template="veryLow"/>
+        </lootcontainer>
+
+        <lootcontainer id="1009" name="zztongStorageCrateDelos" count="1" size="8,9" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" loot_quality_template="qualBaseTemplate">
+            <item name="resourcePaint" count="10,20"/>
+            <item name="resourceRepairKit" count="1,2" loot_prob_template="veryLow"/>
+            <item name="resourceScrapIron" count="10,30"/>
+            <item name="resourceScrapBrass" count="10,30"/>
+            <item name="resourceScrapLead" count="10,30"/>
+            <item name="resourceScrapPolymers" count="1,3"/>
+            <item name="resourceForgedIron" count="1,2"/>
+            <item name="resourceForgedSteel" count="1,2"/>
+            <item name="resourceMechanicalParts" count="1,2"/>
+            <item name="resourceElectricParts" count="1,2"/>
+            <item name="resourceSpring" count="1,2"/>
+            <item name="resourceOil" count="1,2"/>
+            <item name="resourceAcid" count="1,2"/>
+            <item name="apparelCoatLeatherPoncho"/>
+            <item name="apparelCoatLeatherDuster" mods="dye" mod_chance="0"/>
+            <item name="apparelBandana" mods="dye" mod_chance="0"/>
+            <item name="apparelCowboyBoots"/>
+            <item name="apparelFlannelShirt" mods="dye" mod_chance="0"/>
+        </lootcontainer>
+
+
 	</append>
 </lootcontainers>

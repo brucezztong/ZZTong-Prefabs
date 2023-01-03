@@ -8,6 +8,9 @@ zztongBarrelGasSingle45,blocks,Block,,,Empty Rusty Barrel,,Rostiges Fass,Barril 
 zztongBicycleFloat,vehicles,item,,,Bicycle Obj Floating,,Fahrrad,Bicicleta,Bicyclette,Bicicletta,自転車,자전거,Rower,Bicicleta,Велосипед,Bisiklet,自行车,腳踏車,Bicicleta
 zztongBicycleGround,vehicles,item,,,Bicycle Obj Ground,,Fahrrad,Bicicleta,Bicyclette,Bicicletta,自転車,자전거,Rower,Bicicleta,Велосипед,Bisiklet,自行车,腳踏車,Bicicleta
 zztongBookcaseBookless,blocks,Container,,,Bookcase,,Bücherregal,Estantería,Bibliothèque,Libreria,ブックケース,책장,Regał na książki,Estante de Livros,Книжный шкаф,Kitaplık,书架,書櫃,Estantería
+zztongDelosAndroidFemale,blocks,Container,,,Delos Android
+zztongDelosAndroidMale,blocks,Container,,,Delos Android
+zztongDelosStorageCrate,blocks,Container,,,Delos Storage Crate,,Aufbewahrungskiste,Caja de almacenamiento,Caisse de rangement,Scatola portaoggetti,保管ボックス,보관함,Pudło na rzeczy,Caixa de Armazenamento,Коробка для хранения,Saklama Kutusu,储物盒,儲物盒,Caja de almacenamiento
 zztongDuffle01Empty,blocks,Container,,,Empty Duffle Bag,,Tasche,Bolso de viaje,Sac de marin,Borsone,ダッフルバッグ,더플 백,Worek marynarski,Bolsa de Viagem,Спортивная сумка,Silindir Çanta,行李袋,行李袋,Bolso de viaje
 zztongPurse01Empty,blocks,Container,,,Empty Purse,,Handtasche,Bolso,Sac à main,Borsetta,パース,지갑,Portmonetka,Bolsa,Кошелек,Cüzdan,钱包,錢包,Bolso
 zztongSportsBag01Empty,blocks,Container,,,Empty Rotting Sports Bag,,Verrottende Sporttasche,Bolsa deportiva podrida,Sac de sport en décomposition,Borsa sportiva putrefatta,腐りかけのスポーツバッグ,헤진 스포츠 가방,Gnijąca torba sportowa,Bolsa Esportiva Podre,Истлевшая спортивная сумка,Çürümüş Spor Çanta,腐烂的运动包,腐爛的運動包,Bolsa deportiva podrida
