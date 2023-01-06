@@ -146,6 +146,12 @@
             <item name="resourceSpring" count="1,2"/>
             <item name="resourceOil" count="1,2"/>
             <item name="resourceAcid" count="1,2"/>
+            <item name="apparelCoatLeatherPoncho"/>
+            <item name="apparelCoatLeatherDuster" mods="dye" mod_chance="0"/>
+            <item name="apparelBandana" mods="dye" mod_chance="0"/>
+            <item name="apparelCowboyBoots"/>
+            <item name="apparelFlannelShirt" mods="dye" mod_chance="0"/>
+            <item name="apparelDenimPants" mods="dye" mod_chance="0"/>
             <item name="gunBowT0PrimitiveBow" loot_prob_template="veryLow"/>
             <item name="gunHandgunT0PipePistol" loot_prob_template="veryLow"/>
             <item name="resourceSilverNugget" count="1,2" loot_prob_template="veryLow"/>
@@ -171,6 +177,7 @@
             <item name="apparelBandana" mods="dye" mod_chance="0"/>
             <item name="apparelCowboyBoots"/>
             <item name="apparelFlannelShirt" mods="dye" mod_chance="0"/>
+            <item name="apparelDenimPants" mods="dye" mod_chance="0"/>
         </lootcontainer>
 
 
