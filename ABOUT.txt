@@ -88,6 +88,13 @@ TFP had an unfinished crater in A19 that didn't move up to A20. I suspect they
 were going to use it as a part for something, but it fit the right size to be
 used as a filler POI, so I finished it off.
 
+DELOS HOTEL 01
+
+As part of my desire to scatter higher tier POIs around the map, I had been
+looking for a way to place something in the Old West town. The original
+Westworld movie (1973) provided the motivation for this POI. It also gave me
+an excuse to make a loot list for Androids.
+
 DOG PARK 01
 
 This little bit of filler for Rural Tiles just seemed obvious after having

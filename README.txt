@@ -28,11 +28,11 @@ SERVER INSTALLATION - TBD
 
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
-I recommend installation on both, but server side only should largely work.
+I recommend installation on both, but Server-Side only should largely work.
 
 As near as I have been able to determine, because POIs are rolled into the
 world distributed by the server, and all the modlet's additions to the game
-configuration are in XML, that this can be a Server-Side only modlet.
+configuration are in XML, this can be a Server-Side only modlet.
 
 However, if you also install the modlet on the Clinet-Side then there are game
 features that become supported, such as using F11 to identify a POI, or Admin
@@ -52,6 +52,11 @@ ringed by Residential rather than Rural content. This way, Country Towns are
 surrounded by Farms, but Cities are surrounded by Houses. If you don't like
 that, then change the rwgmixer.xml file in this modlet.
 
+TERAGON:
+
+Support for Teragon is new. You should refer to notes and configuration files
+found in the Teragon folder within this modlet.
+
 NITROGEN AND KINGGEN:
 
 Nitrogen and KingGen are no longer supported because they do not support
@@ -63,7 +68,7 @@ WORLD EDITOR AND MAP MAKERS:
 If you have already made a map and plan to place these POIs by hand then be
 aware that I make extensive use of Parts. Manual placement via the World Editor
 does not know about Parts, so you run the risk of ending up with a POI that is
-missing content. That content can include loot. This is an A20 reality. I have]
+missing content. That content can include loot. This is an A20 reality. I have
 no idea if A21 will include more widespread support for Parts.
 
 COMPOPACK:
@@ -94,7 +99,7 @@ Mod knows how to find content in a modlet, and sometimes it doesn't.
 
 Some Overhaul Mods choose to embed this modlet, or portions of this modlet,
 in their own distributions. I cannot predict the possible collisions and
-ramifications. I also cannot force overhaul modders to update to my latest
+ramifications. I also cannot force overhaul modders to update to the latest
 versions of POIs.
 
 As far as I know: (Please correct me if I'm wrong.)
@@ -105,10 +110,10 @@ have a viable map.
 
 DARKNESS FALLS - Requires special POIs to be on a map, so you need somebody
 to make you a map and do specific placement. If that effort involves using
-the Game's RWG while this modlet is installed, then you'll see my POIs in the
-resulting map.
+the Game's RWG while this modlet is installed, then you'll see these POIs in
+the resulting map.
 
-RAVENHEARST - I'm under the impression you can using the Game's RWG to make
+RAVENHEARST - I'm under the impression you can use the Game's RWG to make
 maps. If so, make sure this modlet is installed when you do that.
 
 REBIRTH - I'm aware this overhaul was removing vanilla items that I have
@@ -122,6 +127,9 @@ have a viable map.
 
 WAR3ZUK - I do not know. I'm hoping you just need this modlet installed and
 that you can use RWG.
+
+OTHER - My hope is that if you can use RWG to generate a map for your overhaul
+that all you would have to do is correctly install this modlet.
 
 LINUX SERVERS:
 
@@ -142,10 +150,9 @@ stuff there.
 DECORATIONS
 
 Decorations are not questable POIs, but they do not take the place of POIs on
-your map so you're not missing anything. All of the full POIs are questable.
-Beware, some of the Hunters Traps are deadly. If you do not want these to be
-included in your map then edit/remove the biomes.xml file found in the Mod's
-config directory.
+your map so you're not missing anything. Beware, some of the Hunters Traps are
+deadly. If you do not want these to be included in your map then edit/remove
+the biomes.xml file found in the Mod's config directory.
 
 INCLUSION IN OTHER PACKS AND MODS:
 
@@ -191,7 +198,9 @@ RELEASE NOTES: (Newest to Oldest)
 A20.6-ZZ013 : 
 Added terrain stamps. This is a first-time thing for the modlet.
 Added rwg_tile_residential_cap to finish off the set.
+Added delos_oldwest_01 POI to the oldwest town. Yes, Westworld! Androids!
 Added some filler POIs: crater_01, based off a TFP crater.
+Added 10 more biome decorations, largely for the wasteland.
 Made POIs look a little more beat up. (I'm still not on TFP's level.)
 Put quest markers on top of deco blocks to work around buried marker issue.
 Adjusted many POIs to match Zombie density goals. (See DIFFICULTY.txt)

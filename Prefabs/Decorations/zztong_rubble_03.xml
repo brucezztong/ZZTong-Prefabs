@@ -4,7 +4,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -13,8 +13,8 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property class="Stats">
-    <property name="TotalVertices" value="3895" />
-    <property name="TotalTriangles" value="3492" />
+    <property name="TotalVertices" value="3897" />
+    <property name="TotalTriangles" value="3496" />
     <property class="BlockEntities">
       <property name="Vertices" value="3583" />
       <property name="Triangles" value="3044" />
@@ -48,8 +48,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="312" />
-      <property name="Triangles" value="448" />
+      <property name="Vertices" value="314" />
+      <property name="Triangles" value="452" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />

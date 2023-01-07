@@ -58,6 +58,16 @@
 		<decoration type="prefab" name="zztong_rubble_06" prob=".01" onslopes="false" />
 		<decoration type="prefab" name="zztong_rubble_07" prob=".01" onslopes="false" />
 		<decoration type="prefab" name="zztong_rubble_08" prob=".01" onslopes="false" />
-		<decoration type="prefab" name="zztong_rubble_09" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_09" prob=".002" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_21" prob=".002" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_22" prob=".002" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_23" prob=".002" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_24" prob=".002" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_25" prob=".002" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_26" prob=".001" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_27" prob=".001" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_28" prob=".01" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_29" prob=".002" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_30" prob=".001" onslopes="false" />
 	</append>
 </worldgeneration>

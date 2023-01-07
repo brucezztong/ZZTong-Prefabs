@@ -58,31 +58,7 @@ you tell it to Continue with roads.
 
 EXPECTATIONS
 
-You should keep in mind Teragon is still under development and it has its quirks.
-My advice is to look for Teragon to improve over time, so focus on the journey.
-There are also an impressive number of commands and options, so Teragon may well
-represent a tool popular with persons who like to craft maps by hand.
-
-In early testing, generating a map could take a very long time. We saw it take
-as long as 8 hours to do an 8k map. That seems to relate to the generation of
-roads and thus also the number of Wilderness POIs to which a road must be run.
-On the plus side, you tend to get high quality terrain, so it can be worth the
-wait.
-
-Advantages over Vanilla RWG that I've seen are:
-
-* Better rivers
-* Bridges over rivers
-
-Other compelling features:
-
-* An alternative terrain generation system: algorithmic instead of stamps.
-
-Quirks that I've seen are:
-
-* Road generation taking a very long time.
-* Sometimes a lack of Wilderness POIs.
-* Sometimes a cluserting of Wilderness POIs.
-* Duplicate city Tile content in close proximity to itself.
-* A bug in Part rotation/placement.
+Teragon has appealing features as well as quirks and challenges. There are a
+number of commands and options to get to know. Keep in mind Teragon is still
+under development as is support for it from modlets like this.
 
