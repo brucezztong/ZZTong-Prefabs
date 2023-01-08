@@ -22,11 +22,11 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-5" />
   <property class="Stats">
-    <property name="TotalVertices" value="266947" />
-    <property name="TotalTriangles" value="292738" />
+    <property name="TotalVertices" value="263546" />
+    <property name="TotalTriangles" value="289092" />
     <property class="BlockEntities">
-      <property name="Vertices" value="259666" />
-      <property name="Triangles" value="286419" />
+      <property name="Vertices" value="256265" />
+      <property name="Triangles" value="282773" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="4880" />
@@ -67,11 +67,6 @@
     <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-  </property>
-  <property class="IndexedBlockOffsets">
-    <property class="FetchContainer">
-      <property name="0" value="11, 2, 13" />
     </property>
   </property>
 </prefab>
