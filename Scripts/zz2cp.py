@@ -46,9 +46,10 @@ def exportFiles( srcPath, dstPath, poiType ):
 
 poiPath = "../Prefabs/"
 configPath = "../Config/"
+stampPath = "../Stamps/"
 copyPathTop = "../CP-Export/"
 copyPathPrefabs = copyPathTop + "Prefabs/"
-subDirsTop = [ "Config", "Prefabs" ]
+subDirsTop = [ "Config", "Prefabs", "Stamps" ]
 subDirsPrefab = [ "Decorations", "Parts", "POIs", "RWGTiles" ]
 
 # Prepare destination paths...
@@ -70,7 +71,12 @@ else:
 for subDir in subDirsPrefab:
     exportFiles( poiPath + subDir, copyPathPrefabs + subDir, subDir )
 
-# Drive the Config files export...
+# Config files export...
 for fileName in os.listdir( configPath ):
     shutil.copy2( configPath + "/" + fileName, copyPathTop + "Config/" )
+    print( fileName )
+
+# Stamp files export...
+for fileName in os.listdir( stampPath ):
+    shutil.copy2( stampPath + "/" + fileName, copyPathTop + "Stamps/" )
     print( fileName )
