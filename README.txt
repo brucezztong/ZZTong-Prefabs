@@ -197,6 +197,7 @@ RELEASE NOTES: (Newest to Oldest)
 
 A20.6-ZZ013 : 
 Added terrain stamps. This is a first-time thing for the modlet.
+Added support for Teragon. This is also a first-time thing for the modlet.
 Added rwg_tile_residential_cap to finish off the set.
 Added delos_oldwest_01 POI to the oldwest town. Yes, Westworld! Androids!
 Added some filler POIs: crater_01, based off a TFP crater.

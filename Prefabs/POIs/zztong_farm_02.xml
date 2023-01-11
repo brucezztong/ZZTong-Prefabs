@@ -22,7 +22,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
   <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#7, 7, 7#6, 3, 3#1, 1, 1#5, 1, 5#1, 1, 1" />
-  <property name="POIMarkerStart" value="2, 4, 26#14, 4, -2#7, 1, 17#19, 5, 32#55, 5, 26#50, 5, 31#18, 5, 12" />
+  <property name="POIMarkerStart" value="2, 4, 26#14, 4, -3#7, 1, 17#19, 5, 32#55, 5, 26#50, 5, 31#18, 5, 12" />
   <property name="POIMarkerGroup" value="crib,driveway,storm,tractor,barrel,mines,car" />
   <property name="POIMarkerTags" value="######" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />

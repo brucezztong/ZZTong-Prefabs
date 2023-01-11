@@ -15,7 +15,7 @@
   <property name="PrefabSize" value="60, 10, 60" />
   <property name="Tags" value="rural" />
   <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#2, 1, 2#6, 3, 3#7, 7, 7#4, 1, 1" />
-  <property name="POIMarkerStart" value="4, 0, 45#19, 0, -2#38, 1, 48#49, 1, 37#4, -3, 45#20, 1, 16" />
+  <property name="POIMarkerStart" value="4, 0, 45#19, 0, -3#38, 1, 48#49, 1, 37#4, -3, 45#20, 1, 16" />
   <property name="POIMarkerGroup" value="shedstorm,driveway,dogs,tractor,shedstorm,spikes" />
   <property name="POIMarkerTags" value="#####" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
