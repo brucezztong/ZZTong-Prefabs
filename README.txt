@@ -55,7 +55,9 @@ that, then change the rwgmixer.xml file in this modlet.
 TERAGON:
 
 Support for Teragon is new. You should refer to notes and configuration files
-found in the Teragon folder within this modlet.
+found in the Teragon folder within this modlet. It is unclear as of the time
+I'm writing this if Teragon fully support modlets and the correct rotation of
+Parts, so you might have problems for a while.
 
 NITROGEN AND KINGGEN:
 
