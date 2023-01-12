@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="rural" />
   <property name="SleeperVolumeStart" value="8, 0, 1#26, 2, 12#13, 2, 24" />
   <property name="SleeperVolumeSize" value="15, 5, 16#13, 3, 12#15, 3, 15" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,3,4" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,4,4" />
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />

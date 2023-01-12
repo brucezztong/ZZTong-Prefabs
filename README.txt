@@ -207,8 +207,8 @@ Added 10 more biome decorations, largely for the wasteland.
 Made POIs look a little more beat up. (I'm still not on TFP's level.)
 Put quest markers on top of deco blocks to work around buried marker issue.
 Adjusted many POIs to match Zombie density goals. (See DIFFICULTY.txt)
-Lowered the following to Tier 0: field_fish_01, field_mushroom_01, garage_01,
-mass_grave_01, mass_grave_02.
+Lowered the following to Tier 0: field_chickens_01, field_fish_01,
+field_mushroom_01, garage_01, mass_grave_01, mass_grave_02.
 Lowered the following to Tier 2: ems_01 and Zeds were thinned out.
 Lowered the following to Tier 3: office_building_01. Boy-o-boy there were too
 many Zeds crammed into that building trying to hit that higher tier.

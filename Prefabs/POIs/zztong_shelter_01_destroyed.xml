@@ -14,13 +14,13 @@
   <property name="AllowedTownships" value="city" />
   <property name="AllowedBiomes" value="wasteland" />
   <property name="EditorGroups" value="downtown" />
-  <property name="SleeperVolumeSize" value="15, 6, 15#15, 6, 15#15, 6, 15" />
-  <property name="SleeperVolumeStart" value="13, 8, 9#13, 20, 9#13, 14, 9" />
-  <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2" />
-  <property name="SleeperIsLootVolume" value="False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0" />
+  <property name="SleeperVolumeSize" value="15, 6, 15#15, 6, 15#15, 6, 15#7, 4, 17" />
+  <property name="SleeperVolumeStart" value="13, 8, 9#13, 20, 9#13, 14, 9#18, 4, 12" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="YOffset" value="-7" />
   <property name="Tags" value="wasteland,commercial" />
   <property name="PrefabSize" value="42, 24, 42" />

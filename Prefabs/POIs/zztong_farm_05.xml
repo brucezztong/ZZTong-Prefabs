@@ -22,13 +22,13 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_12,part_zztong_tfp_trailer_reefer_empty_01,part_zztong_tractor_04,part_zztong_firewood_02,part_zztong_spikes_wood4,part_zztong_tree_stump_01,part_high_voltage_box_2" />
   <property name="POIMarkerPartRotations" value="2,0,1,0,1,0,3" />
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.4,0.6,0.4" />
-  <property name="SleeperVolumeSize" value="17, 6, 10#17, 6, 8" />
-  <property name="SleeperVolumeStart" value="25, 1, 1#25, 1, 11" />
-  <property name="SleeperVolumeGroupId" value="0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1" />
-  <property name="SleeperIsLootVolume" value="False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False" />
-  <property name="SleeperVolumeFlags" value="0,0" />
+  <property name="SleeperVolumeSize" value="17, 6, 10#17, 6, 8#29, 3, 27" />
+  <property name="SleeperVolumeStart" value="25, 1, 1#25, 1, 11#15, 1, 20" />
+  <property name="SleeperVolumeGroupId" value="0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperIsLootVolume" value="False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0" />
   <property class="Stats">
     <property name="TotalVertices" value="222056" />
     <property name="TotalTriangles" value="207219" />

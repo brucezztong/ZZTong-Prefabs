@@ -17,7 +17,7 @@
   <property name="SleeperVolumeSize" value="15, 5, 8#27, 12, 27#30, 11, 20" />
   <property name="SleeperVolumeStart" value="57, 16, 3#24, 3, 40#47, 3, 20" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,2,3,S_Zom_Utility_Worker,1,1" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,3,3,S_Zom_Utility_Worker,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />

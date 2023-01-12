@@ -12,7 +12,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="12, 3, 7#15, 3, 15#12, 3, 5" />
   <property name="SleeperVolumeStart" value="5, 4, 10#3, 8, 3#5, 4, 5" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,medium" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="DistantPOIYOffset" value="0" />

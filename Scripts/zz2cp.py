@@ -2,6 +2,7 @@
 import os
 import re
 import shutil
+import string
 import sys
 
 #######################################################################
@@ -30,9 +31,14 @@ def exportFiles( srcPath, dstPath, poiType ):
 
             # If the file must be renamed, then devise the new name...
             if ( poiType in renameList ): 
+                # Remove the modlet filename's prefix and suffix information
                 poiNameRoot = srcFileName.replace( "zztong_", "" )
                 poiNameRoot = poiNameRoot.replace( ".xml", "" )
+                # Stallion likes mixed case names, so upper any letter that follows an underscore
+                poiNameRoot = string.capwords( poiNameRoot, sep='_' )
+                # Append the CP prefix and suffix
                 poiNameRoot = "xcp_" + poiNameRoot + "_ZZTong"
+
             else:
                 poiNameRoot = srcFileName.replace( ".xml", "" )
 
@@ -54,7 +60,7 @@ subDirsPrefab = [ "Decorations", "Parts", "POIs", "RWGTiles" ]
 
 # Prepare destination paths...
 if ( os.path.exists( copyPathTop ) == True ):
-    print( "The script will not overwrite the 'For-CP' directory." )
+    print( "The script will not overwrite the 'CP-Export' directory." )
     print( "Remove that directory if you want the script to run." )
     exit( 10 )
 else:
