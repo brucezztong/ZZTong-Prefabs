@@ -38,6 +38,13 @@ def exportFiles( srcPath, dstPath, poiType ):
                 poiNameRoot = string.capwords( poiNameRoot, sep='_' )
                 # Append the CP prefix and suffix
                 poiNameRoot = "xcp_" + poiNameRoot + "_ZZTong"
+                # Fix unique naming issues...
+                poiNameRoot = poiNameRoot.replace( "_Destroyed_", "_Dest_" )
+                poiNameRoot = poiNameRoot.replace( "_Ems_", "_EMS_" )
+                poiNameRoot = poiNameRoot.replace( "_Kzmb_", "_KZMB_" )
+                poiNameRoot = poiNameRoot.replace( "_Kztv_", "_KZTV_" )
+                poiNameRoot = poiNameRoot.replace( "_Tfp_", "_TFP_" )
+                poiNameRoot = poiNameRoot.replace( "_Xs_", "_XS_" )
 
             else:
                 poiNameRoot = srcFileName.replace( ".xml", "" )
