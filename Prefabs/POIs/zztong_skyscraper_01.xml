@@ -15,8 +15,8 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />
-  <property name="SleeperVolumeSize" value="28, 6, 30#40, 3, 40#36, 3, 36#15, 3, 15#36, 3, 18#22, 3, 17#32, 3, 32#30, 3, 30#30, 3, 30#30, 3, 30#22, 16, 22#12, 5, 12" />
-  <property name="SleeperVolumeStart" value="6, 3, 6#1, 10, 1#3, 14, 3#25, 18, 24#3, 18, 3#3, 18, 22#5, 22, 5#6, 26, 6#6, 30, 6#6, 34, 6#10, 38, 10#15, 56, 15" />
+  <property name="SleeperVolumeSize" value="28, 6, 30#40, 4, 40#36, 4, 36#15, 4, 15#36, 4, 18#22, 3, 17#32, 4, 32#30, 4, 30#30, 4, 30#30, 4, 30#22, 16, 22#12, 7, 12" />
+  <property name="SleeperVolumeStart" value="6, 3, 6#1, 9, 1#3, 13, 3#25, 17, 24#3, 17, 3#3, 18, 22#5, 21, 5#6, 25, 6#6, 29, 6#6, 33, 6#10, 38, 10#15, 54, 15" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6,S_Zom_Businessman,7,8,S_Zom_Businessman,8,10,S_Zom_Burnt,3,4,S_Zom_Businessman,4,5,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,7,8,S_Zom_Businessman,8,9,S_Zom_Businessman,3,4,S_Zom_Businessman,6,7,animalZombieVulture,9,10,S_-_Group_Zom_Badass,7,8" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False" />
@@ -33,15 +33,15 @@
   <property name="POIMarkerPartRotations" value="0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.4,0.2" />
   <property class="Stats">
-    <property name="TotalVertices" value="2059036" />
-    <property name="TotalTriangles" value="2385275" />
+    <property name="TotalVertices" value="2027308" />
+    <property name="TotalTriangles" value="2347553" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1773995" />
-      <property name="Triangles" value="2201909" />
+      <property name="Vertices" value="1742363" />
+      <property name="Triangles" value="2164235" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="251403" />
-      <property name="Triangles" value="149920" />
+      <property name="Vertices" value="251307" />
+      <property name="Triangles" value="149872" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
