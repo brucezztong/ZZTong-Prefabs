@@ -38,6 +38,7 @@ outputFile.write( "// ----------------------------------------------------------
 
 outputFile.write( "//\n" )
 outputFile.write( "// ZZTong-Prefabs: Wilderness POIs\n" )
+outputFile.write( "// POI name;rotation;yoffset;x;y;z;distance to other POIs;biomes;regions;road\n" )
 outputFile.write( "//\n" )
 
 #######################################################################################
@@ -136,6 +137,7 @@ dirName = "../Prefabs/POIs/"
 
 outputFile.write( "//\n" )
 outputFile.write( "// ZZTong-Prefabs: Non-Wilderness POIs\n" )
+outputFile.write( "// POI name;rotation;yoffset;x;y;z;alone\n" )
 outputFile.write( "//\n" )
 
 #######################################################################################
