@@ -199,6 +199,7 @@ RELEASE NOTES: (Newest to Oldest)
 
 A20.6-ZZ014 : 
 Added rwg_tile_rural_cap_02, rwg_tile_residential_straight_02.
+Bug fixes for various residential tiles. (Sidewalk issues)
 
 A20.6-ZZ013 : 
 Added terrain stamps. This is a first-time thing for the modlet.

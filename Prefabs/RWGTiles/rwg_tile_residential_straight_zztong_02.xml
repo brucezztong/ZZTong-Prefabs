@@ -22,15 +22,15 @@
   <property name="POIMarkerPartRotations" value="3,3,1,1" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="109885" />
-    <property name="TotalTriangles" value="128646" />
+    <property name="TotalVertices" value="526690" />
+    <property name="TotalTriangles" value="542759" />
     <property class="BlockEntities">
-      <property name="Vertices" value="11987" />
-      <property name="Triangles" value="12698" />
+      <property name="Vertices" value="422714" />
+      <property name="Triangles" value="418563" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="39212" />
-      <property name="Triangles" value="20512" />
+      <property name="Vertices" value="33296" />
+      <property name="Triangles" value="17492" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -45,8 +45,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="10654" />
+      <property name="Triangles" value="9020" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -57,8 +57,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="58686" />
-      <property name="Triangles" value="95436" />
+      <property name="Vertices" value="60026" />
+      <property name="Triangles" value="97684" />
     </property>
     <property class="ChunkMeshes8">
       <property name="Vertices" value="0" />
