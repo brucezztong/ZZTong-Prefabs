@@ -21,23 +21,23 @@
   <property name="POIMarkerPartToSpawn" value=",,,,,part_lab_greeble_04,part_large_fusebox_01" />
   <property name="POIMarkerPartRotations" value="3,3,3,1,1,3,3" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.8,0.8" />
-  <property name="SleeperVolumeSize" value="13, 8, 19" />
-  <property name="SleeperVolumeStart" value="133, 3, 129" />
-  <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3" />
-  <property name="SleeperIsLootVolume" value="False" />
-  <property name="SleeperIsQuestExclude" value="False" />
-  <property name="SleeperVolumeFlags" value="0" />
+  <property name="SleeperVolumeSize" value="13, 8, 19#11, 8, 19#7, 4, 16#7, 4, 16" />
+  <property name="SleeperVolumeStart" value="133, 3, 129#4, 3, 24#2, 3, 124#10, 3, 124" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="254280" />
-    <property name="TotalTriangles" value="240536" />
+    <property name="TotalVertices" value="666485" />
+    <property name="TotalTriangles" value="694368" />
     <property class="BlockEntities">
-      <property name="Vertices" value="84875" />
-      <property name="Triangles" value="86690" />
+      <property name="Vertices" value="455946" />
+      <property name="Triangles" value="519386" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="59057" />
-      <property name="Triangles" value="32562" />
+      <property name="Vertices" value="99323" />
+      <property name="Triangles" value="53026" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="50432" />
@@ -56,8 +56,8 @@
       <property name="Triangles" value="1364" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="336" />
+      <property name="Triangles" value="168" />
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
@@ -68,8 +68,8 @@
       <property name="Triangles" value="94704" />
     </property>
     <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="532" />
+      <property name="Triangles" value="504" />
     </property>
     <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
@@ -79,6 +79,12 @@
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="80, 12, 122" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="13, 3, 125" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="132, 3, 17" />
     </property>
   </property>
 </prefab>
