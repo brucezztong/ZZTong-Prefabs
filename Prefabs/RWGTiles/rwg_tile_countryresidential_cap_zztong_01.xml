@@ -13,24 +13,24 @@
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 11, 150" />
   <property name="Tags" value="streettile,rwgonly" />
-  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25" />
-  <property name="POIMarkerStart" value="28, 2, 44#80, 2, 44#28, 2, 1#80, 2, 1#45, 2, 96#80, 2, 122#80, 2, 96#45, 2, 122" />
-  <property name="POIMarkerGroup" value="s1,s2,s3,s4,xs1,xs4,xs3,xs2" />
-  <property name="POIMarkerTags" value="#######" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,,," />
-  <property name="POIMarkerPartRotations" value="3,1,3,1,3,1,1,3" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1" />
+  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#1, 10, 1#1, 10, 1#7, 4, 6#3, 1, 7#8, 5, 12#4, 2, 3#4, 4, 3#1, 1, 5#1, 1, 5#3, 2, 1#6, 1, 1#5, 5, 11#5, 1, 5#14, 90, 14#12, 3, 3#8, 1, 1#8, 5, 9#14, 4, 6#1, 1, 1#1, 1, 1" />
+  <property name="POIMarkerStart" value="28, 2, 44#80, 2, 44#28, 2, 1#80, 2, 1#45, 2, 96#80, 2, 122#80, 2, 96#45, 2, 122#80, 2, 43#80, 2, 121#107, 2, 94#123, 2, 93#17, 2, 73#32, 2, 93#19, 2, 92#68, 2, 87#81, 2, 87#75, 2, 5#72, 2, 146#26, 2, 120#130, 2, 39#127, 1, 81#13, 2, 28#71, 2, 146#139, 2, 16#124, 2, 136#115, 2, 116#8, 2, 53" />
+  <property name="POIMarkerGroup" value="s1,s2,s3,s4,xs1,xs4,xs3,xs2,light1,light2,shed,pipes,tanks,highvolt,gas,barbwire1,barbwire2,barricade,barrier,camper,camp,celltower,pipe,barrier,tent,trailer,stump1,stump2" />
+  <property name="POIMarkerTags" value="###########################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,,,,part_streetlight,part_streetlight,part_shed_02,part_pipestack_01,part_industrial_tank_horizontal,part_high_voltage_box_1,part_gas_contraption_01,part_zztong_barbwire5,part_zztong_barbwire5,part_zztong_barricade_01,part_zztong_barrier6,part_zztong_camper_01,part_zztong_campsite_01,part_zztong_cell_tower_01,part_zztong_culvert_pipe,part_zztong_guard_rail8,part_zztong_tent_7x6_03,part_zztong_trailer_01,part_zztong_tree_stump_01,part_zztong_tree_stump_01" />
+  <property name="POIMarkerPartRotations" value="3,1,3,1,3,1,1,3,0,0,2,1,0,2,1,1,1,3,0,0,0,3,0,0,3,1,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,0.8,0.8,0.6,0.4,0.2,0.6,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.6,0.4" />
   <property class="Stats">
-    <property name="TotalVertices" value="72938" />
-    <property name="TotalTriangles" value="102288" />
+    <property name="TotalVertices" value="367408" />
+    <property name="TotalTriangles" value="390423" />
     <property class="BlockEntities">
-      <property name="Vertices" value="5077" />
-      <property name="Triangles" value="3574" />
+      <property name="Vertices" value="290138" />
+      <property name="Triangles" value="283858" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="10649" />
-      <property name="Triangles" value="6146" />
+      <property name="Vertices" value="10857" />
+      <property name="Triangles" value="6250" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -45,8 +45,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="230" />
-      <property name="Triangles" value="172" />
+      <property name="Vertices" value="9431" />
+      <property name="Triangles" value="7919" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
