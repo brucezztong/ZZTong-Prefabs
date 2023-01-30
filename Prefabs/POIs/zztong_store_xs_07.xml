@@ -22,7 +22,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
-  <property name="Tags" value="forest,snow,desert,countrytown,nodiagonal" />
+  <property name="Tags" value="commercial,countrytown,nodiagonal" />
   <property name="POIMarkerSize" value="6, 13, 2#5, 3, 5#4, 2, 4#3, 1, 1" />
   <property name="POIMarkerStart" value="9, 7, -2#4, 12, 6#17, 12, 11#11, 8, 11" />
   <property name="POIMarkerGroup" value="driveway,roof1,roof2,spikes" />
