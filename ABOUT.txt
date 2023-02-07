@@ -582,6 +582,16 @@ long since failed. They combined a bar with a laundromat. We used to say it
 was a place where you and your laundry could get loaded at the same time.
 It was a clever idea; still failed. Made for A20 using A19.
 
+STORE XS 11 - NAMASTE YOGA
+
+There was no big inspiration for this POI beyond the need to fill commercial
+lots of the XS size since they're not found on TFP tiles. 
+
+STORE XS 12 - LOCO MOJO DOJO
+
+Another POI to satisfy a need for XS Stores for Commercial. Plus, it is a fun
+store name to say.
+
 STORMWATER DETENTION POND 01
 
 This is rural filler. This is no quest for this POI. These ponds are used for

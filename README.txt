@@ -202,7 +202,7 @@ Added rwg_tile_rural_cap_zztong_02, rwg_tile_residential_straight_zztong_02,
 rwg_tile_residential_t_zztong_02, rwg_tile_countryresidential_cap_01 and
 rwg_tile_commercial_intersection_01.
 Bug fixes for various residential tiles. (Sidewalk issues)
-Added store_xs_11.
+Added store_xs_11, store_xs_12.
 
 A20.6-ZZ013 : 
 Added terrain stamps. This is a first-time thing for the modlet.
