@@ -60,7 +60,7 @@ def main():
     outputLootSummaryFileName = "poi-scout-loot.csv"
 
     outputFileBlocks = open( outputBlockSummaryFileName, "w" )
-    outputFileBlocks.write( "POI,Tier,Block,Count\n" )
+    outputFileBlocks.write( "POI,Tier,VolumeCount,MinZombies,MaxZombies,Tags,Block,Count\n" )
 
     #######################################################################################
     # Loop through each POI in the specified directory...
@@ -82,11 +82,52 @@ def main():
             #######################################################################################
 
             tier = "0"
+            volumeCount = 0         # Total Volume Count for the POI
+            zedCountMin = 0         # Total Min Zed Values
+            zedCountMax = 0         # Total Max Zed Values
+
             xmlFile = open(dirName + "/" + fileName, "r")
+
+            valueGroupIds = ""
+            valueGroupDefs = ""
+            valueTags = ""
 
             for line in xmlFile:
                 if "name=\"DifficultyTier\"" in line:
                     tier = re.findall( "value=\"(.*?)\"", line )[0]
+
+                if "name=\"SleeperVolumeGroupId\"" in line:
+                    valueGroupIds = re.findall( "value=\"(.*?)\"", line )[0]
+
+                if "name=\"SleeperVolumeGroup\"" in line:
+                    valueGroupDefs = re.findall( "value=\"(.*?)\"", line )[0]
+
+                if "name=\"Tags\"" in line:
+                    valueTags = re.findall( "value=\"(.*?)\"", line )[0]
+                    valueTags = valueTags.replace( ",", ";" )
+
+            if valueGroupIds != "" and valueGroupDefs != "":
+                # How many volumes?
+                valueList = valueGroupIds.split( ",", -1 )
+                workingVolumeCount = len( valueList )
+
+                # Volume specific values...
+                valueList = valueGroupDefs.split( ",", -1 )
+
+                if workingVolumeCount > 0:
+                    for i in range( workingVolumeCount ):
+                        volumeZeds = valueList[i*3]
+                        zedMin = int(valueList[i*3+1])
+                        zedMax = int(valueList[i*3+2])
+
+                        # Skip volumes with no zombies.
+                        if zedMin < 1 and zedMax < 1:
+                            continue
+
+                        volumeCount = volumeCount + 1
+                        zedCountMin += int(valueList[i*3+1])
+                        zedCountMax += int(valueList[i*3+2])
+                        #print( "range: " + str(zedCountMin) + " - " + str(zedCountMax) )
 
             xmlFile.close()
 
@@ -153,11 +194,13 @@ def main():
 
             #######################################################################################
             # Block Summary...
+            # POI,Tier,VolumeCount,MinZombies,MaxZombies,Tags,Block,Count
             #######################################################################################
 
             for x in range( len( blockCounts ) ):
                 if ( blockCounts[x] != 0 ):
-                    outputFileBlocks.write( shortName + "," + tier + "," + blockDesc[x] + "," + str( blockCounts[x] ) + "\n" )
+                    outputFileBlocks.write( shortName + "," + tier + "," + str(volumeCount) + "," + str(zedCountMin) + "," \
+                    + str(zedCountMax) + "," + valueTags + "," + blockDesc[x] + "," + str( blockCounts[x] ) + "\n" )
 
     outputFileBlocks.close()
 
