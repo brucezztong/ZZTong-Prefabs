@@ -30,15 +30,15 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="582529" />
-    <property name="TotalTriangles" value="589532" />
+    <property name="TotalVertices" value="636929" />
+    <property name="TotalTriangles" value="651397" />
     <property class="BlockEntities">
-      <property name="Vertices" value="509364" />
-      <property name="Triangles" value="543475" />
+      <property name="Vertices" value="563748" />
+      <property name="Triangles" value="605332" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="58468" />
-      <property name="Triangles" value="31664" />
+      <property name="Vertices" value="58464" />
+      <property name="Triangles" value="31662" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -73,8 +73,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="20" />
+      <property name="Triangles" value="10" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
