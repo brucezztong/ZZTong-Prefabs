@@ -21,6 +21,7 @@ variation is also protected by the GNU GPL 3.
 import struct
 import time
 import random
+import re
 import sys
 import json
 import os
@@ -59,7 +60,7 @@ def main():
     outputLootSummaryFileName = "poi-scout-loot.csv"
 
     outputFileBlocks = open( outputBlockSummaryFileName, "w" )
-    outputFileBlocks.write( "POI,Block,Count\n" )
+    outputFileBlocks.write( "POI,Tier,Block,Count\n" )
 
     #######################################################################################
     # Loop through each POI in the specified directory...
@@ -75,6 +76,19 @@ def main():
     
             blocksFileName = poiName + ".blocks.nim"
             ttsFileName = poiName + ".tts"
+
+            #######################################################################################
+            # XML file...
+            #######################################################################################
+
+            tier = "0"
+            xmlFile = open(dirName + "/" + fileName, "r")
+
+            for line in xmlFile:
+                if "name=\"DifficultyTier\"" in line:
+                    tier = re.findall( "value=\"(.*?)\"", line )[0]
+
+            xmlFile.close()
 
             #######################################################################################
             # BLOCKS.NIM File
@@ -143,7 +157,7 @@ def main():
 
             for x in range( len( blockCounts ) ):
                 if ( blockCounts[x] != 0 ):
-                    outputFileBlocks.write( shortName + "," +  blockDesc[x] + "," + str( blockCounts[x] ) + "\n" )
+                    outputFileBlocks.write( shortName + "," + tier + "," + blockDesc[x] + "," + str( blockCounts[x] ) + "\n" )
 
     outputFileBlocks.close()
 
