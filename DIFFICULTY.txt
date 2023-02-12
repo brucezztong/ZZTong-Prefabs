@@ -19,7 +19,7 @@ into what constitutes a challenge for players. Consider:
 * POI Zed Encounter Size (number of Zeds per Volume)
 * POI Zed Difficulty (crawlers vs walkers vs exploding Zeds)
 * POI Zed Encounter Design (can retreat vs trapped)
-* POI Zed Density (Zeds/Volume)
+* POI Zed Density (Zeds per Volume and Volume size)
 * POI Vertical Travel (Zed volume activation quirks)
 * POI Ambush Volumes (Zed volumes that self-activate Zeds)
 * POI Traps (use of unstable blocks, spikes, mines)
@@ -38,13 +38,13 @@ challenge. In my opinion, that's great because few players really want an
 extreme challenge. For most, stepping up the game difficulty has them
 adequately covered so Vanilla POIs hit the sweet spot.
 
-If you're mixing in other modlet (or overhauls) the Vanilla POIs are the lowest
+If you're mixing in other modlets (or overhauls) the Vanilla POIs are the lowest
 common demoninator. That is, you'll never have enough POIs if you don't use
 them in your maps, so you're going to tune your game with Vanilla POIs in mind.
-Typically, they make Zeds into bullet sponges. Bullet sponges make you reload
-more often giving Zeds more of a chance to close the distance and hit you. POIs
-that use larger encounter sizes (more Zeds per volume) get a bit more difficult
-if you didn't plan for an egress or get trapped.
+Typically, progression turns Zeds into bullet sponges. Bullet sponges make you
+reload more often giving Zeds more of a chance to close the distance and hit
+you. POIs that use larger encounter sizes (more Zeds per volume) get a bit more
+difficult if you didn't plan for an egress or get trapped.
 
 SHOULD ALL POIS MATCH VANILLA?
 
@@ -60,7 +60,7 @@ down and overwhelmed. (This is my target audience.)
 
 Then, there are those who are looking for an extreme challenge. They're either
 of the mindset that they can take anything the game throws at them or they're
-people who get a laught out of death in glorious fashion.
+people who get a laugh out of death in glorious fashion.
 
 WHAT ARE POI TIERS?
 
@@ -77,7 +77,7 @@ part of making your own assessment.
 
 I did a study of zombie density in December 2022. I compared a number of POI
 modlets based on "density", which to me is the maximum number of Zeds in a POI
-divided by the number of Zombie Volumnes. (Density = Max-Zeds / Volume) While
+divided by the number of Zombie Volumnes. (Density = Max-Zeds / Volumes) While
 not perfect (as discussed above) I believe it is a better measure than a Tier
 value based on just Max-Zeds. There's a built in assumption with density that
 an encouter is just a single zombie volume being activated. Player Tactics
@@ -96,8 +96,8 @@ CompoPack 48.5           5-11 Zeds per Volume
 Note that evaluating the CompoPack as one unit is not an accurate reflection
 of any particular POI designer found within the CompoPack.
 
-Based on those results I felt I was missing my goal of being goal of being
-"Vanilla Friendly", specifically at Tiers 1 and 2. I decided to revise my
+Based on those results I felt I was missing my goal of being "Vanilla
+Friendly", specifically at Tiers 1 and 2. I decided to revise my
 Modlet with the following goal:
 
             DENSITY GOAL       DENSITY RANGE
@@ -107,8 +107,8 @@ Tier 3      4.0                3.5 - 4.5
 Tier 4      5.0                4.5 - 5.5
 Tier 5      6.0+               5.5+
 
-I also decided to use the CompoPack Tier definitions as they work fine and they
-are the only guidance available.
+I also decided to continue to use the CompoPack Tier definitions as they work
+fine and they are the only guidance available.
 
 ZOMBIES    TIER
  0- 4      0
@@ -134,7 +134,6 @@ and you'll have to abandon the idead of an increasing density goal.
 And so, my conclusion here is Density is important, but it isn't everything
 except perhaps at Tier 1-2, and maybe 3.
 
-
 WHAT IS THE COMPOPACK?
 
 I think the way people view the CompoPack influences their opinion of it.
@@ -147,20 +146,20 @@ That is a massive amount of work that I think deserves appreciation. I
 contribute my POIs to the CompoPack so they'll hopefully be around even if I
 no longer am.
 
-If you use the entire the entire CP then you must be aware you are getting
-some POIs that are designed for an extreme challenge. Your choosing to view
-the CompoPack as a single playable modlet. If that is what you want, and
-you're stepping into that world with your eyes open, then Rock On! Otherwise,
-you're destined for a rude awakening. Those who design extreme POIs are trying
-to trap, overwhelm, and kill you. Even the best of players get forced to flee.
-If you're new to them, I suggest you don't enter them alone. Bring friends,
+If you use the entire CP then you must be aware you are getting some POIs that
+are designed for an extreme challenge. You're choosing to view the CompoPack
+as a single playable modlet. If that is what you want, and you're stepping
+into that world with your eyes open, then Rock On! Otherwise, you're destined
+for a rude awakening. Those who design extreme POIs are trying to trap,
+overwhelm, and kill you. Even the best of players get forced to flee. If
+you're new to those POIs, I suggest you don't enter them alone. Bring friends,
 bring ammo, be able to move quickly, and don't be reckless.
 
 WHAT ABOUT ZOMBIES FOUND OUTSIDE OF POIS?
 
-Some people consider this a sign of a bad design because it is uncommonly done
-in Vanilla POIs. My opinion is it is a technique best used sparingly because
-it can lead to Zeds uselessly spawning as Players pass them by when traveling.
-However, it is perfectly valid. TFP does it in several POIs and Tiles. I wish
-people would quit poo-pooing the practice.
+Some people consider this a sign of a bad POI design because it is uncommonly
+done in Vanilla POIs. My opinion is it is a technique best used sparingly
+because it can lead to Zeds uselessly spawning as Players pass them by when
+traveling. However, it is perfectly valid. TFP does it in several POIs and
+Tiles. I wish people would quit poo-pooing the practice.
 
