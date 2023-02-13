@@ -104,7 +104,7 @@ def main():
 
                 if "name=\"Tags\"" in line:
                     valueTags = re.findall( "value=\"(.*?)\"", line )[0]
-                    valueTags = valueTags.replace( ",", ";" )
+                    valueTags = valueTags.replace( ",", ":" )
 
             if valueGroupIds != "" and valueGroupDefs != "":
                 # How many volumes?
