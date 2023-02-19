@@ -204,6 +204,7 @@ rwg_tile_commercial_intersection_01.
 Added store_xs_11, store_xs_12, store_xs_13, store_xs_14, and store_xs_15.
 Bug fixes for various residential tiles. (Sidewalk issues)
 Bug fix for shelter_01. Damn missing textures.
+Bug fixes for POIs: intersection_01, intersection_02, and intersection_03.
 
 A20.6-ZZ013 : 
 Added terrain stamps. This is a first-time thing for the modlet.
