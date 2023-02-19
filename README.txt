@@ -202,6 +202,7 @@ Added rwg_tile_rural_cap_zztong_02, rwg_tile_residential_straight_zztong_02,
 rwg_tile_residential_t_zztong_02, rwg_tile_countryresidential_cap_01 and
 rwg_tile_commercial_intersection_01.
 Added store_xs_11, store_xs_12, store_xs_13, store_xs_14, and store_xs_15.
+Added house_18.
 Bug fixes for various residential tiles. (Sidewalk issues)
 Bug fix for shelter_01. Damn missing textures.
 Bug fixes for POIs: intersection_01, intersection_02, and intersection_03.
