@@ -56,11 +56,22 @@ def main():
     dirName = sys.argv[1]
     print( "Directory " + dirName )
 
-    outputBlockSummaryFileName = "poi-scout-blocks.csv"
-    outputLootSummaryFileName = "poi-scout-loot.csv"
+    # Setup for Watching Blocks for Special Notes
+    inputWatchFileName = "poi-scout-watch.txt"
+    inputWatchFile = open( inputWatchFileName, "r" )
+    watchDictionary = { }
 
+    for watchLine in inputWatchFile:
+        if ( watchLine.startswith( "#" ) == True ):
+            continue
+
+        lineList = watchLine.split( ":", 1 )
+        watchDictionary.update( { lineList[0].strip(): lineList[1].strip() } )
+
+    # Setup for Output...
+    outputBlockSummaryFileName = "poi-scout-blocks.csv"
     outputFileBlocks = open( outputBlockSummaryFileName, "w" )
-    outputFileBlocks.write( "POI,Tier,VolumeCount,MinZombies,MaxZombies,Tags,Block,Count\n" )
+    outputFileBlocks.write( "POI,Tier,VolumeCount,MinZombies,MaxZombies,Tags,Block,Count,Note\n" )
 
     #######################################################################################
     # Loop through each POI in the specified directory...
@@ -199,8 +210,15 @@ def main():
 
             for x in range( len( blockCounts ) ):
                 if ( blockCounts[x] != 0 ):
-                    outputFileBlocks.write( shortName + "," + tier + "," + str(volumeCount) + "," + str(zedCountMin) + "," \
-                    + str(zedCountMax) + "," + valueTags + "," + blockDesc[x] + "," + str( blockCounts[x] ) + "\n" )
+                    watchNote = watchDictionary.get( blockDesc[x] )
+
+                    if ( watchNote == None ):
+                        outputFileBlocks.write( shortName + "," + tier + "," + str(volumeCount) + "," + str(zedCountMin) + "," \
+                        + str(zedCountMax) + "," + valueTags + "," + blockDesc[x] + "," + str( blockCounts[x] ) + ",None\n" )
+                    else:
+                        outputFileBlocks.write( shortName + "," + tier + "," + str(volumeCount) + "," + str(zedCountMin) + "," \
+                        + str(zedCountMax) + "," + valueTags + "," + blockDesc[x] + "," + str( blockCounts[x] ) + \
+                        "," + watchNote + "\n" )
 
     outputFileBlocks.close()
 

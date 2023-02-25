@@ -1,0 +1,10 @@
+# blockname:watch note
+cntAmmoPileSmall:Loot 100%
+cntAmmoPileMedium:Loot 100%
+cntAmmoPilelarge:Loot 100%
+cntFoodPileSmallRandomHelper:Loot 50%
+cntFoodPileSmall:Loot 100%
+cntFoodPileMedium:Loot 100%
+cntFoodPileLarge:Loot 100%
+cntMedicineCabinetFaucetRandomLootHelper:Loot 33%
+treeStump:Bad Block
