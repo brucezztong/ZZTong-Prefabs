@@ -95,9 +95,11 @@ work.
 OVERHAUL MODS:
 
 Overhaul Mods make extensive changes to the game and I cannot give you a recipe
-for how to include these POIs. I need to know specifics. Sometimes an Overhaul
-Mod needs to change the POIs and sometimes they don't. Sometimes an Overhaul
-Mod knows how to find content in a modlet, and sometimes it doesn't.
+for how to include these POIs. Plainly stated, I'm focused on Vanilla. There
+are too many overhauls to support them all. The overhauls change frequently
+and they don't involve me. Supporting them would take more time than I have.
+If an overhaul leaves enough of Vanilla intact, then this modlet will work
+with them.
 
 Some Overhaul Mods choose to embed this modlet, or portions of this modlet,
 in their own distributions. I cannot predict the possible collisions and
@@ -125,7 +127,11 @@ are free to use this modlet in combination with Rebirth.
 
 UNDEAD LEGACY - I'm under the impression you can using the Game's RWG to make
 maps and if this modlet is installed when you do that, then I'm told you will
-have a viable map.
+have a viable map. I'm aware of at least one incompatibility. UL has deleted
+the "dyes" lootlist from the Vanilla configuration. I have custom blocks that
+depended on that lootlist. You'll get errors if you use my modlet with UL.
+There is a compatibility modlet by iV7Z available on Nexus that deals with
+those errors.
 
 WAR3ZUK - I do not know. I'm hoping you just need this modlet installed and
 that you can use RWG.
