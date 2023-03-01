@@ -12,7 +12,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="POIMarkerSize" value="2, 1, 2#2, 3, 2#11, 5, 5#2, 3, 2#13, 13, 3#13, 13, 3" />
-  <property name="POIMarkerStart" value="19, 9, 17#19, 3, 36#23, 3, 2#15, 3, 36#3, 2, -3#20, 2, -3" />
+  <property name="POIMarkerStart" value="19, 9, 17#19, 3, 36#25, 3, 2#15, 3, 36#3, 2, -3#20, 2, -3" />
   <property name="POIMarkerGroup" value="vultures,charger2,camper,charger1,drive1,new" />
   <property name="POIMarkerTags" value="#####" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
@@ -29,15 +29,15 @@
   <property name="YOffset" value="-3" />
   <property name="Tags" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="165457" />
-    <property name="TotalTriangles" value="180947" />
+    <property name="TotalVertices" value="165787" />
+    <property name="TotalTriangles" value="181169" />
     <property class="BlockEntities">
       <property name="Vertices" value="127506" />
       <property name="Triangles" value="150661" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25634" />
-      <property name="Triangles" value="15757" />
+      <property name="Vertices" value="25964" />
+      <property name="Triangles" value="15979" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

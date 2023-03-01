@@ -213,10 +213,13 @@ Loot updates for drive_thru_01, house_01, house_03, law_offices_01, masonry_01,
 lumber_yard_01, pharmacy_01_destroyed, propane_01, store_s_01, store_xs_03,
 store_xs_05, store_xs_06, store_xs_07, store_xs_08, store_xs_09, store_xs_10,
 and strip_mall_01.
+Revisions to car_wash_01, office_building_02, office_building_03, and
+office_building_03_destroyed.
 Bug fixes for various residential tiles. (Sidewalk issues)
 Bug fixes for many POIs related to removing non-POI versions of blocks and
 cleaning up texture issues.
 Bug fix for part_cookpot. Whoops. That wasn't supposed to be a bomb.
+Added POI names to the Localization.txt file.
 
 A20.6-ZZ013 : 
 Added terrain stamps. This is a first-time thing for the modlet.
