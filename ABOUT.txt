@@ -329,6 +329,12 @@ This was an attempt to turn a barn into two studio apartments. It turned out
 to be a bit more cramped than anticipated. The layout just didn't work as two
 apartments, so I turned it into a single residence at it worked out better.
 
+HOUSE 21
+
+I had an idea for a POI where somebody built up a perimeter around their house
+as sort of a half-hearted defense scheme. This is the POI that resulted. It was
+somewhat confined by my need for a POI with a small footprint.
+
 KZMB RADIO 01 & KZMB RADIO DESTROYED
 
 I made this POI after I realized we didn't have any POIs for media companies.
