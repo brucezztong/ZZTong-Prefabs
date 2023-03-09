@@ -386,6 +386,13 @@ have gone higher than I think some user systems would comfortably support.
 The end result is another mall-like collection of shops, but in more of a
 classic downtown vibe.
 
+INTERSECTION 04
+
+I was inspired to make some survivor content that could perhaps be turned into
+bandit content at a later date. I thought a fortress made out of the ruins of
+buildings might be neat. I started with some TFP ruined buildings and then
+customized heavily to get them to fit into my Intersection-specific Tile.
+
 KZTV 01
 
 Here is yet another POI to fill the media company niche. I was thinking of a
