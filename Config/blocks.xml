@@ -643,5 +643,49 @@
             <property name="FilterTags" value="MC_building,SC_loot"/>
         </block>
 
+        <!-- *******************************************************************
+            Items to Offset...
+        ******************************************************************** -->
+
+        <block name="zztongToasterOffset">
+            <property name="Extends" value="cntToaster"/>
+            <property name="CustomIcon" value="cntToaster"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="ModelOffset" value="-0.3,0.5,0.0"/>
+        </block>
+
+        <block name="zztongCookingPotOffset">
+            <property name="Extends" value="decoCookingPot"/>
+            <property name="CustomIcon" value="toolCookingPot"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="ModelOffset" value="0.0,0.5,-0.3"/>
+        </block>
+
+        <block name="zztongMannequinMaleOffset">
+            <property name="Extends" value="decoMannequinMale"/>
+            <property name="CustomIcon" value="decoMannequinMale"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="ModelOffset" value="0.0,0.5,-0.3"/>
+        </block>
+
+        <block name="zztongMannequinFemaleOffset">
+            <property name="Extends" value="decoMannequinFemale"/>
+            <property name="CustomIcon" value="decoMannequinFemale"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="ModelOffset" value="0.0,0.5,-0.3"/>
+        </block>
+
+        <!-- *************************************************************************
+            Cookpot Helper
+        ************************************************************************** -->
+
+        <block name="zztongCookingPotHelper">
+            <property name="Extends" value="decoCookingPot"/>
+            <property name="CustomIcon" value="toolCookingPot"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
     </append>
 </blocks>

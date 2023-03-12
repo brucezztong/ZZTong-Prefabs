@@ -106,5 +106,16 @@
             <block name="cntShippingCrateMoPowerElectronics" prob=".02"/>
         </placeholder>
 
+        <!-- *************************************************************
+            Cooking Pot Fun
+        ************************************************************** -->
+
+        <placeholder name="zztongCookingPotHelper">
+            <block name="air" prob=".4"/>
+            <block name="decoCookingPot" prob=".25"/>
+            <block name="zztongCookingPotOffset" prob=".25"/>
+            <block name="mineCookingPot" prob=".1"/>
+        </placeholder>
+
     </append>
 </blockplaceholders>
