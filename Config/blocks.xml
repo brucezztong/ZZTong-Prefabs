@@ -242,6 +242,144 @@
             <property name="FilterTags" value="MC_building,SC_loot"/>
         </block>
 
+        <!-- ************************************************************************* 
+            Empty Version of TFP Shipping Crates...
+        ************************************************************************** -->
+
+        <block name="zztongShippingCrateShamwayCube">
+            <property name="DescriptionKey" value="cntShippingCrateGroupDesc"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntShippingCrateShamway"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Shape" value="ModelEntity"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/LootContainers?crate_store_ShamwayPrefab.prefab"/>
+            <property name="Material" value="Mwood_regular"/>
+            <drop event="Destroy" name="resourceWood" count="1,3"/>
+            <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
+            <property name="FilterTags" value="MC_building,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <block name="zztongShippingCrateLabEquipmentCube">
+            <property name="Extends" value="zztongShippingCrateShamwayCube"/>
+            <property name="CustomIcon" value="cntShippingCrateLabEquipment"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/LootContainers?crate_store_PopNPillsPrefab.prefab"/>
+        </block>
+
+        <block name="zztongShippingCrateBookstoreCube">
+            <property name="Extends" value="zztongShippingCrateShamwayCube"/>
+            <property name="CustomIcon" value="cntShippingCrateBookstore"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/LootContainers?crate_store_CrackABookPrefab.prefab"/>
+        </block>
+
+        <block name="zztongShippingCrateCarPartsCube">
+            <property name="Extends" value="zztongShippingCrateShamwayCube"/>
+            <property name="CustomIcon" value="cntShippingCrateCarParts"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/LootContainers?crate_store_PassNGasPrefab.prefab"/>
+        </block>
+
+        <block name="zztongShippingCrateShotgunMessiahCube">
+            <property name="Extends" value="zztongShippingCrateShamwayCube"/>
+            <property name="CustomIcon" value="cntShippingCrateShotgunMessiah"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/LootContainers?crate_store_ShotgunPrefab.prefab"/>
+        </block>
+
+        <block name="zztongShippingCrateWorkingStiffsCube">
+            <property name="Extends" value="zztongShippingCrateShamwayCube"/>
+            <property name="CustomIcon" value="cntShippingCrateWorkingStiffs"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/LootContainers?crate_store_WorkingStiffsPrefab.prefab"/>
+        </block>
+
+        <block name="zztongShippingCrateSavageCountryCube">
+            <property name="Extends" value="zztongShippingCrateShamwayCube"/>
+            <property name="CustomIcon" value="cntShippingCrateSavageCountry"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/LootContainers?crate_store_SavagePrefab.prefab"/>
+        </block>
+
+        <block name="zztongShippingCrateMoPowerElectronicsCube">
+            <property name="Extends" value="zztongShippingCrateShamwayCube"/>
+            <property name="CustomIcon" value="cntShippingCrateMoPowerElectronics"/>
+            <property name="Path" value="solid"/>
+            <property name="Model" value="#Entities/LootContainers?crate_store_MoPowerPrefab.prefab"/>
+        </block>
+
+        <!-- *************************************************************************
+            TFP and ZZTong Shipping Crate Helpers...
+        ************************************************************************** -->
+
+        <block name="zztongShamwayShippingCrateHelper">
+            <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
+            <property name="CustomIcon" value="cntShippingCrateShamway"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <block name="zztongLabEquipmentShippingCrateHelper">
+            <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
+            <property name="CustomIcon" value="cntShippingCrateLabEquipment"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <block name="zztongBookstoreShippingCrateHelper">
+            <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
+            <property name="CustomIcon" value="cntShippingCrateBookstore"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <block name="zztongCarPartsShippingCrateHelper">
+            <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
+            <property name="CustomIcon" value="cntShippingCrateCarParts"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <block name="zztongShotgunMessiahShippingCrateHelper">
+            <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
+            <property name="CustomIcon" value="cntShippingCrateShotgunMessiah"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <block name="zztongWorkingStiffsShippingCrateHelper">
+            <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
+            <property name="CustomIcon" value="cntShippingCrateWorkingStiffs"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <block name="zztongSavageCountryShippingCrateHelper">
+            <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
+            <property name="CustomIcon" value="cntShippingCrateSavageCountry"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <block name="zztongMoPowerElectronicsShippingCrateHelper">
+            <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
+            <property name="CustomIcon" value="cntShippingCrateMoPowerElectronics"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <!-- *************************************************************************
+        ************************************************************************** -->
+
         <block name="zztongSurvivorChest">
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="cntChest01"/>

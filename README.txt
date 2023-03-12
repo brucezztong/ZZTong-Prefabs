@@ -209,7 +209,7 @@ rwg_tile_residential_t_zztong_02, rwg_tile_countryresidential_cap_01 and
 rwg_tile_commercial_intersection_01.
 Added store_xs_11, store_xs_12, store_xs_13, store_xs_14, and store_xs_15.
 Added balloon_safari_01, house_18, house_19, house_20, house_21.
-Added intersection_04.
+Added intersection_04, red_rocket_01.
 Loot updates for drive_thru_01, house_01, house_03, law_offices_01, masonry_01,
 lumber_yard_01, pharmacy_01_destroyed, propane_01, store_s_01, store_xs_03,
 store_xs_05, store_xs_06, store_xs_07, store_xs_08, store_xs_09, store_xs_10,
@@ -221,6 +221,7 @@ Bug fixes for many POIs related to removing non-POI versions of blocks and
 cleaning up texture issues.
 Bug fix for part_cookpot. Whoops. That wasn't supposed to be a bomb.
 Added POI names to the Localization.txt file.
+Added some more custom blocks to provide more crate options.
 
 A20.6-ZZ013 : 
 Added terrain stamps. This is a first-time thing for the modlet.
