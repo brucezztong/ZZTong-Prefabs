@@ -30,11 +30,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.8,0.6,0.2,0.2,0.2,0.4,0.2,0.2,0.2,0.2,0.4,0.4,0.6,0.4,0.8" />
   <property name="YOffset" value="-6" />
   <property class="Stats">
-    <property name="TotalVertices" value="1506222" />
-    <property name="TotalTriangles" value="1624353" />
+    <property name="TotalVertices" value="1525691" />
+    <property name="TotalTriangles" value="1653308" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1160064" />
-      <property name="Triangles" value="1410585" />
+      <property name="Vertices" value="1179445" />
+      <property name="Triangles" value="1439496" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="312995" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="24" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="13863" />
-      <property name="Triangles" value="11129" />
+      <property name="Vertices" value="13951" />
+      <property name="Triangles" value="11173" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -78,15 +78,15 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_feather">
+      <property name="0" value="56, 22, 52" />
+      <property name="1" value="59, 22, 56" />
+    </property>
     <property class="POILight">
       <property name="0" value="49, 2, 52" />
       <property name="1" value="54, 9, 55" />
       <property name="2" value="55, 9, 55" />
       <property name="3" value="59, 20, 57" />
-    </property>
-    <property class="quest_feather">
-      <property name="0" value="56, 22, 52" />
-      <property name="1" value="59, 22, 56" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="49, 6, 31" />
