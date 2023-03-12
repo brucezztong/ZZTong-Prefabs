@@ -221,7 +221,10 @@ Bug fixes for many POIs related to removing non-POI versions of blocks and
 cleaning up texture issues.
 Bug fix for part_cookpot. Whoops. That wasn't supposed to be a bomb.
 Added POI names to the Localization.txt file.
-Added some more custom blocks to provide more crate options.
+Added some more custom blocks and helpers to provide more crate options.
+Removed the subway system from the Intersection Tile and all related POIs
+because it was leading people down a path to fail missions and because Arizona
+isn't a place with subways.
 
 A20.6-ZZ013 : 
 Added terrain stamps. This is a first-time thing for the modlet.
