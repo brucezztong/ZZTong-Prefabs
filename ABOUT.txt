@@ -758,6 +758,13 @@ loot crates that can be used. In ZZ010 the Warehouse got some custom Crate
 blocks in response to criticism about painting wood blocks. Thanks for the
 feedback and the push.
 
+WAREHOUSE 02
+
+I was anxious to make a warehouse after making some custom blocks from the TFP
+loot crates. I was inspired to turn TFP's remnant_industrial_04 into something
+beyond a pile of rubble. I didn't end up using the exact same footprint, but
+the exterior has some resemblance.
+
 WIND TURBINE 01
 
 This kind of POI seemed perfect for wilderness placement, though I cannot
