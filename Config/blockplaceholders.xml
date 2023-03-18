@@ -117,5 +117,55 @@
             <block name="mineCookingPot" prob=".1"/>
         </placeholder>
 
+        <!-- *************************************************************
+            Land Mine Madness
+        ************************************************************** -->
+
+        <placeholder name="zztongLandMine50RandomHelper">
+            <block name="air" prob=".5"/>
+            <block name="hubcapNoMine" prob=".05"/>
+            <block name="mineCandyTin" prob=".15"/>
+            <block name="mineHubcap" prob=".15"/>
+            <block name="mineAirFilter" prob=".15"/>
+        </placeholder>
+
+        <placeholder name="zztongLandMine10RandomHelper">
+            <block name="air" prob=".9"/>
+            <block name="hubcapNoMine" prob=".01"/>
+            <block name="mineCandyTin" prob=".03"/>
+            <block name="mineHubcap" prob=".03"/>
+            <block name="mineAirFilter" prob=".03"/>
+        </placeholder>
+
+        <placeholder name="zztongLandMineCandyTin50RandomHelper">
+            <block name="air" prob=".5"/>
+            <block name="mineCandyTin" prob=".5"/>
+        </placeholder>
+
+        <placeholder name="zztongLandMineCandyTin10RandomHelper">
+            <block name="air" prob=".9"/>
+            <block name="mineCandyTin" prob=".1"/>
+        </placeholder>
+
+        <placeholder name="zztongLandMineHubcap50RandomHelper">
+            <block name="air" prob=".5"/>
+            <block name="mineHubcap" prob=".5"/>
+        </placeholder>
+
+        <placeholder name="zztongLandMineHubcap10RandomHelper">
+            <block name="air" prob=".9"/>
+            <block name="mineHubcap" prob=".1"/>
+        </placeholder>
+
+        <placeholder name="zztongLandMineAirFilter50RandomHelper">
+            <block name="air" prob=".5"/>
+            <block name="mineAirFilter" prob=".5"/>
+        </placeholder>
+
+        <placeholder name="zztongLandMineAirFilter10RandomHelper">
+            <block name="air" prob=".9"/>
+            <block name="mineAirFilter" prob=".1"/>
+        </placeholder>
+
     </append>
 </blockplaceholders>

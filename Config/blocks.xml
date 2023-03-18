@@ -458,6 +458,7 @@
         </block>
 
         <!-- *************************************************************************
+            Minor Loot and Lootless Containers
         ************************************************************************** -->
 
         <block name="zztongSurvivorChest">
@@ -684,7 +685,80 @@
             <property name="CustomIcon" value="toolCookingPot"/>
             <property name="CustomIconTint" value="ff8080"/>
             <property name="CreativeMode" value="Dev"/>
-            <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
+        </block>
+
+        <!-- *************************************************************************
+            Landmine Helpers
+        ************************************************************************** -->
+
+        <block name="zztongLandMine50RandomHelper">
+            <property name="Extends" value="mineCandyTin"/>
+            <property name="CustomIcon" value="mineCandyTin"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+        </block>
+
+        <block name="zztongLandMine10RandomHelper">
+            <property name="Extends" value="mineCandyTin"/>
+            <property name="CustomIcon" value="mineCandyTin"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+        </block>
+
+        <block name="zztongLandMineCandyTin50RandomHelper">
+            <property name="Extends" value="mineCandyTin"/>
+            <property name="CustomIcon" value="mineCandyTin"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+        </block>
+
+        <block name="zztongLandMineCandyTin10RandomHelper">
+            <property name="Extends" value="mineCandyTin"/>
+            <property name="CustomIcon" value="mineCandyTin"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+        </block>
+
+        <block name="zztongLandMineHubcap50RandomHelper">
+            <property name="Extends" value="mineHubcap"/>
+            <property name="CustomIcon" value="mineHubcap"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+        </block>
+
+        <block name="zztongLandMineHubcap10RandomHelper">
+            <property name="Extends" value="mineHubcap"/>
+            <property name="CustomIcon" value="mineHubcap"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+        </block>
+
+        <block name="zztongLandMineAirFilter50RandomHelper">
+            <property name="Extends" value="mineAirFilter"/>
+            <property name="CustomIcon" value="mineAirFilter"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+        </block>
+
+        <block name="zztongLandMineAirFilter10RandomHelper">
+            <property name="Extends" value="mineAirFilter"/>
+            <property name="CustomIcon" value="mineAirFilter"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="CreativeMode" value="Dev"/>
+        </block>
+
+        <!-- *************************************************************************
+            Booby-Trapped Survivor Chest
+        ************************************************************************** -->
+
+        <block name="zztongTrappedChest">
+            <property name="Extends" value="mineCookingPot"/>
+            <property name="CustomIcon" value="cntChest01"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Shape" value="Ext3dModel"/>
+            <property name="Mesh" value="models"/>
+            <property name="Model" value="LootContainers/chest01" param1="main_mesh"/> 
+            <property name="CreativeMode" value="Dev"/>
         </block>
 
     </append>
