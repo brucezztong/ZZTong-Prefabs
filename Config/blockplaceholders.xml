@@ -6,104 +6,104 @@
         ************************************************************** -->
 
         <placeholder name="zztongTestHelper">
-            <block name="air" prob=".98"/>
-            <block name="cntShippingCrateShamway" prob=".02"/>
+            <block name="air" prob=".99"/>
+            <block name="cntShippingCrateShamway" prob=".01"/>
         </placeholder>
 
         <!-- Shamway -->
         <placeholder name="zztongShamwayShippingCrateHelper">
-            <block name="zztongShippingCrateShamwayCube" prob=".98"/>
-            <block name="cntShippingCrateShamway" prob=".02"/>
+            <block name="zztongShippingCrateShamwayCube" prob=".99"/>
+            <block name="cntShippingCrateShamway" prob=".01"/>
         </placeholder>
 
         <placeholder name="zztongShamwayShippingCrateHelperAir">
-            <block name="air" prob=".49"/>
+            <block name="air" prob=".5"/>
             <block name="zztongShippingCrateShamwayCube" prob=".49"/>
-            <block name="cntShippingCrateShamway" prob=".02"/>
+            <block name="cntShippingCrateShamway" prob=".01"/>
         </placeholder>
 
         <!-- Lab Equipment -->
-        <placeholder name="zztongLabEquipmentCrateHelper">
-            <block name="zztongShippingLabEquipmentCube" prob=".98"/>
-            <block name="cntShippingCrateLabEquipment" prob=".02"/>
+        <placeholder name="zztongLabEquipmentShippingCrateHelper">
+            <block name="zztongShippingCrateLabEquipmentCube" prob=".99"/>
+            <block name="cntShippingCrateLabEquipment" prob=".01"/>
         </placeholder>
 
-        <placeholder name="zztongLabEquipmentCrateHelperAir">
-            <block name="air" prob=".49"/>
-            <block name="zztongShippingLabEquipmentCube" prob=".49"/>
-            <block name="cntShippingCrateLabEquipment" prob=".02"/>
+        <placeholder name="zztongLabEquipmentShippingCrateHelperAir">
+            <block name="air" prob=".50"/>
+            <block name="zztongShippingCrateLabEquipmentCube" prob=".49"/>
+            <block name="cntShippingCrateLabEquipment" prob=".01"/>
         </placeholder>
 
         <!-- Bookstore -->
-        <placeholder name="zztongBookstoreCrateHelper">
-            <block name="zztongShippingBookstoreCube" prob=".98"/>
-            <block name="cntShippingCrateBookstore" prob=".02"/>
+        <placeholder name="zztongBookstoreShippingCrateHelper">
+            <block name="zztongShippingCrateBookstoreCube" prob=".99"/>
+            <block name="cntShippingCrateBookstore" prob=".01"/>
         </placeholder>
 
-        <placeholder name="zztongBookstoreCrateHelperAir">
-            <block name="air" prob=".49"/>
-            <block name="zztongShippingBookstoreCube" prob=".49"/>
-            <block name="cntShippingCrateBookstore" prob=".02"/>
+        <placeholder name="zztongBookstoreShippingCrateHelperAir">
+            <block name="air" prob=".5"/>
+            <block name="zztongShippingCrateBookstoreCube" prob=".49"/>
+            <block name="cntShippingCrateBookstore" prob=".01"/>
         </placeholder>
 
         <!-- Car Parts -->
-        <placeholder name="zztongCarPartsCrateHelper">
-            <block name="zztongShippingCarPartsCube" prob=".98"/>
-            <block name="cntShippingCrateCarParts" prob=".02"/>
+        <placeholder name="zztongCarPartsShippingCrateHelper">
+            <block name="zztongShippingCrateCarPartsCube" prob=".99"/>
+            <block name="cntShippingCrateCarParts" prob=".01"/>
         </placeholder>
 
-        <placeholder name="zztongCarPartsCrateHelperAir">
-            <block name="air" prob=".49"/>
-            <block name="zztongShippingCarPartsCube" prob=".49"/>
-            <block name="cntShippingCrateCarParts" prob=".02"/>
+        <placeholder name="zztongCarPartsShippingCrateHelperAir">
+            <block name="air" prob=".5"/>
+            <block name="zztongShippingCrateCarPartsCube" prob=".49"/>
+            <block name="cntShippingCrateCarParts" prob=".01"/>
         </placeholder>
 
         <!-- Shotgun Messiah -->
         <placeholder name="zztongShotgunMessiahShippingCrateHelper">
-            <block name="zztongShippingCrateShotgunMessiahCube" prob=".98"/>
-            <block name="cntShippingCrateShotgunMessiah" prob=".02"/>
+            <block name="zztongShippingCrateShotgunMessiahCube" prob=".99"/>
+            <block name="cntShippingCrateShotgunMessiah" prob=".01"/>
         </placeholder>
 
         <placeholder name="zztongShotgunMessiahShippingCrateHelperAir">
-            <block name="air" prob=".49"/>
+            <block name="air" prob=".5"/>
             <block name="zztongShippingCrateShotgunMessiahCube" prob=".49"/>
-            <block name="cntShippingCrateShotgunMessiah" prob=".02"/>
+            <block name="cntShippingCrateShotgunMessiah" prob=".01"/>
         </placeholder>
 
         <!-- Working Stiffs -->
-        <placeholder name="zztongWorkingStiffsCrateHelper">
-            <block name="zztongShippingCrateWorkingStiffsCube" prob=".98"/>
-            <block name="cntShippingCrateWorkingStiffs" prob=".02"/>
+        <placeholder name="zztongWorkingStiffsShippingCrateHelper">
+            <block name="zztongShippingCrateWorkingStiffsCube" prob=".99"/>
+            <block name="cntShippingCrateWorkingStiffs" prob=".01"/>
         </placeholder>
 
-        <placeholder name="zztongWorkingStiffsCrateHelperAir">
-            <block name="air" prob=".49"/>
+        <placeholder name="zztongWorkingStiffsShippingCrateHelperAir">
+            <block name="air" prob=".5"/>
             <block name="zztongShippingCrateWorkingStiffsCube" prob=".49"/>
-            <block name="cntShippingCrateWorkingStiffs" prob=".02"/>
+            <block name="cntShippingCrateWorkingStiffs" prob=".01"/>
         </placeholder>
 
         <!-- Savage Country -->
-        <placeholder name="zztongSavageCountryCrateHelper">
-            <block name="zztongShippingSavageCountryCube" prob=".98"/>
-            <block name="cntShippingCrateSavageCountry" prob=".02"/>
+        <placeholder name="zztongSavageCountryShippingCrateHelper">
+            <block name="zztongShippingCrateSavageCountryCube" prob=".99"/>
+            <block name="cntShippingCrateSavageCountry" prob=".01"/>
         </placeholder>
 
-        <placeholder name="zztongSavageCountryCrateHelperAir">
-            <block name="air" prob=".49"/>
-            <block name="zztongShippingSavageCountryCube" prob=".49"/>
-            <block name="cntShippingCrateSavageCountry" prob=".02"/>
+        <placeholder name="zztongSavageCountryShippingCrateHelperAir">
+            <block name="air" prob=".5"/>
+            <block name="zztongShippingCrateSavageCountryCube" prob=".49"/>
+            <block name="cntShippingCrateSavageCountry" prob=".01"/>
         </placeholder>
 
         <!-- Mo Power Electronics -->
-        <placeholder name="zztongMoPowerElectronicsCrateHelper">
-            <block name="zztongShippingMoPowerElectronicsCube" prob=".98"/>
-            <block name="cntShippingCrateMoPowerElectronics" prob=".02"/>
+        <placeholder name="zztongMoPowerElectronicsShippingCrateHelper">
+            <block name="zztongShippingCrateMoPowerElectronicsCube" prob=".99"/>
+            <block name="cntShippingCrateMoPowerElectronics" prob=".01"/>
         </placeholder>
 
-        <placeholder name="zztongMoPowerElectronicsCrateHelperAir">
-            <block name="air" prob=".49"/>
-            <block name="zztongShippingMoPowerElectronicsCube" prob=".49"/>
-            <block name="cntShippingCrateMoPowerElectronics" prob=".02"/>
+        <placeholder name="zztongMoPowerElectronicsShippingCrateHelperAir">
+            <block name="air" prob=".5"/>
+            <block name="zztongShippingCrateMoPowerElectronicsCube" prob=".49"/>
+            <block name="cntShippingCrateMoPowerElectronics" prob=".01"/>
         </placeholder>
 
         <!-- *************************************************************

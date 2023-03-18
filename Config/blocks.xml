@@ -449,7 +449,7 @@
             <property name="FilterTags" value="MC_helpers,SC_loot,SC_treasureRoom"/>
         </block>
 
-        <block name="zztongMoPowerElectronicsShippingCrateHelperiAir">
+        <block name="zztongMoPowerElectronicsShippingCrateHelperAir">
             <property name="Extends" value="cntWastelandRandomLootHelper" param1="DescriptionKey"/>
             <property name="CustomIcon" value="cntShippingCrateMoPowerElectronics"/>
             <property name="CustomIconTint" value="ff8080"/>
