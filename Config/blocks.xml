@@ -758,6 +758,8 @@
             <property name="Shape" value="Ext3dModel"/>
             <property name="Mesh" value="models"/>
             <property name="Model" value="LootContainers/chest01" param1="main_mesh"/> 
+            <property name="Explosion.EntityDamage" value="200"/>
+            <property name="ItemTypeIcon" value="explosion"/>
             <property name="CreativeMode" value="Dev"/>
         </block>
 
