@@ -31,13 +31,13 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_01,part_zztong_loot_small_food_01,part_zztong_loot_small_ammo_01,part_zztong_loot_small_chemistry_01,part_zztong_barrel_04,part_zztong_barrel_03" />
   <property name="POIMarkerPartRotations" value="0,0,0,0,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.4,0.4" />
-  <property name="PrefabSize" value="42, 28, 42" />
+  <property name="PrefabSize" value="42, 8, 42" />
   <property class="Stats">
-    <property name="TotalVertices" value="401095" />
-    <property name="TotalTriangles" value="403569" />
+    <property name="TotalVertices" value="413433" />
+    <property name="TotalTriangles" value="415619" />
     <property class="BlockEntities">
-      <property name="Vertices" value="377684" />
-      <property name="Triangles" value="385034" />
+      <property name="Vertices" value="390022" />
+      <property name="Triangles" value="397084" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="15126" />

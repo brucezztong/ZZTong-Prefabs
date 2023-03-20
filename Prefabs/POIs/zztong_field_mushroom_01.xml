@@ -28,8 +28,8 @@
       <property name="Triangles" value="17350" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="9152" />
-      <property name="Triangles" value="4534" />
+      <property name="Vertices" value="9172" />
+      <property name="Triangles" value="4544" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -64,8 +64,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes9">
-      <property name="Vertices" value="20" />
-      <property name="Triangles" value="10" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
