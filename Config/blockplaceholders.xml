@@ -167,5 +167,16 @@
             <block name="mineAirFilter" prob=".1"/>
         </placeholder>
 
+        <!-- *************************************************************
+            Vending Machines
+        ************************************************************** -->
+
+        <placeholder name="zztongVendingMachineRandomHelper">
+            <block name="air" prob=".3"/>
+            <block name="cntVendingMachine2Broken" prob=".3"/>
+            <block name="zztongVendingMachine2Empty" prob=".3"/>
+            <block name="cntVendingMachine2" prob=".1"/>
+        </placeholder>
+
     </append>
 </blockplaceholders>

@@ -1,5 +1,9 @@
 ﻿<blocks>
 	<append xpath="/blocks">
+        <!-- ************************************************************************* 
+            Empty Generic Storage Crates...
+        ************************************************************************** -->
+
         <block name="zztongStorageGenericCube">
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="cntStorageHealth"/>
@@ -603,6 +607,21 @@
             <property name="Model" value="Entities/Industrial/barrelGas45Prefab"/>
             <property name="Explosion.ParticleIndex" value="15"/>
             <property name="CustomIcon" value="cntBarrelGasSingle45"/>
+        </block>
+
+        <!-- VENDING MACHINES -->
+        <block name="zztongVendingMachine2Empty">
+            <property name="Extends" value="cntVendingMachine2Broken"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Class" value="Loot"/>
+            <property name="CustomIcon" value="cntVendingMachine2Broken"/>
+            <property name="Model" value="Entities/Crafting/vending_machinePrefab"/>
+            <property name="LootList" value="playerStorage"/>
+        </block>
+
+        <block name="zztongVendingMachineRandomHelper">
+            <property name="Extends" value="cntVendingMachine2RandomLootHelper"/>
         </block>
 
         <!-- CUSTOM BLOCKS FOR DELOS POIs -->

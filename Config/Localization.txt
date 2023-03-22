@@ -50,6 +50,7 @@ zztongStorageGenericWeapons,blocks,Container,,,Weapons Storage Box,,Aufbewahrung
 zztongStorageGenericWeaponsCube,blocks,Container,,,Weapons Storage Cube,,Aufbewahrungskiste,Caja de almacenamiento,Caisse de rangement,Scatola portaoggetti,保管ボックス,보관함,Pudło na rzeczy,Caixa de Armazenamento,Коробка для хранения,Saklama Kutusu,储物盒,儲物盒,Caja de almacenamiento
 zztongSurvivorChest,blocks,Container,,,Survivor Chest,,Truhe,Cofre,Coffre,Forziere,チェスト,상자,Skrzynia,Baú,Сундук,Sandık,箱子,箱子,Cofre
 zztongToasterOffset,blocks,Container,,,Toaster,,Toaster,Tostador,Grille-pain,Tostapane,トースター,토스터,Toster,Torradeira,Тостер,Tost Makinesi,烤面包机,烤麵包機,Tostador
+zztongVendingMachine2Empty,blocks,Container,,,Empty Vending Machine,,Beschädigter Verkaufsautomat,Máquina expendedora rota,Distributeur automatique en panne,Distributore automatico rotto,壊れた自動販売機,망가진 자판가,Zepsuty automat sprzedający,Máquina de Vendas Quebrada,Сломанный торговый автомат,Kırık Otomat,损坏的
 zztongTrappedChest,blocks,Trap,,,Trapped Chest,,,,,,,,,,,,,,
 zztong_apartment_01,POI,POI,,x,Riverstone Apartments,,,,,,,,,,,,,,
 zztong_apartment_01_destroyed,POI,POI,,x,Riverstone Apartments (Destroyed),,,,,,,,,,,,,,
