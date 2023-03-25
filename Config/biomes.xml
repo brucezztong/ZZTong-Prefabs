@@ -69,5 +69,6 @@
 		<decoration type="prefab" name="zztong_rubble_28" prob=".01" onslopes="false" />
 		<decoration type="prefab" name="zztong_rubble_29" prob=".002" onslopes="false" />
 		<decoration type="prefab" name="zztong_rubble_30" prob=".001" onslopes="false" />
+		<decoration type="prefab" name="zztong_rubble_31" prob=".001" onslopes="false" />
 	</append>
 </worldgeneration>
