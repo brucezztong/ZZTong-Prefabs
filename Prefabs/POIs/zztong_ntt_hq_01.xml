@@ -12,11 +12,11 @@
   <property name="PrefabSize" value="42, 31, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="commercial" />
+  <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property name="SleeperVolumeSize" value="15, 5, 14#36, 7, 33#15, 7, 14#15, 7, 14#27, 6, 9#27, 6, 10#27, 7, 9#27, 7, 10#27, 7, 9#27, 7, 10#12, 5, 12#12, 5, 8#12, 8, 21#12, 7, 21#40, 9, 21" />
   <property name="SleeperVolumeStart" value="1, 9, 7#2, 2, 4#1, 14, 7#1, 21, 7#1, 9, 21#1, 9, 31#1, 15, 21#1, 15, 31#1, 22, 21#1, 22, 31#29, 9, 20#29, 9, 33#29, 14, 20#29, 22, 20#1, 29, 20" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,3,4,S_Zom_Utility_Worker,3,4,S_Zom_Businessman,2,3,S_-_Group_Zom_Badass,1,2,S_Zom_Businessman,4,5,S_Zom_Businessman,4,5,S_Zom_Businessman,4,5,S_Zom_Businessman,4,5,S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,1,2,S_Zom_Janitor_Only,1,2,S_Zom_Businessman,2,3,S_Zom_Businessman,1,2,S_-_Group_Zom_Badass_Only,5,6" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,3,4,S_Zom_Utility_Worker,3,4,S_Zom_Businessman,3,3,S_-_Group_Zom_Badass,1,1,S_Zom_Businessman,5,5,S_Zom_Businessman,4,5,S_Zom_Businessman,4,5,S_Zom_Businessman,5,5,S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,6,6,S_-Group_Generic_Zombie,1,1,S_Zom_Janitor_Only,1,2,S_Zom_Businessman,2,3,S_Zom_Businessman,2,2,S_-_Group_Zom_Badass_Only,5,6" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
@@ -30,15 +30,15 @@
   <property name="POIMarkerPartRotations" value="0,0,0,0,3,1,2" />
   <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.8,0.2,0.4,0.4,0.6" />
   <property class="Stats">
-    <property name="TotalVertices" value="875329" />
-    <property name="TotalTriangles" value="848171" />
+    <property name="TotalVertices" value="897230" />
+    <property name="TotalTriangles" value="871814" />
     <property class="BlockEntities">
-      <property name="Vertices" value="703968" />
-      <property name="Triangles" value="733639" />
+      <property name="Vertices" value="725861" />
+      <property name="Triangles" value="757278" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="123370" />
-      <property name="Triangles" value="71707" />
+      <property name="Vertices" value="123362" />
+      <property name="Triangles" value="71703" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -73,8 +73,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="16" />
+      <property name="Triangles" value="8" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
