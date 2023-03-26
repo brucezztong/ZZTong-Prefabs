@@ -22,7 +22,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="POIMarkerSize" value="15, 13, 2#4, 3, 6#4, 2, 4#4, 2, 4#1, 1, 2#6, 1, 1#6, 1, 1#5, 1, 5#1, 2, 1#3, 1, 1#1, 1, 1#13, 13, 3" />
-  <property name="POIMarkerStart" value="13, 7, -2#33, 8, 7#19, 21, 30#19, 21, 22#20, 9, 21#21, 8, 1#14, 8, 1#13, 21, 18#27, 9, 21#14, 8, 10#25, 8, 3#14, 7, -4" />
+  <property name="POIMarkerStart" value="13, 7, -2#33, 8, 7#19, 21, 30#19, 21, 22#20, 9, 21#21, 8, 1#14, 8, 1#13, 21, 18#27, 9, 21#14, 8, 10#25, 8, 3#14, 7, -3" />
   <property name="POIMarkerGroup" value="driveway,genny,roof1,roof2,barbwire,barrier1,barrier2,camp,delivery,sandbags,cart,driveway" />
   <property name="POIMarkerTags" value="countrytown###########rural" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
@@ -30,15 +30,15 @@
   <property name="POIMarkerPartRotations" value="2,1,0,0,1,0,0,0,0,1,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.6,0.8,0.8,0.4,0.4,0.4,0.2,0.4,0.4,0.2,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="971693" />
-    <property name="TotalTriangles" value="949801" />
+    <property name="TotalVertices" value="972221" />
+    <property name="TotalTriangles" value="950089" />
     <property class="BlockEntities">
       <property name="Vertices" value="841480" />
       <property name="Triangles" value="864110" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="114511" />
-      <property name="Triangles" value="67181" />
+      <property name="Vertices" value="115039" />
+      <property name="Triangles" value="67469" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
