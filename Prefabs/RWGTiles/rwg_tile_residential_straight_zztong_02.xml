@@ -13,20 +13,20 @@
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 15, 150" />
   <property name="Tags" value="streettile,rwgonly" />
-  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42" />
-  <property name="POIMarkerStart" value="25, 5, 28#25, 5, 80#83, 5, 80#83, 5, 28" />
-  <property name="POIMarkerGroup" value="s1,s2,s3,s4" />
-  <property name="POIMarkerTags" value="###" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,," />
-  <property name="POIMarkerPartRotations" value="3,3,1,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1" />
+  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#4, 3, 4#13, 3, 5#12, 3, 9#7, 5, 7#3, 1, 3#14, 5, 5#1, 1, 1#1, 1, 5#1, 1, 1#3, 2, 1#1, 3, 1#5, 5, 11#10, 1, 3#2, 1, 2#1, 1, 1#1, 1, 1#8, 5, 9#1, 1, 1" />
+  <property name="POIMarkerStart" value="25, 5, 28#25, 5, 80#83, 5, 80#83, 5, 28#14, 5, 75#88, 5, 73#113, 5, 17#132, 4, 64#136, 4, 100#39, 5, 73#69, 14, 79#84, 5, 73#87, 5, 71#71, 5, 76#16, 5, 42#18, 5, 55#71, 5, 73#61, 5, 23#69, 5, 70#80, 5, 80#12, 5, 99#96, 5, 128" />
+  <property name="POIMarkerGroup" value="s1,s2,s3,s4,appliance,army,camp,chicken,horde,trailer,light,barbwire,barrel,barricade,bees,camper,checkpt,hay,mail,cart,tent,stump" />
+  <property name="POIMarkerTags" value="#####################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,part_appliance_pile_01,part_armytruck_01,part_campsite_01,part_chicken_coup_03,part_horde_large,part_shipping_container_03,part_streetlight_broken2,part_zztong_barbwire5,part_zztong_barrel_02,part_zztong_barricade_01,part_zztong_beehive_01,part_zztong_camper_01,part_zztong_checkpoint_04,part_zztong_hay_bale_round_02,part_zztong_mailbox,part_zztong_shopping_cart_01,part_zztong_tent_7x6_01,part_zztong_tree_stump_01" />
+  <property name="POIMarkerPartRotations" value="3,3,1,1,0,1,3,3,0,1,0,1,0,1,1,0,0,0,0,0,1,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0.4,0.2,0.4,0.4,0.2,0.4,0.4,0.6,0.4,0.2,0.8,0.2,0.2,0.8,0.4,0.4,0.6,0.8" />
   <property class="Stats">
-    <property name="TotalVertices" value="526690" />
-    <property name="TotalTriangles" value="542759" />
+    <property name="TotalVertices" value="568889" />
+    <property name="TotalTriangles" value="603356" />
     <property class="BlockEntities">
-      <property name="Vertices" value="422714" />
-      <property name="Triangles" value="418563" />
+      <property name="Vertices" value="464913" />
+      <property name="Triangles" value="479160" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="33296" />
