@@ -527,6 +527,13 @@ I created this POI after trying to think what would happen to a Salvation Army
 homeless shelter during a zombie apocolypse. It was made for A19 and was made
 bigger during the A20 conversion.
 
+SHERIFF 01
+
+I received several requests for a police department, but I felt TFP already
+had that covered. A county sheriff, on the other hand, seemed unfilled. It
+is perhaps sized for a larger force than is really needed, but if you count
+the regional jail in the basement it might be about right.
+
 SKYSCRAPER 01 & SKYSCRAPER 01 DESTROYED
 
 This was my second attempt to make a Skyscraper. It was made using A19 but
