@@ -11,11 +11,11 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="YOffset" value="-6" />
+  <property name="YOffset" value="-5" />
   <property name="PrefabSize" value="60, 14, 60" />
   <property name="Tags" value="rural" />
   <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#2, 1, 2#6, 3, 3#7, 7, 7#4, 1, 1" />
-  <property name="POIMarkerStart" value="4, 5, 45#19, 5, -3#38, 6, 48#49, 6, 37#4, 2, 45#20, 6, 16" />
+  <property name="POIMarkerStart" value="4, 4, 45#19, 4, -3#38, 5, 48#49, 5, 37#4, 1, 45#20, 5, 16" />
   <property name="POIMarkerGroup" value="shedstorm,driveway,dogs,tractor,shedstorm,spikes" />
   <property name="POIMarkerTags" value="#####" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
@@ -78,13 +78,13 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="FetchContainer">
+      <property name="0" value="5, 6, 30" />
+    </property>
     <property class="POILight">
       <property name="0" value="6, 8, 30" />
       <property name="1" value="7, 6, 36" />
       <property name="2" value="9, 7, 36" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="5, 6, 30" />
     </property>
     <property class="Rally">
       <property name="0" value="22, 6, 2" />
