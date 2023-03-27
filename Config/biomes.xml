@@ -48,6 +48,7 @@
         <decoration type="prefab" name="zztong_cactus_03" prob=".001" onslopes="false" />
         <decoration type="prefab" name="zztong_cactus_04" prob=".001" onslopes="false" />
         <decoration type="prefab" name="zztong_cactus_05" prob=".001" onslopes="false" />
+        <decoration type="prefab" name="zztong_oil_pump_01" prob=".01" onslopes="false" />
 	</append>
 	<append xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations">
 		<decoration type="prefab" name="zztong_rubble_01" prob=".01" onslopes="false" />
