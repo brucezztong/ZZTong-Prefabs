@@ -16,6 +16,12 @@
 			<property name="maxdensity" value="120"/>
 		</streettile>
 		
+		<streettile name="rwg_tile_countryresidential_straight_zztong_01">
+			<property name="maxtiles" value="1"/>
+			<property name="mintiles" value="0"/>
+			<property name="maxdensity" value="120"/>
+		</streettile>
+		
 		<streettile name="rwg_tile_residential_cap_zztong_01">
 			<property name="maxtiles" value="1"/>
 			<property name="mintiles" value="0"/>
