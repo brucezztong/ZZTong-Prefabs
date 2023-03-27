@@ -467,6 +467,12 @@ vanilla Tiles in A20 don't give it a lot of chance to be placed. The
 destroyed version was created by taking out my frustrations with a rocket
 launcher.
 
+OIL PUMP JACK 01
+
+This started off as an idea for a biome decoration and ended up being
+something I thought would fit in rural and wilderness POIs too. The
+POI version has a little bit more than a decoration.
+
 PHARMACY 01 & PHARMACY 01 DESTROYED
 
 Any similarity to the real life "Rite Aid" Pharmacy is purely intentional.
