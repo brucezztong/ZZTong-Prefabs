@@ -13,40 +13,47 @@
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 15, 150" />
   <property name="Tags" value="streettile,rwgonly" />
-  <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25" />
-  <property name="POIMarkerStart" value="80, 4, 2#28, 4, 107#28, 4, 2#80, 4, 106#28, 4, 56#2, 4, 20#81, 4, 70#108, 4, 70" />
-  <property name="POIMarkerGroup" value="m1,s3,s1,s2,s4,xs1,xs2,xs3" />
-  <property name="POIMarkerTags" value="#######" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,,," />
-  <property name="POIMarkerPartRotations" value="1,3,3,1,3,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1" />
+  <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25#5, 1, 1#1, 1, 1#3, 2, 1#1, 1, 6#1, 1, 6#1, 3, 1#1, 3, 1#5, 5, 11#4, 2, 14#14, 90, 14#8, 6, 4#2, 2, 2#2, 1, 1#2, 1, 2#1, 2, 5#1, 1, 1#1, 1, 4#1, 1, 1#5, 9, 5#8, 16, 7#4, 3, 4#4, 3, 4#14, 5, 5#5, 2, 11#1, 1, 1" />
+  <property name="POIMarkerStart" value="80, 4, 2#28, 4, 107#28, 4, 2#80, 4, 106#28, 4, 56#2, 4, 20#81, 4, 70#108, 4, 70#126, 4, 107#135, 4, 132#71, 4, 145#79, 4, 97#70, 4, 47#91, 4, 63#97, 4, 63#21, 4, 112#18, 4, 62#9, 3, 83#71, 4, 39#130, 4, 113#140, 4, 108#141, 4, 17#145, 4, 111#68, 4, 103#88, 4, 65#136, 4, 67#10, 4, 135#11, 4, 86#128, 4, 124#127, 4, 129#124, 4, 97#10, 4, 61#45, 4, 51" />
+  <property name="POIMarkerGroup" value="m1,s3,s1,s2,s4,xs1,xs2,xs3,barbwire,burnbarrel,barricade,barrier1,barrier2,bees1,bees2,camper,bleach,cell,checkpt,delivery,doghouse,dogpack,firewood,cart,spikes,stump,tower,cell,appliance1,appliance2,trailer,bodies,barrel" />
+  <property name="POIMarkerTags" value="################################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,,,,part_zztong_barbwire5,part_zztong_barrel_burning_01,part_zztong_barricade_01,part_zztong_barrier6,part_zztong_barrier6,part_zztong_beehive_01,part_zztong_beehive_01,part_zztong_camper_01,part_zztong_bleachers_02,part_zztong_cell_tower_01,part_zztong_checkpoint_02,part_zztong_delivery_02,part_zztong_dog_house_01,part_zztong_dog_pack_two_01,part_zztong_firewood_01,part_zztong_shopping_cart_01,part_zztong_spikes_wood4,part_zztong_tree_stump_01,part_zztong_watchtower_01,part_5m_water_tower,part_appliance_pile_01,part_appliance_pile_02,part_shipping_container_03,part_shipping_container_06,part_zztong_barrel_01" />
+  <property name="POIMarkerPartRotations" value="1,3,3,1,3,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,2,0,0,3,1,0,0,1,2,1,1,0,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,0.4,0.2,0.2,0.2,0.2,0.6,0.6,0.2,0.8,0.6,0.2,0.4,0.2,0.2,0.6,0.6,0.2,0.2,0.2,0.6,0.4,0.4,0.2,0.6,0.4" />
+  <property name="SleeperVolumeSize" value="10, 8, 17#10, 6, 20#23, 6, 20#21, 5, 21" />
+  <property name="SleeperVolumeStart" value="134, 4, 110#124, 4, 107#124, 4, 127#3, 4, 126" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="107646" />
-    <property name="TotalTriangles" value="123972" />
+    <property name="TotalVertices" value="1132201" />
+    <property name="TotalTriangles" value="1191862" />
     <property class="BlockEntities">
-      <property name="Vertices" value="4594" />
-      <property name="Triangles" value="4860" />
+      <property name="Vertices" value="983630" />
+      <property name="Triangles" value="1045255" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="32656" />
-      <property name="Triangles" value="17904" />
+      <property name="Vertices" value="74397" />
+      <property name="Triangles" value="41847" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="11776" />
-      <property name="Triangles" value="5888" />
+      <property name="Vertices" value="11136" />
+      <property name="Triangles" value="5568" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1208" />
+      <property name="Triangles" value="700" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1268" />
+      <property name="Triangles" value="1104" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -57,12 +64,12 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="58620" />
-      <property name="Triangles" value="95320" />
+      <property name="Vertices" value="59042" />
+      <property name="Triangles" value="95948" />
     </property>
     <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1520" />
+      <property name="Triangles" value="1440" />
     </property>
     <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
@@ -71,7 +78,7 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="80, 13, 94" />
+      <property name="0" value="141, 6, 127" />
     </property>
   </property>
 </prefab>
