@@ -778,6 +778,10 @@ loot crates. I was inspired to turn TFP's remnant_industrial_04 into something
 beyond a pile of rubble. I didn't end up using the exact same footprint, but
 the exterior has some resemblance.
 
+WAREHOUSE 03
+
+This is based on a local business in real life, but the name was changed.
+
 WIND TURBINE 01
 
 This kind of POI seemed perfect for wilderness placement, though I cannot
