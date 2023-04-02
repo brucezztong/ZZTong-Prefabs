@@ -465,6 +465,7 @@
             Minor Loot and Lootless Containers
         ************************************************************************** -->
 
+        <!-- ******* TEMP REMOVED ******
         <block name="zztongSurvivorChest">
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="cntChest01"/>
@@ -472,7 +473,7 @@
             <property name="Class" value="Loot"/>
             <property name="LootList" value="zztongSurvivorLoot"/>
             <property name="Material" value="MwoodReinforced"/>
-            <property name="StabilitySupport" value="false"/> <!--  build restriction  -->
+            <property name="StabilitySupport" value="false"/>
             <property name="Shape" value="Ext3dModel"/>
             <property name="Texture" value="293"/>
             <property name="Mesh" value="models"/>
@@ -486,8 +487,8 @@
             <drop event="Destroy" name="resourceWood" count="1,3"/>
             <drop event="Fall" name="terrDestroyedWoodDebris" count="1" prob="0.75" stick_chance="1"/>
             <property name="FilterTags" value="MC_playerBlocks,SC_decor"/>
-
         </block>
+        -->
 
         <block name="zztongBookcaseBookless">
             <property name="CreativeMode" value="Dev"/>
@@ -770,6 +771,7 @@
             Booby-Trapped Survivor Chest
         ************************************************************************** -->
 
+        <!-- ****** TEMP REMOVED ******
         <block name="zztongTrappedChest">
             <property name="Extends" value="mineCookingPot"/>
             <property name="CustomIcon" value="cntChest01"/>
@@ -781,6 +783,7 @@
             <property name="ItemTypeIcon" value="explosion"/>
             <property name="CreativeMode" value="Dev"/>
         </block>
+        -->
 
     </append>
 </blocks>
