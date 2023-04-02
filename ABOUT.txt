@@ -501,6 +501,23 @@ This POI resulted as part of my desire to make T5 content for the Wilderness.
 Drawn like moths, we drift into the city... The timeless old attraction...
 Err, yeh. Let's show the wilderness some love.
 
+REBIRTH 01
+
+I get a lot of feedback from Rebirth players and I wanted to make something
+to thank them. After talking with FuriousRamsay, the plan was to make a POI
+that he could convert to use with his bandits. He wanted it set in the
+wilderness and thought he'd turn it into a Trader. The POI distributed with
+the modlet is a ruined Trader infested with zombies that can be converted into
+a base/trader for bandits in the Rebirth overhaul. As for the design, I
+reasoned bandits/traders in the wilderness would want an established location
+and TFP's various Ranger Stations came to mind, but with a more defensible
+perimeter. I also noticed some trader locations appeared to have towed in
+trailers and I went that way too. At this point I was committed to reusing
+TFP assets, so I decided to add a TFP food wagon as bandits would get a
+quick kitchen to help feed their forces that way. After that, a liberal amount
+of customization to those elements plus integration with walls was most of
+the work.
+
 RED ROCKET 01
 
 This is very much a tribute to the Red Rocket found near the start of the
