@@ -7,7 +7,6 @@
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="QuestTags" value="fetch" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />

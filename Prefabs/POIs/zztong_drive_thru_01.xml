@@ -53,15 +53,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="218973" />
-    <property name="TotalTriangles" value="214818" />
+    <property name="TotalVertices" value="219157" />
+    <property name="TotalTriangles" value="214934" />
     <property class="BlockEntities">
-      <property name="Vertices" value="206638" />
-      <property name="Triangles" value="205371" />
+      <property name="Vertices" value="206846" />
+      <property name="Triangles" value="205499" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="10392" />
-      <property name="Triangles" value="6286" />
+      <property name="Vertices" value="10368" />
+      <property name="Triangles" value="6274" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
