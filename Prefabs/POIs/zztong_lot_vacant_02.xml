@@ -21,15 +21,15 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="Tags" value="industrial,countrytown,nodiagonal" />
   <property class="Stats">
-    <property name="TotalVertices" value="169565" />
-    <property name="TotalTriangles" value="167942" />
+    <property name="TotalVertices" value="169501" />
+    <property name="TotalTriangles" value="167910" />
     <property class="BlockEntities">
       <property name="Vertices" value="161697" />
       <property name="Triangles" value="161173" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="3008" />
-      <property name="Triangles" value="1496" />
+      <property name="Vertices" value="3032" />
+      <property name="Triangles" value="1508" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -44,8 +44,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="3196" />
-      <property name="Triangles" value="2377" />
+      <property name="Vertices" value="3108" />
+      <property name="Triangles" value="2333" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
