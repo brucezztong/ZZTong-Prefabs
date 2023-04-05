@@ -22,7 +22,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="YOffset" value="-3" />
   <property name="EditorGroups" value="house old, rural" />
-  <property name="Tags" value="countryresidential" />
+  <property name="Tags" value="snow,desert,countryresidential,pine_forest" />
   <property name="POIMarkerSize" value="7, 13, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#7, 3, 3#1, 1, 1#3, 2, 2#1, 1, 1#1, 1, 1#5, 5, 11#6, 1, 1#1, 2, 5#1, 1, 1#1, 3, 1" />
   <property name="POIMarkerStart" value="18, 2, 42#11, 3, 4#23, 3, 32#12, 3, 31#37, 3, 16#26, 3, 9#30, 3, 16#20, 3, 1#29, 4, 34#26, 3, 38#19, 3, 7#18, 3, 37#40, 3, 33#30, 3, 39#16, 4, 26" />
   <property name="POIMarkerGroup" value="driveway,car1,car2,car3,car4,truck,car5,dumpster,vending,cart,trailer,log,firewood,car6,ladder" />

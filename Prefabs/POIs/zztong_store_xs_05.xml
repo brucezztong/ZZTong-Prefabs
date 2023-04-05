@@ -22,7 +22,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
-  <property name="Tags" value="forest,snow,desert,countrytown,nodiagonal" />
+  <property name="Tags" value="snow,desert,countrytown,nodiagonal,pine_forest" />
   <property name="POIMarkerSize" value="7, 13, 2#4, 2, 4#2, 2, 2#1, 1, 1" />
   <property name="POIMarkerStart" value="0, 2, -2#10, 11, 5#2, 3, 5#5, 3, 5" />
   <property name="POIMarkerGroup" value="drive1,roof,delivery,vending" />
@@ -33,15 +33,15 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4,0.2" />
   <property name="PrefabSize" value="25, 12, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="389214" />
-    <property name="TotalTriangles" value="419172" />
+    <property name="TotalVertices" value="389847" />
+    <property name="TotalTriangles" value="419620" />
     <property class="BlockEntities">
-      <property name="Vertices" value="359645" />
-      <property name="Triangles" value="399591" />
+      <property name="Vertices" value="360310" />
+      <property name="Triangles" value="400055" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="24336" />
-      <property name="Triangles" value="13750" />
+      <property name="Vertices" value="24320" />
+      <property name="Triangles" value="13742" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -76,8 +76,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes9">
-      <property name="Vertices" value="16" />
-      <property name="Triangles" value="8" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

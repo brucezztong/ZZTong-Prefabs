@@ -4,8 +4,9 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="0" />
+  <property name="QuestTags" value="clear,fetch" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 22, 42" />
@@ -18,7 +19,7 @@
   <property name="POIMarkerTags" value="######rural#rural#########" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_zztong_atm_01,part_waterheater_01,part_utility_pole,part_trailer_car,part_tank_propane_01,part_greeble_rooftop_05,part_driveway_rural_05,part_driveway_rural_05,part_ambulance_01,part_zztong_tree_stump_01,part_zztong_tfp_trailer_tanker_02,part_zztong_pallets_cobble_01,part_zztong_ladder_iron_01,part_zztong_dumpster_01,part_zztong_billboard_kztv,part_billboard_mammapizza,part_billboard_mycell" />
-  <property name="POIMarkerPartRotations" value="1,1,2,3,0,0,0,0,0,0,2,0,0,0,1,1,1" />
+  <property name="POIMarkerPartRotations" value="1,1,2,3,0,0,2,2,0,0,2,0,0,0,1,1,1" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.6,0.8,0.2,0.8,0.6,1,1,0.2,0.4,0.2,0.2,0.8,0.8,0.4,0.4,0.4" />
   <property name="Tags" value="rural" />
   <property name="SleeperVolumeSize" value="8, 4, 10#18, 4, 7#10, 4, 10#18, 4, 8#18, 9, 18" />

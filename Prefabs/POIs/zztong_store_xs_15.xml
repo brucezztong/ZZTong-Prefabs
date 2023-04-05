@@ -11,7 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 12, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="commercial" />
+  <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property name="POIMarkerSize" value="5, 3, 5#5, 4, 5#2, 2, 2#1, 1, 1#1, 1, 4#1, 1, 4" />
   <property name="POIMarkerStart" value="10, 9, 12#10, 9, 5#14, 3, 11#12, 9, 21#22, 10, 5#2, 10, 5" />
   <property name="POIMarkerGroup" value="hvac,shed,delivery,fakemine,sand1,sand2" />
@@ -51,11 +51,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="181618" />
-    <property name="TotalTriangles" value="174259" />
+    <property name="TotalVertices" value="183720" />
+    <property name="TotalTriangles" value="176415" />
     <property class="BlockEntities">
-      <property name="Vertices" value="151852" />
-      <property name="Triangles" value="154411" />
+      <property name="Vertices" value="153954" />
+      <property name="Triangles" value="156567" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="25094" />

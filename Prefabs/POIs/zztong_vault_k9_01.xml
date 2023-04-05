@@ -28,21 +28,21 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="Tags" value="wilderness" />
+  <property name="Tags" value="snow,desert,wilderness,pine_forest" />
   <property class="Stats">
-    <property name="TotalVertices" value="3839050" />
-    <property name="TotalTriangles" value="3355134" />
+    <property name="TotalVertices" value="3866297" />
+    <property name="TotalTriangles" value="3381038" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3395095" />
-      <property name="Triangles" value="3052087" />
+      <property name="Vertices" value="3422662" />
+      <property name="Triangles" value="3078151" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="342304" />
       <property name="Triangles" value="187828" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="27400" />
-      <property name="Triangles" value="13700" />
+      <property name="Vertices" value="27080" />
+      <property name="Triangles" value="13540" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="2272" />

@@ -28,13 +28,13 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="YOffset" value="-9" />
-  <property name="Tags" value="commercial" />
+  <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property class="Stats">
-    <property name="TotalVertices" value="213866" />
-    <property name="TotalTriangles" value="193959" />
+    <property name="TotalVertices" value="214152" />
+    <property name="TotalTriangles" value="194311" />
     <property class="BlockEntities">
-      <property name="Vertices" value="169255" />
-      <property name="Triangles" value="165738" />
+      <property name="Vertices" value="169541" />
+      <property name="Triangles" value="166090" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="39212" />

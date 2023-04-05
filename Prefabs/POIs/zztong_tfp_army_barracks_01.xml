@@ -27,21 +27,21 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="Tags" value="snow,desert,wilderness,pine_forest" />
-  <property name="POIMarkerSize" value="5, 1, 1#1, 1, 1#1, 1, 3" />
-  <property name="POIMarkerStart" value="39, 2, -1#44, 5, 41#39, 3, 32" />
-  <property name="POIMarkerGroup" value="road,ammo,spikes" />
-  <property name="POIMarkerTags" value="##" />
-  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",part_zztong_loot_small_ammo_01,part_zztong_spikes_wood3" />
-  <property name="POIMarkerPartRotations" value="2,0,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.6" />
+  <property name="POIMarkerSize" value="5, 1, 1#1, 1, 3#5, 1, 1#5, 1, 1" />
+  <property name="POIMarkerStart" value="39, 2, -1#39, 3, 32#39, 3, 10#16, 3, 10" />
+  <property name="POIMarkerGroup" value="road,spikes2,spikes1,spikes3" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",part_zztong_spikes_wood3,part_zztong_spikes_wood5,part_zztong_spikes_wood5" />
+  <property name="POIMarkerPartRotations" value="2,1,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.4,0.6" />
   <property name="PrefabSize" value="60, 23, 60" />
   <property class="Stats">
-    <property name="TotalVertices" value="385310" />
-    <property name="TotalTriangles" value="433854" />
+    <property name="TotalVertices" value="392341" />
+    <property name="TotalTriangles" value="442086" />
     <property class="BlockEntities">
-      <property name="Vertices" value="327699" />
-      <property name="Triangles" value="390258" />
+      <property name="Vertices" value="334730" />
+      <property name="Triangles" value="398490" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="38082" />

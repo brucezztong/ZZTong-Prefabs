@@ -21,7 +21,7 @@
   <property name="POIMarkerPartRotations" value="1,0,1,1,0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.4,0.2,0.4,0.8" />
   <property name="YOffset" value="-8" />
-  <property name="Tags" value="commercial" />
+  <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property name="SleeperVolumeSize" value="9, 3, 5#9, 3, 5#9, 3, 5#9, 3, 9#9, 3, 14#10, 3, 15#5, 3, 6#10, 5, 21#10, 5, 5#10, 6, 15#10, 6, 6#11, 8, 16#21, 6, 6#10, 6, 15#19, 10, 19#11, 6, 15" />
   <property name="SleeperVolumeStart" value="3, 2, 3#13, 2, 3#13, 2, 17#13, 2, 8#3, 2, 8#2, 8, 2#7, 8, 17#13, 8, 2#2, 13, 2#13, 13, 2#13, 13, 17#2, 11, 7#2, 19, 2#13, 19, 8#3, 26, 3#2, 19, 8" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
@@ -30,11 +30,11 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="636929" />
-    <property name="TotalTriangles" value="651397" />
+    <property name="TotalVertices" value="637215" />
+    <property name="TotalTriangles" value="651749" />
     <property class="BlockEntities">
-      <property name="Vertices" value="563748" />
-      <property name="Triangles" value="605332" />
+      <property name="Vertices" value="564034" />
+      <property name="Triangles" value="605684" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="58464" />

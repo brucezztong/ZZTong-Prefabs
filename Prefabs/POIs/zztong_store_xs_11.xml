@@ -30,11 +30,11 @@
   <property name="POIMarkerPartRotations" value="0,2,3,0,0,1,0,1" />
   <property name="POIMarkerPartSpawnChance" value="0.6,1,0.6,0.8,0.2,0.4,0.4,0.2" />
   <property class="Stats">
-    <property name="TotalVertices" value="235466" />
-    <property name="TotalTriangles" value="250107" />
+    <property name="TotalVertices" value="235752" />
+    <property name="TotalTriangles" value="250459" />
     <property class="BlockEntities">
-      <property name="Vertices" value="192378" />
-      <property name="Triangles" value="222836" />
+      <property name="Vertices" value="192664" />
+      <property name="Triangles" value="223188" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="33966" />
@@ -78,23 +78,23 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="POILight">
-      <property name="0" value="12, 6, 12" />
-      <property name="1" value="14, 6, 12" />
-      <property name="2" value="14, 13, 14" />
-      <property name="3" value="18, 5, 17" />
-      <property name="4" value="18, 11, 17" />
-      <property name="5" value="16, 5, 17" />
-    </property>
     <property class="quest_feather">
       <property name="0" value="12, 15, 13" />
     </property>
     <property class="Rally">
       <property name="0" value="11, 4, 2" />
     </property>
+    <property class="POILight">
+      <property name="0" value="12, 6, 12" />
+      <property name="1" value="14, 6, 12" />
+      <property name="2" value="14, 13, 14" />
+      <property name="3" value="16, 5, 17" />
+      <property name="4" value="18, 5, 17" />
+      <property name="5" value="18, 11, 17" />
+    </property>
     <property class="FetchContainer">
-      <property name="0" value="15, 6, 19" />
-      <property name="1" value="12, 11, 12" />
+      <property name="0" value="12, 11, 12" />
+      <property name="1" value="15, 6, 19" />
     </property>
   </property>
 </prefab>
