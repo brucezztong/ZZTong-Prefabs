@@ -24,8 +24,8 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="wilderness,pine_forest" />
-  <property name="POIMarkerSize" value="7, 1, 1" />
-  <property name="POIMarkerStart" value="82, 2, -1" />
+  <property name="POIMarkerSize" value="7, 1, 5" />
+  <property name="POIMarkerStart" value="82, 2, -5" />
   <property name="POIMarkerGroup" value="new" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
@@ -42,11 +42,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1516409" />
-    <property name="TotalTriangles" value="1557626" />
+    <property name="TotalVertices" value="1513881" />
+    <property name="TotalTriangles" value="1554160" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1440222" />
-      <property name="Triangles" value="1450774" />
+      <property name="Vertices" value="1437694" />
+      <property name="Triangles" value="1447308" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="10009" />
