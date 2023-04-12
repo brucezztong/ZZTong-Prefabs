@@ -218,10 +218,10 @@ and strip_mall_01.
 Revisions to car_wash_01, office_building_02, office_building_03, and
 office_building_03_destroyed.
 Bug fixes for various residential tiles. (Sidewalk issues)
-Bug fixes for many POIs related to removing non-POI versions of blocks and
-cleaning up texture issues.
+Bug fixes for many POIs related to removing non-POI versions of blocks,
+cleaning up texture issues, loot issues, and lots of reasons.
 Bug fix for part_cookpot. Whoops. That wasn't supposed to be a bomb.
-Added POI names to the Localization.txt file.
+Added POI names to the Localization.txt file in preparation for A21.
 Added some more custom blocks and helpers to provide more crate options.
 Removed the subway system from the Intersection Tile and all related POIs
 because it was leading people down a path to fail missions and because Arizona
