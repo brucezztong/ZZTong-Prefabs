@@ -128,12 +128,4 @@
 		
 	</append>
 
-    <!-- **************************************************************
-        CHANGES TO VALUES
-    ****************************************************************-->
-
-    <!-- Wrap Cities in Residential Tiles instead of Rural Tiles -->
-    <!-- Delete the following line if you want Cities to be ringed by Farms. -->
-    <set xpath="/rwgmixer/township[@name='city']/property[@name='outskirt_district']/@value">residential</set>
-
 </rwgmixer>
