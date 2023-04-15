@@ -1,7 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
-A21.EXP-ZZ015 :
+A21.0-ZZ015 :
 * Broke the README file into README and CHANGELOG.
+* Added a Documentation folder to hold misc TXT files.
 
 A20.7-ZZ014 : 
 Added rwg_tile_rural_corner_zztong_02, rwg_tile_residential_straight_zztong_02,
