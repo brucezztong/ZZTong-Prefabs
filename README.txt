@@ -1,8 +1,8 @@
-ZZTONG-PREFABS READ-ME for A20.6-ZZ014
+ZZTONG-PREFABS READ-ME for A20.7-ZZ014
 
 GOAL:
 
-This modlet provides semi-plain "meat and potatoes" POIs, Parts, Tiles,
+This modlet provides semi-plain "meat and potatoes" POIs, Tiles, Parts, Blocks,
 Decorations and Stamps of an acceptable quality and in enough quantity to fill
 gaps in world generation and make a meaningful dent in player demands for
 variety.
@@ -10,7 +10,8 @@ variety.
 DEPENDENCIES:
 
 This modlet depends only on the vanilla game and introduces no other
-requirements or dependencies.
+requirements or dependencies. Future versions of this modlet may
+become to dependent on other modlets that introduce custom 3D assets.
 
 CLIENT INSTALLATION: (Windows)
 
@@ -26,19 +27,27 @@ CLIENT INSTALLATION (Mac) - TBD
 CLIENT INSTALLATION (Linux) - TBD
 SERVER INSTALLATION - TBD
 
+WARNING: If you choose to extract POIs from this modlet that you need to know
+Parts and Custom Block XML works, or you will not end up with a complete POI!
+
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
-I recommend installation on both, but Server-Side only should largely work.
+I recommend installation on both, but Server-Side only should largely work with
+some noticable quirks. As near as I have been able to determine, because POIs
+are rolled into the world distributed by the server, and all the modlet's
+additions to the game configuration are in XML, this can be a Server-Side only
+modlet.
 
-As near as I have been able to determine, because POIs are rolled into the
-world distributed by the server, and all the modlet's additions to the game
-configuration are in XML, this can be a Server-Side only modlet.
+The most notable issue observed by players without a local installation of the
+modlet is the lack of local "imposter" files will mean custom POIs only become
+visible when you get close to them. This alone can be enough to annoy players.
 
-However, if you also install the modlet on the Clinet-Side then there are game
-features that become supported, such as using F11 to identify a POI, or Admin
-abilities such as being able to teleport to a POI. Players may also find that
-odd things, like key boxes, only work if they have the modlet installed. These
-quirks are not bugs in the modlet or the POIs.
+The next complication relates to features such as using F11 to identify a POI
+and Admin abilities such as being able to teleport to a POI. Neither of those
+features will not work without a local copy. Players may also find that odd
+things, like key boxes, only work if they have the modlet installed.
+
+These quirks are NOT bugs in the modlet or the POIs.
 
 VANILLA RANDOM WORLD GENERATOR (RWG):
 
@@ -46,32 +55,32 @@ Installing this Mod should be all that is necessary to include this content
 when generating a new world using the 7D2D built-in Random World Generator. Of
 course, it is up the the RWG to determine if, when, and where to place things.
 
-As of ZZ009, this modlet changes the configuration of rwgmixer.xml to put two
-more TFP Tiles into play for increased variety. Also, it changes Cities to be
-ringed by Residential rather than Rural content. This way, Country Towns are
-surrounded by Farms, but Cities are surrounded by Houses. If you don't like
-that, then change the rwgmixer.xml file in this modlet.
+As of ZZ009, this modlet changes the configuration of rwgmixer.xml to put more
+Tiles into play for increased variety.
+
+Also, it changes Cities to be ringed by Residential rather than Rural content.
+This way, Country Towns are surrounded by Farms, but Cities are surrounded by
+Houses. If you don't like that, then change the rwgmixer.xml file in this
+modlet. This change to cities will be removed from this modlet with A21 because
+it has been picked up as a feature in A21's RWG. How cool!
 
 TERAGON:
 
-Support for Teragon is new. You should refer to notes and configuration files
-found in the Teragon folder within this modlet. It is unclear as of the time
-I'm writing this if Teragon fully support modlets and the correct rotation of
-Parts, so you might have problems for a while.
+Support for Teragon is current as of the release date, but since Teragon is
+undergoing active development you may find that my support becomes out-of-date.
+Please let me know if that happens.
 
-NITROGEN AND KINGGEN:
-
-Nitrogen and KingGen are no longer supported because they do not support
-features such as Tiles and Parts. An A19 version of this modlet should still
-work if you're playing an A19 version of 7D2D and use those map generators.
+You should refer to notes and configuration files found in the Teragon folder
+within this modlet. As I write this I am aware of bugs in Teragon, but also
+excited to see that the Teragon teams takes these issue seriously and works to
+resolve them.
 
 WORLD EDITOR AND MAP MAKERS:
 
 If you have already made a map and plan to place these POIs by hand then be
-aware that I make extensive use of Parts. Manual placement via the World Editor
+aware that I make extensive use of Parts and Custom Blocks. The World Editor
 does not know about Parts, so you run the risk of ending up with a POI that is
-missing content. That content can include loot. This is an A20 reality. I have
-no idea if A21 will include more widespread support for Parts.
+missing content.
 
 COMPOPACK:
 
@@ -84,11 +93,11 @@ from this modlet. They're likely to be slightly different. This is the easiest
 choice to accomplish.
 
 (2) Remove this modlet. This will eliminate the chance of duplication in
-vanilla settlements, but you'll probably be using slightly older POIs and you
-might be missing a few new POIs.
+vanilla settlements, but you'll probably be using older POIs and you might be
+missing a few new POIs.
 
-(3) Remove the "by_ZZTong" files found in the CompoPack's folders of POIs for
-vanilla settlements. Leave the "by_ZZTong" POIs in all of the CompoPack's
+(3) Remove the "ZZTong" files found in the CompoPack's folders of POIs for
+vanilla settlements but leave the "ZZTong" POIs in all of the CompoPack's
 custom settlements. This gives you the best combination, but involves the most
 work.
 
@@ -96,10 +105,8 @@ OVERHAUL MODS:
 
 Overhaul Mods make extensive changes to the game and I cannot give you a recipe
 for how to include these POIs. Plainly stated, I'm focused on Vanilla. There
-are too many overhauls to support them all. The overhauls change frequently
-and they don't involve me. Supporting them would take more time than I have.
-If an overhaul leaves enough of Vanilla intact, then this modlet will work
-with them.
+are too many overhauls to support them all, so I provide support when requsted
+so long as I don't have to make an overhaul-unique version of the modlet.
 
 Some Overhaul Mods choose to embed this modlet, or portions of this modlet,
 in their own distributions. I cannot predict the possible collisions and
@@ -120,10 +127,9 @@ the resulting map.
 RAVENHEARST - I'm under the impression you can use the Game's RWG to make
 maps. If so, make sure this modlet is installed when you do that.
 
-REBIRTH - I'm aware this overhaul was removing vanilla items that I have
-referenced in my loot tables and this disconnect can cause exceptions. I'm
-told Rebirth will change to include all vanilla items. This should mean you
-are free to use this modlet in combination with Rebirth.
+REBIRTH - I'm aware this overhaul is actively integrating my modlet into maps
+and content, so look to them for advice on the best practices. I probably get
+the most feedback from Rebirth players and creators.
 
 UNDEAD LEGACY - I'm under the impression you can using the Game's RWG to make
 maps and if this modlet is installed when you do that, then I'm told you will
@@ -195,6 +201,11 @@ One or more POIs may include references to "Canuck Coffee" by Not-a-Gamer
 Gaming (DaphyDuck91 and Genosis). NAGG, as they are known, have provided to the
 community a number of POIs as well as providing YouTube/Twitch entertainment.
 
+I'd like to also thank the many folks with whom I collaborate, trade ideas,
+chat, and otherwise geek-out on 7D2D: Deverezieaux, Cranberry Monster,
+and everyone who leaves me feedback scattered about Discord. Thanks to Guppy
+for providing me an "office" channel on his Discord server.
+
 Finally, special thanks to Stallionsden and Battlepapi of CompoPack fame, plus
 any and all who lurk on in the #prefabbers-hangout Discord channel. Their
 guidance throughout the CompoPack submission process and advice via the
@@ -203,8 +214,8 @@ Editor, game performance issues, and more. You're awesome!
 
 RELEASE NOTES: (Newest to Oldest)
 
-A20.6-ZZ014 : 
-Added rwg_tile_rural_cap_zztong_02, rwg_tile_residential_straight_zztong_02,
+A20.7-ZZ014 : 
+Added rwg_tile_rural_corner_zztong_02, rwg_tile_residential_straight_zztong_02,
 rwg_tile_residential_t_zztong_02, rwg_tile_countryresidential_cap_01,
 rwg_tile_countryresidential_straight_01, rwg_tile_commercial_intersection_01.
 Added store_xs_11, store_xs_12, store_xs_13, store_xs_14, and store_xs_15.
