@@ -4,8 +4,9 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="False" />
-  <property name="DifficultyTier" value="0" />
+  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="DifficultyTier" value="1" />
+  <property name="QuestTags" value="clear,fetch" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 12, 42" />
@@ -14,22 +15,30 @@
   <property name="SleeperVolumeSize" value="7, 8, 20#8, 8, 20#7, 6, 18#9, 5, 11#27, 5, 15#15, 6, 19" />
   <property name="SleeperVolumeStart" value="26, 3, 20#33, 3, 20#2, 3, 21#2, 3, 2#12, 3, 4#10, 3, 21" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="snow,desert,rural,pine_forest" />
   <property name="YOffset" value="-3" />
+  <property name="POIMarkerSize" value="8, 13, 3#6, 3, 4#3, 4, 6#11, 2, 5#6, 1, 1#2, 2, 3#5, 1, 14" />
+  <property name="POIMarkerStart" value="29, 2, -3#12, 3, 8#35, 3, 12#12, 3, 19#30, 3, 4#37, 3, 6#29, 3, 6" />
+  <property name="POIMarkerGroup" value="driveway,genny,lift,trailer,barrier,dumpster,empty" />
+  <property name="POIMarkerTags" value="rural######" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_06,part_generator_01,part_lift_03,part_trailer_car,part_zztong_barrier6,part_zztong_dumpster_02,part_zztong_tfp_trailer_flatbed_empty_01" />
+  <property name="POIMarkerPartRotations" value="2,0,1,2,0,1,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.2,0.4,0.4" />
   <property class="Stats">
-    <property name="TotalVertices" value="483484" />
-    <property name="TotalTriangles" value="477722" />
+    <property name="TotalVertices" value="503306" />
+    <property name="TotalTriangles" value="500967" />
     <property class="BlockEntities">
-      <property name="Vertices" value="449642" />
-      <property name="Triangles" value="452752" />
+      <property name="Vertices" value="469464" />
+      <property name="Triangles" value="475997" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="24235" />
-      <property name="Triangles" value="13710" />
+      <property name="Vertices" value="24223" />
+      <property name="Triangles" value="13704" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -64,14 +73,20 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="12" />
+      <property name="Triangles" value="6" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="22, 6, 28" />
       <property name="1" value="22, 6, 32" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="34, 4, 1" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="38, 5, 25" />
     </property>
   </property>
 </prefab>
