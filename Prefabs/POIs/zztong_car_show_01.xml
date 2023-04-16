@@ -5,27 +5,36 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
-  <property name="DifficultyTier" value="0" />
+  <property name="DifficultyTier" value="1" />
+  <property name="QuestTags" value="clear,fetch" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 8, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-2" />
-  <property name="Tags" value="part" />
-  <property name="SleeperVolumeSize" value="15, 7, 15#11, 7, 17#38, 7, 19" />
-  <property name="SleeperVolumeStart" value="2, 2, 2#29, 2, 2#2, 2, 20" />
-  <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2" />
-  <property name="SleeperIsLootVolume" value="False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0" />
+  <property name="Tags" value="snow,desert,rural,pine_forest" />
+  <property name="SleeperVolumeSize" value="15, 7, 15#11, 7, 17#18, 7, 19#20, 7, 19" />
+  <property name="SleeperVolumeStart" value="2, 2, 2#29, 2, 2#2, 2, 20#20, 2, 20" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0" />
+  <property name="POIMarkerSize" value="1, 1, 1#6, 1, 1#2, 3, 2#8, 1, 1#5, 1, 5#3, 4, 3#7, 13, 3#5, 2, 11" />
+  <property name="POIMarkerStart" value="12, 2, 32#20, 2, 3#29, 2, 2#7, 2, 39#26, 2, 8#1, 1, 1#19, 1, -3#19, 2, 5" />
+  <property name="POIMarkerGroup" value="barrel,barrier,evcharge,rail,mines,potty,driveway,trailer" />
+  <property name="POIMarkerTags" value="######rural#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_barrel_02,part_zztong_barrier6,part_zztong_ev_charger_01,part_zztong_guard_rail8,part_zztong_mine_field_02,part_zztong_tfp_porta_potty_01,part_driveway_rural_12,part_trailer_car" />
+  <property name="POIMarkerPartRotations" value="0,0,0,0,0,0,2,3" />
+  <property name="POIMarkerPartSpawnChance" value="0.5,0.2,0.6,0.6,0.1,0.7,1,0.6" />
   <property class="Stats">
-    <property name="TotalVertices" value="253453" />
-    <property name="TotalTriangles" value="338545" />
+    <property name="TotalVertices" value="279092" />
+    <property name="TotalTriangles" value="366372" />
     <property class="BlockEntities">
-      <property name="Vertices" value="234349" />
-      <property name="Triangles" value="321565" />
+      <property name="Vertices" value="259988" />
+      <property name="Triangles" value="349392" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="8574" />
@@ -76,6 +85,12 @@
       <property name="3" value="6, 5, 10" />
       <property name="4" value="9, 5, 11" />
       <property name="5" value="6, 5, 13" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="18, 2, 29" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="22, 3, 1" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="33, 5, 8" />

@@ -52,6 +52,7 @@ zztongSurvivorChest,blocks,Container,,,Survivor Chest,,Truhe,Cofre,Coffre,Forzie
 zztongToasterOffset,blocks,Container,,,Toaster,,Toaster,Tostador,Grille-pain,Tostapane,トースター,토스터,Toster,Torradeira,Тостер,Tost Makinesi,烤面包机,烤麵包機,Tostador
 zztongVendingMachine2Empty,blocks,Container,,,Empty Vending Machine,,Beschädigter Verkaufsautomat,Máquina expendedora rota,Distributeur automatique en panne,Distributore automatico rotto,壊れた自動販売機,망가진 자판가,Zepsuty automat sprzedający,Máquina de Vendas Quebrada,Сломанный торговый автомат,Kırık Otomat,损坏的
 zztongTrappedChest,blocks,Trap,,,Trapped Chest,,,,,,,,,,,,,,
+zztong_adot_01,POI,POI,,x,AZ Dept of Transportation,,,,,,,,,,,,,,
 zztong_apartment_01,POI,POI,,x,Riverstone Apartments,,,,,,,,,,,,,,
 zztong_apartment_01_destroyed,POI,POI,,x,Riverstone Apartments (Destroyed),,,,,,,,,,,,,,
 zztong_apartment_02,POI,POI,,x,Crescent Apartments,,,,,,,,,,,,,,
@@ -62,6 +63,7 @@ zztong_bar_pool_01,POI,POI,,x,Hoot-n-Holler Bar,,,,,,,,,,,,,,
 zztong_biowaste_dump_01,POI,POI,,x,Biowaste Dump,,,,,,,,,,,,,,
 zztong_brownstones_01,POI,POI,,x,Brownstone Apartments,,,,,,,,,,,,,,
 zztong_cabin_fort_01,POI,POI,,x,Cabin Fort,,,,,,,,,,,,,,
+zztong_car_show_01,POI,POI,,x,Car Show,,,,,,,,,,,,,,
 zztong_car_wash_01,POI,POI,,x,Kwik Kleen Car Wash,,,,,,,,,,,,,,
 zztong_cave_01,POI,POI,,x,Spelunking Adventures,,,,,,,,,,,,,,
 zztong_cement_plant_01,POI,POI,,x,Cement Plant,,,,,,,,,,,,,,
