@@ -143,7 +143,7 @@ def main():
             xmlFile.close()
 
             #######################################################################################
-            # BLOCKS.NIM File
+            # BLOCKS.NIM File - The names of the blocks.
             #######################################################################################
 
             blockDesc = {}
@@ -154,7 +154,8 @@ def main():
 
             for currBlock in range( numBlockIDs ):
                 blockID = unpack( bin_file, "I" )
-                blockID = blockID & 2047
+                #blockID = blockID & 2047 -- Too few bits for A20. Not sure when this changed.
+                blockID = blockID & 32767
 
                 lenName = unpack( bin_file, "B" )
 
@@ -165,19 +166,24 @@ def main():
                 blockName = myBytes.decode()
                 blockDesc[ blockID ] = blockName
 
+                # Debugging
+                #print( "blockID: " + str(blockID) + " / blockName: " + blockName )
+
             # Debugging...
+            #print( "blockDesc: ", end="" )
             #print( blockDesc )
 
             bin_file.close()
 
             #######################################################################################
-            # TTS File
+            # TTS File - The actual blocks
             #######################################################################################
 
             bin_file = open(ttsFileName, "rb")
 
             prefab = {}
-            blockCounts = [0] * 2048
+            #blockCounts = [0] * 2048 -- Too few bits for A20. Not sure when this changed.
+            blockCounts = [0] * 32768
 
             prefab["header"] = unpack(bin_file, "s", 4)
             prefab["version"] = unpack(bin_file, "I")
@@ -195,10 +201,12 @@ def main():
                         prefab["layers"][layer_index][row_index].append(None)
                         value = unpack(bin_file, "I")
                         #get rid of flags, block id can only be less than 2048
-                        block_id = value & 2047
-                        flags = value >> 11
+                        #block_id = value & 2047 -- Too few bits for A20. Not sure when this changed.
+                        block_id = value & 32767
+                        flags = value >> 11 # -- No idea what flags are but bits aren't right.
 
                         prefab["layers"][layer_index][row_index][block_index] = block_id
+                        #print( "block_id: " + str( block_id ) )
                         blockCounts[ block_id ] += 1
 
             bin_file.close()
