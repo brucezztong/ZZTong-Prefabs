@@ -23,7 +23,7 @@
   <property name="YOffset" value="-3" />
   <property name="EditorGroups" value="Wilderness" />
   <property name="Tags" value="snow,wilderness,pine_forest" />
-  <property name="POIMarkerSize" value="3, 1, 1#1, 4, 5" />
+  <property name="POIMarkerSize" value="3, 1, 5#1, 4, 5" />
   <property name="POIMarkerStart" value="19, 2, 42#12, 3, 23" />
   <property name="POIMarkerGroup" value="road,gas" />
   <property name="POIMarkerTags" value="#" />

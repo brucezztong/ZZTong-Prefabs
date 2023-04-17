@@ -23,8 +23,8 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
-  <property name="POIMarkerSize" value="1, 1, 5#6, 1, 1" />
-  <property name="POIMarkerStart" value="24, 2, 11#12, 3, 23" />
+  <property name="POIMarkerSize" value="5, 1, 5#6, 1, 1" />
+  <property name="POIMarkerStart" value="25, 2, 11#12, 3, 23" />
   <property name="POIMarkerGroup" value="new,log" />
   <property name="POIMarkerTags" value="#" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn" />

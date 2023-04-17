@@ -23,8 +23,8 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="YOffset" value="-16" />
   <property name="Tags" value="snow,desert,wilderness,pine_forest" />
-  <property name="POIMarkerSize" value="5, 1, 1#8, 1, 4#3, 1, 1#10, 5, 5" />
-  <property name="POIMarkerStart" value="72, 15, -1#71, 16, 6#55, 16, 4#16, 3, 58" />
+  <property name="POIMarkerSize" value="5, 1, 5#8, 1, 4#3, 1, 1#10, 5, 5" />
+  <property name="POIMarkerStart" value="72, 15, -5#71, 16, 6#55, 16, 4#16, 3, 58" />
   <property name="POIMarkerGroup" value="road,checkpt,wire,new" />
   <property name="POIMarkerTags" value="###" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
