@@ -25,14 +25,14 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property name="PrefabSize" value="42, 14, 42" />
-  <property name="POIMarkerSize" value="5, 3, 5#5, 3, 5#3, 3, 7#5, 5, 11" />
-  <property name="POIMarkerStart" value="25, 11, 29#25, 11, 17#37, 3, 2#37, 3, 20" />
-  <property name="POIMarkerGroup" value="roof1,roof2,truck,trailer" />
-  <property name="POIMarkerTags" value="###" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_01,part_greeble_rooftop_01,part_zztong_vehicle_service_01,part_zztong_tfp_trailer_box_loaded_01" />
-  <property name="POIMarkerPartRotations" value="0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.8,0.4" />
+  <property name="POIMarkerSize" value="5, 3, 5#5, 3, 5#5, 5, 11" />
+  <property name="POIMarkerStart" value="25, 11, 29#25, 11, 17#37, 3, 20" />
+  <property name="POIMarkerGroup" value="roof1,roof2,trailer" />
+  <property name="POIMarkerTags" value="##" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_01,part_greeble_rooftop_01,part_zztong_tfp_trailer_box_loaded_01" />
+  <property name="POIMarkerPartRotations" value="0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.4" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="2, 4, 1" />
@@ -47,11 +47,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="736507" />
-    <property name="TotalTriangles" value="785508" />
+    <property name="TotalVertices" value="754858" />
+    <property name="TotalTriangles" value="807180" />
     <property class="BlockEntities">
-      <property name="Vertices" value="679464" />
-      <property name="Triangles" value="747425" />
+      <property name="Vertices" value="697815" />
+      <property name="Triangles" value="769097" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="46337" />

@@ -23,21 +23,21 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="commercial,countrytown,nodiagonal" />
-  <property name="POIMarkerSize" value="7, 13, 2#1, 1, 1#5, 5, 11" />
-  <property name="POIMarkerStart" value="1, 2, -2#3, 3, 7#1, 3, 12" />
-  <property name="POIMarkerGroup" value="driveway,car,camper" />
-  <property name="POIMarkerTags" value="countrytown##" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_02,part_zztong_vehicle_car_01,part_zztong_camper_01" />
-  <property name="POIMarkerPartRotations" value="2,2,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.2" />
+  <property name="POIMarkerSize" value="7, 13, 2#5, 5, 11" />
+  <property name="POIMarkerStart" value="1, 2, -2#1, 3, 12" />
+  <property name="POIMarkerGroup" value="driveway,camper" />
+  <property name="POIMarkerTags" value="countrytown#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_02,part_zztong_camper_01" />
+  <property name="POIMarkerPartRotations" value="2,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.2" />
   <property name="PrefabSize" value="25, 17, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="254600" />
-    <property name="TotalTriangles" value="279174" />
+    <property name="TotalVertices" value="262804" />
+    <property name="TotalTriangles" value="291711" />
     <property class="BlockEntities">
-      <property name="Vertices" value="217212" />
-      <property name="Triangles" value="255120" />
+      <property name="Vertices" value="225416" />
+      <property name="Triangles" value="267657" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="32705" />

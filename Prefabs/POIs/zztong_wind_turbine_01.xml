@@ -23,21 +23,21 @@
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="Tags" value="snow,wasteland,desert,wilderness,pine_forest" />
-  <property name="POIMarkerSize" value="5, 1, 5#3, 3, 7#2, 1, 2#1, 1, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="13, 2, -5#4, 3, 15#27, 3, 27#15, 4, 11#15, 4, 11" />
-  <property name="POIMarkerGroup" value="road,truck,vultures,minefake,minereal" />
-  <property name="POIMarkerTags" value="###mine#mine" />
-  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",part_zztong_vehicle_service_01,part_zztong_vultures_01,part_zztong_land_mine_fake_01,part_zztong_land_mine_02" />
-  <property name="POIMarkerPartRotations" value="2,0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.2,0.2,0.4,0.2" />
+  <property name="POIMarkerSize" value="5, 1, 5#2, 1, 2#1, 1, 1#1, 1, 1" />
+  <property name="POIMarkerStart" value="13, 2, -5#27, 3, 27#15, 4, 11#15, 4, 11" />
+  <property name="POIMarkerGroup" value="road,vultures,minefake,minereal" />
+  <property name="POIMarkerTags" value="##mine#mine" />
+  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",part_zztong_vultures_01,part_zztong_land_mine_fake_01,part_zztong_land_mine_02" />
+  <property name="POIMarkerPartRotations" value="2,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.2,0.4,0.2" />
   <property name="PrefabSize" value="31, 69, 31" />
   <property class="Stats">
-    <property name="TotalVertices" value="492590" />
-    <property name="TotalTriangles" value="451532" />
+    <property name="TotalVertices" value="510941" />
+    <property name="TotalTriangles" value="473204" />
     <property class="BlockEntities">
-      <property name="Vertices" value="441237" />
-      <property name="Triangles" value="413895" />
+      <property name="Vertices" value="459588" />
+      <property name="Triangles" value="435567" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="47342" />

@@ -12,14 +12,14 @@
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 13, 150" />
   <property name="Tags" value="streettile,rwgonly" />
-  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#60, 0, 60#9, 3, 12#4, 2, 6#1, 2, 1#5, 3, 5#5, 3, 5#3, 2, 4#5, 4, 5#14, 5, 5#5, 4, 1#5, 4, 1#11, 2, 5#1, 1, 1#3, 2, 1#1, 2, 3#3, 3, 12#1, 1, 2#5, 8, 11#2, 2, 7#2, 2, 7#2, 2, 7#2, 2, 8#2, 2, 2#1, 1, 5#1, 1, 5#1, 1, 4#3, 3, 7#3, 3, 7#1, 1, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="25, 3, 18#25, 3, 62#25, 3, 106#85, 3, 83#86, 3, 7#90, 3, 135#111, 3, 142#131, 3, 112#136, 9, 116#127, 9, 139#84, 3, 134#61, 3, 3#26, 3, 11#138, 3, 110#129, 3, 147#115, 3, 127#134, 3, 136#75, 3, 7#145, 3, 75#8, 1, 18#69, 3, 72#18, 3, 24#83, 3, 33#83, 3, 40#83, 3, 47#15, 3, 139#17, 3, 9#84, 3, 128#55, 3, 11#84, 3, 1#128, 3, 138#137, 3, 118#2, 3, 137#135, 3, 88" />
-  <property name="POIMarkerGroup" value="s1,s2,s3,s4,m1,campsite,dumpster,fusebox,roofhvac1,roofhvac2,highvolt,shed,shipment,propane1,propane2,trailer,barrel,barricade1,barricade2,culvert,delivery,excavator,fence1,fence2,fence3,firewood,cobble,spikes1,spikes2,spikes3,truck1,truck2,stump1,stump2" />
-  <property name="POIMarkerTags" value="#################################" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,part_campsite_01,part_dumpster,part_fusebox_01,part_greeble_rooftop_01,part_greeble_rooftop_01,part_high_voltage_box_1,part_shed_05,part_shipping_container_03,part_tank_propane_01,part_tank_propane_01,part_trailer_empty,part_zztong_barrel_02,part_zztong_barricade_01,part_zztong_barricade_01,part_zztong_culvert_pipe,part_zztong_delivery_04,part_zztong_excavator_01,part_zztong_fence_01,part_zztong_fence_01,part_zztong_fence_02,part_zztong_firewood_03,part_zztong_pallets_cobble_01,part_zztong_spikes_wood5,part_zztong_spikes_wood5,part_zztong_spikes_wood4,part_zztong_vehicle_service_01,part_zztong_vehicle_service_01,part_zztong_tree_stump_01,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="3,3,3,2,0,2,0,3,0,0,3,0,1,2,0,0,0,3,2,1,1,1,3,3,3,0,1,3,1,1,0,2,0,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.2,0.4,0.6,0.6,0.6,0.6,0.6,0.2,0.4,1,0.4,0.6,0.2,0.2,0.6,0.4,0.2,0.8,0.8,0.8,0.4,0.6,0.2,0.2,0.2,0.6,0.6,0.6,0.6" />
+  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#60, 0, 60#9, 3, 12#4, 2, 6#1, 2, 1#5, 3, 5#5, 3, 5#3, 2, 4#5, 4, 5#14, 5, 5#5, 4, 1#5, 4, 1#11, 2, 5#1, 1, 1#3, 2, 1#1, 2, 3#3, 3, 12#1, 1, 2#5, 8, 11#2, 2, 7#2, 2, 7#2, 2, 7#2, 2, 8#2, 2, 2#1, 1, 5#1, 1, 5#1, 1, 4#1, 1, 1#1, 1, 1" />
+  <property name="POIMarkerStart" value="25, 3, 18#25, 3, 62#25, 3, 106#85, 3, 83#86, 3, 7#90, 3, 135#111, 3, 142#131, 3, 112#136, 9, 116#127, 9, 139#84, 3, 134#61, 3, 3#26, 3, 11#138, 3, 110#129, 3, 147#115, 3, 127#134, 3, 136#75, 3, 7#145, 3, 75#8, 1, 18#69, 3, 72#18, 3, 24#83, 3, 33#83, 3, 40#83, 3, 47#15, 3, 139#17, 3, 9#84, 3, 128#55, 3, 11#84, 3, 1#2, 3, 137#135, 3, 88" />
+  <property name="POIMarkerGroup" value="s1,s2,s3,s4,m1,campsite,dumpster,fusebox,roofhvac1,roofhvac2,highvolt,shed,shipment,propane1,propane2,trailer,barrel,barricade1,barricade2,culvert,delivery,excavator,fence1,fence2,fence3,firewood,cobble,spikes1,spikes2,spikes3,stump1,stump2" />
+  <property name="POIMarkerTags" value="###############################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,part_campsite_01,part_dumpster,part_fusebox_01,part_greeble_rooftop_01,part_greeble_rooftop_01,part_high_voltage_box_1,part_shed_05,part_shipping_container_03,part_tank_propane_01,part_tank_propane_01,part_trailer_empty,part_zztong_barrel_02,part_zztong_barricade_01,part_zztong_barricade_01,part_zztong_culvert_pipe,part_zztong_delivery_04,part_zztong_excavator_01,part_zztong_fence_01,part_zztong_fence_01,part_zztong_fence_02,part_zztong_firewood_03,part_zztong_pallets_cobble_01,part_zztong_spikes_wood5,part_zztong_spikes_wood5,part_zztong_spikes_wood4,part_zztong_tree_stump_01,part_zztong_tree_stump_01" />
+  <property name="POIMarkerPartRotations" value="3,3,3,2,0,2,0,3,0,0,3,0,1,2,0,0,0,3,2,1,1,1,3,3,3,0,1,3,1,1,0,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.2,0.4,0.6,0.6,0.6,0.6,0.6,0.2,0.4,1,0.4,0.6,0.2,0.2,0.6,0.4,0.2,0.8,0.8,0.8,0.4,0.6,0.2,0.2,0.2,0.6,0.6" />
   <property name="YOffset" value="-3" />
   <property name="SleeperVolumeSize" value="15, 5, 10#15, 5, 15" />
   <property name="SleeperVolumeStart" value="123, 3, 137#130, 3, 111" />
@@ -29,11 +29,11 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="505456" />
-    <property name="TotalTriangles" value="509534" />
+    <property name="TotalVertices" value="542158" />
+    <property name="TotalTriangles" value="552878" />
     <property class="BlockEntities">
-      <property name="Vertices" value="357190" />
-      <property name="Triangles" value="358736" />
+      <property name="Vertices" value="393892" />
+      <property name="Triangles" value="402080" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="75992" />

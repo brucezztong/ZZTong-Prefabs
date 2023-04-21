@@ -13,14 +13,14 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="residential" />
-  <property name="POIMarkerSize" value="12, 13, 5#3, 4, 3#1, 2, 1#4, 3, 6#1, 6, 3#3, 3, 3#5, 5, 8#2, 4, 1#2, 2, 2#2, 3, 2#2, 2, 2#3, 3, 7#1, 1, 1" />
-  <property name="POIMarkerStart" value="45, 5, -5#26, 2, 36#27, 2, 26#52, 6, 27#3, 6, 30#4, 6, 1#49, 6, 11#22, 2, 40#51, 6, 37#56, 6, 32#45, 6, 28#50, 6, 3#32, 6, 7" />
-  <property name="POIMarkerGroup" value="driveway,furnace,fusebox,generator,air,electric,container,waterheat,delivery,evcharge,cobble,ambulance,stump" />
-  <property name="POIMarkerTags" value="residential############" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_05,part_furnace_01,part_fusebox_01,part_generator_01,part_greeble_building_side_01,part_high_voltage_box_2,part_shipping_container_04,part_waterheater_02,part_zztong_delivery_02,part_zztong_ev_charger_01,part_zztong_pallets_cobble_01,part_zztong_vehicle_ambulance_01,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="2,0,2,1,3,2,2,2,0,3,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.6,0.4,0.6,0.6,0.2,0.6,0.4,0.4,0.4,1,0.6" />
+  <property name="POIMarkerSize" value="12, 13, 5#3, 4, 3#1, 2, 1#4, 3, 6#1, 6, 3#3, 3, 3#5, 5, 8#2, 4, 1#2, 2, 2#2, 3, 2#2, 2, 2#1, 1, 1" />
+  <property name="POIMarkerStart" value="45, 5, -5#26, 2, 36#27, 2, 26#52, 6, 27#3, 6, 30#4, 6, 1#49, 6, 11#22, 2, 40#51, 6, 37#56, 6, 32#45, 6, 28#32, 6, 7" />
+  <property name="POIMarkerGroup" value="driveway,furnace,fusebox,generator,air,electric,container,waterheat,delivery,evcharge,cobble,stump" />
+  <property name="POIMarkerTags" value="residential###########" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_05,part_furnace_01,part_fusebox_01,part_generator_01,part_greeble_building_side_01,part_high_voltage_box_2,part_shipping_container_04,part_waterheater_02,part_zztong_delivery_02,part_zztong_ev_charger_01,part_zztong_pallets_cobble_01,part_zztong_tree_stump_01" />
+  <property name="POIMarkerPartRotations" value="2,0,2,1,3,2,2,2,0,3,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.6,0.4,0.6,0.6,0.2,0.6,0.4,0.4,0.4,0.6" />
   <property name="SleeperVolumeSize" value="15, 3, 12#16, 3, 31#15, 3, 17#8, 3, 18#9, 3, 8#18, 3, 15#11, 3, 8#8, 3, 13#11, 3, 15#10, 3, 14#7, 3, 14#17, 3, 22#10, 3, 30#7, 3, 30#7, 5, 24#9, 3, 18#19, 3, 13#37, 5, 16" />
   <property name="SleeperVolumeStart" value="14, 2, 22#30, 2, 22#14, 2, 36#5, 2, 23#29, 7, 19#4, 7, 19#18, 7, 34#30, 7, 28#39, 6, 21#30, 7, 42#22, 7, 43#4, 7, 35#3, 12, 23#14, 12, 23#22, 10, 29#30, 12, 35#30, 12, 22#3, 17, 30" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
@@ -30,19 +30,19 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="YOffset" value="-6" />
   <property class="Stats">
-    <property name="TotalVertices" value="1286774" />
-    <property name="TotalTriangles" value="1317119" />
+    <property name="TotalVertices" value="1304608" />
+    <property name="TotalTriangles" value="1339099" />
     <property class="BlockEntities">
-      <property name="Vertices" value="962106" />
-      <property name="Triangles" value="1088694" />
+      <property name="Vertices" value="980068" />
+      <property name="Triangles" value="1110738" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="287671" />
       <property name="Triangles" value="188494" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="3264" />
-      <property name="Triangles" value="1632" />
+      <property name="Vertices" value="3136" />
+      <property name="Triangles" value="1568" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="576" />

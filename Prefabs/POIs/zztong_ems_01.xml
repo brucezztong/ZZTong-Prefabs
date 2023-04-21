@@ -24,14 +24,14 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="commercial" />
-  <property name="POIMarkerSize" value="4, 3, 9#5, 2, 11#7, 11, 2#6, 3, 4#3, 3, 7" />
-  <property name="POIMarkerStart" value="35, 2, 18#35, 2, 29#2, 2, 19#24, 2, 20#28, 2, 10" />
-  <property name="POIMarkerGroup" value="ambulance,bodies,scafolding,generator,ambulance2" />
-  <property name="POIMarkerTags" value="####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_ambulance_01,part_shipping_container_06,part_scaffolding,part_generator_01,part_zztong_vehicle_ambulance_01" />
-  <property name="POIMarkerPartRotations" value="0,0,3,0,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.2,0.8,0.6" />
+  <property name="POIMarkerSize" value="4, 3, 9#5, 2, 11#7, 11, 2#6, 3, 4" />
+  <property name="POIMarkerStart" value="35, 2, 18#35, 2, 29#2, 2, 19#24, 2, 20" />
+  <property name="POIMarkerGroup" value="ambulance,bodies,scafolding,generator" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_ambulance_01,part_shipping_container_06,part_scaffolding,part_generator_01" />
+  <property name="POIMarkerPartRotations" value="0,0,3,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.2,0.8" />
   <property name="PrefabSize" value="42, 21, 42" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
@@ -51,11 +51,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="450602" />
-    <property name="TotalTriangles" value="435355" />
+    <property name="TotalVertices" value="468564" />
+    <property name="TotalTriangles" value="457399" />
     <property class="BlockEntities">
-      <property name="Vertices" value="398630" />
-      <property name="Triangles" value="401487" />
+      <property name="Vertices" value="416592" />
+      <property name="Triangles" value="423531" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="43420" />
