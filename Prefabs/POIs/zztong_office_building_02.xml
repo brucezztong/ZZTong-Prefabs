@@ -25,14 +25,14 @@
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property name="PrefabSize" value="42, 34, 42" />
-  <property name="POIMarkerSize" value="3, 1, 2#1, 1, 1#4, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="33, 24, 26#29, 3, 3#3, 3, 36#23, 19, 36#30, 19, 36#17, 19, 36" />
-  <property name="POIMarkerGroup" value="vultures,barrel,spikes,crate1,crate2,crate3" />
-  <property name="POIMarkerTags" value="###crate#crate#crate" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_zztong_vultures_02,part_zztong_barrel_burning_01,part_zztong_spikes_wood4,part_zztong_crate_random_01,part_zztong_crate_random_01,part_zztong_crate_random_01" />
-  <property name="POIMarkerPartRotations" value="0,0,0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.6,0.4,0.4,0.4" />
+  <property name="POIMarkerSize" value="3, 1, 2#1, 1, 1#4, 1, 1" />
+  <property name="POIMarkerStart" value="33, 24, 26#29, 3, 3#3, 3, 36" />
+  <property name="POIMarkerGroup" value="vultures,barrel,spikes" />
+  <property name="POIMarkerTags" value="##" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_vultures_02,part_zztong_barrel_burning_01,part_zztong_spikes_wood4" />
+  <property name="POIMarkerPartRotations" value="0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.6" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="38, 14, 25" />
@@ -42,15 +42,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1198764" />
-    <property name="TotalTriangles" value="1157972" />
+    <property name="TotalVertices" value="1198772" />
+    <property name="TotalTriangles" value="1157976" />
     <property class="BlockEntities">
       <property name="Vertices" value="1008348" />
       <property name="Triangles" value="1035164" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="89962" />
-      <property name="Triangles" value="46414" />
+      <property name="Vertices" value="89954" />
+      <property name="Triangles" value="46410" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -85,8 +85,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="16" />
+      <property name="Triangles" value="8" />
     </property>
   </property>
 </prefab>

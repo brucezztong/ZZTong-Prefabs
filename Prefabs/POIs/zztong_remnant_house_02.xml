@@ -11,14 +11,14 @@
   <property name="PrefabSize" value="25, 9, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="7, 13, 5#4, 2, 6#4, 1, 1#5, 1, 5#5, 8, 11#1, 3, 1#1, 1, 1#3, 4, 3" />
-  <property name="POIMarkerStart" value="17, 5, -5#18, 6, 7#19, 6, 1#7, 2, 7#8, 2, 6#11, 3, 5#8, 6, 1#0, 5, 0" />
-  <property name="POIMarkerGroup" value="driveway,dumpster,wire,activity,activity,ladder,sign,potty" />
-  <property name="POIMarkerTags" value="residential#######" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_09,part_dumpster,part_zztong_barbwire4,part_zztong_campsite_01,part_zztong_excavator_01,part_zztong_ladder_wood_01,part_zztong_sign_condemned_01,part_zztong_tfp_porta_potty_01" />
-  <property name="POIMarkerPartRotations" value="2,0,0,2,1,0,1,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.4,0.6,0.6,0.6,0.6,0.4" />
+  <property name="POIMarkerSize" value="7, 13, 5#4, 2, 6#4, 1, 1#5, 1, 5#5, 8, 11#1, 3, 1#3, 4, 3" />
+  <property name="POIMarkerStart" value="17, 5, -5#18, 6, 7#19, 6, 1#7, 2, 7#8, 2, 6#11, 3, 5#0, 5, 0" />
+  <property name="POIMarkerGroup" value="driveway,dumpster,wire,activity,activity,ladder,potty" />
+  <property name="POIMarkerTags" value="residential######" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_09,part_dumpster,part_zztong_barbwire4,part_zztong_campsite_01,part_zztong_excavator_01,part_zztong_ladder_wood_01,part_zztong_tfp_porta_potty_01" />
+  <property name="POIMarkerPartRotations" value="2,0,0,2,1,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.4,0.6,0.6,0.6,0.4" />
   <property name="SleeperVolumeSize" value="14, 6, 17" />
   <property name="SleeperVolumeStart" value="2, 2, 5" />
   <property name="SleeperVolumeGroupId" value="0" />
@@ -29,11 +29,11 @@
   <property name="YOffset" value="-6" />
   <property name="Tags" value="residential" />
   <property class="Stats">
-    <property name="TotalVertices" value="68337" />
-    <property name="TotalTriangles" value="55749" />
+    <property name="TotalVertices" value="68659" />
+    <property name="TotalTriangles" value="56097" />
     <property class="BlockEntities">
-      <property name="Vertices" value="57439" />
-      <property name="Triangles" value="46005" />
+      <property name="Vertices" value="57761" />
+      <property name="Triangles" value="46353" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="7224" />

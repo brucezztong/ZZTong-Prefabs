@@ -18,14 +18,14 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="POIMarkerSize" value="6, 3, 2#1, 2, 1#2, 4, 3#1, 4, 1#2, 1, 1#2, 2, 2#2, 2, 2#1, 1, 1" />
-  <property name="POIMarkerStart" value="19, 6, 25#11, 8, 12#12, 3, 10#6, 3, 6#6, 3, 13#15, 3, 9#14, 3, 17#19, 7, 7" />
-  <property name="POIMarkerGroup" value="driveway,fusebox,lab,waterheat,wire,delivery,cement,sign" />
-  <property name="POIMarkerTags" value="residential#######" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_back_04,part_fusebox_01,part_lab_greeble_20,part_waterheater_01,part_zztong_barbwire2,part_zztong_delivery_03,part_zztong_pallets_cement_01,part_zztong_sign_condemned_01" />
-  <property name="POIMarkerPartRotations" value="0,3,1,0,0,1,0,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4,0.6,0.4,0.6,0.2,0.4" />
+  <property name="POIMarkerSize" value="6, 3, 2#1, 2, 1#2, 4, 3#1, 4, 1#2, 1, 1#2, 2, 2#2, 2, 2" />
+  <property name="POIMarkerStart" value="19, 6, 25#11, 8, 12#12, 3, 10#6, 3, 6#6, 3, 13#15, 3, 9#14, 3, 17" />
+  <property name="POIMarkerGroup" value="driveway,fusebox,lab,waterheat,wire,delivery,cement" />
+  <property name="POIMarkerTags" value="residential######" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_back_04,part_fusebox_01,part_lab_greeble_20,part_waterheater_01,part_zztong_barbwire2,part_zztong_delivery_03,part_zztong_pallets_cement_01" />
+  <property name="POIMarkerPartRotations" value="0,3,1,0,0,1,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4,0.6,0.4,0.6,0.2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-7" />
   <property name="Tags" value="residential" />

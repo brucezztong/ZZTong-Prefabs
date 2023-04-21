@@ -24,14 +24,14 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="snow,wasteland,desert,commercial,pine_forest" />
-  <property name="POIMarkerSize" value="6, 8, 3#6, 8, 3#4, 3, 6#4, 3, 6#5, 5, 5#1, 1, 1#1, 1, 1#1, 1, 1#2, 1, 1#2, 1, 1#3, 1, 1#3, 1, 1" />
-  <property name="POIMarkerStart" value="5, 3, 42#5, 3, 16#9, 19, 49#9, 19, 6#48, 19, 28#45, 9, 10#10, 14, 9#10, 14, 46#22, 3, 55#21, 3, 5#13, 3, 17#13, 3, 43" />
-  <property name="POIMarkerGroup" value="lift1,lift2,roof1,roof2,roof3,shotgun,shotgun,shotgun,spikes1,spikes2,spikes3,spikes4" />
-  <property name="POIMarkerTags" value="###########" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_lift_01,part_lift_01,part_greeble_rooftop_06,part_greeble_rooftop_06,part_greeble_rooftop_04,part_zztong_crate_shotgunmessiah_01,part_zztong_crate_shotgunmessiah_01,part_zztong_crate_shotgunmessiah_01,part_zztong_spikes_wood2,part_zztong_spikes_wood2,part_zztong_spikes_wood3,part_zztong_spikes_wood3" />
-  <property name="POIMarkerPartRotations" value="2,0,2,0,3,0,0,0,0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.8,0.8,1,0.4,0.4,0.4,0.4,0.4,0.8,0.8" />
+  <property name="POIMarkerSize" value="6, 8, 3#6, 8, 3#4, 3, 6#4, 3, 6#5, 5, 5#2, 1, 1#2, 1, 1#3, 1, 1#3, 1, 1" />
+  <property name="POIMarkerStart" value="5, 3, 42#5, 3, 16#9, 19, 49#9, 19, 6#48, 19, 28#22, 3, 55#21, 3, 5#13, 3, 17#13, 3, 43" />
+  <property name="POIMarkerGroup" value="lift1,lift2,roof1,roof2,roof3,spikes1,spikes2,spikes3,spikes4" />
+  <property name="POIMarkerTags" value="########" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_lift_01,part_lift_01,part_greeble_rooftop_06,part_greeble_rooftop_06,part_greeble_rooftop_04,part_zztong_spikes_wood2,part_zztong_spikes_wood2,part_zztong_spikes_wood3,part_zztong_spikes_wood3" />
+  <property name="POIMarkerPartRotations" value="2,0,2,0,3,0,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.8,0.8,1,0.4,0.4,0.8,0.8" />
   <property name="PrefabSize" value="60, 21, 60" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
@@ -51,11 +51,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1522016" />
-    <property name="TotalTriangles" value="1672988" />
+    <property name="TotalVertices" value="1522224" />
+    <property name="TotalTriangles" value="1673116" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1330016" />
-      <property name="Triangles" value="1551722" />
+      <property name="Vertices" value="1330224" />
+      <property name="Triangles" value="1551850" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="163415" />

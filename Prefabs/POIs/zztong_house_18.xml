@@ -13,14 +13,14 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Tags" value="wilderness,countryresidential,rural" />
   <property name="YOffset" value="-3" />
-  <property name="POIMarkerSize" value="5, 13, 1#5, 1, 5#5, 13, 3#1, 2, 1#5, 5, 11#1, 4, 5#1, 1, 1#1, 1, 1#5, 2, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="19, 2, -1#19, 2, -5#19, 2, -3#10, 6, 10#19, 3, 2#1, 3, 8#2, 3, 23#14, 7, 12#4, 3, 23#19, 3, 19" />
-  <property name="POIMarkerGroup" value="driveway,roadexit,driveway,fusebox,shipping,propane,barrel,cookpot,firewood,stump" />
-  <property name="POIMarkerTags" value="countryresidential##rural#######" />
-  <property name="POIMarkerType" value="PartSpawn,RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_07,,part_driveway_rural_02,part_fusebox_01,part_shipping_container_05,part_tank_propane_01,part_zztong_barrel_04,part_zztong_cookpot,part_zztong_firewood_01,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="2,2,2,2,2,3,2,0,1,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,0.6,0.2,0.6,0.4,0.6,0.8,0.4" />
+  <property name="POIMarkerSize" value="5, 13, 1#5, 1, 5#5, 13, 3#1, 2, 1#5, 5, 11#1, 4, 5#1, 1, 1#5, 2, 1#1, 1, 1" />
+  <property name="POIMarkerStart" value="19, 2, -1#19, 2, -5#19, 2, -3#10, 6, 10#19, 3, 2#1, 3, 8#2, 3, 23#4, 3, 23#19, 3, 19" />
+  <property name="POIMarkerGroup" value="driveway,roadexit,driveway,fusebox,shipping,propane,barrel,firewood,stump" />
+  <property name="POIMarkerTags" value="countryresidential##rural######" />
+  <property name="POIMarkerType" value="PartSpawn,RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_07,,part_driveway_rural_02,part_fusebox_01,part_shipping_container_05,part_tank_propane_01,part_zztong_barrel_04,part_zztong_firewood_01,part_zztong_tree_stump_01" />
+  <property name="POIMarkerPartRotations" value="2,2,2,2,2,3,2,1,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,0.6,0.2,0.6,0.4,0.8,0.4" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="16, 7, 10#6, 6, 12#7, 6, 6#7, 6, 6#15, 6, 23" />
   <property name="SleeperVolumeStart" value="2, 4, 2#10, 5, 12#2, 5, 18#2, 5, 12#2, 11, 1" />
@@ -30,11 +30,11 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="158623" />
-    <property name="TotalTriangles" value="159401" />
+    <property name="TotalVertices" value="160158" />
+    <property name="TotalTriangles" value="161805" />
     <property class="BlockEntities">
-      <property name="Vertices" value="112242" />
-      <property name="Triangles" value="130398" />
+      <property name="Vertices" value="113777" />
+      <property name="Triangles" value="132802" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="38217" />

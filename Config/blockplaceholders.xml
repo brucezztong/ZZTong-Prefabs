@@ -5,10 +5,12 @@
             TFP Shipping Crates and/or the ZZTong Empty Crate version.
         ************************************************************** -->
 
+        <!-- READY TO REMOVE
         <placeholder name="zztongTestHelper">
             <block name="air" prob=".99"/>
             <block name="cntShippingCrateShamway" prob=".01"/>
         </placeholder>
+        -->
 
         <!-- Shamway -->
         <placeholder name="zztongShamwayShippingCrateHelper">

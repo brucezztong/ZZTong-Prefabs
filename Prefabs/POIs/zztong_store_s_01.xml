@@ -19,22 +19,22 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="POIMarkerSize" value="2, 13, 13#1, 1, 1#3, 2, 5#4, 4, 9#1, 1, 4#2, 2, 2#2, 2, 2#1, 1, 3#1, 1, 3#1, 1, 3#1, 1, 1#11, 2, 5#4, 2, 3#2, 2, 3" />
-  <property name="POIMarkerStart" value="-2, 2, 13#18, 3, 39#38, 3, 16#3, 3, 29#21, 3, 17#20, 3, 8#28, 3, 19#1, 3, 14#1, 3, 22#1, 3, 18#3, 3, 13#8, 3, 16#3, 3, 2#38, 3, 17" />
-  <property name="POIMarkerGroup" value="driveway,vending,alleyend,horse,spikes,delivery2,delivery1,barrier1,barrier2,barrier3,barrel,trailer,electric,alleyend" />
-  <property name="POIMarkerTags" value="#############" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_12,part_zztong_vending_01,part_zztong_targets_01,part_zztong_tfp_trailer_horse_01,part_zztong_spikes_wood4,part_zztong_delivery_02,part_zztong_delivery_03,part_zztong_barrier3,part_zztong_barrier3,part_zztong_barrier3,part_zztong_barrel_burning_01,part_trailer_empty,part_high_voltage_box_1,part_zztong_dumpster_01" />
-  <property name="POIMarkerPartRotations" value="3,2,3,2,1,2,1,1,1,1,0,0,0,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.6,0.6,0.6,0.6,0.6,0.4,0.4,0.4,0.2,0.4,0.4,0.6" />
+  <property name="POIMarkerSize" value="2, 13, 13#3, 2, 5#4, 4, 9#1, 1, 4#2, 2, 2#2, 2, 2#1, 1, 3#1, 1, 3#1, 1, 3#1, 1, 1#11, 2, 5#4, 2, 3#2, 2, 3" />
+  <property name="POIMarkerStart" value="-2, 2, 13#38, 3, 16#3, 3, 29#21, 3, 17#20, 3, 8#28, 3, 19#1, 3, 14#1, 3, 22#1, 3, 18#3, 3, 13#8, 3, 16#3, 3, 2#38, 3, 17" />
+  <property name="POIMarkerGroup" value="driveway,alleyend,horse,spikes,delivery2,delivery1,barrier1,barrier2,barrier3,barrel,trailer,electric,alleyend" />
+  <property name="POIMarkerTags" value="############" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_12,part_zztong_targets_01,part_zztong_tfp_trailer_horse_01,part_zztong_spikes_wood4,part_zztong_delivery_02,part_zztong_delivery_03,part_zztong_barrier3,part_zztong_barrier3,part_zztong_barrier3,part_zztong_barrel_burning_01,part_trailer_empty,part_high_voltage_box_1,part_zztong_dumpster_01" />
+  <property name="POIMarkerPartRotations" value="3,3,2,1,2,1,1,1,1,0,0,0,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.6,0.6,0.6,0.6,0.4,0.4,0.4,0.2,0.4,0.4,0.6" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="countrytown,diagonal" />
   <property class="Stats">
-    <property name="TotalVertices" value="748729" />
-    <property name="TotalTriangles" value="772421" />
+    <property name="TotalVertices" value="749724" />
+    <property name="TotalTriangles" value="773165" />
     <property class="BlockEntities">
-      <property name="Vertices" value="642975" />
-      <property name="Triangles" value="701043" />
+      <property name="Vertices" value="643970" />
+      <property name="Triangles" value="701787" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="85725" />
@@ -90,8 +90,8 @@
       <property name="2" value="37, 14, 35" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="28, 10, 28" />
-      <property name="1" value="31, 5, 26" />
+      <property name="0" value="31, 5, 26" />
+      <property name="1" value="28, 10, 28" />
     </property>
   </property>
 </prefab>

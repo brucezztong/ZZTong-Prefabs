@@ -23,15 +23,15 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="snow,desert,countrytown,nodiagonal,pine_forest" />
-  <property name="POIMarkerSize" value="23, 13, 2#4, 2, 4#1, 1, 1#5, 5, 11" />
-  <property name="POIMarkerStart" value="2, 2, -2#30, 10, 21#22, 3, 13#2, 3, 15" />
-  <property name="POIMarkerGroup" value="driveway,roof,vending,trailer" />
-  <property name="POIMarkerTags" value="countrytown###" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_20,part_greeble_rooftop_03,part_zztong_vending_01,part_zztong_tfp_trailer_box_loaded_01" />
-  <property name="POIMarkerPartRotations" value="2,0,1,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.2,0.2" />
+  <property name="Tags" value="snow,desert,countrytown,pine_forest,nodiagonal" />
+  <property name="POIMarkerSize" value="23, 13, 2#4, 2, 4#5, 5, 11" />
+  <property name="POIMarkerStart" value="2, 2, -2#30, 10, 21#2, 3, 15" />
+  <property name="POIMarkerGroup" value="driveway,roof,trailer" />
+  <property name="POIMarkerTags" value="countrytown##" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_20,part_greeble_rooftop_03,part_zztong_tfp_trailer_box_loaded_01" />
+  <property name="POIMarkerPartRotations" value="2,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.2" />
   <property name="PrefabSize" value="42, 12, 42" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
@@ -52,11 +52,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="691198" />
-    <property name="TotalTriangles" value="571607" />
+    <property name="TotalVertices" value="692193" />
+    <property name="TotalTriangles" value="572351" />
     <property class="BlockEntities">
-      <property name="Vertices" value="651986" />
-      <property name="Triangles" value="543776" />
+      <property name="Vertices" value="652981" />
+      <property name="Triangles" value="544520" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="30948" />
