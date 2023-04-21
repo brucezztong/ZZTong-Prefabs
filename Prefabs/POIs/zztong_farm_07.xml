@@ -14,14 +14,14 @@
   <property name="YOffset" value="-1" />
   <property name="PrefabSize" value="60, 10, 60" />
   <property name="Tags" value="rural" />
-  <property name="POIMarkerSize" value="7, 13, 3#5, 5, 11#1, 1, 1" />
-  <property name="POIMarkerStart" value="20, 0, -3#21, 1, 17#36, 1, 13" />
-  <property name="POIMarkerGroup" value="driveway,trailer,car" />
-  <property name="POIMarkerTags" value="##" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_12,part_zztong_tfp_trailer_reefer_empty_01,part_zztong_vehicle_car_02" />
-  <property name="POIMarkerPartRotations" value="2,2,3" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.8" />
+  <property name="POIMarkerSize" value="7, 13, 3#5, 5, 11" />
+  <property name="POIMarkerStart" value="20, 0, -3#21, 1, 17" />
+  <property name="POIMarkerGroup" value="driveway,trailer" />
+  <property name="POIMarkerTags" value="#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_12,part_zztong_tfp_trailer_reefer_empty_01" />
+  <property name="POIMarkerPartRotations" value="2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4" />
   <property name="SleeperVolumeSize" value="14, 3, 10#13, 4, 10#13, 3, 13#17, 6, 41#17, 6, 8#18, 6, 7#18, 6, 8#18, 6, 41#18, 6, 7" />
   <property name="SleeperVolumeStart" value="28, 1, 1#29, 4, 1#27, 1, 24#42, 1, 10#42, 1, 1#41, 1, 52#1, 1, 1#1, 1, 10#1, 1, 52" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0" />
@@ -30,11 +30,11 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="470390" />
-    <property name="TotalTriangles" value="416628" />
+    <property name="TotalVertices" value="478594" />
+    <property name="TotalTriangles" value="429165" />
     <property class="BlockEntities">
-      <property name="Vertices" value="317258" />
-      <property name="Triangles" value="321098" />
+      <property name="Vertices" value="325462" />
+      <property name="Triangles" value="333635" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="117845" />
