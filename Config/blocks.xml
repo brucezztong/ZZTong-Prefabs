@@ -1,7 +1,7 @@
 ﻿<blocks>
 	<append xpath="/blocks">
         <!-- ************************************************************************* 
-            Empty Generic Storage Crates...
+            Storage Crates...
         ************************************************************************** -->
 
         <block name="zztongStorageGenericCube">
@@ -623,6 +623,34 @@
 
         <block name="zztongVendingMachineRandomHelper">
             <property name="Extends" value="cntVendingMachine2RandomLootHelper"/>
+        </block>
+
+        <!-- ATM Machines -->
+        <block name="zztongATMEmpty">
+            <property name="Extends" value="cntATMSecure"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIconTint" value="6BB6E8"/>
+            <property name="Class" value="Loot"/>
+            <property name="CustomIcon" value="cntATMSecure"/>
+            <property name="Model" value="Entities/Commercial/ATMPrefab"/>
+            <property name="LootList" value="playerStorage"/>
+        </block>
+
+        <block name="zztongATMRandomHelper50">
+            <property name="Extends" value="cntATMSecure"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIcon" value="cntATMSecure"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="FilterTags" value="MC_helpers,SC_helperElectrical,SC_commercial"/>
+        </block>
+
+        <!-- Shopping Carts -->
+
+        <block name="zztongShoppingCartRandomHelperAir">
+            <property name="Extends" value="cntShoppingCartRandomLootHelper"/>
+            <property name="CreativeMode" value="Dev"/>
+            <property name="CustomIconTint" value="ff8080"/>
+            <property name="FilterTags" value="MC_helpers,SC_helperElectrical,SC_commercial"/>
         </block>
 
         <!-- CUSTOM BLOCKS FOR DELOS POIs -->

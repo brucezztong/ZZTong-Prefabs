@@ -13,14 +13,14 @@
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="residential,rural" />
-  <property name="POIMarkerSize" value="5, 13, 3#1, 1, 1#1, 1, 1#5, 13, 5" />
-  <property name="POIMarkerStart" value="18, 2, -3#19, 3, 8#21, 3, 2#18, 2, -5" />
-  <property name="POIMarkerGroup" value="driveway,stump,cart,driveway" />
-  <property name="POIMarkerTags" value="rural###residential" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_02,part_zztong_tree_stump_01,part_zztong_shopping_cart_01,part_driveway_residential_12" />
-  <property name="POIMarkerPartRotations" value="2,0,0,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4,1" />
+  <property name="POIMarkerSize" value="5, 13, 3#1, 1, 1#5, 13, 5" />
+  <property name="POIMarkerStart" value="18, 2, -3#19, 3, 8#18, 2, -5" />
+  <property name="POIMarkerGroup" value="driveway,stump,driveway" />
+  <property name="POIMarkerTags" value="rural##residential" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_02,part_zztong_tree_stump_01,part_driveway_residential_12" />
+  <property name="POIMarkerPartRotations" value="2,0,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,1" />
   <property name="SleeperVolumeSize" value="21, 5, 18#15, 5, 3" />
   <property name="SleeperVolumeStart" value="2, 3, 5#1, 3, 1" />
   <property name="SleeperVolumeGroupId" value="0,0" />
@@ -29,11 +29,11 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="2,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="93163" />
-    <property name="TotalTriangles" value="95591" />
+    <property name="TotalVertices" value="93307" />
+    <property name="TotalTriangles" value="95663" />
     <property class="BlockEntities">
-      <property name="Vertices" value="88069" />
-      <property name="Triangles" value="90085" />
+      <property name="Vertices" value="88213" />
+      <property name="Triangles" value="90157" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="2978" />

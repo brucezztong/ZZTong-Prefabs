@@ -25,14 +25,14 @@
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="commercial" />
   <property name="PrefabSize" value="42, 83, 42" />
-  <property name="POIMarkerSize" value="1, 1, 1#4, 1, 1#4, 1, 1" />
-  <property name="POIMarkerStart" value="25, 2, 1#24, 3, 10#15, 3, 10" />
-  <property name="POIMarkerGroup" value="cart,spikes1,spikes2" />
-  <property name="POIMarkerTags" value="##" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_zztong_shopping_cart_01,part_zztong_spikes_wood4,part_zztong_spikes_wood4" />
-  <property name="POIMarkerPartRotations" value="1,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.4,0.2,0.2" />
+  <property name="POIMarkerSize" value="4, 1, 1#4, 1, 1" />
+  <property name="POIMarkerStart" value="24, 3, 10#15, 3, 10" />
+  <property name="POIMarkerGroup" value="spikes1,spikes2" />
+  <property name="POIMarkerTags" value="#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_spikes_wood4,part_zztong_spikes_wood4" />
+  <property name="POIMarkerPartRotations" value="0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.2,0.2" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="37, 3, 6" />
@@ -45,11 +45,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="586019" />
-    <property name="TotalTriangles" value="581375" />
+    <property name="TotalVertices" value="586163" />
+    <property name="TotalTriangles" value="581447" />
     <property class="BlockEntities">
-      <property name="Vertices" value="428475" />
-      <property name="Triangles" value="480957" />
+      <property name="Vertices" value="428619" />
+      <property name="Triangles" value="481029" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="137416" />

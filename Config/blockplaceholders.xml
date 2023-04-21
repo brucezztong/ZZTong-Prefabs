@@ -180,5 +180,25 @@
             <block name="cntVendingMachine2" prob=".1"/>
         </placeholder>
 
+        <!-- *************************************************************
+            ATM Machines
+        ************************************************************** -->
+
+        <placeholder name="zztongATMRandomHelper50">
+            <block name="air" prob=".5"/>
+            <block name="zztongATMEmpty" prob=".4"/>
+            <block name="cntATMSecure" prob=".1"/>
+        </placeholder>
+
+        <!-- *************************************************************
+            Shopping Carts
+        ************************************************************** -->
+
+        <placeholder name="zztongShoppingCartRandomHelperAir">
+            <block name="air" prob=".5"/>
+            <block name="cntShoppingCartEmpty" prob=".3"/>
+            <block name="cntShoppingCart" prob=".2"/>
+        </placeholder>
+
     </append>
 </blockplaceholders>

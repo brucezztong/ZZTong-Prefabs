@@ -20,21 +20,21 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="POIMarkerSize" value="10, 5, 5#6, 3, 4#3, 8, 6#1, 1, 1#1, 1, 1#1, 1, 5#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#6, 1, 1#1, 1, 3#6, 1, 1#1, 1, 4#1, 1, 1" />
-  <property name="POIMarkerStart" value="50, 6, 36#26, 6, 31#6, 6, 29#38, 15, 39#24, 15, 24#52, 6, 29#42, 6, 33#34, 6, 56#8, 6, 36#34, 6, 7#29, 6, 17#13, 6, 29#29, 6, 42#37, 6, 29#33, 6, 26" />
-  <property name="POIMarkerGroup" value="busstop,genny,lift,light1,light2,wire,barrel1,barrel2,barrel3,barrel4,barrier1,barrier2,barrier3,sandbags,cart" />
-  <property name="POIMarkerTags" value="##############" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_bus_stop_02,part_generator_01,part_lift_01,part_streetlight_single_diagonal,part_streetlight_single_diagonal,part_zztong_barbwire5,part_zztong_barrel_burning_01,part_zztong_barrel_burning_01,part_zztong_barrel_burning_01,part_zztong_barrel_burning_01,part_zztong_barrier6,part_zztong_barrier3,part_zztong_barrier6,part_zztong_sandbags4,part_zztong_shopping_cart_01" />
-  <property name="POIMarkerPartRotations" value="1,0,1,1,3,1,0,0,0,0,0,1,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.8,0.6,0.2,0.2,0.2,0.4,0.2,0.2,0.2,0.2,0.4,0.4,0.6,0.4,0.8" />
+  <property name="POIMarkerSize" value="10, 5, 5#6, 3, 4#3, 8, 6#1, 1, 1#1, 1, 1#1, 1, 5#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#6, 1, 1#1, 1, 3#6, 1, 1#1, 1, 4" />
+  <property name="POIMarkerStart" value="50, 6, 36#26, 6, 31#6, 6, 29#38, 15, 39#24, 15, 24#52, 6, 29#42, 6, 33#34, 6, 56#8, 6, 36#34, 6, 7#29, 6, 17#13, 6, 29#29, 6, 42#37, 6, 29" />
+  <property name="POIMarkerGroup" value="busstop,genny,lift,light1,light2,wire,barrel1,barrel2,barrel3,barrel4,barrier1,barrier2,barrier3,sandbags" />
+  <property name="POIMarkerTags" value="#############" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_bus_stop_02,part_generator_01,part_lift_01,part_streetlight_single_diagonal,part_streetlight_single_diagonal,part_zztong_barbwire5,part_zztong_barrel_burning_01,part_zztong_barrel_burning_01,part_zztong_barrel_burning_01,part_zztong_barrel_burning_01,part_zztong_barrier6,part_zztong_barrier3,part_zztong_barrier6,part_zztong_sandbags4" />
+  <property name="POIMarkerPartRotations" value="1,0,1,1,3,1,0,0,0,0,0,1,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.8,0.6,0.2,0.2,0.2,0.4,0.2,0.2,0.2,0.2,0.4,0.4,0.6,0.4" />
   <property name="YOffset" value="-6" />
   <property class="Stats">
-    <property name="TotalVertices" value="1523465" />
-    <property name="TotalTriangles" value="1650208" />
+    <property name="TotalVertices" value="1523609" />
+    <property name="TotalTriangles" value="1650280" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1177307" />
-      <property name="Triangles" value="1436440" />
+      <property name="Vertices" value="1177451" />
+      <property name="Triangles" value="1436512" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="312995" />
