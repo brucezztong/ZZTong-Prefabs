@@ -529,7 +529,8 @@
             <property name="IsTerrainDecoration" value="true"/>
             <property name="Collide" value="melee,bullet,arrow,rocket"/>
             <property name="GndAlign" value="1"/>
-            <property name="LootList" value="playerStorage"/>
+            <!-- <property name="LootList" value="playerStorage"/> -->
+            <property name="LootList" value="zztongEmpty"/>
             <drop event="Harvest" name="resourceCloth" count="2" tag="allHarvest"/>
             <drop event="Destroy" name="resourceCloth" count="1"/>
             <property name="FilterTags" value="MC_building,SC_loot"/>
