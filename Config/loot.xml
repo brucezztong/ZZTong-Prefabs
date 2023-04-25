@@ -58,18 +58,10 @@
             <item name="zztongNote25"/>
         </lootgroup>
 
-        <lootgroup name="zztongFrags" count="1">
-            <item name="zztongFragA01"/>
-            <item name="zztongFragA02"/>
-            <item name="zztongFragA03"/>
-            <item name="zztongFragA04"/>
-        </lootgroup>
-
         <!-- Empty, ZZTong Style -->
         <lootcontainer name="zztongEmpty" count="1" size="8,9" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" loot_quality_template="qualBaseTemplate">
             <item group="zztongAds" prob="1" count="1"/>
             <item group="zztongNotes" prob="1" count="1"/>
-            <item group="zztongFrags" prob="0.5" count="1"/>
         </lootcontainer>
 
         <!--  zztong Storage Crates -->
@@ -189,7 +181,6 @@
         <lootcontainer name="zztongBookcaseNoBooks" count="1" size="6,2" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest" loot_quality_template="qualBaseTemplate">
             <item group="zztongAds" prob="1" count="1"/>
             <item group="zztongNotes" prob="1" count="1"/>
-            <item group="zztongFrags" prob="0.5" count="1"/>
             <item name="resourcePaper" prob="1" count="1,10"/>
             <item name="resourcePaper" prob="0.4" count="10,20"/>
             <item name="resourceLeather" prob="0.8" count="1"/>

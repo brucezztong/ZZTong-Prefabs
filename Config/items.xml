@@ -262,37 +262,6 @@
             Documents
         ************************************************************************** -->
 
-        <!-- *******************************************************************
-            Fragments
-        ******************************************************************** -->
-
-        <item name="zztongFragA01">
-            <property name="Extends" value="blankNoteMaster"/>
-            <property name="DescriptionKey" value="zztongFragA01Desc"/>
-        </item>
-
-        <item name="zztongFragA02">
-            <property name="Extends" value="blankNoteMaster"/>
-            <property name="DescriptionKey" value="zztongFragA02Desc"/>
-        </item>
-
-        <item name="zztongFragA03">
-            <property name="Extends" value="blankNoteMaster"/>
-            <property name="DescriptionKey" value="zztongFragA03Desc"/>
-        </item>
-
-        <item name="zztongFragA04">
-            <property name="Extends" value="blankNoteMaster"/>
-            <property name="DescriptionKey" value="zztongFragA04Desc"/>
-        </item>
-
-        <item name="zztongFragAMsg">
-            <property name="Extends" value="blankNoteMaster"/>
-            <property name="DescriptionKey" value="zztongFragAMsgDesc"/>
-            <property name="EconomicValue" value="50000"/>
-            <property name="SellableToTrader" value="true"/>
-        </item>
-
         <!-- *************************************************************************
             Quests
         ************************************************************************** -->
