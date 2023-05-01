@@ -17,11 +17,11 @@
   <property name="YOffset" value="-3" />
   <property name="SleeperVolumeSize" value="28, 6, 30#40, 4, 40#36, 4, 36#15, 4, 15#36, 4, 18#22, 3, 17#32, 4, 32#30, 4, 30#30, 4, 30#30, 4, 30#22, 16, 22#12, 7, 12" />
   <property name="SleeperVolumeStart" value="6, 3, 6#1, 9, 1#3, 13, 3#25, 17, 24#3, 17, 3#3, 18, 22#5, 21, 5#6, 25, 6#6, 29, 6#6, 33, 6#10, 38, 10#15, 54, 15" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,1,1" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6,S_Zom_Businessman,7,8,S_Zom_Businessman,8,10,S_Zom_Burnt,3,4,S_Zom_Businessman,4,5,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,7,8,S_Zom_Businessman,8,9,S_Zom_Businessman,3,4,S_Zom_Businessman,6,7,animalZombieVulture,9,10,S_-_Group_Zom_Badass,7,8" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,2" />
   <property name="Tags" value="snow,desert,downtown,pine_forest" />
   <property name="PrefabSize" value="42, 83, 42" />
   <property name="POIMarkerSize" value="2, 2, 2#3, 1, 1" />
@@ -33,11 +33,11 @@
   <property name="POIMarkerPartRotations" value="0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.4,0.2" />
   <property class="Stats">
-    <property name="TotalVertices" value="2016921" />
-    <property name="TotalTriangles" value="2334935" />
+    <property name="TotalVertices" value="2017431" />
+    <property name="TotalTriangles" value="2335619" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1731944" />
-      <property name="Triangles" value="2151601" />
+      <property name="Vertices" value="1732454" />
+      <property name="Triangles" value="2152285" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="251319" />
