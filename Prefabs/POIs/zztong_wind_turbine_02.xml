@@ -22,7 +22,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
-  <property name="Tags" value="snow,wasteland,desert,rural,pine_forest" />
+  <property name="Tags" value="snow,wasteland,desert,rural,gateway,pine_forest" />
   <property name="POIMarkerSize" value="5, 13, 3" />
   <property name="POIMarkerStart" value="19, 2, 3" />
   <property name="POIMarkerGroup" value="driveway" />
