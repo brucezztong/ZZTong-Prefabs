@@ -35,11 +35,11 @@
   <property name="Tags" value="snow,desert,wilderness,pine_forest" />
   <property name="PrefabSize" value="25, 15, 25" />
   <property class="Stats">
-    <property name="TotalVertices" value="146569" />
-    <property name="TotalTriangles" value="154294" />
+    <property name="TotalVertices" value="150170" />
+    <property name="TotalTriangles" value="156812" />
     <property class="BlockEntities">
-      <property name="Vertices" value="105794" />
-      <property name="Triangles" value="130034" />
+      <property name="Vertices" value="109419" />
+      <property name="Triangles" value="132564" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="29521" />
@@ -58,8 +58,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="9418" />
-      <property name="Triangles" value="6180" />
+      <property name="Vertices" value="9394" />
+      <property name="Triangles" value="6168" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />

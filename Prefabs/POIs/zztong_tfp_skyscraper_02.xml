@@ -25,24 +25,24 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="PrefabSize" value="42, 66, 42" />
   <property name="Tags" value="downtown" />
-  <property name="POIMarkerSize" value="4, 2, 4#4, 2, 4#4, 2, 4#4, 2, 4#1, 1, 4#1, 1, 4#2, 1, 1#2, 2, 2#1, 1, 2#2, 2, 2#5, 1, 5#1, 1, 1#1, 1, 1#2, 2, 2" />
-  <property name="POIMarkerStart" value="33, 43, 5#18, 43, 5#18, 43, 13#12, 43, 13#18, 3, 11#15, 3, 4#20, 3, 9#14, 3, 17#9, 11, 4#34, 11, 16#4, 3, 16#3, 23, 5#3, 23, 5#12, 35, 18" />
-  <property name="POIMarkerGroup" value="greeb1,greeb2,greeb3,greeb4,spikes1,spikes2,spikes3,delivery1,spikes4,delivery2,mines,minefake,minegood,delivery3" />
-  <property name="POIMarkerTags" value="###########mine#mine#" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_greeble_rooftop_03,part_greeble_rooftop_03,part_greeble_rooftop_03,part_zztong_spikes_wood4,part_zztong_spikes_wood4,part_zztong_spikes_wood2,part_zztong_delivery_02,part_zztong_spikes_wood2,part_zztong_delivery_03,part_zztong_mine_field_02,part_zztong_land_mine_fake_01,part_zztong_land_mine_02,part_zztong_delivery_03" />
-  <property name="POIMarkerPartRotations" value="0,0,0,0,1,1,0,0,1,0,0,0,0,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.8,0.8,0.8,0.8,0.4,0.4,0.6,0.4,0.4,0.4,0.4,0.4,0.4,0.4" />
+  <property name="POIMarkerSize" value="4, 2, 4#4, 2, 4#4, 2, 4#4, 2, 4#1, 1, 4#1, 1, 4#2, 1, 1#2, 2, 2#1, 1, 2#2, 2, 2#5, 1, 5#2, 2, 2" />
+  <property name="POIMarkerStart" value="33, 43, 5#18, 43, 5#18, 43, 13#12, 43, 13#18, 3, 11#15, 3, 4#20, 3, 9#14, 3, 17#9, 11, 4#34, 11, 16#4, 3, 16#12, 35, 18" />
+  <property name="POIMarkerGroup" value="greeb1,greeb2,greeb3,greeb4,spikes1,spikes2,spikes3,delivery1,spikes4,delivery2,mines,delivery3" />
+  <property name="POIMarkerTags" value="###########" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_greeble_rooftop_03,part_greeble_rooftop_03,part_greeble_rooftop_03,part_zztong_spikes_wood4,part_zztong_spikes_wood4,part_zztong_spikes_wood2,part_zztong_delivery_02,part_zztong_spikes_wood2,part_zztong_delivery_03,part_zztong_mine_field_02,part_zztong_delivery_03" />
+  <property name="POIMarkerPartRotations" value="0,0,0,0,1,1,0,0,1,0,0,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.8,0.8,0.8,0.8,0.4,0.4,0.6,0.4,0.4,0.4,0.4,0.4" />
   <property class="Stats">
-    <property name="TotalVertices" value="1718545" />
-    <property name="TotalTriangles" value="1570521" />
+    <property name="TotalVertices" value="1754421" />
+    <property name="TotalTriangles" value="1611813" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1268770" />
-      <property name="Triangles" value="1313842" />
+      <property name="Vertices" value="1309195" />
+      <property name="Triangles" value="1357426" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="405973" />
-      <property name="Triangles" value="227742" />
+      <property name="Vertices" value="406631" />
+      <property name="Triangles" value="228096" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -53,12 +53,12 @@
       <property name="Triangles" value="8" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="24452" />
-      <property name="Triangles" value="12218" />
+      <property name="Vertices" value="20632" />
+      <property name="Triangles" value="10308" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="18400" />
-      <property name="Triangles" value="15127" />
+      <property name="Vertices" value="17013" />
+      <property name="Triangles" value="14391" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />

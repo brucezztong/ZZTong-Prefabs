@@ -30,11 +30,11 @@
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property class="Stats">
-    <property name="TotalVertices" value="245338" />
-    <property name="TotalTriangles" value="232535" />
+    <property name="TotalVertices" value="249111" />
+    <property name="TotalTriangles" value="235984" />
     <property class="BlockEntities">
-      <property name="Vertices" value="172881" />
-      <property name="Triangles" value="183062" />
+      <property name="Vertices" value="176856" />
+      <property name="Triangles" value="186705" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="40297" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="3114" />
-      <property name="Triangles" value="2396" />
+      <property name="Vertices" value="2912" />
+      <property name="Triangles" value="2202" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="20160" />

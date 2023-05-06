@@ -30,11 +30,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="Tags" value="snow,desert,wilderness,pine_forest" />
   <property class="Stats">
-    <property name="TotalVertices" value="3866497" />
-    <property name="TotalTriangles" value="3381138" />
+    <property name="TotalVertices" value="3871948" />
+    <property name="TotalTriangles" value="3383946" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3422662" />
-      <property name="Triangles" value="3078151" />
+      <property name="Vertices" value="3428113" />
+      <property name="Triangles" value="3080959" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="342304" />

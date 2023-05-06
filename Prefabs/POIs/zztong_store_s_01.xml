@@ -30,11 +30,11 @@
   <property name="YOffset" value="-3" />
   <property name="Tags" value="countrytown,diagonal" />
   <property class="Stats">
-    <property name="TotalVertices" value="749724" />
-    <property name="TotalTriangles" value="773165" />
+    <property name="TotalVertices" value="750252" />
+    <property name="TotalTriangles" value="773437" />
     <property class="BlockEntities">
-      <property name="Vertices" value="643970" />
-      <property name="Triangles" value="701787" />
+      <property name="Vertices" value="644498" />
+      <property name="Triangles" value="702059" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="85725" />

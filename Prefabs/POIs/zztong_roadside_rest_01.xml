@@ -22,11 +22,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="Tags" value="snow,desert,gateway,pine_forest" />
   <property class="Stats">
-    <property name="TotalVertices" value="240593" />
-    <property name="TotalTriangles" value="258862" />
+    <property name="TotalVertices" value="244194" />
+    <property name="TotalTriangles" value="261380" />
     <property class="BlockEntities">
-      <property name="Vertices" value="207871" />
-      <property name="Triangles" value="235650" />
+      <property name="Vertices" value="211496" />
+      <property name="Triangles" value="238180" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="23488" />
@@ -45,8 +45,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="4074" />
-      <property name="Triangles" value="3260" />
+      <property name="Vertices" value="4050" />
+      <property name="Triangles" value="3248" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -78,8 +78,8 @@
       <property name="1" value="31, 7, 36" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="14, 7, 27" />
-      <property name="1" value="10, 7, 24" />
+      <property name="0" value="10, 7, 24" />
+      <property name="1" value="14, 7, 27" />
     </property>
   </property>
 </prefab>
