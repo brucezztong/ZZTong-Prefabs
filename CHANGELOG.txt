@@ -5,7 +5,8 @@ A21.EXP-ZZ015 :
 * Added a Documentation folder to hold misc TXT files.
 * Broke up the kludge that was the A20 Gateway Tile resulting in new POIs:
     adot_01, containers_01, car_show_01, fieldday_01, ranger_hq_01, scout_lodge_01,
-    storage_01, roadside_rest_01, trailer_park_03, truck_park_01, truck_stop_01
+    storage_01, roadside_rest_01, trailer_park_03, truck_park_01, truck_stop_01,
+    gateway_filler_01, gateway_filler_02, gateway_filler_03.
 * Added wind_turbine_02 as a standard POI marker size for non-wilderness.
 * Removed all Destroyed POIs from the modlet. You can find them in the
     CompoPack where they may appear in the CP's destroyed city.
