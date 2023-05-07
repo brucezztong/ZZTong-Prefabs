@@ -8,6 +8,7 @@ A21.EXP-ZZ015 :
     storage_01, roadside_rest_01, trailer_park_03, truck_park_01, truck_stop_01,
     gateway_filler_01, gateway_filler_02, gateway_filler_03.
 * Added wind_turbine_02 as a standard POI marker size for non-wilderness.
+* Added rwg_tile_gateway_straight_zztong_01.
 * Removed all Destroyed POIs from the modlet. You can find them in the
     CompoPack where they may appear in the CP's destroyed city.
 * Reviewed all Parts and sent many to my Archive in favor of making and using

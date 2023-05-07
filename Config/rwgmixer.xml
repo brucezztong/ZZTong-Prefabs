@@ -106,8 +106,9 @@
 			<property name="maxdensity" value="120"/>
 		</streettile>
 		
-		<streettile name="rwg_tile_gateway_cap_zztong_01">
-			<property name="maxtiles" value="1"/>
+        <!-- NOT SURE HOW GATEWAY TILES WILL BE EXPRESSED IN A21 -->
+		<streettile name="rwg_tile_gateway_straight_zztong_01">
+			<property name="maxtiles" value="6"/>
 			<property name="mintiles" value="0"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
