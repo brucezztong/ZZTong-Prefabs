@@ -233,7 +233,6 @@
             <property name="CreativeMode" value="Dev"/>
             <property name="CustomIcon" value="cntStorageHealth"/>
             <property name="CustomIconTint" value="6BB6E8"/>
-            <property name="LootList" value="zztongStorageCrateWeaps"/>
             <property name="Material" value="MwoodReinforced"/>
             <property name="Texture" value="422"/>
             <property name="UseGlobalUV" value="L,L,G,G,G,G"/>
