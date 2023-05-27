@@ -1,6 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 A21.EXP-ZZ015 :
+* Migrated all custom blocks to the "Custom Blocks Pack" modlet.
+    This modlet now depends upon that modlet. You need to install them both.
 * Broke the README file into README and CHANGELOG.
 * Added a Documentation folder to hold misc TXT files.
 * Broke up the kludge that was the A20 Gateway Tile resulting in new POIs:

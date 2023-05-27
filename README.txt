@@ -1,4 +1,4 @@
-ZZTONG-PREFABS READ-ME for A21.EXP-ZZ015
+ZZTONG-PREFABS READ-ME for A21.EXP.ZZ015
 
 GOAL:
 
@@ -9,19 +9,23 @@ variety.
 
 DEPENDENCIES:
 
-This modlet depends only on the vanilla game and introduces no other
-requirements or dependencies. Future versions of this modlet may
-become to dependent on other modlets that introduce custom 3D assets.
+This modlet depends upon the "Custom Blocks Pack" modlet, which you should
+find has also been distributed with this modlet. Future versions of this
+modlet may become to dependent on other modlets.
 
 CLIENT INSTALLATION: (Windows)
 
 1. Go to %APPDATA%/7DaysToDie
+
 2. Locate or Create a "Mods" folder.
 	The folder does not exist by default. If this is your first Mod, then you
 	will need to create the Mods folder.
-3. Place the "ZZTong-Prefabs" folder in the Mods folder:
+
+3. Place the "00-Custom-Blocks-Pack" folder in the Mods folder:
+	%APPDATA%/7DaysToDie/Mods ... %APPDATA/7DaysToDie/Mods/00-Custom-Blocks-Pack
+
+4. Place the "ZZTong-Prefabs" folder in the Mods folder:
 	%APPDATA%/7DaysToDie/Mods ... %APPDATA/7DaysToDie/Mods/ZZTong-Prefabs
-4. Review the "Conflicts" Section, below.
 
 CLIENT INSTALLATION (Mac) - TBD
 CLIENT INSTALLATION (Linux) - TBD
