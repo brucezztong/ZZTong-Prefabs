@@ -2,8 +2,11 @@
 <xml>
 	<ModInfo>
 		<Name value="ZZTong-Prefabs" />
+        <!-- <DisplayName value="ZZTong Prefabs" /> -->
 		<Description value="Adds prefabs and some RWG assets made by ZZTong. (Release A21.0-ZZ015)" />
 		<Author value="ZZTong" />
 		<Version value="21.0.015" />
+        <Website value="https://www.nexusmods.com/7daystodie/mods/1434/" />
+        <!-- Dependencies: 00-Custom-Blocks-Pack -->
 	</ModInfo>
 </xml>
