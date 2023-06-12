@@ -19,6 +19,7 @@
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="2, 2, 0" />
@@ -27,15 +28,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="38389" />
-    <property name="TotalTriangles" value="42640" />
+    <property name="TotalVertices" value="47896" />
+    <property name="TotalTriangles" value="23727" />
     <property class="BlockEntities">
-      <property name="Vertices" value="25491" />
-      <property name="Triangles" value="34864" />
+      <property name="Vertices" value="34944" />
+      <property name="Triangles" value="16039" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="12838" />
-      <property name="Triangles" value="7746" />
+      <property name="Vertices" value="12892" />
+      <property name="Triangles" value="7658" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -62,14 +63,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

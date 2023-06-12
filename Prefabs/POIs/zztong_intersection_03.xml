@@ -29,52 +29,45 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="3475492" />
-    <property name="TotalTriangles" value="3272320" />
+    <property name="TotalVertices" value="3645559" />
+    <property name="TotalTriangles" value="1555204" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2624622" />
-      <property name="Triangles" value="2773382" />
+      <property name="Vertices" value="2693894" />
+      <property name="Triangles" value="1019143" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="767287" />
-      <property name="Triangles" value="420159" />
+      <property name="Vertices" value="886687" />
+      <property name="Triangles" value="479937" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="19840" />
       <property name="Triangles" value="9920" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="816" />
-      <property name="Triangles" value="680" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="24984" />
+      <property name="Triangles" value="12696" />
+    </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="42717" />
-      <property name="Triangles" value="34643" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="20154" />
       <property name="Triangles" value="33508" />
     </property>
-    <property class="ChunkMeshes8">
+    <property class="ChunkMeshes7">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="56" />
-      <property name="Triangles" value="28" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -96,6 +89,18 @@
       <property name="14" value="51, 23, 58" />
       <property name="15" value="51, 35, 58" />
       <property name="16" value="55, 7, 60" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="53, 7, 48" />
+      <property name="1" value="53, 13, 48" />
+      <property name="2" value="53, 19, 48" />
+      <property name="3" value="53, 25, 48" />
+      <property name="4" value="53, 31, 48" />
+      <property name="5" value="48, 7, 53" />
+      <property name="6" value="48, 13, 53" />
+      <property name="7" value="48, 19, 53" />
+      <property name="8" value="48, 25, 53" />
+      <property name="9" value="48, 31, 53" />
     </property>
     <property class="Rally">
       <property name="0" value="31, 14, 29" />

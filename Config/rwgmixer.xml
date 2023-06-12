@@ -108,25 +108,14 @@
 		
         <!-- NOT SURE HOW GATEWAY TILES WILL BE EXPRESSED IN A21 -->
 		<streettile name="rwg_tile_gateway_straight_zztong_01">
-			<property name="maxtiles" value="6"/>
+			<property name="maxtiles" value="1"/>
 			<property name="mintiles" value="0"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
 
-        <!-- UNUSED TFP TILES - REEVALUATE FOR A21 -->
-		<streettile name="rwg_tile_rural_t_02">
-			<property name="maxtiles" value="2"/>
-			<property name="mintiles" value="1"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-        <!-- UNUSED TFP TILES - REEVALUATE FOR A21 -->
-		<streettile name="rwg_tile_rural_t_03">
-			<property name="maxtiles" value="2"/>
-			<property name="mintiles" value="1"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
+        <!-- This should make sure any POIs under development end up all over the map. -->
+        <prefab_spawn_adjust tags="zztest" bias="20" min_count="5"/>
+
 	</append>
 
 </rwgmixer>

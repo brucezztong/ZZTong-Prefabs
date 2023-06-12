@@ -9,7 +9,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-3" />
-  <property name="RotationToFaceNorth" value="2" />
+  <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 24, 150" />
   <property name="Tags" value="streettile,rwgonly" />

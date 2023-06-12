@@ -8,7 +8,7 @@
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="RotationToFaceNorth" value="2" />
+  <property name="RotationToFaceNorth" value="0" />
   <property name="YOffset" value="-13" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 51, 150" />
@@ -28,60 +28,60 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="3852274" />
-    <property name="TotalTriangles" value="3934235" />
+    <property name="TotalVertices" value="3878958" />
+    <property name="TotalTriangles" value="1641626" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3301919" />
-      <property name="Triangles" value="3526283" />
+      <property name="Vertices" value="3339867" />
+      <property name="Triangles" value="1250486" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="436506" />
-      <property name="Triangles" value="255438" />
+      <property name="Vertices" value="461961" />
+      <property name="Triangles" value="268462" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="488" />
-      <property name="Triangles" value="356" />
+      <property name="Vertices" value="128" />
+      <property name="Triangles" value="64" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="272" />
-      <property name="Triangles" value="136" />
+      <property name="Vertices" value="3318" />
+      <property name="Triangles" value="1782" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="39405" />
-      <property name="Triangles" value="31190" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="96" />
       <property name="Triangles" value="48" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes7">
+    <property class="ChunkMeshes6">
       <property name="Vertices" value="73588" />
       <property name="Triangles" value="120784" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
+    <property class="ChunkMeshes7">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="137, 13, 69" />
+    </property>
     <property class="POILight">
       <property name="0" value="139, 22, 99" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="139, 15, 16" />
+      <property name="0" value="139, 14, 92" />
+      <property name="1" value="139, 19, 92" />
+      <property name="2" value="139, 24, 92" />
+      <property name="3" value="139, 19, 102" />
+      <property name="4" value="139, 24, 102" />
     </property>
   </property>
 </prefab>

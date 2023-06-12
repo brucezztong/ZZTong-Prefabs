@@ -28,20 +28,27 @@
   <property name="POIMarkerPartToSpawn" value="part_zztong_vultures_01,part_zztong_barrel_04,part_zztong_campsite_01" />
   <property name="POIMarkerPartRotations" value="2,0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.4,0.2" />
+  <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="16, 7, 15" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="4, 3, 16" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="3, 3, 22" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="97595" />
-    <property name="TotalTriangles" value="100658" />
+    <property name="TotalVertices" value="108217" />
+    <property name="TotalTriangles" value="43604" />
     <property class="BlockEntities">
-      <property name="Vertices" value="78320" />
-      <property name="Triangles" value="88381" />
+      <property name="Vertices" value="89855" />
+      <property name="Triangles" value="32094" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="16580" />
+      <property name="Vertices" value="16590" />
       <property name="Triangles" value="8414" />
     </property>
     <property class="ChunkMeshes1">
@@ -57,26 +64,18 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="923" />
-      <property name="Triangles" value="767" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1772" />
       <property name="Triangles" value="3096" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
+    <property class="ChunkMeshes7">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

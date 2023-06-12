@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="2" />
-  <property name="QuestTags" value="clear,fetch" />
+  <property name="QuestTags" value="clear, fetch" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 29, 42" />
@@ -29,16 +29,17 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="648906" />
-    <property name="TotalTriangles" value="737363" />
+    <property name="TotalVertices" value="501527" />
+    <property name="TotalTriangles" value="219780" />
     <property class="BlockEntities">
-      <property name="Vertices" value="511543" />
-      <property name="Triangles" value="651245" />
+      <property name="Vertices" value="370212" />
+      <property name="Triangles" value="138685" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="109061" />
-      <property name="Triangles" value="62515" />
+      <property name="Vertices" value="110897" />
+      <property name="Triangles" value="63607" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -49,30 +50,22 @@
       <property name="Triangles" value="7088" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="812" />
+      <property name="Triangles" value="580" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="8696" />
-      <property name="Triangles" value="6695" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="6090" />
       <property name="Triangles" value="9820" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
+    <property class="ChunkMeshes7">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
@@ -81,6 +74,20 @@
     <property class="POILight">
       <property name="0" value="21, 11, 21" />
       <property name="1" value="21, 11, 23" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="21, 9, 22" />
+      <property name="1" value="28, 7, 22" />
+      <property name="2" value="24, 15, 25" />
+      <property name="3" value="24, 16, 25" />
+      <property name="4" value="24, 10, 27" />
+      <property name="5" value="24, 11, 27" />
+      <property name="6" value="24, 15, 27" />
+      <property name="7" value="24, 16, 27" />
+      <property name="8" value="24, 15, 29" />
+      <property name="9" value="24, 16, 29" />
+      <property name="10" value="21, 11, 33" />
+      <property name="11" value="21, 12, 33" />
     </property>
     <property class="quest_feather">
       <property name="0" value="33, 11, 16" />
@@ -91,9 +98,6 @@
     </property>
     <property class="Rally">
       <property name="0" value="24, 8, 1" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="32, 8, 12" />
     </property>
   </property>
 </prefab>

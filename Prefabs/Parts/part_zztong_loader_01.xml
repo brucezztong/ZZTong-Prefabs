@@ -19,15 +19,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="13906" />
-    <property name="TotalTriangles" value="16623" />
+    <property name="TotalVertices" value="24560" />
+    <property name="TotalTriangles" value="9618" />
     <property class="BlockEntities">
-      <property name="Vertices" value="11244" />
-      <property name="Triangles" value="14817" />
+      <property name="Vertices" value="20956" />
+      <property name="Triangles" value="7252" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="2534" />
-      <property name="Triangles" value="1646" />
+      <property name="Vertices" value="3156" />
+      <property name="Triangles" value="1990" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -38,12 +38,12 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="448" />
+      <property name="Triangles" value="376" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="128" />
-      <property name="Triangles" value="160" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -54,14 +54,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
