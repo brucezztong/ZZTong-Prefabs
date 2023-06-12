@@ -21,14 +21,14 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0" />
   <property name="Tags" value="snow,desert,countrytown,rural,pine_forest,nodiagonal" />
-  <property name="POIMarkerSize" value="6, 13, 2#6, 13, 3#1, 2, 1#5, 4, 1#4, 1, 1#1, 1, 1#8, 2, 2#4, 1, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="20, 1, -2#20, 1, -3#14, 2, 15#9, 2, 6#21, 2, 6#17, 2, 20#15, 2, 16#24, 2, 25#34, 2, 4" />
-  <property name="POIMarkerGroup" value="driveway,driveway,fuse,propane,barbwire,barrel,firewood,sandbags,stump" />
-  <property name="POIMarkerTags" value="countrytown#rural#######" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_03,part_driveway_rural_01,part_fusebox_01,part_tank_propane_01,part_zztong_barbwire4,part_zztong_barrel_03,part_zztong_firewood_03,part_zztong_sandbags4,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="2,2,1,2,0,0,1,1,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,0.6,0.5,0.3,0.6,0.5,0.6,0.3" />
+  <property name="POIMarkerSize" value="6, 13, 2#6, 13, 3#1, 2, 1#5, 4, 1#4, 1, 1#8, 2, 2#4, 1, 1" />
+  <property name="POIMarkerStart" value="20, 1, -2#20, 1, -3#14, 2, 15#9, 2, 6#21, 2, 6#15, 2, 16#24, 2, 25" />
+  <property name="POIMarkerGroup" value="driveway,driveway,fuse,propane,barbwire,firewood,sandbags" />
+  <property name="POIMarkerTags" value="countrytown#rural#####" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_03,part_driveway_rural_01,part_fusebox_01,part_tank_propane_01,part_zztong_barbwire4,part_zztong_firewood_03,part_zztong_sandbags4" />
+  <property name="POIMarkerPartRotations" value="2,2,1,2,0,1,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,0.6,0.5,0.3,0.5,0.6" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
@@ -55,15 +55,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="409066" />
-    <property name="TotalTriangles" value="175015" />
+    <property name="TotalVertices" value="408923" />
+    <property name="TotalTriangles" value="175158" />
     <property class="BlockEntities">
-      <property name="Vertices" value="311384" />
-      <property name="Triangles" value="113795" />
+      <property name="Vertices" value="311601" />
+      <property name="Triangles" value="113936" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="89760" />
-      <property name="Triangles" value="51454" />
+      <property name="Vertices" value="89400" />
+      <property name="Triangles" value="51456" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -88,10 +88,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="4902" />
       <property name="Triangles" value="7724" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>

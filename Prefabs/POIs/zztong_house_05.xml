@@ -14,14 +14,14 @@
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-4" />
   <property name="Tags" value="residential" />
-  <property name="POIMarkerSize" value="7, 13, 5#4, 3, 9#4, 3, 6#3, 4, 3#2, 2, 2#1, 2, 5#1, 1, 1" />
-  <property name="POIMarkerStart" value="5, 3, -5#6, 4, 6#6, 4, 20#35, 4, 35#12, 4, 13#37, 4, 25#27, 4, 38" />
-  <property name="POIMarkerGroup" value="driveway,ambulance,generator,sculpture,delivery,firewood,stump" />
-  <property name="POIMarkerTags" value="residential######" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_09,part_ambulance_01,part_generator_01,part_sculpture_02,part_zztong_delivery_03,part_zztong_firewood_01,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="2,0,1,2,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.2,0.2,0.8,0.6,0.8,0.6" />
+  <property name="POIMarkerSize" value="7, 13, 5#4, 3, 9#4, 3, 6#3, 4, 3#2, 2, 2#1, 2, 5" />
+  <property name="POIMarkerStart" value="5, 3, -5#6, 4, 6#6, 4, 20#35, 4, 35#12, 4, 13#37, 4, 25" />
+  <property name="POIMarkerGroup" value="driveway,ambulance,generator,sculpture,delivery,firewood" />
+  <property name="POIMarkerTags" value="residential#####" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_09,part_ambulance_01,part_generator_01,part_sculpture_02,part_zztong_delivery_03,part_zztong_firewood_01" />
+  <property name="POIMarkerPartRotations" value="2,0,1,2,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.2,0.2,0.8,0.6,0.8" />
   <property name="SleeperVolumeSize" value="26, 4, 19#8, 4, 11#6, 4, 11#17, 6, 13#15, 7, 11#11, 5, 4#9, 7, 15#7, 5, 9#9, 6, 6#8, 6, 10#28, 7, 34" />
   <property name="SleeperVolumeStart" value="11, 4, 5#4, 4, 27#12, 4, 27#20, 2, 26#4, 8, 26#12, 10, 20#14, 8, 4#23, 10, 11#28, 9, 4#30, 9, 15#10, 15, 4" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
@@ -31,15 +31,15 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="567846" />
-    <property name="TotalTriangles" value="212584" />
+    <property name="TotalVertices" value="566783" />
+    <property name="TotalTriangles" value="212301" />
     <property class="BlockEntities">
-      <property name="Vertices" value="458207" />
-      <property name="Triangles" value="141509" />
+      <property name="Vertices" value="457336" />
+      <property name="Triangles" value="141370" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="98383" />
-      <property name="Triangles" value="59479" />
+      <property name="Vertices" value="98191" />
+      <property name="Triangles" value="59335" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="3200" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="5440" />
       <property name="Triangles" value="8688" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

@@ -23,22 +23,22 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="Tags" value="snow,rural,pine_forest" />
-  <property name="POIMarkerSize" value="6, 13, 3#1, 1, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="18, 1, 42#13, 2, 35#10, 2, 36" />
-  <property name="POIMarkerGroup" value="driveway,barrel1,barrel2" />
-  <property name="POIMarkerTags" value="##" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_01,part_zztong_barrel_04,part_zztong_barrel_03" />
-  <property name="POIMarkerPartRotations" value="0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4" />
+  <property name="POIMarkerSize" value="6, 13, 3" />
+  <property name="POIMarkerStart" value="18, 1, 42" />
+  <property name="POIMarkerGroup" value="driveway" />
+  <property name="POIMarkerTags" value="" />
+  <property name="POIMarkerType" value="PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_01" />
+  <property name="POIMarkerPartRotations" value="0" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="PrefabSize" value="42, 8, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="369571" />
-    <property name="TotalTriangles" value="229831" />
+    <property name="TotalVertices" value="372179" />
+    <property name="TotalTriangles" value="231059" />
     <property class="BlockEntities">
-      <property name="Vertices" value="349223" />
-      <property name="Triangles" value="213755" />
+      <property name="Vertices" value="351951" />
+      <property name="Triangles" value="215111" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="15182" />
@@ -67,10 +67,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="4902" />
       <property name="Triangles" value="7724" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="120" />
-      <property name="Triangles" value="128" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

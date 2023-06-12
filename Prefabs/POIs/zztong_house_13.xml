@@ -12,14 +12,14 @@
   <property name="PrefabSize" value="25, 12, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />
-  <property name="POIMarkerSize" value="7, 3, 2#3, 3, 3#1, 4, 5#1, 4, 1#2, 2, 2#1, 1, 1" />
-  <property name="POIMarkerStart" value="2, 2, 25#0, 3, 0#23, 3, 5#3, 3, 14#6, 3, 6#23, 3, 1" />
-  <property name="POIMarkerGroup" value="driveway,elecbox,propane,waterh,delivery,stump" />
-  <property name="POIMarkerTags" value="residential#####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_back_01,part_high_voltage_box_2,part_tank_propane_01,part_waterheater_01,part_zztong_delivery_02,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="0,0,1,0,1,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.2,0.2,0.6,0.2,0.4" />
+  <property name="POIMarkerSize" value="7, 3, 2#3, 3, 3#1, 4, 5#1, 4, 1#2, 2, 2" />
+  <property name="POIMarkerStart" value="2, 2, 25#0, 3, 0#23, 3, 5#3, 3, 14#6, 3, 6" />
+  <property name="POIMarkerGroup" value="driveway,elecbox,propane,waterh,delivery" />
+  <property name="POIMarkerTags" value="residential####" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_back_01,part_high_voltage_box_2,part_tank_propane_01,part_waterheater_01,part_zztong_delivery_02" />
+  <property name="POIMarkerPartRotations" value="0,0,1,0,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.2,0.2,0.6,0.2" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="7, 6, 8#7, 6, 5#15, 3, 10#15, 3, 8#16, 5, 15" />
   <property name="SleeperVolumeStart" value="2, 3, 14#2, 3, 9#9, 3, 4#9, 3, 14#8, 6, 5" />
@@ -31,14 +31,14 @@
   <property name="Tags" value="residential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="186919" />
-    <property name="TotalTriangles" value="87634" />
+    <property name="TotalVertices" value="186627" />
+    <property name="TotalTriangles" value="87681" />
     <property class="BlockEntities">
-      <property name="Vertices" value="162653" />
-      <property name="Triangles" value="72749" />
+      <property name="Vertices" value="162364" />
+      <property name="Triangles" value="72796" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="22248" />
+      <property name="Vertices" value="22245" />
       <property name="Triangles" value="11565" />
     </property>
     <property class="ChunkMeshes1">
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="1850" />
       <property name="Triangles" value="3236" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

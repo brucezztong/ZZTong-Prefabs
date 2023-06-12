@@ -12,14 +12,14 @@
   <property name="PrefabSize" value="25, 17, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="7, 3, 2#7, 3, 2#1, 2, 1#4, 3, 2#2, 3, 3#2, 4, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="1, 5, 25#17, 5, 25#7, 2, 14#6, 2, 6#6, 2, 9#11, 2, 6#10, 6, 23" />
-  <property name="POIMarkerGroup" value="drivewayb1,drivewayb2,fusebox,lab1,lab2,waterheat,new" />
-  <property name="POIMarkerTags" value="residential#residential#####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_back_01,part_driveway_residential_back_01,part_fusebox_01,part_lab_greeble_07,part_lab_greeble_10,part_waterheater_02,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="0,0,2,0,1,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,0.8,0.6,0.6,0.6,1" />
+  <property name="POIMarkerSize" value="7, 3, 2#7, 3, 2#1, 2, 1#4, 3, 2#2, 3, 3#2, 4, 1" />
+  <property name="POIMarkerStart" value="1, 5, 25#17, 5, 25#7, 2, 14#6, 2, 6#6, 2, 9#11, 2, 6" />
+  <property name="POIMarkerGroup" value="drivewayb1,drivewayb2,fusebox,lab1,lab2,waterheat" />
+  <property name="POIMarkerTags" value="residential#residential####" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_back_01,part_driveway_residential_back_01,part_fusebox_01,part_lab_greeble_07,part_lab_greeble_10,part_waterheater_02" />
+  <property name="POIMarkerPartRotations" value="0,0,2,0,1,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,0.8,0.6,0.6,0.6" />
   <property name="SleeperVolumeSize" value="15, 4, 9#8, 3, 13#9, 3, 13#9, 7, 13#8, 7, 13" />
   <property name="SleeperVolumeStart" value="5, 2, 7#13, 7, 4#4, 7, 4#4, 10, 4#13, 10, 4" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
@@ -31,11 +31,11 @@
   <property name="Tags" value="residential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="252358" />
-    <property name="TotalTriangles" value="134019" />
+    <property name="TotalVertices" value="252429" />
+    <property name="TotalTriangles" value="134126" />
     <property class="BlockEntities">
-      <property name="Vertices" value="215613" />
-      <property name="Triangles" value="109200" />
+      <property name="Vertices" value="215684" />
+      <property name="Triangles" value="109307" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="32310" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="2396" />
       <property name="Triangles" value="4216" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

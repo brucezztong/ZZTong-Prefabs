@@ -14,14 +14,14 @@
   <property name="YOffset" value="-5" />
   <property name="PrefabSize" value="60, 14, 60" />
   <property name="Tags" value="rural" />
-  <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#2, 1, 2#6, 3, 3#7, 7, 7#4, 1, 1" />
-  <property name="POIMarkerStart" value="4, 4, 45#19, 4, -3#38, 5, 48#49, 5, 37#4, 1, 45#20, 5, 16" />
-  <property name="POIMarkerGroup" value="shedstorm,driveway,dogs,tractor,shedstorm,spikes" />
-  <property name="POIMarkerTags" value="#####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_farm60_shed_01,part_driveway_rural_12,part_zztong_dog_pack_two_01,part_zztong_tractor_04,part_zztong_storm_cellar_01,part_zztong_spikes_wood4" />
-  <property name="POIMarkerPartRotations" value="2,2,0,1,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,1,0.4,0.6,0.2,0.6" />
+  <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#2, 1, 2#7, 7, 7#4, 1, 1" />
+  <property name="POIMarkerStart" value="4, 4, 45#19, 4, -3#38, 5, 48#4, 1, 45#20, 5, 16" />
+  <property name="POIMarkerGroup" value="shedstorm,driveway,dogs,shedstorm,spikes" />
+  <property name="POIMarkerTags" value="####" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_farm60_shed_01,part_driveway_rural_12,part_zztong_dog_pack_two_01,part_zztong_storm_cellar_01,part_zztong_spikes_wood4" />
+  <property name="POIMarkerPartRotations" value="2,2,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,1,0.4,0.2,0.6" />
   <property name="SleeperVolumeSize" value="10, 8, 8#25, 7, 30#6, 5, 10" />
   <property name="SleeperVolumeStart" value="2, 5, 32#13, 5, 11#3, 6, 22" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
@@ -31,11 +31,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="921201" />
-    <property name="TotalTriangles" value="375107" />
+    <property name="TotalVertices" value="931443" />
+    <property name="TotalTriangles" value="380765" />
     <property class="BlockEntities">
-      <property name="Vertices" value="885477" />
-      <property name="Triangles" value="344305" />
+      <property name="Vertices" value="895719" />
+      <property name="Triangles" value="349963" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="25782" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="9942" />
       <property name="Triangles" value="16796" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

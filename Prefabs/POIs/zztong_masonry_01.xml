@@ -23,25 +23,25 @@
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="Tags" value="snow,desert,countrytown,pine_forest,diagonal" />
-  <property name="POIMarkerSize" value="7, 13, 2#1, 1, 1#1, 1, 1#11, 8, 5#11, 4, 5#2, 2, 2" />
-  <property name="POIMarkerStart" value="13, 2, -2#17, 3, 5#17, 3, 5#19, 3, 23#6, 3, 23#4, 3, 11" />
-  <property name="POIMarkerGroup" value="driveway,minefake,mine,excavator,trailer,cobble" />
-  <property name="POIMarkerTags" value="#mine#mine###" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_11,part_zztong_land_mine_fake_01,part_zztong_land_mine_02,part_zztong_excavator_01,part_zztong_tfp_trailer_curtain_loaded_01,part_zztong_pallets_cobble_01" />
-  <property name="POIMarkerPartRotations" value="2,0,0,2,1,3" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.2,0.4,0.4,0.4" />
+  <property name="POIMarkerSize" value="7, 13, 2#11, 8, 5#11, 4, 5#2, 2, 2" />
+  <property name="POIMarkerStart" value="13, 2, -2#19, 3, 23#6, 3, 23#4, 3, 11" />
+  <property name="POIMarkerGroup" value="driveway,excavator,trailer,cobble" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_11,part_zztong_excavator_01,part_zztong_tfp_trailer_curtain_loaded_01,part_zztong_pallets_cobble_01" />
+  <property name="POIMarkerPartRotations" value="2,2,1,3" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4" />
   <property name="PrefabSize" value="42, 12, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="409449" />
-    <property name="TotalTriangles" value="134821" />
+    <property name="TotalVertices" value="415886" />
+    <property name="TotalTriangles" value="141792" />
     <property class="BlockEntities">
-      <property name="Vertices" value="384265" />
-      <property name="Triangles" value="115678" />
+      <property name="Vertices" value="390755" />
+      <property name="Triangles" value="122649" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19550" />
+      <property name="Vertices" value="19497" />
       <property name="Triangles" value="10331" />
     </property>
     <property class="ChunkMeshes1">
@@ -67,10 +67,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="5538" />
       <property name="Triangles" value="8764" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

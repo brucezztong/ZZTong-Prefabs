@@ -21,25 +21,25 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0" />
   <property name="YOffset" value="-4" />
-  <property name="POIMarkerSize" value="7, 6, 7#7, 17, 7#7, 13, 3#6, 3, 3#7, 7, 7" />
-  <property name="POIMarkerStart" value="30, 3, 2#20, 3, 1#32, 3, 60#26, 4, 15#2, 0, 17" />
-  <property name="POIMarkerGroup" value="crib,silo,driveway,tractor,storm" />
-  <property name="POIMarkerTags" value="####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_farm60_corncrib_01,part_farm60_silo_01,part_driveway_rural_12,part_zztong_tractor_03,part_zztong_storm_cellar_01" />
-  <property name="POIMarkerPartRotations" value="0,0,0,1,3" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,1,0.4,0.2" />
+  <property name="POIMarkerSize" value="7, 6, 7#7, 17, 7#7, 13, 3#7, 7, 7" />
+  <property name="POIMarkerStart" value="30, 3, 2#20, 3, 1#32, 3, 60#2, 0, 17" />
+  <property name="POIMarkerGroup" value="crib,silo,driveway,storm" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_farm60_corncrib_01,part_farm60_silo_01,part_driveway_rural_12,part_zztong_storm_cellar_01" />
+  <property name="POIMarkerPartRotations" value="0,0,0,3" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,1,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="574886" />
-    <property name="TotalTriangles" value="252285" />
+    <property name="TotalVertices" value="1052563" />
+    <property name="TotalTriangles" value="464619" />
     <property class="BlockEntities">
-      <property name="Vertices" value="454186" />
-      <property name="Triangles" value="168051" />
+      <property name="Vertices" value="957576" />
+      <property name="Triangles" value="404733" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="83322" />
-      <property name="Triangles" value="43122" />
+      <property name="Vertices" value="83297" />
+      <property name="Triangles" value="43110" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="2112" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="9118" />
       <property name="Triangles" value="15436" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="25688" />
-      <property name="Triangles" value="24336" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

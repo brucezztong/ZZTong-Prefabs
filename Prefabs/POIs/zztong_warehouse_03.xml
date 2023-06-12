@@ -21,21 +21,21 @@
   <property name="YOffset" value="-3" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="snow,desert,industrial,pine_forest" />
-  <property name="POIMarkerSize" value="1, 1, 1#2, 2, 2#2, 1, 1#20, 13, 1#5, 3, 5#1, 3, 1" />
-  <property name="POIMarkerStart" value="1, 3, 17#6, 4, 13#12, 4, 13#2, 2, -1#4, 14, 12#1, 3, 21" />
-  <property name="POIMarkerGroup" value="barrel,delivery1,delivery2,driveway,hvac,fuse" />
-  <property name="POIMarkerTags" value="###industrial##" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_zztong_barrel_02,part_zztong_delivery_02,part_zztong_delivery_04,part_driveway_industrial_05,part_greeble_rooftop_01,part_large_fusebox_01" />
-  <property name="POIMarkerPartRotations" value="0,0,0,2,0,3" />
-  <property name="POIMarkerPartSpawnChance" value="0.4,0.8,0.4,1,0.8,0.6" />
+  <property name="POIMarkerSize" value="2, 2, 2#2, 1, 1#20, 13, 1#5, 3, 5#1, 3, 1" />
+  <property name="POIMarkerStart" value="6, 4, 13#12, 4, 13#2, 2, -1#4, 14, 12#1, 3, 21" />
+  <property name="POIMarkerGroup" value="delivery1,delivery2,driveway,hvac,fuse" />
+  <property name="POIMarkerTags" value="##industrial##" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_delivery_02,part_zztong_delivery_04,part_driveway_industrial_05,part_greeble_rooftop_01,part_large_fusebox_01" />
+  <property name="POIMarkerPartRotations" value="0,0,2,0,3" />
+  <property name="POIMarkerPartSpawnChance" value="0.8,0.4,1,0.8,0.6" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="256177" />
-    <property name="TotalTriangles" value="103272" />
+    <property name="TotalVertices" value="255622" />
+    <property name="TotalTriangles" value="103230" />
     <property class="BlockEntities">
-      <property name="Vertices" value="224555" />
-      <property name="Triangles" value="84118" />
+      <property name="Vertices" value="224000" />
+      <property name="Triangles" value="84076" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="29650" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="1772" />
       <property name="Triangles" value="3096" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

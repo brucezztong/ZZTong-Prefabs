@@ -14,14 +14,14 @@
   <property name="YOffset" value="-1" />
   <property name="PrefabSize" value="60, 16, 60" />
   <property name="Tags" value="rural" />
-  <property name="POIMarkerSize" value="7, 13, 3#5, 5, 11#6, 3, 3#1, 2, 8#1, 1, 4#1, 1, 1#3, 3, 3" />
-  <property name="POIMarkerStart" value="19, 0, -3#20, 1, 12#37, 1, 22#40, 1, 8#53, 1, 21#25, 1, 50#56, 1, 21" />
-  <property name="POIMarkerGroup" value="driveway,trailer,tractor,firewood,spikes,stump,electric" />
-  <property name="POIMarkerTags" value="######" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_12,part_zztong_tfp_trailer_reefer_empty_01,part_zztong_tractor_04,part_zztong_firewood_02,part_zztong_spikes_wood4,part_zztong_tree_stump_01,part_high_voltage_box_2" />
-  <property name="POIMarkerPartRotations" value="2,0,1,0,1,0,3" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.4,0.6,0.4" />
+  <property name="POIMarkerSize" value="7, 13, 3#5, 5, 11#1, 2, 8#1, 1, 4#3, 3, 3" />
+  <property name="POIMarkerStart" value="19, 0, -3#20, 1, 12#40, 1, 8#53, 1, 21#56, 1, 21" />
+  <property name="POIMarkerGroup" value="driveway,trailer,firewood,spikes,electric" />
+  <property name="POIMarkerTags" value="####" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_12,part_zztong_tfp_trailer_reefer_empty_01,part_zztong_firewood_02,part_zztong_spikes_wood4,part_high_voltage_box_2" />
+  <property name="POIMarkerPartRotations" value="2,0,0,1,3" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.4" />
   <property name="SleeperVolumeSize" value="17, 6, 10#17, 6, 8#29, 3, 27" />
   <property name="SleeperVolumeStart" value="25, 1, 1#25, 1, 11#15, 1, 20" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
@@ -31,15 +31,15 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="257509" />
-    <property name="TotalTriangles" value="118016" />
+    <property name="TotalVertices" value="267788" />
+    <property name="TotalTriangles" value="123823" />
     <property class="BlockEntities">
-      <property name="Vertices" value="188188" />
-      <property name="Triangles" value="70987" />
+      <property name="Vertices" value="198710" />
+      <property name="Triangles" value="76793" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="40275" />
-      <property name="Triangles" value="22073" />
+      <property name="Vertices" value="40032" />
+      <property name="Triangles" value="22074" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="8886" />
       <property name="Triangles" value="14876" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

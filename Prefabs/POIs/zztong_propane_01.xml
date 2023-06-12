@@ -24,14 +24,14 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="snow,desert,countrytown,pine_forest,diagonal" />
-  <property name="POIMarkerSize" value="7, 13, 2#5, 5, 8#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="16, 1, 42#9, 2, 10#14, 2, 35#39, 2, 16#14, 2, 30#17, 2, 24#30, 2, 26#28, 2, 23#21, 2, 10#30, 2, 10" />
-  <property name="POIMarkerGroup" value="driveway,container,barrel1,barrel2,mine1,mine2,mine3,mine4,mine5,mine6" />
-  <property name="POIMarkerTags" value="countrytown#########" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_11,part_shipping_container_04,part_zztong_barrel_burning_01,part_zztong_barrel_03,part_zztong_land_mine_01,part_zztong_land_mine_01,part_zztong_land_mine_01,part_zztong_land_mine_01,part_zztong_land_mine_01,part_zztong_land_mine_01" />
-  <property name="POIMarkerPartRotations" value="0,0,0,0,0,0,0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" />
+  <property name="POIMarkerSize" value="7, 13, 2#5, 5, 8" />
+  <property name="POIMarkerStart" value="16, 1, 42#9, 2, 10" />
+  <property name="POIMarkerGroup" value="driveway,container" />
+  <property name="POIMarkerTags" value="countrytown#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_11,part_shipping_container_04" />
+  <property name="POIMarkerPartRotations" value="0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6" />
   <property name="PrefabSize" value="42, 12, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="IndexedBlockOffsets">
@@ -55,11 +55,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="410263" />
-    <property name="TotalTriangles" value="191156" />
+    <property name="TotalVertices" value="451780" />
+    <property name="TotalTriangles" value="237375" />
     <property class="BlockEntities">
-      <property name="Vertices" value="346579" />
-      <property name="Triangles" value="116324" />
+      <property name="Vertices" value="388096" />
+      <property name="Triangles" value="162543" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="58604" />
@@ -88,10 +88,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="4952" />
       <property name="Triangles" value="7808" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>
