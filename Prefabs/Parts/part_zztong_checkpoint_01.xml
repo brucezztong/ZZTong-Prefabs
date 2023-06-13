@@ -10,14 +10,15 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="8, 1, 4" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="part,hideui" />
   <property name="Zoning" value="none" />
+  <property name="EditorGroups" value="parts" />
   <property class="Stats">
-    <property name="TotalVertices" value="17818" />
-    <property name="TotalTriangles" value="29352" />
+    <property name="TotalVertices" value="168" />
+    <property name="TotalTriangles" value="84" />
     <property class="BlockEntities">
-      <property name="Vertices" value="17650" />
-      <property name="Triangles" value="29268" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="168" />
@@ -44,18 +45,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

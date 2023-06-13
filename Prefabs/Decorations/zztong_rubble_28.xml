@@ -8,10 +8,11 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="YOffset" value="-1" />
   <property name="PrefabSize" value="2, 3, 2" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Zoning" value="none" />
+  <property name="Zoning" value="BiomeOnly" />
+  <property name="EditorGroups" value="world/deco/biome" />
+  <property name="Tags" value="biomeonly,devonly" />
   <property class="Stats">
     <property name="TotalVertices" value="982" />
     <property name="TotalTriangles" value="766" />
@@ -44,18 +45,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

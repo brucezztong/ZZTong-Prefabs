@@ -18,13 +18,16 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-1" />
-  <property name="Zoning" value="none" />
+  <property name="Zoning" value="BiomeOnly" />
+  <property name="EditorGroups" value="world/deco/biome" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
+  <property name="Tags" value="biomeonly,devonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="19380" />
-    <property name="TotalTriangles" value="21799" />
+    <property name="TotalVertices" value="14694" />
+    <property name="TotalTriangles" value="11387" />
     <property class="BlockEntities">
-      <property name="Vertices" value="17284" />
-      <property name="Triangles" value="19723" />
+      <property name="Vertices" value="12598" />
+      <property name="Triangles" value="9311" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="1512" />
@@ -51,20 +54,13 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="584" />
       <property name="Triangles" value="920" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="8, 1, 10" />
     </property>
   </property>
 </prefab>

@@ -8,21 +8,21 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="3, 4, 3" />
+  <property name="PrefabSize" value="3, 3, 3" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-1" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="part" />
   <property class="Stats">
-    <property name="TotalVertices" value="5396" />
-    <property name="TotalTriangles" value="6406" />
+    <property name="TotalVertices" value="5537" />
+    <property name="TotalTriangles" value="1452" />
     <property class="BlockEntities">
-      <property name="Vertices" value="4732" />
-      <property name="Triangles" value="6040" />
+      <property name="Vertices" value="5477" />
+      <property name="Triangles" value="1396" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="604" />
-      <property name="Triangles" value="310" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -45,20 +45,13 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="60" />
       <property name="Triangles" value="56" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="1, 1, 1" />
     </property>
   </property>
 </prefab>

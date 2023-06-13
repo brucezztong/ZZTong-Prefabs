@@ -10,7 +10,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="6, 4, 14" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="part,hideui" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="5, 4, 13" />
   <property name="SleeperVolumeStart" value="1, 0, 0" />
@@ -20,6 +20,7 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
+  <property name="EditorGroups" value="parts" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="0, 3, 6" />
@@ -29,14 +30,14 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="31722" />
-    <property name="TotalTriangles" value="14049" />
+    <property name="TotalVertices" value="31648" />
+    <property name="TotalTriangles" value="14037" />
     <property class="BlockEntities">
-      <property name="Vertices" value="27242" />
-      <property name="Triangles" value="11079" />
+      <property name="Vertices" value="27170" />
+      <property name="Triangles" value="11067" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="3966" />
+      <property name="Vertices" value="3964" />
       <property name="Triangles" value="2528" />
     </property>
     <property class="ChunkMeshes1">
@@ -60,10 +61,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

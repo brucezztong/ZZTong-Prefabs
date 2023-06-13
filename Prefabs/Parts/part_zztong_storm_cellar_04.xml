@@ -12,26 +12,20 @@
   <property name="RotationToFaceNorth" value="1" />
   <property name="AllowedTownships" value="city,town,rural,wilderness" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert,burnt_forest,wasteland" />
-  <property name="EditorGroups" value="out buildings" />
-  <property name="Zoning" value="ResidentialOld" />
-  <property name="SleeperVolumeSize" value="" />
-  <property name="SleeperVolumeStart" value="" />
-  <property name="SleeperVolumeGroupId" value="" />
-  <property name="SleeperVolumeGroup" value="" />
-  <property name="SleeperIsLootVolume" value="" />
-  <property name="SleeperIsQuestExclude" value="" />
-  <property name="SleeperVolumeFlags" value="" />
+  <property name="EditorGroups" value="parts" />
+  <property name="Zoning" value="none" />
+  <property name="QuestTags" value="snow,pine_forest,desert,burnt_forest,wasteland" />
   <property name="PrefabSize" value="7, 7, 7" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="part,hideui" />
   <property class="Stats">
-    <property name="TotalVertices" value="3868" />
-    <property name="TotalTriangles" value="3753" />
+    <property name="TotalVertices" value="3878" />
+    <property name="TotalTriangles" value="2334" />
     <property class="BlockEntities">
       <property name="Vertices" value="1647" />
-      <property name="Triangles" value="2127" />
+      <property name="Triangles" value="708" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="1787" />
+      <property name="Vertices" value="1797" />
       <property name="Triangles" value="1042" />
     </property>
     <property class="ChunkMeshes1">
@@ -55,20 +49,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="434" />
       <property name="Triangles" value="584" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>

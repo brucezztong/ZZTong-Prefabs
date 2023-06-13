@@ -11,7 +11,9 @@
   <property name="YOffset" value="-1" />
   <property name="PrefabSize" value="3, 2, 5" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Zoning" value="none" />
+  <property name="Zoning" value="BiomeOnly" />
+  <property name="EditorGroups" value="world/deco/biome" />
+  <property name="Tags" value="biomeonly,devonly" />
   <property class="Stats">
     <property name="TotalVertices" value="9193" />
     <property name="TotalTriangles" value="3217" />
@@ -46,10 +48,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="88" />
       <property name="Triangles" value="96" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

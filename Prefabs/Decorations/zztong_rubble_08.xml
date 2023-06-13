@@ -10,14 +10,16 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="7, 3, 7" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Zoning" value="none" />
+  <property name="Zoning" value="BiomeOnly" />
   <property name="YOffset" value="-1" />
+  <property name="EditorGroups" value="world/deco/biome" />
+  <property name="Tags" value="biomeonly,devonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="7017" />
-    <property name="TotalTriangles" value="6804" />
+    <property name="TotalVertices" value="6628" />
+    <property name="TotalTriangles" value="2266" />
     <property class="BlockEntities">
-      <property name="Vertices" value="6709" />
-      <property name="Triangles" value="6496" />
+      <property name="Vertices" value="6440" />
+      <property name="Triangles" value="2018" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -36,28 +38,21 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="120" />
-      <property name="Triangles" value="60" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="188" />
       <property name="Triangles" value="248" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="2, 1, 1" />
     </property>
   </property>
 </prefab>

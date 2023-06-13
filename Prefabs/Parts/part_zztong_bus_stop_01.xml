@@ -10,23 +10,24 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="6, 4, 4" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="part,hideui" />
   <property name="Zoning" value="none" />
+  <property name="EditorGroups" value="parts" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="3, 2, 1" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="3840" />
-    <property name="TotalTriangles" value="2540" />
+    <property name="TotalVertices" value="3432" />
+    <property name="TotalTriangles" value="1636" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3056" />
-      <property name="Triangles" value="2104" />
+      <property name="Vertices" value="1248" />
+      <property name="Triangles" value="376" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="784" />
-      <property name="Triangles" value="436" />
+      <property name="Vertices" value="1616" />
+      <property name="Triangles" value="852" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -37,8 +38,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="568" />
+      <property name="Triangles" value="408" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -49,18 +50,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

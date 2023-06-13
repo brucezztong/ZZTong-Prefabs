@@ -11,16 +11,18 @@
   <property name="PrefabSize" value="4, 4, 9" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
+  <property name="EditorGroups" value="parts" />
+  <property name="Tags" value="hideui" />
   <property class="Stats">
-    <property name="TotalVertices" value="14706" />
-    <property name="TotalTriangles" value="17397" />
+    <property name="TotalVertices" value="14730" />
+    <property name="TotalTriangles" value="6353" />
     <property class="BlockEntities">
-      <property name="Vertices" value="13394" />
-      <property name="Triangles" value="16701" />
+      <property name="Vertices" value="13146" />
+      <property name="Triangles" value="5521" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="1312" />
-      <property name="Triangles" value="696" />
+      <property name="Vertices" value="1552" />
+      <property name="Triangles" value="816" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -31,8 +33,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="32" />
+      <property name="Triangles" value="16" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -43,18 +45,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

@@ -9,19 +9,20 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Zoning" value="none" />
+  <property name="Zoning" value="BiomeOnly" />
   <property name="PrefabSize" value="8, 1, 6" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="part,biomeonly,devonly" />
+  <property name="EditorGroups" value="world/deco/biome" />
   <property class="Stats">
-    <property name="TotalVertices" value="1708" />
-    <property name="TotalTriangles" value="888" />
+    <property name="TotalVertices" value="1696" />
+    <property name="TotalTriangles" value="872" />
     <property class="BlockEntities">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="1708" />
-      <property name="Triangles" value="888" />
+      <property name="Vertices" value="1696" />
+      <property name="Triangles" value="872" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -44,18 +45,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
