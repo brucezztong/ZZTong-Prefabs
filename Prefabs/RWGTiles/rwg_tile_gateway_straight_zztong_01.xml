@@ -13,20 +13,20 @@
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 17, 150" />
   <property name="Tags" value="streettile,rwgonly,gatewaytile" />
-  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#25, 0, 25#25, 0, 25#5, 9, 5#25, 0, 25#6, 4, 14#1, 1, 1#5, 5, 11#11, 5, 5#9, 4, 4#11, 4, 5#1, 1, 5#2, 2, 2#2, 2, 2#1, 1, 8#13, 16, 5#13, 17, 6#13, 18, 6#1, 1, 6#5, 11, 2#5, 11, 2#4, 9, 5#1, 1, 1#16, 0, 16#16, 0, 16#18, 2, 8#18, 2, 8" />
-  <property name="POIMarkerStart" value="104, 3, 104#104, 3, 54#33, 3, 101#29, 8, 51#106, 7, 21#29, 8, 22#116, 7, 23#131, 6, 44#62, 3, 12#91, 3, 141#38, 3, 133#105, 3, 98#64, 3, 126#62, 3, 135#68, 3, 21#21, 8, 47#52, 3, 95#52, 3, 95#52, 3, 95#75, 3, 81#83, 3, 137#83, 3, 55#27, 2, 131#11, 5, 108#67, 3, 142#67, 3, -4#66, 2, 0#66, 2, 142" />
-  <property name="POIMarkerGroup" value="S1,S2,XS1,XS2,watchtower,XS3,trailer,stump1,tanker,reefer,horse,curtain,spikes,cobble1,cobble2,log,billboard,billboard,billboard,barriers,util1,util2,tank,stump2,re1,re2,HighwayS,HighwayN" />
-  <property name="POIMarkerTags" value="###########################" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,RoadExit,RoadExit,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,part_zztong_watchtower_01,,part_zztong_trailer_01,part_zztong_tree_stump_01,part_zztong_tfp_trailer_tanker_01,part_zztong_tfp_trailer_reefer_loaded_01,part_zztong_tfp_trailer_horse_01,part_zztong_tfp_trailer_curtain_loaded_01,part_zztong_spikes_wood5,part_zztong_pallets_cobble_01,part_zztong_pallets_cobble_01,part_zztong_log8,part_zztong_billboard_rumble_creek,part_zztong_billboard_kztv,part_zztong_billboard_caves,part_zztong_barrier6,part_utility_pole_large,part_utility_pole_large,part_industrial_tank_vertical,part_zztong_tree_stump_01,,,part_highway_transition,part_highway_transition" />
-  <property name="POIMarkerPartRotations" value="1,1,0,1,0,1,2,0,2,3,1,3,1,3,0,1,0,0,0,1,0,0,3,0,0,2,2,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0.5,1,0.5,0.8,0.6,0.4,0.4,0.4,0.2,0.5,0.5,0.4,0.4,0.4,0.4,0.8,0.8,0.8,0.2,0.8,1,1,1,1" />
+  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#25, 0, 25#25, 0, 25#5, 9, 5#25, 0, 25#6, 4, 14#5, 5, 11#11, 5, 5#9, 4, 4#11, 4, 5#1, 1, 5#2, 2, 2#2, 2, 2#1, 1, 8#13, 16, 5#13, 17, 6#13, 18, 6#1, 1, 6#5, 11, 2#5, 11, 2#4, 9, 5#16, 0, 16#16, 0, 16#18, 2, 8#18, 2, 8#3, 3, 3" />
+  <property name="POIMarkerStart" value="106, 3, 104#106, 3, 54#33, 3, 99#31, 8, 51#106, 7, 21#31, 8, 22#116, 7, 23#62, 3, 12#91, 3, 141#38, 3, 133#105, 3, 98#64, 3, 126#62, 3, 135#68, 3, 21#21, 8, 47#52, 3, 94#52, 3, 93#52, 3, 93#75, 3, 81#83, 3, 137#83, 3, 55#27, 2, 131#67, 3, 142#67, 3, -4#66, 2, 0#66, 2, 142#63, 2, 26" />
+  <property name="POIMarkerGroup" value="S1,S2,XS1,XS2,watchtower,XS3,trailer,tanker,reefer,horse,curtain,spikes,cobble1,cobble2,log,billboard,billboard,billboard,barriers,util1,util2,tank,re1,re2,HighwayS,HighwayN,portpotty" />
+  <property name="POIMarkerTags" value="##########################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,RoadExit,RoadExit,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,part_zztong_watchtower_01,,part_zztong_trailer_01,part_zztong_tfp_trailer_tanker_01,part_zztong_tfp_trailer_reefer_loaded_01,part_zztong_tfp_trailer_horse_01,part_zztong_tfp_trailer_curtain_loaded_01,part_zztong_spikes_wood5,part_zztong_pallets_cobble_01,part_zztong_pallets_cobble_01,part_zztong_log8,part_zztong_billboard_rumble_creek,part_zztong_billboard_kztv,part_zztong_billboard_caves,part_zztong_barrier6,part_utility_pole_large,part_utility_pole_large,part_industrial_tank_vertical,,,part_highway_transition,part_highway_transition,part_zztong_tfp_porta_potty_01" />
+  <property name="POIMarkerPartRotations" value="1,1,0,1,0,1,2,2,3,1,3,1,3,0,1,0,0,0,1,0,0,3,0,2,2,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0.5,1,0.5,0.6,0.4,0.4,0.4,0.2,0.5,0.5,0.4,0.4,0.4,0.4,0.8,0.8,0.8,0.2,1,1,1,1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="474662" />
-    <property name="TotalTriangles" value="495602" />
+    <property name="TotalVertices" value="553454" />
+    <property name="TotalTriangles" value="515665" />
     <property class="BlockEntities">
-      <property name="Vertices" value="409500" />
-      <property name="Triangles" value="393930" />
+      <property name="Vertices" value="488292" />
+      <property name="Triangles" value="413993" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="4158" />

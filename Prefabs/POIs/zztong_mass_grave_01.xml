@@ -22,7 +22,7 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-4" />
-  <property name="Tags" value="rural" />
+  <property name="Tags" value="rural,gateway" />
   <property name="POIMarkerSize" value="11, 2, 5" />
   <property name="POIMarkerStart" value="3, 4, 2" />
   <property name="POIMarkerGroup" value="shipment" />
@@ -32,7 +32,7 @@
   <property name="POIMarkerPartRotations" value="3" />
   <property name="POIMarkerPartSpawnChance" value="0.6" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="QuestTags" value="snow,pine_forest,desert,burnt_forest" />
+  <property name="QuestTags" value="snow, pine_forest, desert, burnt_forest" />
   <property class="Stats">
     <property name="TotalVertices" value="24525" />
     <property name="TotalTriangles" value="14800" />

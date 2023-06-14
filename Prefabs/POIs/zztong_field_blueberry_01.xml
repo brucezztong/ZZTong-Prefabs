@@ -12,7 +12,7 @@
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="23, 3, 21" />
   <property name="PrefabSize" value="25, 7, 25" />
-  <property name="Tags" value="rural" />
+  <property name="Tags" value="rural,gateway" />
   <property name="SleeperVolumeStart" value="1, 5, 2" />
   <property name="SleeperVolumeGroupId" value="0" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3" />
@@ -20,12 +20,13 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-5" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="260344" />
-    <property name="TotalTriangles" value="286464" />
+    <property name="TotalVertices" value="207413" />
+    <property name="TotalTriangles" value="81797" />
     <property class="BlockEntities">
-      <property name="Vertices" value="253491" />
-      <property name="Triangles" value="280429" />
+      <property name="Vertices" value="200857" />
+      <property name="Triangles" value="76017" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="4568" />
@@ -44,28 +45,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="297" />
-      <property name="Triangles" value="255" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1988" />
       <property name="Triangles" value="3496" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>

@@ -22,15 +22,15 @@
   <property name="Tags" value="streettile,rwgonly" />
   <property name="YOffset" value="-5" />
   <property class="Stats">
-    <property name="TotalVertices" value="299345" />
-    <property name="TotalTriangles" value="352673" />
+    <property name="TotalVertices" value="278363" />
+    <property name="TotalTriangles" value="281946" />
     <property class="BlockEntities">
-      <property name="Vertices" value="214182" />
-      <property name="Triangles" value="237516" />
+      <property name="Vertices" value="199039" />
+      <property name="Triangles" value="171598" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="11476" />
-      <property name="Triangles" value="8204" />
+      <property name="Vertices" value="11140" />
+      <property name="Triangles" value="7916" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="7744" />
@@ -45,31 +45,25 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="5503" />
-      <property name="Triangles" value="4521" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="60440" />
       <property name="Triangles" value="98560" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="141, 6, 137" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="145, 5, 123" />
+    </property>
     <property class="POILight">
       <property name="0" value="111, 14, 37" />
     </property>

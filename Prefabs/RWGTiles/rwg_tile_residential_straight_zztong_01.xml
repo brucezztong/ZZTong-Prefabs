@@ -13,23 +13,23 @@
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 13, 150" />
   <property name="Tags" value="streettile,rwgonly" />
-  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#6, 15, 5#12, 3, 9#6, 12, 4#7, 6, 7#6, 12, 4#6, 12, 4#6, 3, 4#3, 3, 3#5, 4, 5#11, 2, 5#1, 1, 1#3, 2, 1#11, 5, 5#8, 6, 4#1, 2, 5#8, 1, 1#1, 1, 4#2, 2, 5#11, 4, 5#1, 1, 1" />
-  <property name="POIMarkerStart" value="83, 3, 103#83, 3, 56#83, 3, 5#25, 3, 5#25, 3, 52#25, 3, 103#130, 3, 49#130, 3, 3#3, 3, 121#13, 2, 103#3, 3, 72#3, 3, 25#15, 3, 121#63, 3, 99#15, 3, 20#3, 3, 95#9, 3, 48#75, 3, 8#9, 3, 31#71, 3, 126#18, 3, 55#6, 3, 53#89, 3, 50#4, 3, 62#101, 3, 49#12, 3, 56" />
-  <property name="POIMarkerGroup" value="1,2,3,4,5,6,tower,campsite,electower1,shed1,electower2,electower3,generator,elecbox,shed2,trailer1,barrel,barricade,camper,checkpt,firewood,log,spikes,targets,trailer2,stump" />
-  <property name="POIMarkerTags" value="#########################" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,,part_tower_water_01,part_campsite_01,part_electrical_tower_01,part_farm60_shed_01,part_electrical_tower_01,part_electrical_tower_01,part_generator_01,part_high_voltage_box_2,part_shed_01,part_trailer_bodybags_02,part_zztong_barrel_01,part_zztong_barricade_01,part_zztong_camper_01,part_zztong_checkpoint_02,part_zztong_firewood_01,part_zztong_log8,part_zztong_spikes_wood4,part_zztong_targets_02,part_zztong_tfp_trailer_curtain_loaded_01,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="1,1,1,3,3,3,2,1,0,1,0,0,0,1,1,2,0,3,3,0,0,0,1,3,3,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,0.6,0.4,0.8,0.8,0.8,0.8,0.2,0.6,0.6,0.4,0.6,0.4,0.4,0.2,0.4,0.4,0.4,0.6,0.4,0.8" />
+  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#6, 15, 5#12, 3, 9#6, 12, 4#7, 6, 7#6, 12, 4#6, 12, 4#6, 3, 4#3, 3, 3#5, 4, 5#11, 2, 5#3, 2, 1#11, 5, 5#8, 6, 4#1, 2, 5#8, 1, 1#1, 1, 4#2, 2, 5#11, 4, 5" />
+  <property name="POIMarkerStart" value="83, 3, 103#83, 3, 56#83, 3, 5#25, 3, 5#25, 3, 52#25, 3, 103#130, 3, 49#130, 3, 3#3, 3, 121#13, 2, 103#3, 3, 72#3, 3, 25#15, 3, 121#63, 3, 99#15, 3, 20#3, 3, 95#75, 3, 8#9, 3, 31#71, 3, 126#18, 3, 55#6, 3, 53#89, 3, 50#4, 3, 62#101, 3, 49" />
+  <property name="POIMarkerGroup" value="1,2,3,4,5,6,tower,campsite,electower1,shed1,electower2,electower3,generator,elecbox,shed2,trailer1,barricade,camper,checkpt,firewood,log,spikes,targets,trailer2" />
+  <property name="POIMarkerTags" value="#######################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,,part_tower_water_01,part_campsite_01,part_electrical_tower_01,part_farm60_shed_01,part_electrical_tower_01,part_electrical_tower_01,part_generator_01,part_high_voltage_box_2,part_shed_01,part_trailer_bodybags_02,part_zztong_barricade_01,part_zztong_camper_01,part_zztong_checkpoint_02,part_zztong_firewood_01,part_zztong_log8,part_zztong_spikes_wood4,part_zztong_targets_02,part_zztong_tfp_trailer_curtain_loaded_01" />
+  <property name="POIMarkerPartRotations" value="1,1,1,3,3,3,2,1,0,1,0,0,0,1,1,2,3,3,0,0,0,1,3,3" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,0.6,0.4,0.8,0.8,0.8,0.8,0.2,0.6,0.6,0.4,0.4,0.4,0.2,0.4,0.4,0.4,0.6,0.4" />
   <property class="Stats">
-    <property name="TotalVertices" value="758796" />
-    <property name="TotalTriangles" value="861099" />
+    <property name="TotalVertices" value="738851" />
+    <property name="TotalTriangles" value="641245" />
     <property class="BlockEntities">
-      <property name="Vertices" value="661120" />
-      <property name="Triangles" value="742323" />
+      <property name="Vertices" value="650651" />
+      <property name="Triangles" value="530495" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="29872" />
+      <property name="Vertices" value="29674" />
       <property name="Triangles" value="15586" />
     </property>
     <property class="ChunkMeshes1">
@@ -45,31 +45,23 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="7454" />
-      <property name="Triangles" value="6298" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="58526" />
       <property name="Triangles" value="95164" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="1824" />
-      <property name="Triangles" value="1728" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="141, 5, 127" />
+      <property name="1" value="139, 5, 138" />
+    </property>
     <property class="POILight">
       <property name="0" value="69, 12, 102" />
     </property>

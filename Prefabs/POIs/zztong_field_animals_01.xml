@@ -12,7 +12,7 @@
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="21, 3, 21" />
   <property name="PrefabSize" value="25, 6, 25" />
-  <property name="Tags" value="rural" />
+  <property name="Tags" value="rural,gateway" />
   <property name="SleeperVolumeStart" value="2, 5, 2" />
   <property name="SleeperVolumeGroupId" value="0" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3" />
@@ -20,9 +20,10 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-5" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="66111" />
-    <property name="TotalTriangles" value="78688" />
+    <property name="TotalVertices" value="64123" />
+    <property name="TotalTriangles" value="75192" />
     <property class="BlockEntities">
       <property name="Vertices" value="58688" />
       <property name="Triangles" value="72169" />
@@ -52,18 +53,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="1988" />
-      <property name="Triangles" value="3496" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

@@ -22,15 +22,15 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
-  <property name="Tags" value="snow,rural,pine_forest" />
-  <property name="POIMarkerSize" value="6, 13, 3" />
-  <property name="POIMarkerStart" value="18, 1, 42" />
-  <property name="POIMarkerGroup" value="driveway" />
-  <property name="POIMarkerTags" value="" />
-  <property name="POIMarkerType" value="PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_01" />
-  <property name="POIMarkerPartRotations" value="0" />
-  <property name="POIMarkerPartSpawnChance" value="1" />
+  <property name="Tags" value="snow,rural,gateway,pine_forest" />
+  <property name="POIMarkerSize" value="6, 13, 3#7, 13, 2" />
+  <property name="POIMarkerStart" value="18, 1, 42#17, 1, 42" />
+  <property name="POIMarkerGroup" value="driveway,driveway" />
+  <property name="POIMarkerTags" value="#gateway" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_01,part_driveway_gateway_02" />
+  <property name="POIMarkerPartRotations" value="0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property name="PrefabSize" value="42, 8, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">

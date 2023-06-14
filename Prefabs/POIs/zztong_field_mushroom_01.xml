@@ -12,7 +12,7 @@
   <property name="YOffset" value="-1" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="25, 5, 25" />
-  <property name="Tags" value="rural" />
+  <property name="Tags" value="rural,gateway" />
   <property name="SleeperVolumeSize" value="17, 3, 11#17, 3, 8" />
   <property name="SleeperVolumeStart" value="6, 1, 11#6, 1, 2" />
   <property name="SleeperVolumeGroupId" value="0,0" />
@@ -55,10 +55,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="1556" />
       <property name="Triangles" value="2696" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

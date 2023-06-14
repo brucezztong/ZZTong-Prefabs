@@ -13,7 +13,7 @@
   <property name="AllowedTownships" value="wilderness" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert,burnt_forest" />
   <property name="EditorGroups" value="rural" />
-  <property name="Tags" value="rural" />
+  <property name="Tags" value="rural,gateway" />
   <property name="PrefabSize" value="25, 5, 25" />
   <property name="SleeperVolumeSize" value="15, 3, 19" />
   <property name="SleeperVolumeStart" value="5, 4, 3" />
@@ -24,7 +24,7 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-4" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="QuestTags" value="snow,pine_forest,desert,burnt_forest" />
+  <property name="QuestTags" value="snow, pine_forest, desert, burnt_forest" />
   <property class="Stats">
     <property name="TotalVertices" value="20042" />
     <property name="TotalTriangles" value="12903" />
