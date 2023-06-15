@@ -10,7 +10,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 11, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="rural" />
+  <property name="Tags" value="rural,gateway" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="10, 6, 15#10, 6, 15" />
   <property name="SleeperVolumeStart" value="2, 3, 7#13, 3, 7" />
@@ -20,12 +20,12 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="YOffset" value="-3" />
-  <property name="POIMarkerSize" value="2, 1, 2#5, 1, 5#13, 13, 3#7, 13, 2" />
-  <property name="POIMarkerStart" value="21, 3, 21#6, 3, 2#6, 2, -3#9, 2, -2" />
+  <property name="POIMarkerSize" value="2, 1, 2#5, 1, 5#13, 13, 3#15, 13, 2" />
+  <property name="POIMarkerStart" value="21, 3, 21#6, 3, 2#6, 2, -3#5, 2, -2" />
   <property name="POIMarkerGroup" value="vultures,camp,driveway,driveway" />
   <property name="POIMarkerTags" value="##rural#gateway" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_zztong_vultures_01,part_zztong_campsite_01,part_driveway_rural_17,part_driveway_gateway_02" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_vultures_01,part_zztong_campsite_01,part_driveway_rural_17,part_zztong_driveway_gateway_15" />
   <property name="POIMarkerPartRotations" value="2,0,2,2" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.2,1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />

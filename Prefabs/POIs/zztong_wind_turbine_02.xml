@@ -23,12 +23,12 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="Tags" value="snow,wasteland,desert,rural,gateway,pine_forest" />
-  <property name="POIMarkerSize" value="5, 13, 3#7, 13, 2" />
-  <property name="POIMarkerStart" value="19, 2, -3#18, 2, -2" />
+  <property name="POIMarkerSize" value="5, 13, 3#5, 13, 2" />
+  <property name="POIMarkerStart" value="19, 2, -3#19, 2, -2" />
   <property name="POIMarkerGroup" value="driveway,driveway2" />
   <property name="POIMarkerTags" value="rural#gateway" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_02,part_driveway_gateway_01" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_02,part_zztong_driveway_gateway_05" />
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property name="PrefabSize" value="42, 69, 42" />

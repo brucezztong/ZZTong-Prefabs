@@ -21,12 +21,20 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
+  <property name="POIMarkerSize" value="3, 13, 4#2, 13, 3" />
+  <property name="POIMarkerStart" value="-3, 0, 12#-2, 0, 13" />
+  <property name="POIMarkerGroup" value="driveway,driveway" />
+  <property name="POIMarkerTags" value="rural#gateway" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_03,part_zztong_driveway_gateway_03" />
+  <property name="POIMarkerPartRotations" value="3,3" />
+  <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="110712" />
-    <property name="TotalTriangles" value="58861" />
+    <property name="TotalVertices" value="175610" />
+    <property name="TotalTriangles" value="95391" />
     <property class="BlockEntities">
-      <property name="Vertices" value="99360" />
-      <property name="Triangles" value="51309" />
+      <property name="Vertices" value="164762" />
+      <property name="Triangles" value="88091" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="9276" />
@@ -45,8 +53,8 @@
       <property name="Triangles" value="8" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="504" />
-      <property name="Triangles" value="252" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />

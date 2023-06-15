@@ -22,12 +22,20 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="Tags" value="snow,desert,gateway,pine_forest" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="POIMarkerSize" value="7, 13, 2#7, 13, 2" />
+  <property name="POIMarkerStart" value="3, 2, -2#32, 2, -2" />
+  <property name="POIMarkerGroup" value="driveway1,driveway2" />
+  <property name="POIMarkerTags" value="gateway#gateway" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_driveway_gateway_07,part_zztong_driveway_gateway_07" />
+  <property name="POIMarkerPartRotations" value="2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="258933" />
-    <property name="TotalTriangles" value="110923" />
+    <property name="TotalVertices" value="257165" />
+    <property name="TotalTriangles" value="110323" />
     <property class="BlockEntities">
-      <property name="Vertices" value="228161" />
-      <property name="Triangles" value="89849" />
+      <property name="Vertices" value="226393" />
+      <property name="Triangles" value="89249" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="25236" />
@@ -56,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="5160" />
       <property name="Triangles" value="8184" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

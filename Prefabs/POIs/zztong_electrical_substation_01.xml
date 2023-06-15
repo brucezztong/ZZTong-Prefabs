@@ -26,18 +26,19 @@
   <property name="POIMarkerPartToSpawn" value="part_high_voltage_box_2" />
   <property name="POIMarkerPartRotations" value="1" />
   <property name="POIMarkerPartSpawnChance" value="0.8" />
-  <property name="Tags" value="rural" />
+  <property name="Tags" value="rural,gateway" />
   <property name="YOffset" value="-1" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="74557" />
-    <property name="TotalTriangles" value="65344" />
+    <property name="TotalVertices" value="75395" />
+    <property name="TotalTriangles" value="35517" />
     <property class="BlockEntities">
-      <property name="Vertices" value="46737" />
-      <property name="Triangles" value="44478" />
+      <property name="Vertices" value="48695" />
+      <property name="Triangles" value="15621" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25440" />
-      <property name="Triangles" value="17488" />
+      <property name="Vertices" value="25144" />
+      <property name="Triangles" value="17200" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -52,31 +53,22 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="824" />
-      <property name="Triangles" value="682" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="1556" />
       <property name="Triangles" value="2696" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="11, 1, 2" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="17, 1, 18" />
     </property>

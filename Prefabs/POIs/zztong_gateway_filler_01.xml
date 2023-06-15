@@ -20,14 +20,14 @@
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
-  <property name="POIMarkerSize" value="5, 1, 5#5, 1, 1#5, 2, 2" />
-  <property name="POIMarkerStart" value="26, 5, 23#16, 3, 1#17, 3, 14" />
-  <property name="POIMarkerGroup" value="campsite,spikes,targets" />
-  <property name="POIMarkerTags" value="##" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_zztong_campsite_01,part_zztong_spikes_wood5,part_zztong_targets_02" />
-  <property name="POIMarkerPartRotations" value="0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.1,0.1" />
+  <property name="POIMarkerSize" value="5, 1, 5#5, 1, 1#5, 2, 2#7, 13, 2" />
+  <property name="POIMarkerStart" value="26, 5, 23#17, 3, 1#17, 3, 14#16, 2, -2" />
+  <property name="POIMarkerGroup" value="campsite,spikes,targets,driveway" />
+  <property name="POIMarkerTags" value="###gateway" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_campsite_01,part_zztong_spikes_wood5,part_zztong_targets_02,part_zztong_driveway_gateway_07" />
+  <property name="POIMarkerPartRotations" value="0,0,0,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.1,0.1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
     <property name="TotalVertices" value="88739" />

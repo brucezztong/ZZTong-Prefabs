@@ -1,121 +1,27 @@
 ﻿<rwgmixer>
     <!-- **************************************************************
-        ADDITIONS TO LIST OF TILES
+        Add residential to the possible list of outskirts for cities.
+    ****************************************************************-->
+
+    <!-- Adds a wrapper to Country Town to make it a little larger. -->
+	<append xpath="/rwgmixer/township[@name='countrytown']">
+        <property name="outskirt_district" value="rural" />
+	</append>
+
+    <!-- Adds residential to the list of possible wrappers for a Town for more variety. -->
+    <set xpath="/rwgmixer/township[@name='town']/property[@name='outskirt_district']/@value">rural,residential</set>
+
+    <!-- Changes the wrapper of a city to residential because there's already a lot of rural. -->
+    <set xpath="/rwgmixer/township[@name='city']/property[@name='outskirt_district']/@value">residential</set>
+
+    <!-- **************************************************************
+        Add support for a handy testing tag to make testing a new POI
+        easier, because the POI will be more common in the world.
     ****************************************************************-->
 
 	<append xpath="/rwgmixer">
-		<streettile name="rwg_tile_commercial_intersection_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_countryresidential_cap_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_countryresidential_straight_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_residential_cap_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_residential_corner_zztong_01">
-			<property name="maxtiles" value="2"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_residential_intersection_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_residential_straight_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_residential_straight_zztong_02">
-			<property name="maxtiles" value="2"/>
-			<property name="mintiles" value="1"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_residential_t_zztong_01">
-			<property name="maxtiles" value="3"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_residential_t_zztong_02">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_rural_cap_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_rural_corner_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_rural_corner_zztong_02">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_rural_intersection_zztong_01">
-			<property name="maxtiles" value="2"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_rural_straight_zztong_01">
-			<property name="maxtiles" value="2"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_rural_t_zztong_01">
-			<property name="maxtiles" value="2"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-		<streettile name="rwg_tile_downtown_intersection_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-		
-        <!-- NOT SURE HOW GATEWAY TILES WILL BE EXPRESSED IN A21 -->
-		<streettile name="rwg_tile_gateway_straight_zztong_01">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
-			<property name="maxdensity" value="120"/>
-		</streettile>
-
         <!-- This should make sure any POIs under development end up all over the map. -->
         <prefab_spawn_adjust tags="zztest" bias="20" min_count="5"/>
-
 	</append>
 
 </rwgmixer>

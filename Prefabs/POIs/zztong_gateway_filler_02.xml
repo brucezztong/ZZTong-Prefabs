@@ -13,6 +13,14 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Tags" value="snow,gateway,pine_forest" />
   <property name="Zoning" value="none" />
+  <property name="POIMarkerSize" value="19, 13, 2" />
+  <property name="POIMarkerStart" value="11, 2, -2" />
+  <property name="POIMarkerGroup" value="driveway" />
+  <property name="POIMarkerTags" value="gateway" />
+  <property name="POIMarkerType" value="PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_driveway_gateway_19" />
+  <property name="POIMarkerPartRotations" value="2" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
     <property name="TotalVertices" value="149400" />
     <property name="TotalTriangles" value="122441" />

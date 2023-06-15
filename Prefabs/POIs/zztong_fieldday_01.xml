@@ -13,7 +13,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-2" />
-  <property name="Tags" value="desert,wilderness,pine_forest" />
+  <property name="Tags" value="desert,wilderness,gateway,pine_forest" />
   <property name="SleeperVolumeSize" value="9, 7, 15#11, 7, 17#19, 7, 11#16, 7, 27" />
   <property name="SleeperVolumeStart" value="2, 2, 2#29, 2, 2#13, 2, 30#12, 2, 2" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
@@ -21,14 +21,14 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
-  <property name="POIMarkerSize" value="7, 1, 5#2, 2, 2#3, 4, 3" />
-  <property name="POIMarkerStart" value="19, 1, -5#30, 2, 20#38, 1, 30" />
-  <property name="POIMarkerGroup" value="road,delivery,potty" />
-  <property name="POIMarkerTags" value="##" />
-  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",part_zztong_delivery_03,part_zztong_tfp_porta_potty_01" />
-  <property name="POIMarkerPartRotations" value="2,0,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.5,0.8" />
+  <property name="POIMarkerSize" value="7, 1, 5#2, 2, 2#3, 3, 3#7, 13, 2" />
+  <property name="POIMarkerStart" value="19, 1, -5#30, 2, 20#38, 1, 30#19, 1, -2" />
+  <property name="POIMarkerGroup" value="road,delivery,potty,driveway" />
+  <property name="POIMarkerTags" value="###gateway" />
+  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",part_zztong_delivery_03,part_zztong_tfp_porta_potty_01,part_zztong_driveway_gateway_07" />
+  <property name="POIMarkerPartRotations" value="2,0,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.5,0.8,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
     <property name="TotalVertices" value="278067" />

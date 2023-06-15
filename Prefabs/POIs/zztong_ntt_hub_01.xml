@@ -25,10 +25,10 @@
   <property name="POIMarkerGroup" value="roof1,roof2,driveway,ladder,vultures,driveway" />
   <property name="POIMarkerTags" value="#####gateway" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_05,part_greeble_rooftop_05,part_driveway_rural_12,part_zztong_ladder_iron_01,part_zztong_vultures_01,part_driveway_gateway_02" />
+  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_05,part_greeble_rooftop_05,part_driveway_rural_12,part_zztong_ladder_iron_01,part_zztong_vultures_01,part_zztong_driveway_gateway_07" />
   <property name="POIMarkerPartRotations" value="0,0,2,3,1,2" />
   <property name="POIMarkerPartSpawnChance" value="0.8,0.8,1,0.6,0.2,1" />
-  <property name="Tags" value="rural" />
+  <property name="Tags" value="rural,gateway" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="IndexedBlockOffsets">
     <property class="Rally">

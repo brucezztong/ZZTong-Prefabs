@@ -28,7 +28,7 @@
   <property name="POIMarkerGroup" value="road,gas,driveway" />
   <property name="POIMarkerTags" value="##gateway" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_01,part_tank_propane_01,part_driveway_gateway_02" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_01,part_tank_propane_01,part_zztong_driveway_gateway_07" />
   <property name="POIMarkerPartRotations" value="0,3,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.6,1" />
   <property name="PrefabSize" value="42, 15, 42" />

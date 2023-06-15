@@ -26,7 +26,7 @@
   <property name="POIMarkerGroup" value="barrier,evcharge,rail,mines,potty,driveway,trailer,driveway" />
   <property name="POIMarkerTags" value="#####rural##gateway" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_zztong_barrier6,part_zztong_ev_charger_01,part_zztong_guard_rail8,part_zztong_mine_field_02,part_zztong_tfp_porta_potty_01,part_driveway_rural_12,part_trailer_car,part_driveway_gateway_02" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_barrier6,part_zztong_ev_charger_01,part_zztong_guard_rail8,part_zztong_mine_field_02,part_zztong_tfp_porta_potty_01,part_driveway_rural_12,part_trailer_car,part_zztong_driveway_gateway_07" />
   <property name="POIMarkerPartRotations" value="0,0,0,0,0,2,3,2" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.6,0.6,0.1,0.7,1,0.6,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
