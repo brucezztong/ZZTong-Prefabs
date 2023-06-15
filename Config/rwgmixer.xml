@@ -41,14 +41,14 @@
 		</streettile>
 		
 		<streettile name="rwg_tile_residential_straight_zztong_01">
-			<property name="maxtiles" value="2"/>
+			<property name="maxtiles" value="1"/>
 			<property name="mintiles" value="0"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
 		
 		<streettile name="rwg_tile_residential_straight_zztong_02">
-			<property name="maxtiles" value="1"/>
-			<property name="mintiles" value="0"/>
+			<property name="maxtiles" value="2"/>
+			<property name="mintiles" value="1"/>
 			<property name="maxdensity" value="120"/>
 		</streettile>
 		
