@@ -31,15 +31,15 @@
   <property name="Tags" value="wilderness" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="160105" />
-    <property name="TotalTriangles" value="67492" />
+    <property name="TotalVertices" value="194210" />
+    <property name="TotalTriangles" value="79553" />
     <property class="BlockEntities">
-      <property name="Vertices" value="126947" />
-      <property name="Triangles" value="44718" />
+      <property name="Vertices" value="161096" />
+      <property name="Triangles" value="56801" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="27904" />
-      <property name="Triangles" value="14634" />
+      <property name="Vertices" value="27860" />
+      <property name="Triangles" value="14612" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -76,13 +76,13 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="9, 3, 7" />
-      <property name="1" value="19, 3, 8" />
-      <property name="2" value="7, 3, 11" />
-      <property name="3" value="11, 3, 11" />
-      <property name="4" value="5, 3, 12" />
-      <property name="5" value="7, 3, 14" />
-      <property name="6" value="17, 3, 14" />
-      <property name="7" value="20, 5, 14" />
+      <property name="1" value="7, 3, 11" />
+      <property name="2" value="11, 3, 11" />
+      <property name="3" value="5, 3, 12" />
+      <property name="4" value="7, 3, 14" />
+      <property name="5" value="20, 5, 14" />
+      <property name="6" value="19, 3, 8" />
+      <property name="7" value="17, 3, 14" />
     </property>
     <property class="Rally">
       <property name="0" value="37, 4, 3" />
