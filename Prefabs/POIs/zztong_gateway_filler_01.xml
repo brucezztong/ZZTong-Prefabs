@@ -30,11 +30,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.6,0.1,0.1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="88739" />
-    <property name="TotalTriangles" value="103386" />
+    <property name="TotalVertices" value="155949" />
+    <property name="TotalTriangles" value="117127" />
     <property class="BlockEntities">
-      <property name="Vertices" value="77598" />
-      <property name="Triangles" value="90945" />
+      <property name="Vertices" value="144808" />
+      <property name="Triangles" value="104686" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="5279" />
@@ -68,6 +68,12 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="37, 4, 7" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="14, 5, 16" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="37, 4, 34" />
     </property>
   </property>
 </prefab>

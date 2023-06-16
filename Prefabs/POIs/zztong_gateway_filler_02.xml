@@ -22,11 +22,11 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="149400" />
-    <property name="TotalTriangles" value="122441" />
+    <property name="TotalVertices" value="185031" />
+    <property name="TotalTriangles" value="128637" />
     <property class="BlockEntities">
-      <property name="Vertices" value="70132" />
-      <property name="Triangles" value="76793" />
+      <property name="Vertices" value="105763" />
+      <property name="Triangles" value="82989" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
@@ -60,6 +60,9 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="38, 3, 38" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="3, 3, 37" />
     </property>
   </property>
 </prefab>
