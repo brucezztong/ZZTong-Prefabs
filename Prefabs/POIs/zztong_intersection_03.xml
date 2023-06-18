@@ -11,6 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 43, 64" />
   <property name="RotationToFaceNorth" value="2" />
+  <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="downtown,zzintersection" />
   <property name="YOffset" value="-13" />

@@ -10,6 +10,8 @@
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="120, 30, 120" />
+  <property name="DuplicateRepeatDistance" value="6000" />
+  <property name="Zoning" value="none" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="POIMarkerSize" value="6, 1, 5#3, 4, 4#7, 18, 7#7, 18, 7#7, 18, 7#7, 4, 7#7, 7, 7#5, 1, 5#5, 1, 5" />
   <property name="POIMarkerStart" value="57, 7, -5#94, 8, 8#108, 7, 27#108, 7, 36#108, 7, 45#7, 7, 49#7, 4, 58#57, 8, 27#56, 8, 65" />
@@ -19,7 +21,6 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_residential_04,part_gas_contraption_01,part_farm60_silo_02,part_farm60_silo_02,part_farm60_silo_02,part_chicken_coup_02,part_zztong_storm_cellar_03,part_zztong_mine_field_02,part_zztong_mine_field_02" />
   <property name="POIMarkerPartRotations" value="2,0,3,3,3,1,1,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.8,0.8,0.8,0.8,0.8,0.8,0.2,0.2" />
-  <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="27, 7, 20#4, 3, 22#14, 6, 14#15, 6, 6#14, 6, 14#14, 8, 14#14, 7, 6#14, 8, 14#4, 10, 20#10, 7, 9#5, 7, 20#10, 7, 9#12, 7, 9#12, 7, 9#45, 5, 32#14, 5, 27#14, 6, 27#13, 4, 17#13, 7, 17#18, 9, 27#46, 15, 21#27, 7, 59#16, 5, 17" />
   <property name="SleeperVolumeStart" value="31, 8, 39#58, 9, 38#62, 8, 32#61, 8, 46#62, 8, 52#62, 14, 52#62, 14, 46#62, 14, 32#58, 12, 39#48, 15, 50#43, 15, 39#48, 15, 39#31, 15, 39#31, 15, 50#31, 22, 33#16, 8, 6#16, 13, 6#98, 8, 7#98, 12, 7#5, 8, 68#29, 8, 96#79, 8, 30#58, 3, 42" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />

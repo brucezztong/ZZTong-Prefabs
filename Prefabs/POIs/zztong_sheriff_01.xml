@@ -12,6 +12,7 @@
   <property name="PrefabSize" value="42, 37, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
+  <property name="ThemeTags" value="policecountrytown" />
   <property name="Tags" value="snow,desert,countrytown,rural,pine_forest,diagonal" />
   <property name="YOffset" value="-8" />
   <property name="SleeperVolumeSize" value="7, 5, 11#7, 5, 12#9, 4, 24#11, 4, 24#11, 5, 10#9, 4, 9#13, 4, 15#3, 4, 16#7, 4, 25#7, 4, 24#7, 4, 22#20, 6, 26#8, 6, 25#20, 6, 22" />

@@ -7,6 +7,8 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="3" />
+  <property name="ThemeTags" value="radio" />
+  <property name="ThemeRepeatDistance" value="500" />
   <property name="Zoning" value="Commercial" />
   <property name="AllowedTownships" value="city" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />

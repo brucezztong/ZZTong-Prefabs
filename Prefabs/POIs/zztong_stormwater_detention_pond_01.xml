@@ -28,17 +28,21 @@
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="IndexedBlockOffsets">
     <property class="quest_feather">
       <property name="0" value="21, 5, 21" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="12, 5, 1" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="64299" />
-    <property name="TotalTriangles" value="64070" />
+    <property name="TotalVertices" value="62373" />
+    <property name="TotalTriangles" value="23760" />
     <property class="BlockEntities">
-      <property name="Vertices" value="60378" />
-      <property name="Triangles" value="58715" />
+      <property name="Vertices" value="58979" />
+      <property name="Triangles" value="18832" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="1174" />
@@ -57,28 +61,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="527" />
-      <property name="Triangles" value="427" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="2220" />
       <property name="Triangles" value="3888" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>

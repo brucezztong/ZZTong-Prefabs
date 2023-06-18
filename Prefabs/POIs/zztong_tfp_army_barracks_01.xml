@@ -6,6 +6,7 @@
   <property name="YOffset" value="-3" />
   <property name="QuestTags" value="clear, fetch" />
   <property name="DifficultyTier" value="2" />
+  <property name="DuplicateRepeatDistance" value="4000" />
   <property name="Zoning" value="Rural, ResidentialOld" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="town" />

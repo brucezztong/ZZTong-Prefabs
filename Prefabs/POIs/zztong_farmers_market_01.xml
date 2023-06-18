@@ -31,18 +31,18 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_01,part_driveway_gateway_02" />
   <property name="POIMarkerPartRotations" value="0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
-  <property name="PrefabSize" value="42, 8, 42" />
+  <property name="PrefabSize" value="42, 7, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="372179" />
-    <property name="TotalTriangles" value="231059" />
+    <property name="TotalVertices" value="464262" />
+    <property name="TotalTriangles" value="252414" />
     <property class="BlockEntities">
-      <property name="Vertices" value="351951" />
-      <property name="Triangles" value="215111" />
+      <property name="Vertices" value="446386" />
+      <property name="Triangles" value="237386" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="15182" />
-      <property name="Triangles" value="8152" />
+      <property name="Vertices" value="12830" />
+      <property name="Triangles" value="7232" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -72,6 +72,7 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="39, 2, 35" />
+      <property name="1" value="39, 2, 21" />
     </property>
     <property class="quest_feather">
       <property name="0" value="41, 2, 38" />

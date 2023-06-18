@@ -34,12 +34,12 @@
   <property name="PrefabSize" value="42, 15, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="25, 5, 27" />
+      <property name="1" value="26, 5, 27" />
+    </property>
     <property class="POILight">
       <property name="0" value="25, 4, 23" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="25, 4, 16" />
-      <property name="1" value="28, 3, 16" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="22, 8, 17" />
@@ -52,15 +52,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="485999" />
-    <property name="TotalTriangles" value="167108" />
+    <property name="TotalVertices" value="509576" />
+    <property name="TotalTriangles" value="174381" />
     <property class="BlockEntities">
-      <property name="Vertices" value="457673" />
-      <property name="Triangles" value="145610" />
+      <property name="Vertices" value="481266" />
+      <property name="Triangles" value="152891" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="22708" />
-      <property name="Triangles" value="12470" />
+      <property name="Vertices" value="22692" />
+      <property name="Triangles" value="12462" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

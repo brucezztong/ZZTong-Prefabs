@@ -12,6 +12,7 @@
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="city" />
   <property name="EditorGroups" value="commercial" />
+  <property name="DuplicateRepeatDistance" value="8000" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />

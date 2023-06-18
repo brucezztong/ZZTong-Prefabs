@@ -4,6 +4,7 @@
   <property name="AllowTopSoilDecorations" value="False" />
   <property name="YOffset" value="-1" />
   <property name="RotationToFaceNorth" value="2" />
+  <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="downtown" />
   <property name="AllowedTownships" value="city,town" />
   <property name="TraderArea" value="False" />

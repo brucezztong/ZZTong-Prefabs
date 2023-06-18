@@ -11,6 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="45, 15, 45" />
   <property name="RotationToFaceNorth" value="2" />
+  <property name="DuplicateRepeatDistance" value="4000" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="snow,wasteland,desert,wilderness,pine_forest" />
   <property name="YOffset" value="-3" />

@@ -31,15 +31,15 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.8,0.6,0.6,0.4,0.6,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="119588" />
-    <property name="TotalTriangles" value="53702" />
+    <property name="TotalVertices" value="181341" />
+    <property name="TotalTriangles" value="66594" />
     <property class="BlockEntities">
-      <property name="Vertices" value="106876" />
-      <property name="Triangles" value="44026" />
+      <property name="Vertices" value="168613" />
+      <property name="Triangles" value="56910" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="10892" />
-      <property name="Triangles" value="6540" />
+      <property name="Vertices" value="10908" />
+      <property name="Triangles" value="6548" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -70,16 +70,21 @@
     <property class="POILight">
       <property name="0" value="5, 6, 17" />
       <property name="1" value="10, 6, 17" />
+      <property name="2" value="7, 5, 21" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="5, 3, 20" />
       <property name="1" value="7, 6, 21" />
+      <property name="2" value="10, 5, 13" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="10, 4, 15" />
     </property>
     <property class="Rally">
       <property name="0" value="19, 4, 2" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="23, 3, 22" />
     </property>
   </property>
 </prefab>

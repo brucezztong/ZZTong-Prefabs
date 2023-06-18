@@ -19,8 +19,16 @@
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="Tags" value="wilderness,rural,gateway" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
+  <property name="POIMarkerSize" value="3, 1, 5" />
+  <property name="POIMarkerStart" value="11, 2, -5" />
+  <property name="POIMarkerGroup" value="Road" />
+  <property name="POIMarkerTags" value="" />
+  <property name="POIMarkerType" value="RoadExit" />
+  <property name="POIMarkerPartToSpawn" value="" />
+  <property name="POIMarkerPartRotations" value="0" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
     <property name="TotalVertices" value="39288" />
     <property name="TotalTriangles" value="20569" />
