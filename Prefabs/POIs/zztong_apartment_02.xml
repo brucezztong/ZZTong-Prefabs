@@ -24,14 +24,14 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="commercial" />
-  <property name="POIMarkerSize" value="5, 3, 5#5, 5, 5#4, 1, 1#3, 1, 2#3, 7, 4" />
-  <property name="POIMarkerStart" value="44, 17, 16#15, 17, 16#30, 2, 4#19, 2, 42#29, 17, 22" />
-  <property name="POIMarkerGroup" value="roof2,roof1,spikes,vultures,water" />
-  <property name="POIMarkerTags" value="####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_01,part_greeble_rooftop_04,part_zztong_spikes_wood4,part_zztong_vultures_02,part_zztong_tfp_roof_watertank_01" />
-  <property name="POIMarkerPartRotations" value="3,3,0,0,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.2,0.2,0.6" />
+  <property name="POIMarkerSize" value="5, 3, 5#5, 5, 5#4, 1, 1#3, 1, 2#3, 7, 4#1, 2, 1#2, 2, 2#2, 1, 1" />
+  <property name="POIMarkerStart" value="44, 17, 16#15, 17, 16#30, 2, 4#19, 2, 42#29, 17, 22#23, 2, 26#23, 2, 27#23, 2, 23" />
+  <property name="POIMarkerGroup" value="roof2,roof1,spikes,vultures,water,delivery1,delivery2,delivery3" />
+  <property name="POIMarkerTags" value="#######" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_01,part_greeble_rooftop_04,part_zztong_spikes_wood4,part_zztong_vultures_02,part_zztong_tfp_roof_watertank_01,part_zztong_delivery_05,part_zztong_delivery_03,part_zztong_delivery_04" />
+  <property name="POIMarkerPartRotations" value="3,3,0,0,2,1,3,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.6,0.2,0.1,0.6,0.7,0.7,0.7" />
   <property name="PrefabSize" value="60, 19, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property class="IndexedBlockOffsets">
@@ -43,30 +43,30 @@
       <property name="0" value="46, 2, 31" />
     </property>
     <property class="quest_wood_trees">
-      <property name="0" value="58, 2, 42" />
+      <property name="0" value="58, 2, 58" />
     </property>
     <property class="Rally">
       <property name="0" value="32, 3, 1" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1376632" />
-    <property name="TotalTriangles" value="546025" />
+    <property name="TotalVertices" value="1506689" />
+    <property name="TotalTriangles" value="590528" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1185498" />
-      <property name="Triangles" value="434486" />
+      <property name="Vertices" value="1301013" />
+      <property name="Triangles" value="471755" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="181022" />
-      <property name="Triangles" value="95459" />
+      <property name="Vertices" value="194988" />
+      <property name="Triangles" value="102405" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="576" />
+      <property name="Triangles" value="288" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="288" />
@@ -83,10 +83,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="9344" />
       <property name="Triangles" value="15696" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>

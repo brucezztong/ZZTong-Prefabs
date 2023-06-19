@@ -41,29 +41,29 @@
     <property class="Rally">
       <property name="0" value="17, 3, 40" />
     </property>
-    <property class="quest_feather">
-      <property name="0" value="26, 6, 29" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="27, 2, 27" />
       <property name="1" value="29, 4, 30" />
       <property name="2" value="36, 6, 31" />
       <property name="3" value="31, 2, 36" />
     </property>
+    <property class="quest_feather">
+      <property name="0" value="26, 6, 29" />
+    </property>
     <property class="POILight">
       <property name="0" value="27, 4, 37" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="451780" />
-    <property name="TotalTriangles" value="237375" />
+    <property name="TotalVertices" value="488734" />
+    <property name="TotalTriangles" value="232497" />
     <property class="BlockEntities">
-      <property name="Vertices" value="388096" />
-      <property name="Triangles" value="162543" />
+      <property name="Vertices" value="440730" />
+      <property name="Triangles" value="181297" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="58604" />
-      <property name="Triangles" value="66922" />
+      <property name="Vertices" value="42924" />
+      <property name="Triangles" value="43290" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

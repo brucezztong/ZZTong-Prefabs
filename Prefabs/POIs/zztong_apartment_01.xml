@@ -50,6 +50,7 @@
       <property name="2" value="27, 13, 27" />
       <property name="3" value="27, 17, 27" />
       <property name="4" value="26, 11, 33" />
+      <property name="5" value="26, 9, 34" />
     </property>
     <property class="quest_feather">
       <property name="0" value="21, 19, 32" />
@@ -59,27 +60,27 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1047593" />
-    <property name="TotalTriangles" value="467280" />
+    <property name="TotalVertices" value="1144531" />
+    <property name="TotalTriangles" value="496481" />
     <property class="BlockEntities">
-      <property name="Vertices" value="948001" />
-      <property name="Triangles" value="406065" />
+      <property name="Vertices" value="1045115" />
+      <property name="Triangles" value="435622" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="89562" />
-      <property name="Triangles" value="48475" />
+      <property name="Vertices" value="89842" />
+      <property name="Triangles" value="48619" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="400" />
-      <property name="Triangles" value="200" />
+      <property name="Vertices" value="520" />
+      <property name="Triangles" value="260" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1964" />
-      <property name="Triangles" value="1032" />
+      <property name="Vertices" value="1996" />
+      <property name="Triangles" value="1048" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="240" />
@@ -92,10 +93,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="6818" />
       <property name="Triangles" value="10812" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="608" />
-      <property name="Triangles" value="576" />
     </property>
   </property>
 </prefab>
