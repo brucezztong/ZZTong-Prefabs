@@ -39,8 +39,8 @@
     </property>
     <property class="POILight">
       <property name="0" value="21, 6, 22" />
-      <property name="1" value="23, 9, 24" />
-      <property name="2" value="23, 6, 23" />
+      <property name="1" value="23, 6, 23" />
+      <property name="2" value="23, 9, 24" />
       <property name="3" value="23, 6, 25" />
     </property>
     <property class="TraderOnOff">
@@ -55,11 +55,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="476986" />
-    <property name="TotalTriangles" value="171728" />
+    <property name="TotalVertices" value="478521" />
+    <property name="TotalTriangles" value="174132" />
     <property class="BlockEntities">
-      <property name="Vertices" value="444791" />
-      <property name="Triangles" value="149341" />
+      <property name="Vertices" value="446326" />
+      <property name="Triangles" value="151745" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="26893" />

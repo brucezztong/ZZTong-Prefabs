@@ -49,23 +49,23 @@
       <property name="1" value="30, 3, 3" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="23, 3, 25" />
-      <property name="1" value="27, 3, 25" />
+      <property name="0" value="34, 3, 21" />
+      <property name="1" value="23, 3, 25" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="27, 7, 24" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="796776" />
-    <property name="TotalTriangles" value="320404" />
+    <property name="TotalVertices" value="1112085" />
+    <property name="TotalTriangles" value="383094" />
     <property class="BlockEntities">
-      <property name="Vertices" value="735771" />
-      <property name="Triangles" value="282215" />
+      <property name="Vertices" value="1050749" />
+      <property name="Triangles" value="344710" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="54617" />
-      <property name="Triangles" value="29301" />
+      <property name="Vertices" value="54980" />
+      <property name="Triangles" value="29512" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -76,8 +76,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1152" />
-      <property name="Triangles" value="576" />
+      <property name="Vertices" value="1120" />
+      <property name="Triangles" value="560" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -90,10 +90,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="5236" />
       <property name="Triangles" value="8312" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>

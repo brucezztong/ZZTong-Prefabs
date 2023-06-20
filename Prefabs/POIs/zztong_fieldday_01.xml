@@ -17,7 +17,7 @@
   <property name="SleeperVolumeSize" value="9, 7, 15#11, 7, 17#19, 7, 11#16, 7, 27" />
   <property name="SleeperVolumeStart" value="2, 2, 2#29, 2, 2#13, 2, 30#12, 2, 2" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4" />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
@@ -31,15 +31,15 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.5,0.8,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="278067" />
-    <property name="TotalTriangles" value="121318" />
+    <property name="TotalVertices" value="410512" />
+    <property name="TotalTriangles" value="152845" />
     <property class="BlockEntities">
-      <property name="Vertices" value="252117" />
-      <property name="Triangles" value="101206" />
+      <property name="Vertices" value="392300" />
+      <property name="Triangles" value="136753" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="21048" />
-      <property name="Triangles" value="12388" />
+      <property name="Vertices" value="13310" />
+      <property name="Triangles" value="8368" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -70,17 +70,18 @@
     <property class="quest_wood_trees">
       <property name="0" value="39, 2, 3" />
     </property>
+    <property class="POILight">
+      <property name="0" value="37, 3, 16" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="34, 2, 36" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="27, 5, 33" />
+      <property name="0" value="39, 2, 29" />
+      <property name="1" value="39, 2, 33" />
     </property>
     <property class="Rally">
       <property name="0" value="26, 3, 5" />
-    </property>
-    <property class="POILight">
-      <property name="0" value="37, 3, 16" />
     </property>
   </property>
 </prefab>

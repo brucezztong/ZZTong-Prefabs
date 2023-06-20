@@ -21,25 +21,25 @@
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_farm60_shed_01,part_driveway_rural_12,part_zztong_dog_pack_two_01,part_zztong_storm_cellar_01,part_zztong_spikes_wood4" />
   <property name="POIMarkerPartRotations" value="2,2,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,1,0.4,0.2,0.6" />
-  <property name="SleeperVolumeSize" value="10, 8, 8#25, 7, 30#6, 5, 10" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,1,0.1,0.2,0.6" />
+  <property name="SleeperVolumeSize" value="10, 8, 8#25, 7, 40#6, 5, 10" />
   <property name="SleeperVolumeStart" value="2, 5, 32#13, 5, 11#3, 6, 22" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="931443" />
-    <property name="TotalTriangles" value="380765" />
+    <property name="TotalVertices" value="1022380" />
+    <property name="TotalTriangles" value="396506" />
     <property class="BlockEntities">
-      <property name="Vertices" value="895719" />
-      <property name="Triangles" value="349963" />
+      <property name="Vertices" value="987758" />
+      <property name="Triangles" value="366780" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25782" />
-      <property name="Triangles" value="14006" />
+      <property name="Vertices" value="24680" />
+      <property name="Triangles" value="12930" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

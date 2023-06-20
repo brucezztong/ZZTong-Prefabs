@@ -25,15 +25,15 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="wilderness,pine_forest" />
-  <property name="POIMarkerSize" value="7, 1, 5" />
-  <property name="POIMarkerStart" value="81, 2, -5" />
-  <property name="POIMarkerGroup" value="new" />
-  <property name="POIMarkerTags" value="" />
-  <property name="POIMarkerType" value="RoadExit" />
-  <property name="POIMarkerPartToSpawn" value="" />
-  <property name="POIMarkerPartRotations" value="2" />
-  <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="148, 10, 148" />
+  <property name="POIMarkerSize" value="7, 1, 5#1, 1, 6#6, 15, 13#5, 1, 5#1, 2, 1#8, 1, 1#5, 9, 5#7, 16, 8#4, 12, 6#5, 4, 5" />
+  <property name="POIMarkerStart" value="81, 2, -5#42, 3, 2#6, 3, 2#10, 3, 130#95, 3, 2#80, 3, 1#91, 3, 15#113, 3, 11#142, 3, 2#71, 3, 129" />
+  <property name="POIMarkerGroup" value="road,barrier,billboard,campsite,delivery,cones,tower,water,electric,shed" />
+  <property name="POIMarkerTags" value="#########" />
+  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",part_zztong_barrier6_orange,part_zztong_billboard_carshow,part_zztong_campsite_01,part_zztong_delivery_05,part_zztong_traffic_cones8,part_zztong_watchtower_01,part_5m_water_tower,part_electrical_tower_01,part_shed_04" />
+  <property name="POIMarkerPartRotations" value="2,1,1,1,0,0,1,0,1,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.8,0.4,0.6,0.4,0.8,0.4,0.8,0.4" />
+  <property name="PrefabSize" value="148, 23, 148" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
@@ -42,26 +42,27 @@
     <property class="quest_stone_boulder">
       <property name="0" value="111, 3, 49" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="115, 3, 5" />
+      <property name="1" value="115, 3, 7" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="114, 3, 95" />
     </property>
     <property class="Rally">
       <property name="0" value="75, 4, 7" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="115, 3, 7" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1418067" />
-    <property name="TotalTriangles" value="725396" />
+    <property name="TotalVertices" value="1984180" />
+    <property name="TotalTriangles" value="824343" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1350911" />
-      <property name="Triangles" value="627096" />
+      <property name="Vertices" value="1916826" />
+      <property name="Triangles" value="725875" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="9888" />
-      <property name="Triangles" value="5860" />
+      <property name="Vertices" value="10086" />
+      <property name="Triangles" value="6028" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -86,10 +87,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="56884" />
       <property name="Triangles" value="92248" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
 </prefab>
