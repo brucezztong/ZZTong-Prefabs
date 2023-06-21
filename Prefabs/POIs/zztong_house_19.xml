@@ -31,11 +31,11 @@
   <property name="Tags" value="countryresidential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="245209" />
-    <property name="TotalTriangles" value="83465" />
+    <property name="TotalVertices" value="260709" />
+    <property name="TotalTriangles" value="88289" />
     <property class="BlockEntities">
-      <property name="Vertices" value="236831" />
-      <property name="Triangles" value="76977" />
+      <property name="Vertices" value="252331" />
+      <property name="Triangles" value="81801" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="6424" />
@@ -74,6 +74,7 @@
     <property class="TraderOnOff">
       <property name="0" value="19, 4, 13" />
       <property name="1" value="19, 4, 16" />
+      <property name="2" value="15, 3, 22" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="21, 4, 17" />

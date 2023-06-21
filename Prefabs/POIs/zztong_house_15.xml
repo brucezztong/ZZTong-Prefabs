@@ -31,11 +31,11 @@
   <property name="Tags" value="residential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="252429" />
-    <property name="TotalTriangles" value="134126" />
+    <property name="TotalVertices" value="342312" />
+    <property name="TotalTriangles" value="149623" />
     <property class="BlockEntities">
-      <property name="Vertices" value="215684" />
-      <property name="Triangles" value="109307" />
+      <property name="Vertices" value="305567" />
+      <property name="Triangles" value="124804" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="32310" />
@@ -72,6 +72,7 @@
     </property>
     <property class="POILight">
       <property name="0" value="17, 10, 12" />
+      <property name="1" value="15, 8, 12" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="23, 6, 13" />

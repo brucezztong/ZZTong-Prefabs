@@ -31,15 +31,15 @@
   <property name="Tags" value="residential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="294382" />
-    <property name="TotalTriangles" value="128697" />
+    <property name="TotalVertices" value="320220" />
+    <property name="TotalTriangles" value="135298" />
     <property class="BlockEntities">
-      <property name="Vertices" value="243566" />
-      <property name="Triangles" value="99783" />
+      <property name="Vertices" value="271072" />
+      <property name="Triangles" value="107228" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="47010" />
-      <property name="Triangles" value="24702" />
+      <property name="Vertices" value="45594" />
+      <property name="Triangles" value="23994" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -50,8 +50,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="572" />
-      <property name="Triangles" value="296" />
+      <property name="Vertices" value="320" />
+      <property name="Triangles" value="160" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="1392" />
@@ -75,13 +75,13 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="16, 8, 12" />
-      <property name="1" value="19, 8, 13" />
-      <property name="2" value="13, 13, 17" />
-      <property name="3" value="15, 3, 17" />
-      <property name="4" value="19, 8, 17" />
-      <property name="5" value="16, 8, 18" />
-      <property name="6" value="14, 8, 19" />
-      <property name="7" value="15, 3, 20" />
+      <property name="1" value="13, 13, 17" />
+      <property name="2" value="15, 3, 17" />
+      <property name="3" value="16, 8, 18" />
+      <property name="4" value="14, 8, 19" />
+      <property name="5" value="15, 3, 20" />
+      <property name="6" value="16, 4, 12" />
+      <property name="7" value="16, 4, 15" />
     </property>
     <property class="Rally">
       <property name="0" value="14, 4, 1" />

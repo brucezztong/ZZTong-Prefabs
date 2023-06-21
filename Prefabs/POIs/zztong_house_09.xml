@@ -31,27 +31,27 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="181203" />
-    <property name="TotalTriangles" value="76395" />
+    <property name="TotalVertices" value="183493" />
+    <property name="TotalTriangles" value="76936" />
     <property class="BlockEntities">
-      <property name="Vertices" value="154628" />
-      <property name="Triangles" value="60697" />
+      <property name="Vertices" value="157877" />
+      <property name="Triangles" value="61714" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="23107" />
-      <property name="Triangles" value="11378" />
+      <property name="Vertices" value="22084" />
+      <property name="Triangles" value="10870" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="1088" />
-      <property name="Triangles" value="544" />
+      <property name="Vertices" value="1280" />
+      <property name="Triangles" value="640" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="176" />
-      <property name="Triangles" value="88" />
+      <property name="Vertices" value="48" />
+      <property name="Triangles" value="24" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="144" />
@@ -65,10 +65,6 @@
       <property name="Vertices" value="2060" />
       <property name="Triangles" value="3616" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="Rally">
@@ -81,7 +77,10 @@
       <property name="3" value="22, 5, 20" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="19, 4, 4" />
+      <property name="0" value="13, 4, 16" />
+      <property name="1" value="13, 4, 13" />
+      <property name="2" value="16, 4, 20" />
+      <property name="3" value="19, 4, 20" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="15, 9, 5" />

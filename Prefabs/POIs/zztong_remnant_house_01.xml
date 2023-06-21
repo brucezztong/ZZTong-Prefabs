@@ -32,16 +32,18 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_07,part_driveway_residential_01,part_driveway_rural_02" />
   <property name="POIMarkerPartRotations" value="2,2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
+  <property name="QuestTags" value="burnt_forest,wasteland" />
   <property class="Stats">
-    <property name="TotalVertices" value="38755" />
-    <property name="TotalTriangles" value="40718" />
+    <property name="TotalVertices" value="104007" />
+    <property name="TotalTriangles" value="31047" />
     <property class="BlockEntities">
-      <property name="Vertices" value="25338" />
-      <property name="Triangles" value="29429" />
+      <property name="Vertices" value="92533" />
+      <property name="Triangles" value="21311" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="8406" />
-      <property name="Triangles" value="4260" />
+      <property name="Vertices" value="8254" />
+      <property name="Triangles" value="4172" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -56,28 +58,21 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="1791" />
-      <property name="Triangles" value="1465" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
       <property name="Vertices" value="3220" />
       <property name="Triangles" value="5564" />
     </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="5, 6, 10" />
     </property>
   </property>
 </prefab>

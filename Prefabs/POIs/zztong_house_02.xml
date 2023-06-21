@@ -32,7 +32,7 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_09" />
   <property name="POIMarkerPartRotations" value="0" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="PrefabSize" value="42, 15, 42" />
+  <property name="PrefabSize" value="42, 16, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
@@ -52,6 +52,7 @@
       <property name="2" value="29, 8, 22" />
       <property name="3" value="28, 8, 30" />
       <property name="4" value="34, 8, 30" />
+      <property name="5" value="21, 7, 23" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="32, 6, 22" />
@@ -65,15 +66,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="330910" />
-    <property name="TotalTriangles" value="157692" />
+    <property name="TotalVertices" value="534190" />
+    <property name="TotalTriangles" value="200246" />
     <property class="BlockEntities">
-      <property name="Vertices" value="287626" />
-      <property name="Triangles" value="129653" />
+      <property name="Vertices" value="491162" />
+      <property name="Triangles" value="172335" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="35827" />
-      <property name="Triangles" value="18167" />
+      <property name="Vertices" value="35595" />
+      <property name="Triangles" value="18051" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -88,8 +89,8 @@
       <property name="Triangles" value="484" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="1416" />
-      <property name="Triangles" value="708" />
+      <property name="Vertices" value="1392" />
+      <property name="Triangles" value="696" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
