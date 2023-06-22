@@ -21,25 +21,25 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="YOffset" value="-9" />
-  <property name="POIMarkerSize" value="3, 9, 2#5, 3, 5#5, 3, 5#4, 7, 10#4, 7, 10#3, 7, 4" />
-  <property name="POIMarkerStart" value="37, 9, 5#11, 30, 28#27, 30, 28#0, 30, 26#38, 30, 26#20, 30, 29" />
-  <property name="POIMarkerGroup" value="pole,roof1,roof2,billboard1,billboard2,new" />
-  <property name="POIMarkerTags" value="#####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_utility_pole,part_greeble_rooftop_01,part_greeble_rooftop_01,part_zztong_building_billboard_03,part_zztong_building_billboard_02,part_zztong_tfp_roof_watertank_02" />
-  <property name="POIMarkerPartRotations" value="0,0,0,3,1,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.8,0.4,0.4,0.6" />
+  <property name="POIMarkerSize" value="3, 9, 2#5, 3, 5#5, 3, 5#4, 7, 10#4, 7, 10#3, 7, 4#2, 2, 2#2, 2, 2#2, 2, 2" />
+  <property name="POIMarkerStart" value="37, 9, 5#11, 30, 28#27, 30, 28#0, 30, 26#38, 30, 26#20, 30, 29#21, 23, 22#14, 23, 23#30, 23, 28" />
+  <property name="POIMarkerGroup" value="pole,roof1,roof2,billboard1,billboard2,new,delivery1,delivery2,delivery3" />
+  <property name="POIMarkerTags" value="########" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_utility_pole,part_greeble_rooftop_01,part_greeble_rooftop_01,part_zztong_building_billboard_03,part_zztong_building_billboard_02,part_zztong_tfp_roof_watertank_02,part_zztong_delivery_03,part_zztong_delivery_02,part_zztong_delivery_01" />
+  <property name="POIMarkerPartRotations" value="0,0,0,3,1,2,0,1,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.8,0.4,0.4,0.6,0.8,0.7,0.6" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1011086" />
-    <property name="TotalTriangles" value="411046" />
+    <property name="TotalVertices" value="981612" />
+    <property name="TotalTriangles" value="384863" />
     <property class="BlockEntities">
-      <property name="Vertices" value="858332" />
-      <property name="Triangles" value="315417" />
+      <property name="Vertices" value="830291" />
+      <property name="Triangles" value="289536" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="141762" />
-      <property name="Triangles" value="80965" />
+      <property name="Vertices" value="140865" />
+      <property name="Triangles" value="80951" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -50,8 +50,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="2936" />
-      <property name="Triangles" value="1576" />
+      <property name="Vertices" value="2400" />
+      <property name="Triangles" value="1288" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -81,8 +81,8 @@
       <property name="1" value="24, 19, 37" />
       <property name="2" value="24, 26, 37" />
       <property name="3" value="36, 28, 37" />
-      <property name="4" value="36, 11, 38" />
-      <property name="5" value="36, 11, 40" />
+      <property name="4" value="36, 11, 40" />
+      <property name="5" value="36, 11, 38" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="11, 17, 33" />

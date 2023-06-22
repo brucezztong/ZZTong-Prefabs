@@ -31,23 +31,23 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="501527" />
-    <property name="TotalTriangles" value="219780" />
+    <property name="TotalVertices" value="546057" />
+    <property name="TotalTriangles" value="232012" />
     <property class="BlockEntities">
-      <property name="Vertices" value="370212" />
-      <property name="Triangles" value="138685" />
+      <property name="Vertices" value="419738" />
+      <property name="Triangles" value="152429" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="110897" />
-      <property name="Triangles" value="63607" />
+      <property name="Vertices" value="110741" />
+      <property name="Triangles" value="63415" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="13516" />
-      <property name="Triangles" value="7088" />
+      <property name="Vertices" value="8676" />
+      <property name="Triangles" value="5768" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="812" />
@@ -64,10 +64,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="6090" />
       <property name="Triangles" value="9820" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
