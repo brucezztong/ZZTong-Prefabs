@@ -35,23 +35,23 @@
   <property name="POIMarkerPartSpawnChance" value="0.4,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2031058" />
-    <property name="TotalTriangles" value="868820" />
+    <property name="TotalVertices" value="2086410" />
+    <property name="TotalTriangles" value="883934" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1753151" />
-      <property name="Triangles" value="699351" />
+      <property name="Vertices" value="1810021" />
+      <property name="Triangles" value="715453" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="268439" />
-      <property name="Triangles" value="158433" />
+      <property name="Vertices" value="267229" />
+      <property name="Triangles" value="157529" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1302" />
-      <property name="Triangles" value="672" />
+      <property name="Vertices" value="994" />
+      <property name="Triangles" value="588" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="2280" />
@@ -69,23 +69,13 @@
       <property name="Vertices" value="5886" />
       <property name="Triangles" value="9224" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="37, 3, 20" />
+    </property>
     <property class="Rally">
       <property name="0" value="20, 4, 1" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="32, 26, 23" />
-      <property name="1" value="32, 30, 23" />
-      <property name="2" value="26, 34, 24" />
-      <property name="3" value="21, 26, 26" />
-      <property name="4" value="27, 22, 26" />
-      <property name="5" value="26, 3, 28" />
-      <property name="6" value="26, 22, 29" />
     </property>
     <property class="POILight">
       <property name="0" value="33, 11, 37" />

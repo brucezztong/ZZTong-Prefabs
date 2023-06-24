@@ -34,23 +34,23 @@
   <property name="PrefabSize" value="42, 13, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="492422" />
-    <property name="TotalTriangles" value="212945" />
+    <property name="TotalVertices" value="547497" />
+    <property name="TotalTriangles" value="226214" />
     <property class="BlockEntities">
-      <property name="Vertices" value="423378" />
-      <property name="Triangles" value="163655" />
+      <property name="Vertices" value="482091" />
+      <property name="Triangles" value="180360" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="61624" />
-      <property name="Triangles" value="39552" />
+      <property name="Vertices" value="57994" />
+      <property name="Triangles" value="36120" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="248" />
-      <property name="Triangles" value="124" />
+      <property name="Vertices" value="240" />
+      <property name="Triangles" value="120" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="1814" />
@@ -68,15 +68,12 @@
       <property name="Vertices" value="5094" />
       <property name="Triangles" value="8060" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="24, 10, 27" />
-      <property name="1" value="31, 6, 34" />
+      <property name="0" value="31, 5, 25" />
+      <property name="1" value="24, 10, 27" />
+      <property name="2" value="31, 6, 34" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 5, 28" />
