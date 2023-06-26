@@ -31,15 +31,15 @@
   <property name="Tags" value="countrytown,diagonal" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="802540" />
-    <property name="TotalTriangles" value="324953" />
+    <property name="TotalVertices" value="913608" />
+    <property name="TotalTriangles" value="358244" />
     <property class="BlockEntities">
-      <property name="Vertices" value="710193" />
-      <property name="Triangles" value="264250" />
+      <property name="Vertices" value="821577" />
+      <property name="Triangles" value="297709" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="86225" />
-      <property name="Triangles" value="52119" />
+      <property name="Vertices" value="86001" />
+      <property name="Triangles" value="52007" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -50,8 +50,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="1028" />
-      <property name="Triangles" value="524" />
+      <property name="Vertices" value="936" />
+      <property name="Triangles" value="468" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />

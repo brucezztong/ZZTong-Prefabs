@@ -34,15 +34,15 @@
   <property name="PrefabSize" value="25, 14, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="189809" />
-    <property name="TotalTriangles" value="78494" />
+    <property name="TotalVertices" value="210023" />
+    <property name="TotalTriangles" value="80802" />
     <property class="BlockEntities">
-      <property name="Vertices" value="173196" />
-      <property name="Triangles" value="65582" />
+      <property name="Vertices" value="193730" />
+      <property name="Triangles" value="68066" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="13759" />
-      <property name="Triangles" value="7968" />
+      <property name="Vertices" value="13471" />
+      <property name="Triangles" value="7808" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="128" />
-      <property name="Triangles" value="64" />
+      <property name="Vertices" value="96" />
+      <property name="Triangles" value="48" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -68,16 +68,13 @@
       <property name="Vertices" value="2726" />
       <property name="Triangles" value="4880" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
       <property name="0" value="20, 9, 1" />
       <property name="1" value="16, 8, 11" />
       <property name="2" value="19, 8, 11" />
+      <property name="3" value="18, 8, 2" />
     </property>
     <property class="quest_feather">
       <property name="0" value="2, 10, 22" />

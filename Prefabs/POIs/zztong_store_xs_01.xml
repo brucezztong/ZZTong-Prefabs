@@ -30,19 +30,19 @@
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_20,part_greeble_rooftop_03,part_greeble_rooftop_03,part_zztong_delivery_01,part_zztong_dumpster_01,part_zztong_vultures_01" />
   <property name="POIMarkerPartRotations" value="2,0,0,2,0,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.6,1,0.8,0.2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.6,1,0.8,0.1" />
   <property name="PrefabSize" value="25, 10, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="207852" />
-    <property name="TotalTriangles" value="82131" />
+    <property name="TotalVertices" value="209530" />
+    <property name="TotalTriangles" value="82757" />
     <property class="BlockEntities">
-      <property name="Vertices" value="178450" />
-      <property name="Triangles" value="61816" />
+      <property name="Vertices" value="180240" />
+      <property name="Triangles" value="62498" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="27434" />
-      <property name="Triangles" value="17035" />
+      <property name="Vertices" value="27322" />
+      <property name="Triangles" value="16979" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,10 +67,6 @@
     <property class="ChunkMeshes6">
       <property name="Vertices" value="1840" />
       <property name="Triangles" value="3216" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

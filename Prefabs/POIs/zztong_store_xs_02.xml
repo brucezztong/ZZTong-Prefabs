@@ -34,15 +34,15 @@
   <property name="PrefabSize" value="25, 13, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="370595" />
-    <property name="TotalTriangles" value="135555" />
+    <property name="TotalVertices" value="377103" />
+    <property name="TotalTriangles" value="137649" />
     <property class="BlockEntities">
-      <property name="Vertices" value="331758" />
-      <property name="Triangles" value="112520" />
+      <property name="Vertices" value="338276" />
+      <property name="Triangles" value="114574" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="36227" />
-      <property name="Triangles" value="19165" />
+      <property name="Vertices" value="36233" />
+      <property name="Triangles" value="19213" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="774" />
-      <property name="Triangles" value="662" />
+      <property name="Vertices" value="758" />
+      <property name="Triangles" value="654" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -68,16 +68,13 @@
       <property name="Vertices" value="1836" />
       <property name="Triangles" value="3208" />
     </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
       <property name="0" value="19, 3, 13" />
       <property name="1" value="20, 8, 14" />
       <property name="2" value="17, 3, 18" />
+      <property name="3" value="19, 7, 14" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="18, 3, 14" />

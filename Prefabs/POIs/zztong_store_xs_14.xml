@@ -31,15 +31,15 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="611419" />
-    <property name="TotalTriangles" value="246048" />
+    <property name="TotalVertices" value="627526" />
+    <property name="TotalTriangles" value="249736" />
     <property class="BlockEntities">
-      <property name="Vertices" value="544039" />
-      <property name="Triangles" value="205918" />
+      <property name="Vertices" value="561722" />
+      <property name="Triangles" value="210490" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="63592" />
-      <property name="Triangles" value="34222" />
+      <property name="Vertices" value="62080" />
+      <property name="Triangles" value="33370" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -50,8 +50,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="664" />
-      <property name="Triangles" value="332" />
+      <property name="Vertices" value="600" />
+      <property name="Triangles" value="300" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -86,6 +86,7 @@
       <property name="1" value="12, 20, 14" />
       <property name="2" value="14, 2, 17" />
       <property name="3" value="17, 14, 17" />
+      <property name="4" value="12, 8, 14" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="18, 4, 6" />
