@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="9, 5, 8" />
+  <property name="PrefabSize" value="9, 4, 8" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Tags" value="part,hideui" />
   <property name="Zoning" value="none" />
@@ -22,15 +22,15 @@
   <property name="EditorGroups" value="parts" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="14450" />
-    <property name="TotalTriangles" value="5884" />
+    <property name="TotalVertices" value="55363" />
+    <property name="TotalTriangles" value="22462" />
     <property class="BlockEntities">
-      <property name="Vertices" value="11936" />
-      <property name="Triangles" value="4582" />
+      <property name="Vertices" value="55363" />
+      <property name="Triangles" value="22462" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="2514" />
-      <property name="Triangles" value="1302" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
