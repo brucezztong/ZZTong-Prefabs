@@ -14,6 +14,9 @@ A21.0.015 (ZZ015):
     gateway_filler_01, gateway_filler_02, gateway_filler_03.
 * Added wind_turbine_02 as a standard POI marker size for non-wilderness.
 * Added rwg_tile_gateway_straight_zztong_01.
+* Added skyscraper_01 and tfp_skyscraper_02 to the commercial district to take
+    some heat off of the downtown district. (They can now be in either.)
+    This also addresses player desires for more Tier 5 POIs on maps.
 * Removed all Destroyed POIs from the modlet. You can find them in the
     CompoPack where they may appear in the CP's destroyed city.
 * Reviewed all Parts and sent many to my Archive in favor of making and using

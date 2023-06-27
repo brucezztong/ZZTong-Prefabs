@@ -15,15 +15,15 @@
   <property name="Tags" value="part,hideui" />
   <property name="EditorGroups" value="parts" />
   <property class="Stats">
-    <property name="TotalVertices" value="10796" />
-    <property name="TotalTriangles" value="5578" />
+    <property name="TotalVertices" value="10772" />
+    <property name="TotalTriangles" value="5544" />
     <property class="BlockEntities">
       <property name="Vertices" value="8126" />
       <property name="Triangles" value="3574" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="2406" />
-      <property name="Triangles" value="1652" />
+      <property name="Vertices" value="2382" />
+      <property name="Triangles" value="1606" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -47,7 +47,7 @@
     </property>
     <property class="ChunkMeshes6">
       <property name="Vertices" value="264" />
-      <property name="Triangles" value="352" />
+      <property name="Triangles" value="364" />
     </property>
   </property>
 </prefab>

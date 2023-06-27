@@ -14,12 +14,12 @@
   <property name="AllowedBiomes" value="snow,pine_forest,desert,burnt_forest,wasteland" />
   <property name="EditorGroups" value="parts" />
   <property name="Zoning" value="none" />
-  <property name="QuestTags" value="snow,pine_forest,desert,burnt_forest,wasteland" />
+  <property name="QuestTags" value="snow, pine_forest, desert, burnt_forest, wasteland" />
   <property name="PrefabSize" value="7, 7, 7" />
   <property name="Tags" value="part,hideui" />
   <property class="Stats">
-    <property name="TotalVertices" value="3878" />
-    <property name="TotalTriangles" value="2334" />
+    <property name="TotalVertices" value="3890" />
+    <property name="TotalTriangles" value="2358" />
     <property class="BlockEntities">
       <property name="Vertices" value="1647" />
       <property name="Triangles" value="708" />
@@ -49,8 +49,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="434" />
-      <property name="Triangles" value="584" />
+      <property name="Vertices" value="446" />
+      <property name="Triangles" value="608" />
     </property>
   </property>
 </prefab>

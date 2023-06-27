@@ -9,7 +9,7 @@
   <property name="DifficultyTier" value="1" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />
-  <property name="DuplicateRepeatDistance" value="6000" />
+  <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="Rural, ResidentialOld" />
   <property name="AllowedBiomes" value="pine_forest" />
   <property name="AllowedTownships" value="rural" />

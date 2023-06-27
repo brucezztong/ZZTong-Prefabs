@@ -4,7 +4,7 @@
   <property name="AllowTopSoilDecorations" value="False" />
   <property name="YOffset" value="-1" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="DuplicateRepeatDistance" value="8000" />
+  <property name="DuplicateRepeatDistance" value="4000" />
   <property name="Zoning" value="downtown" />
   <property name="AllowedTownships" value="city,town" />
   <property name="TraderArea" value="False" />
@@ -15,7 +15,7 @@
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
-  <property name="EditorGroups" value="downtown" />
+  <property name="EditorGroups" value="downtown, commercial" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="QuestTags" value="clear" />
   <property name="ShowQuestClearCount" value="3" />
@@ -25,7 +25,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="PrefabSize" value="42, 66, 42" />
-  <property name="Tags" value="downtown" />
+  <property name="Tags" value="commercial,downtown" />
   <property name="POIMarkerSize" value="4, 2, 4#4, 2, 4#4, 2, 4#4, 2, 4#1, 1, 4#1, 1, 4#2, 1, 1#2, 2, 2#1, 1, 2#2, 2, 2#5, 1, 5#2, 2, 2" />
   <property name="POIMarkerStart" value="33, 43, 5#18, 43, 5#18, 43, 13#12, 43, 13#18, 3, 12#14, 3, 4#21, 3, 9#14, 3, 17#9, 11, 4#34, 11, 16#4, 3, 16#12, 35, 18" />
   <property name="POIMarkerGroup" value="greeb1,greeb2,greeb3,greeb4,spikes1,spikes2,spikes3,delivery1,spikes4,delivery2,mines,delivery3" />

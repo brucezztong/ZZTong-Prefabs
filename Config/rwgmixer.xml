@@ -15,12 +15,42 @@
     <set xpath="/rwgmixer/township[@name='city']/property[@name='outskirt_district']/@value">residential</set>
 
     <!-- **************************************************************
-        Add support for a handy testing tag to make testing a new POI
-        easier, because the POI will be more common in the world.
+        Tries to make the intersection tile a little more common
+        so that players get more Tier 5 content. Oddly enough, TFP
+        does this exact same thing in the Vanilla rwgmixer.
     ****************************************************************-->
 
 	<append xpath="/rwgmixer">
-        <!-- This should make sure any POIs under development end up all over the map. -->
+        <streettile name="rwg_tile_downtown_intersection_zztong_01">
+            <property name="maxtiles" value="1"/>
+            <property name="mintiles" value="0"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
+        IMPORTANT
+
+        This next section should be commented out unless you're ZZTong.
+        Trust me. You don't want this. If you see this code isn't
+        commented out, then it's a bug. Tell me. OMG, tell me.
+        If you leave it, you'll get an overly ZZTong map and think
+        I must have a massive ego, or something.
+    ****************************************************************-->
+
+    <!--
+	<append xpath="/rwgmixer">
+        <prefab_spawn_adjust partial_name="zztong" bias="5"/>
+	</append>
+    -->
+
+    <!-- **************************************************************
+        This should make sure a POI under development ends up all over
+        the map. This is harmless if you find it active as no POIs
+        should be tagged this way.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
         <prefab_spawn_adjust tags="zztest" bias="20" min_count="5"/>
 	</append>
 

@@ -10,7 +10,7 @@
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="120, 30, 120" />
-  <property name="DuplicateRepeatDistance" value="6000" />
+  <property name="DuplicateRepeatDistance" value="4000" />
   <property name="Zoning" value="none" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="POIMarkerSize" value="6, 1, 5#3, 4, 4#7, 18, 7#7, 18, 7#7, 18, 7#7, 4, 7#7, 7, 7#5, 1, 5#5, 1, 5#4, 4, 9#5, 5, 11" />

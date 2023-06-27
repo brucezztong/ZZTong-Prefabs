@@ -11,7 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="60, 24, 60" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="DuplicateRepeatDistance" value="4000" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="residential" />
   <property name="POIMarkerSize" value="12, 13, 5#3, 4, 3#1, 2, 1#4, 3, 6#1, 6, 3#3, 3, 3#5, 5, 8#2, 4, 1#2, 2, 2#2, 3, 2#2, 2, 2" />

@@ -11,7 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="EditorGroups" value="Wilderness" />
-  <property name="DuplicateRepeatDistance" value="6000" />
+  <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="ResidentialOld" />
   <property name="AllowedTownships" value="wilderness" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />

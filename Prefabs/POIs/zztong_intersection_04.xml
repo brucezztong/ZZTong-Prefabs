@@ -5,9 +5,9 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="4" />
-  <property name="ShowQuestClearCount" value="2" />
+  <property name="ShowQuestClearCount" value="5" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 41, 64" />
   <property name="RotationToFaceNorth" value="2" />
@@ -30,6 +30,7 @@
   <property name="POIMarkerPartSpawnChance" value="0.8,0.6,0.2,0.2,0.2,0.4,0.4,0.4,0.6,0.4" />
   <property name="YOffset" value="-6" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # " />
+  <property name="EditorGroups" value="downtown" />
   <property class="Stats">
     <property name="TotalVertices" value="1465013" />
     <property name="TotalTriangles" value="620198" />
