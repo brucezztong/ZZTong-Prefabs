@@ -11,7 +11,7 @@
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 13, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="Tags" value="streettile,hideui,rwgonly" />
   <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#60, 0, 60#9, 3, 12#4, 2, 6#1, 2, 1#5, 3, 5#5, 3, 5#3, 2, 4#5, 4, 5#14, 5, 5#5, 4, 1#5, 4, 1#11, 2, 5#3, 2, 1#1, 2, 3#3, 3, 12#1, 1, 2#5, 4, 7#2, 2, 7#2, 2, 7#2, 2, 7#2, 2, 8#2, 2, 2#1, 1, 5#1, 1, 5#1, 1, 4" />
   <property name="POIMarkerStart" value="25, 3, 18#25, 3, 62#25, 3, 106#85, 3, 83#86, 3, 7#90, 3, 135#111, 3, 142#131, 3, 112#136, 9, 116#127, 9, 139#84, 3, 134#61, 3, 3#26, 3, 11#138, 3, 110#129, 3, 147#115, 3, 127#75, 3, 7#145, 3, 75#8, 1, 18#69, 3, 72#18, 3, 24#83, 3, 33#83, 3, 40#83, 3, 47#15, 3, 139#17, 3, 9#84, 3, 128#55, 3, 11#84, 3, 1" />
   <property name="POIMarkerGroup" value="s1,s2,s3,s4,m1,campsite,dumpster,fusebox,roofhvac1,roofhvac2,highvolt,shed,shipment,propane1,propane2,trailer,barricade1,barricade2,culvert,delivery,excavator,fence1,fence2,fence3,firewood,cobble,spikes1,spikes2,spikes3" />

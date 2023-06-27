@@ -10,7 +10,7 @@ import sys
 # to a destination path, converting from the ZZTong naming convention
 # to the CompoPack naming convention...
 #
-# zztong_apartment_01.xml ==> xcostum_apartment_01(by_ZZTong).xml
+# zztong_apartment_01.xml ==> xcp_Apartment_01(by_ZZTong).xml
 #######################################################################
 
 # Files of these types have to be renamed to meet CP conventions...

@@ -20,7 +20,7 @@
   <property name="POIMarkerPartRotations" value="3,1,3,1,1,1,1,1,3,1,1,0,2,0,2,1,0,1,0,1" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.2,0.4,0.6,0.6,0.6,0.2,0.6" />
   <property name="PrefabSize" value="150, 15, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="Tags" value="streettile,hideui,rwgonly" />
   <property class="Stats">
     <property name="TotalVertices" value="478337" />
     <property name="TotalTriangles" value="391592" />
