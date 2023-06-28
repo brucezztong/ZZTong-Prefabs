@@ -8,20 +8,20 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="150, 7, 150" />
+  <property name="PrefabSize" value="150, 17, 150" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="streettile,hideui,rwgonly,gatewaytile" />
   <property class="Stats">
-    <property name="TotalVertices" value="90342" />
-    <property name="TotalTriangles" value="106495" />
+    <property name="TotalVertices" value="222986" />
+    <property name="TotalTriangles" value="184900" />
     <property class="BlockEntities">
-      <property name="Vertices" value="25344" />
-      <property name="Triangles" value="6635" />
+      <property name="Vertices" value="42952" />
+      <property name="Triangles" value="13472" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="5328" />
-      <property name="Triangles" value="2664" />
+      <property name="Vertices" value="114668" />
+      <property name="Triangles" value="64456" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -44,8 +44,13 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="59670" />
-      <property name="Triangles" value="97196" />
+      <property name="Vertices" value="65366" />
+      <property name="Triangles" value="106972" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="POILight">
+      <property name="0" value="75, 13, 124" />
     </property>
   </property>
 </prefab>
