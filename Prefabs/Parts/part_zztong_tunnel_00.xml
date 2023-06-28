@@ -4,24 +4,28 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="150, 17, 150" />
-  <property name="RotationToFaceNorth" value="0" />
-  <property name="Zoning" value="none" />
-  <property name="Tags" value="streettile,hideui,rwgonly,gatewaytile" />
+  <property name="YOffset" value="-1" />
+  <property name="PrefabSize" value="30, 12, 105" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property class="IndexedBlockOffsets">
+    <property class="POILight">
+      <property name="0" value="24, 3, 94" />
+    </property>
+  </property>
   <property class="Stats">
-    <property name="TotalVertices" value="216752" />
-    <property name="TotalTriangles" value="175232" />
+    <property name="TotalVertices" value="146346" />
+    <property name="TotalTriangles" value="73278" />
     <property class="BlockEntities">
-      <property name="Vertices" value="42952" />
-      <property name="Triangles" value="13472" />
+      <property name="Vertices" value="42304" />
+      <property name="Triangles" value="13292" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="113836" />
-      <property name="Triangles" value="64040" />
+      <property name="Vertices" value="102938" />
+      <property name="Triangles" value="58218" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -44,13 +48,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="59964" />
-      <property name="Triangles" value="97720" />
-    </property>
-  </property>
-  <property class="IndexedBlockOffsets">
-    <property class="POILight">
-      <property name="0" value="75, 13, 124" />
+      <property name="Vertices" value="1104" />
+      <property name="Triangles" value="1768" />
     </property>
   </property>
 </prefab>
