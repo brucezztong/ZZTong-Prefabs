@@ -8,20 +8,30 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="150, 33, 150" />
+  <property name="PrefabSize" value="150, 50, 150" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="streettile,hideui,rwgonly,gatewaytile" />
+  <property name="YOffset" value="-6" />
+  <property name="POIMarkerSize" value="25, 0, 25#25, 0, 25#3, 2, 1#3, 2, 1#1, 1, 6#1, 1, 6#1, 1, 6#5, 5, 11#5, 1, 5#12, 3, 3#7, 4, 5#1, 1, 5#1, 1, 5#1, 1, 5#1, 1, 5#9, 4, 8#5, 9, 5#7, 16, 8#5, 3, 8#10, 8, 4#18, 2, 8#18, 2, 8#16, 0, 16#16, 0, 16#3, 1, 3#11, 10, 5#30, 12, 105#30, 12, 105" />
+  <property name="POIMarkerStart" value="2, 6, 123#122, 6, 123#77, 6, 16#70, 6, 132#64, 6, 140#85, 6, 138#85, 6, 2#5, 6, 9#34, 25, 70#50, 6, 138#44, 6, 5#84, 6, 14#65, 6, 14#84, 6, 130#65, 6, 130#31, 25, 61#74, 30, 66#81, 25, 30#69, 6, 11#70, 25, 120#66, 5, 142#66, 5, 0#67, 6, -8#67, 6, 142#63, 25, 112#92, 6, 144#60, 5, 22#60, 5, 22" />
+  <property name="POIMarkerGroup" value="xs1,xs2,barricade1,barricade2,barrier1,barrier2,barrier3,camper,campsite,culvert,excavate,rail1,rail2,rail3,rail4,tent,watchtower,watertower,ambulance,sign,highwayN,highwayS,roadS,roadN,horde,trailer,tunnel,tunnel" />
+  <property name="POIMarkerTags" value="###########################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,RoadExit,RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,part_zztong_barricade_01,part_zztong_barricade_01,part_zztong_barrier6_orange,part_zztong_barrier6_white,part_zztong_barrier6_yellow,part_zztong_camper_01,part_zztong_campsite_01,part_zztong_culvert_pipe,part_zztong_excavator_01,part_zztong_guard_rail5,part_zztong_guard_rail5,part_zztong_guard_rail5,part_zztong_guard_rail5,part_zztong_tent_01,part_zztong_watchtower_01,part_5m_water_tower,part_ambulance_01,part_billboard_donate_blood,part_highway_transition,part_highway_transition,,,part_horde_large,part_mobile_office_trailer,part_zztong_tunnel_01,part_zztong_tunnel_02" />
+  <property name="POIMarkerPartRotations" value="3,1,3,1,1,1,1,0,0,0,2,1,3,1,3,0,2,0,0,0,0,2,2,0,0,2,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,0.2,0.2,0.1,0.1,0.1,0.4,0.8,0.6,0.5,0.8,0.8,0.8,1,0.4,0.5,0.8,0.1,0.2,1,1,1,1,0.1,0.2,0.5,0.5" />
+  <property name="EditorGroups" value="roads/signs" />
   <property class="Stats">
-    <property name="TotalVertices" value="250658" />
-    <property name="TotalTriangles" value="218789" />
+    <property name="TotalVertices" value="1208581" />
+    <property name="TotalTriangles" value="1130274" />
     <property class="BlockEntities">
-      <property name="Vertices" value="47314" />
-      <property name="Triangles" value="15977" />
+      <property name="Vertices" value="1000781" />
+      <property name="Triangles" value="924206" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="120444" />
-      <property name="Triangles" value="67320" />
+      <property name="Vertices" value="123996" />
+      <property name="Triangles" value="69096" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -44,19 +54,22 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="82900" />
-      <property name="Triangles" value="135492" />
+      <property name="Vertices" value="83804" />
+      <property name="Triangles" value="136972" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="quest_stone">
-      <property name="0" value="60, 25, 93" />
+    <property class="quest_wood_trees">
+      <property name="0" value="141, 7, 113" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="138, 8, 86" />
     </property>
     <property class="POILight">
       <property name="0" value="75, 13, 124" />
     </property>
-    <property class="quest_stone_boulder">
-      <property name="0" value="138, 8, 86" />
+    <property class="quest_stone">
+      <property name="0" value="60, 25, 93" />
     </property>
   </property>
 </prefab>

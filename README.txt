@@ -59,16 +59,15 @@ Installing this Mod should be all that is necessary to include this content
 when generating a new world using the 7D2D built-in Random World Generator. Of
 course, it is up the the RWG to determine if, when, and where to place things.
 
-As of ZZ009, this modlet changes the configuration of rwgmixer.xml to put more
-Tiles into play for increased variety.
-
-Also, it changes Cities to be ringed by Residential rather than Rural content.
-This way, Country Towns are surrounded by Farms, but Cities are surrounded by
-Houses. If you don't like that, then change the rwgmixer.xml file in this
-modlet. This change to cities will be removed from this modlet with A21 because
-it has been picked up as a feature in A21's RWG. How cool!
+This modlet changes Cities to be ringed by Residential or Rural content and
+Towns are ringed by Rural. If you don't like that, then change the rwgmixer.xml
+file in this modlet.
 
 TERAGON:
+
+As of the time of this writing, Teragon for A21 is not yet available. If you're
+trying to use an A20 version of Teragon, I can only say good luck. I have not
+attempted to mix versions.
 
 Support for Teragon is current as of the release date, but since Teragon is
 undergoing active development you may find that my support becomes out-of-date.

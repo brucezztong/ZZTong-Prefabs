@@ -773,6 +773,13 @@ This was a self-imposed challenge to make a Trailer Park higher than tier 1.
 The larger 60x60 foot-print easily supported tier 2. I've been watching the
 Breaking Bad TV show, so adding a secret drug lab got it to tier 3.
 
+TUNNELS
+
+The tunnel that appears on one of the country tiles is a derivitive of TFP's
+tunnel for Perishton. The original tunnel is two lanes, but I went with four
+lanes to keep with the highway size of RWG. This involved dealing with some
+structural integrity that TFP's narrower tunnel didn't have to cover.
+
 VAULT K9 01
 
 This is a tribute to the Fallout series of games plus a mashup with my Pet+Vet
