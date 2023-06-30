@@ -10,7 +10,7 @@
   <property name="RotationToFaceNorth" value="0" />
   <property name="YOffset" value="-2" />
   <property name="Zoning" value="Rural, ResidentialOld" />
-  <property name="AllowedBiomes" value="burnt_forest,wasteland" />
+  <property name="AllowedBiomes" value="pine_forest,wasteland" />
   <property name="AllowedTownships" value="rural" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="Wilderness" />

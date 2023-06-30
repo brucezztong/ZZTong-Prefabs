@@ -24,7 +24,6 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="YOffset" value="-4" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="QuestTags" value="snow, pine_forest, desert, burnt_forest" />
   <property class="Stats">
     <property name="TotalVertices" value="20042" />
     <property name="TotalTriangles" value="12903" />

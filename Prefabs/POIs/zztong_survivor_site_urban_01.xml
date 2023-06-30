@@ -9,7 +9,7 @@
   <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Downtown" />
   <property name="AllowedTownships" value="city" />
-  <property name="AllowedBiomes" value="burnt_forest,wasteland" />
+  <property name="AllowedBiomes" value="pine_forest,wasteland" />
   <property name="RotationToFaceNorth" value="3" />
   <property name="YOffset" value="-3" />
   <property name="DistantPOIYOffset" value="0" />

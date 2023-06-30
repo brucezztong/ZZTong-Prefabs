@@ -22,7 +22,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="YOffset" value="-3" />
-  <property name="Tags" value="forest,snow,desert,countrytown,nodiagonal" />
+  <property name="Tags" value="pine_forest,snow,desert,countrytown,nodiagonal" />
   <property name="POIMarkerSize" value="20, 13, 2" />
   <property name="POIMarkerStart" value="3, 2, -2" />
   <property name="POIMarkerGroup" value="driveway" />

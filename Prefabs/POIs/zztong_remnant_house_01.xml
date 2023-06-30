@@ -33,7 +33,6 @@
   <property name="POIMarkerPartRotations" value="2,2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="QuestTags" value="burnt_forest,wasteland" />
   <property class="Stats">
     <property name="TotalVertices" value="104007" />
     <property name="TotalTriangles" value="31047" />

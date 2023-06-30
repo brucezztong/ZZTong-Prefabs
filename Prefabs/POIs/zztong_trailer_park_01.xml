@@ -10,7 +10,7 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="ResidentialOld, Rural, Residential" />
-  <property name="AllowedBiomes" value="burnt_forest,desert,wasteland" />
+  <property name="AllowedBiomes" value="pine_forest,desert,wasteland" />
   <property name="AllowedTownships" value="town,rural" />
   <property name="QuestTags" value="clear, fetch" />
   <property name="SleeperVolumeSize" value="19, 5, 14#18, 6, 12#17, 5, 13#20, 6, 25#16, 6, 12" />
