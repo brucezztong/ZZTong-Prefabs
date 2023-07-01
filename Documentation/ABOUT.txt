@@ -721,6 +721,14 @@ additional buildings and the bridges between them. The survivors obviously
 failed to last in this make-shift fortress. It has become one of my favorite
 POIs.
 
+TFP APARTMENTS ADOBE 01
+
+To me, this was a classic "meat and potatos" POI by TFP, but I can see why
+they have been reluctant to update it. The internals are too spacious and
+the layout didn't have a path beyond the obvious "climb floors" approach.
+Still, I missed it. The POI's footprint had to be expanded to fit into the
+tile system, so the playground equipment was brough over from the K6 School.
+
 TFP ARMY BARRACKS 01
 
 I have fond memories of this POI from an earlier alpha when it served as a
@@ -741,11 +749,32 @@ CompoPack Discord fame. Apparently it was one of his favorites. It took a
 decent amount of work to bring it to A19, and even more work to make it fit
 into an A20 standard size.
 
+TFP PRISON 01
+
+A player approached me about this old prison because it had been a favorite
+base. I'd seen players using it when I'd played too and tried to think of a
+way to repurpose it. I decided that with all the new prisons, this older
+prison had been retired and rather than knock it down somebody made a museum
+out of it.
+
 TFP RANGER STATION 01
 
 I fondly remember this POI as one of the first POIs I encountered playing the
 game and continued to encounter in many play-throughs. I missed it, so I went
 back and brought it forward to A19 and A20.
+
+TFP SCHOOL K6 01
+
+An acquaintance mentioned this POI had been a memorable base for them and their
+friends on a server. They had not seen it for a while. We looked for it and
+found it in TFP's unused POIs. It hadn't been fitted to an A20 Tile and needed
+some love. We reimagined it as an old school that was being renovated.
+
+TFP SETTLEMENT 01
+
+Master-Blaster runs Barter Town! I suspect TFP dropped this fun little POI in
+favor of future support for Bandit content, but I have no idea. For whatever
+reason it was not included in A21, so it was rescued.
 
 TFP SKYSCRAPER 02
 
