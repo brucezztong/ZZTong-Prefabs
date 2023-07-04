@@ -24,27 +24,27 @@
   <property name="PrefabSize" value="42, 19, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="525216" />
-    <property name="TotalTriangles" value="234201" />
+    <property name="TotalVertices" value="597894" />
+    <property name="TotalTriangles" value="262913" />
     <property class="BlockEntities">
-      <property name="Vertices" value="447594" />
-      <property name="Triangles" value="180355" />
+      <property name="Vertices" value="490860" />
+      <property name="Triangles" value="194212" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="71560" />
-      <property name="Triangles" value="45668" />
+      <property name="Vertices" value="100340" />
+      <property name="Triangles" value="60207" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="576" />
+      <property name="Triangles" value="288" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="500" />
       <property name="Triangles" value="328" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="976" />
-      <property name="Triangles" value="706" />
+      <property name="Vertices" value="1032" />
+      <property name="Triangles" value="734" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -60,17 +60,17 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="POILight">
-      <property name="0" value="29, 4, 22" />
-      <property name="1" value="30, 8, 22" />
-      <property name="2" value="32, 6, 22" />
-      <property name="3" value="31, 4, 34" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="30, 6, 23" />
       <property name="1" value="33, 2, 23" />
       <property name="2" value="34, 6, 23" />
       <property name="3" value="34, 6, 32" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="29, 4, 22" />
+      <property name="1" value="30, 8, 22" />
+      <property name="2" value="32, 6, 22" />
+      <property name="3" value="31, 4, 34" />
     </property>
   </property>
 </prefab>
