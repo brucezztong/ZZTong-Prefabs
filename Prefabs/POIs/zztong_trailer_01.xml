@@ -75,14 +75,14 @@
       <property name="1" value="18, 2, 15" />
       <property name="2" value="12, 2, 17" />
       <property name="3" value="16, 2, 17" />
-      <property name="4" value="19, 12, 18" />
-      <property name="5" value="17, 11, 17" />
+      <property name="4" value="17, 11, 17" />
+      <property name="5" value="19, 12, 18" />
     </property>
     <property class="POILight">
-      <property name="0" value="19, 13, 15" />
-      <property name="1" value="12, 4, 19" />
-      <property name="2" value="19, 13, 19" />
-      <property name="3" value="19, 12, 12" />
+      <property name="0" value="19, 12, 12" />
+      <property name="1" value="19, 13, 15" />
+      <property name="2" value="12, 4, 19" />
+      <property name="3" value="19, 13, 19" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="21, 12, 12" />

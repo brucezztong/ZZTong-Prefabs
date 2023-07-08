@@ -14,15 +14,15 @@
   <property name="YOffset" value="-5" />
   <property name="PrefabSize" value="60, 14, 60" />
   <property name="Tags" value="rural" />
-  <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#2, 1, 2#7, 7, 7#4, 1, 1" />
-  <property name="POIMarkerStart" value="4, 4, 45#19, 4, -3#38, 5, 48#4, 1, 45#20, 5, 16" />
-  <property name="POIMarkerGroup" value="shedstorm,driveway,dogs,shedstorm,spikes" />
-  <property name="POIMarkerTags" value="####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_farm60_shed_01,part_driveway_rural_12,part_zztong_dog_pack_two_01,part_zztong_storm_cellar_01,part_zztong_spikes_wood4" />
-  <property name="POIMarkerPartRotations" value="2,2,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,1,0.1,0.2,0.6" />
-  <property name="SleeperVolumeSize" value="10, 8, 8#25, 7, 40#6, 5, 10" />
+  <property name="POIMarkerSize" value="7, 6, 7#7, 13, 3#7, 7, 7#4, 1, 1" />
+  <property name="POIMarkerStart" value="4, 4, 45#19, 4, -3#4, 1, 45#20, 5, 16" />
+  <property name="POIMarkerGroup" value="shedstorm,driveway,shedstorm,spikes" />
+  <property name="POIMarkerTags" value="###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_farm60_shed_01,part_driveway_rural_12,part_zztong_storm_cellar_01,part_zztong_spikes_wood4" />
+  <property name="POIMarkerPartRotations" value="2,2,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,1,0.2,0.6" />
+  <property name="SleeperVolumeSize" value="10, 8, 8#25, 7, 47#6, 5, 10" />
   <property name="SleeperVolumeStart" value="2, 5, 32#13, 5, 11#3, 6, 22" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2" />
@@ -31,11 +31,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1022380" />
-    <property name="TotalTriangles" value="396506" />
+    <property name="TotalVertices" value="936042" />
+    <property name="TotalTriangles" value="363872" />
     <property class="BlockEntities">
-      <property name="Vertices" value="987758" />
-      <property name="Triangles" value="366780" />
+      <property name="Vertices" value="901420" />
+      <property name="Triangles" value="334146" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="24680" />

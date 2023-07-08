@@ -74,14 +74,14 @@
       <property name="3" value="19, 11, 19" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="16, 8, 12" />
-      <property name="1" value="13, 13, 17" />
-      <property name="2" value="15, 3, 17" />
-      <property name="3" value="16, 8, 18" />
-      <property name="4" value="14, 8, 19" />
-      <property name="5" value="15, 3, 20" />
-      <property name="6" value="16, 4, 12" />
-      <property name="7" value="16, 4, 15" />
+      <property name="0" value="16, 4, 12" />
+      <property name="1" value="16, 8, 12" />
+      <property name="2" value="16, 4, 15" />
+      <property name="3" value="13, 13, 17" />
+      <property name="4" value="15, 3, 17" />
+      <property name="5" value="16, 8, 18" />
+      <property name="6" value="14, 8, 19" />
+      <property name="7" value="15, 3, 20" />
     </property>
     <property class="Rally">
       <property name="0" value="14, 4, 1" />

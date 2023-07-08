@@ -4,6 +4,10 @@ A21.0.016 (ZZ016)
 * Added tfp_apartment_adobe_01, tfp_prison_01, tfp_school_k6_01, and
     tfp_settlement_01 because some folks were feeling nostalgic.
     Okay, yes, I was feeling nostalgic too.
+* In response to player feedback, the placement of dogs on Tiles and in Tier 1
+    POIs has been revisited and those dogs have been either muzzled or removed.
+    If you choose to wander through a higher tier POI as a shortcut then you
+    can still encounter the beasties.
 
 A21.0.015 (ZZ015):
 * Updated to A21 Blocks.

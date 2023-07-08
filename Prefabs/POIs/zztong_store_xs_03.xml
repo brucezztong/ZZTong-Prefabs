@@ -73,6 +73,14 @@
     <property class="Rally">
       <property name="0" value="8, 7, 2" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="18, 2, 12" />
+      <property name="1" value="12, 10, 13" />
+      <property name="2" value="16, 2, 14" />
+      <property name="3" value="16, 6, 16" />
+      <property name="4" value="12, 10, 17" />
+      <property name="5" value="19, 2, 19" />
+    </property>
     <property class="POILight">
       <property name="0" value="15, 11, 16" />
       <property name="1" value="16, 4, 17" />
@@ -81,9 +89,9 @@
       <property name="4" value="17, 8, 19" />
       <property name="5" value="20, 4, 19" />
       <property name="6" value="16, 4, 20" />
-      <property name="7" value="20, 8, 21" />
-      <property name="8" value="20, 8, 23" />
-      <property name="9" value="15, 7, 21" />
+      <property name="7" value="15, 7, 21" />
+      <property name="8" value="20, 8, 21" />
+      <property name="9" value="20, 8, 23" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="15, 11, 15" />
@@ -92,14 +100,6 @@
     </property>
     <property class="quest_feather">
       <property name="0" value="19, 14, 19" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="18, 2, 12" />
-      <property name="1" value="12, 10, 13" />
-      <property name="2" value="16, 2, 14" />
-      <property name="3" value="16, 6, 16" />
-      <property name="4" value="12, 10, 17" />
-      <property name="5" value="19, 2, 19" />
     </property>
   </property>
 </prefab>
