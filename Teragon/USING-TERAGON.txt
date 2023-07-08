@@ -47,6 +47,8 @@ list for Vanilla content provided with Teragon.
         C:/Users/[username]/AppData/Roaming/7DaysToDie/Mods/ZZTong-Prefabs/Prefabs
         Note that "[username]" is a variable understood by Teragon.
 
+    Enable "Subdirectories" by checking that box if it is not already enabled.
+
     Again, that path is for a typical setup. If you locate things in different
         places then you'll have to sort that out. (I'm not psychic.)
 
