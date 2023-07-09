@@ -9,7 +9,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="45, 6, 33#45, 4, 33#45, 4, 33#45, 4, 33#45, 11, 33" />
-  <property name="SleeperVolumeStart" value="2, 0, 13#2, 6, 13#2, 10, 13#2, 14, 13#2, 18, 13" />
+  <property name="SleeperVolumeStart" value="13, 0, 13#13, 6, 13#13, 10, 13#13, 14, 13#13, 18, 13" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,5,5" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,medium" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
@@ -20,75 +20,66 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
-  <property name="YOffset" value="-1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
-  <property name="PrefabSize" value="49, 42, 48" />
+  <property name="PrefabSize" value="60, 42, 60" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="727256" />
-    <property name="TotalTriangles" value="838020" />
+    <property name="TotalVertices" value="782506" />
+    <property name="TotalTriangles" value="382834" />
     <property class="BlockEntities">
-      <property name="Vertices" value="551663" />
-      <property name="Triangles" value="738994" />
+      <property name="Vertices" value="594541" />
+      <property name="Triangles" value="268367" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="119569" />
-      <property name="Triangles" value="61265" />
+      <property name="Vertices" value="154733" />
+      <property name="Triangles" value="80559" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="2584" />
-      <property name="Triangles" value="1356" />
+      <property name="Vertices" value="2392" />
+      <property name="Triangles" value="1196" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="400" />
-      <property name="Triangles" value="200" />
+      <property name="Vertices" value="21954" />
+      <property name="Triangles" value="17836" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="46944" />
-      <property name="Triangles" value="26399" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="6068" />
-      <property name="Triangles" value="9792" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
-      <property name="Vertices" value="28" />
-      <property name="Triangles" value="14" />
+      <property name="Vertices" value="8886" />
+      <property name="Triangles" value="14876" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="40, 8, 33" />
-      <property name="1" value="40, 12, 33" />
-      <property name="2" value="40, 20, 33" />
-      <property name="3" value="40, 4, 36" />
-      <property name="4" value="40, 16, 36" />
-      <property name="5" value="42, 6, 25" />
-      <property name="6" value="42, 10, 25" />
-      <property name="7" value="42, 14, 25" />
-      <property name="8" value="42, 18, 25" />
-      <property name="9" value="42, 22, 25" />
-      <property name="10" value="44, 4, 25" />
-      <property name="11" value="44, 8, 25" />
-      <property name="12" value="44, 12, 25" />
-      <property name="13" value="44, 16, 25" />
-      <property name="14" value="44, 20, 25" />
+      <property name="0" value="51, 8, 33" />
+      <property name="1" value="51, 12, 33" />
+      <property name="2" value="51, 20, 33" />
+      <property name="3" value="49, 6, 35" />
+      <property name="4" value="49, 10, 35" />
+      <property name="5" value="49, 14, 35" />
+      <property name="6" value="49, 18, 35" />
+      <property name="7" value="49, 22, 35" />
+      <property name="8" value="51, 4, 36" />
+      <property name="9" value="51, 16, 36" />
+      <property name="10" value="46, 4, 40" />
+      <property name="11" value="46, 8, 40" />
+      <property name="12" value="46, 12, 40" />
+      <property name="13" value="46, 20, 40" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="32, 25, 19" />
+      <property name="1" value="32, 20, 20" />
     </property>
   </property>
 </prefab>
