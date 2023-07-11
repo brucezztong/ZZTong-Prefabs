@@ -13,7 +13,7 @@ list for Vanilla content provided with Teragon.
 2. Load the "world generator 1" present (stored in an .INI file).
     File > Load... world generator 1.ini
 
-3. Switch to the Export Tab
+3. Switch to the Expert Tab
 
 4. Add an "Import POI Property List" step.
 
