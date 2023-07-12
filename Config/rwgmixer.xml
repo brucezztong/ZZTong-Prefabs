@@ -8,9 +8,13 @@
         <property name="outskirt_district" value="rural" />
 	</append>
 
+    <!-- NOTE: The following is causing gaps in Town Tile placement. This is reported as an RWG bug. -->
+    <!-- NOTE: Remove the following line of XML if you want to avoid the bug. -->
     <!-- Adds residential to the list of possible wrappers for a Town for more variety. -->
     <set xpath="/rwgmixer/township[@name='town']/property[@name='outskirt_district']/@value">rural,residential</set>
 
+    <!-- NOTE: The following is causing gaps in City Tile placement. This is reported as an RWG bug. -->
+    <!-- NOTE: Remove the following line of XML if you want to avoid the bug. -->
     <!-- Changes the wrapper of a city to residential because there's already a lot of rural. -->
     <set xpath="/rwgmixer/township[@name='city']/property[@name='outskirt_district']/@value">residential</set>
 
