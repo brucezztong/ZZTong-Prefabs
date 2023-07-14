@@ -16,28 +16,29 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="PrefabSize" value="60, 42, 60" />
+  <property name="YOffset" value="-1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1185894" />
-    <property name="TotalTriangles" value="509954" />
+    <property name="TotalVertices" value="1644831" />
+    <property name="TotalTriangles" value="703139" />
     <property class="BlockEntities">
-      <property name="Vertices" value="997305" />
-      <property name="Triangles" value="394965" />
+      <property name="Vertices" value="1440985" />
+      <property name="Triangles" value="577025" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="155757" />
-      <property name="Triangles" value="81281" />
+      <property name="Vertices" value="172409" />
+      <property name="Triangles" value="93526" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="2392" />
-      <property name="Triangles" value="1196" />
+      <property name="Vertices" value="2376" />
+      <property name="Triangles" value="1188" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="21554" />
-      <property name="Triangles" value="17636" />
+      <property name="Vertices" value="20175" />
+      <property name="Triangles" value="16524" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -60,7 +61,16 @@
       <property name="3" value="46, 20, 49" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="47, 4, 42" />
+      <property name="0" value="54, 8, 40" />
+      <property name="1" value="54, 12, 40" />
+      <property name="2" value="54, 16, 40" />
+      <property name="3" value="54, 20, 40" />
+      <property name="4" value="47, 4, 42" />
+      <property name="5" value="47, 8, 42" />
+      <property name="6" value="47, 12, 42" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="54, 1, 55" />
     </property>
   </property>
 </prefab>
