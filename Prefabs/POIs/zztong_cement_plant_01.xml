@@ -5,7 +5,7 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="2" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -28,14 +28,15 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0" />
-  <property name="Tags" value="industrial" />
+  <property name="Tags" value="snow,wasteland,desert,industrial,pine_forest" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
+  <property name="EditorGroups" value="industrial" />
   <property class="Stats">
-    <property name="TotalVertices" value="609576" />
-    <property name="TotalTriangles" value="264024" />
+    <property name="TotalVertices" value="616606" />
+    <property name="TotalTriangles" value="267212" />
     <property class="BlockEntities">
-      <property name="Vertices" value="455150" />
-      <property name="Triangles" value="147795" />
+      <property name="Vertices" value="462180" />
+      <property name="Triangles" value="150983" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="149636" />
