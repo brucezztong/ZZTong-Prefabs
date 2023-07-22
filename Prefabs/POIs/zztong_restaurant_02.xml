@@ -32,11 +32,11 @@
   <property name="Tags" value="snow,desert,countrytown,gateway,pine_forest" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="285267" />
-    <property name="TotalTriangles" value="125409" />
+    <property name="TotalVertices" value="292297" />
+    <property name="TotalTriangles" value="128597" />
     <property class="BlockEntities">
-      <property name="Vertices" value="242248" />
-      <property name="Triangles" value="95320" />
+      <property name="Vertices" value="249278" />
+      <property name="Triangles" value="98508" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="36981" />
