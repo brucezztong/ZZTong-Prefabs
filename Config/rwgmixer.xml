@@ -32,6 +32,9 @@
         </streettile>
 	</append>
 
+    <!-- Testing Work-Around for Missing Tile / Tile Gap Bug -->
+    <!-- <setattribute xpath="/rwgmixer/district[@name='countryresidential']/property[@name='district_spawn_weight']" name="value">0</setattribute> -->
+
     <!-- **************************************************************
         This section puts the ZZTong POIs at a slight disadvantage
         when competing with TFP POIs. The disadvantage is equivalent
