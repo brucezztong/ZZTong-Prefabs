@@ -33,20 +33,15 @@
 	</append>
 
     <!-- **************************************************************
-        IMPORTANT
-
-        This next section should be commented out unless you're ZZTong.
-        Trust me. You don't want this. If you see this code isn't
-        commented out, then it's a bug. Tell me. OMG, tell me.
-        If you leave it, you'll get an overly ZZTong map and think
-        I must have a massive ego, or something.
+        This section puts the ZZTong POIs at a slight disadvantage
+        when competing with TFP POIs. The disadvantage is equivalent
+        to being 1/2 of a tier lower. In most cases you probably won't
+        even notice a difference.
     ****************************************************************-->
 
-    <!--
 	<append xpath="/rwgmixer">
-        <prefab_spawn_adjust partial_name="zztong" bias="5"/>
+        <prefab_spawn_adjust partial_name="zztong" bias="-0.1"/>
 	</append>
-    -->
 
     <!-- **************************************************************
         This should make sure a POI under development ends up all over
