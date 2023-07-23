@@ -15,7 +15,7 @@
   <property name="DuplicateRepeatDistance" value="4000" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="POIMarkerSize" value="6, 1, 5#2, 2, 2#2, 2, 2#5, 5, 5#5, 5, 5" />
-  <property name="POIMarkerStart" value="16, 0, -3#5, 1, 11#35, 1, 18#13, 9, 24#23, 9, 24" />
+  <property name="POIMarkerStart" value="18, 0, -5#5, 1, 11#35, 1, 18#13, 9, 24#23, 9, 24" />
   <property name="POIMarkerGroup" value="roadexit,delivery,cobble,hvac1,hvac2" />
   <property name="POIMarkerTags" value="####" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
@@ -35,10 +35,10 @@
   <property name="Tags" value="wilderness" />
   <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
-    <property name="TotalVertices" value="625011" />
+    <property name="TotalVertices" value="623793" />
     <property name="TotalTriangles" value="266327" />
     <property class="BlockEntities">
-      <property name="Vertices" value="509040" />
+      <property name="Vertices" value="507822" />
       <property name="Triangles" value="183216" />
     </property>
     <property class="ChunkMeshes0">
