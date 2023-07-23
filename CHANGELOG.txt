@@ -6,6 +6,7 @@ A21.0.016 (ZZ016)
     Okay, yes, I was feeling nostalgic too.
 * Added restaurant_02 -- Waffle House was suggested by Max_Dong and I'm a fan
     of the restaurant, so yeh... there it is.
+* Added rwg_tile_gateway_straight_zztong_04 with a variety of bridge parts.
 * In response to player feedback, the placement of dogs on Tiles and in Tier 1
     POIs has been revisited and those dogs have mostly been either muzzled or
     removed. In the cases where they stayed, there was generally a reason why
