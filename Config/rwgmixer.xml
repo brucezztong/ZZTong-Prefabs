@@ -32,8 +32,12 @@
         </streettile>
 	</append>
 
-    <!-- Testing Work-Around for Missing Tile / Tile Gap Bug -->
-    <!-- <setattribute xpath="/rwgmixer/district[@name='countryresidential']/property[@name='district_spawn_weight']" name="value">0</setattribute> -->
+    <!-- **************************************************************
+        This is a Work-Around for Missing Tile / Tile Gap Bug.
+        Whatever district wraps around a settlement needs a
+        district_spawn_weight of zero.
+    ****************************************************************-->
+    <setattribute xpath="/rwgmixer/district[@name='residential']/property[@name='district_spawn_weight']" name="value">0</setattribute>
 
     <!-- **************************************************************
         This section puts the ZZTong POIs at a slight disadvantage
