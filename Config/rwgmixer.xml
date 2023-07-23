@@ -4,9 +4,11 @@
     ****************************************************************-->
 
     <!-- Adds a wrapper to Country Town to make it a little larger. -->
+    <!--
 	<append xpath="/rwgmixer/township[@name='countrytown']">
         <property name="outskirt_district" value="rural" />
 	</append>
+    -->
 
     <!-- NOTE: The following is causing gaps in Town Tile placement. This is reported as an RWG bug. -->
     <!-- NOTE: Remove the following line of XML if you want to avoid the bug. -->
