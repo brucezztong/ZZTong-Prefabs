@@ -17,7 +17,7 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="ShowQuestClearCount" value="1" />
+  <property name="ShowQuestClearCount" value="2" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />
   <property name="PrefabSize" value="60, 21, 60" />
   <property name="Tags" value="snow,wasteland,desert,rural,pine_forest" />

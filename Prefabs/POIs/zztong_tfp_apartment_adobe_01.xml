@@ -14,7 +14,7 @@
   <property name="SleeperIsBossVolume" value="False,False,False,False,False" />
   <property name="DifficultyTier" value="4" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="ShowQuestClearCount" value="1" />
+  <property name="ShowQuestClearCount" value="2" />
   <property name="PrefabSize" value="60, 42, 60" />
   <property name="YOffset" value="-1" />
   <property name="Tags" value="snow,wasteland,desert,commercial,pine_forest" />
@@ -36,11 +36,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2293213" />
-    <property name="TotalTriangles" value="903427" />
+    <property name="TotalVertices" value="2297065" />
+    <property name="TotalTriangles" value="905413" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2093021" />
-      <property name="Triangles" value="781992" />
+      <property name="Vertices" value="2096873" />
+      <property name="Triangles" value="783978" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="175170" />
