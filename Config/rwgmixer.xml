@@ -1,42 +1,5 @@
 ﻿<rwgmixer>
     <!-- **************************************************************
-        Add residential to the possible list of outskirts for cities.
-    ****************************************************************-->
-
-    <!-- Adds a wrapper to Country Town to make it a little larger. -->
-    <!--
-	<append xpath="/rwgmixer/township[@name='countrytown']">
-        <property name="outskirt_district" value="rural" />
-	</append>
-    -->
-
-    <!-- NOTE: The following is causing gaps in Town Tile placement. This is reported as an RWG bug. -->
-    <!-- NOTE: Remove the following line of XML if you want to avoid the bug. -->
-    <!-- Adds residential to the list of possible wrappers for a Town for more variety. -->
-    <!-- DISABLED: This is messing with Trader Placement -->
-    <!--
-    <set xpath="/rwgmixer/township[@name='town']/property[@name='outskirt_district']/@value">rural,residential</set>
-    -->
-
-    <!-- NOTE: The following is causing gaps in City Tile placement. This is reported as an RWG bug. -->
-    <!-- NOTE: Remove the following line of XML if you want to avoid the bug. -->
-    <!-- Changes the wrapper of a city to residential because there's already a lot of rural. -->
-    <!-- DISABLED: This is messing with Trader Placement -->
-    <!--
-    <set xpath="/rwgmixer/township[@name='city']/property[@name='outskirt_district']/@value">residential</set>
-    -->
-
-    <!-- **************************************************************
-        This is a Work-Around for Missing Tile / Tile Gap Bug.
-        Whatever district wraps around a settlement needs a
-        district_spawn_weight of zero.
-    ****************************************************************-->
-    <!-- DISABLED: This is messing with Trader Placement -->
-    <!--
-    <setattribute xpath="/rwgmixer/district[@name='residential']/property[@name='district_spawn_weight']" name="value">0</setattribute>
-    -->
-
-    <!-- **************************************************************
         Tries to make the intersection tile a little more common
         so that players get more Tier 5 content. Oddly enough, TFP
         does this exact same thing in the Vanilla rwgmixer.

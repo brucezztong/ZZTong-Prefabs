@@ -7,6 +7,16 @@ A21.0.016 (ZZ016)
 * Added restaurant_02 -- Waffle House was suggested by Max_Dong and I'm a fan
     of the restaurant, so yeh... there it is.
 * Added rwg_tile_gateway_straight_zztong_04 with a variety of bridge parts.
+* Have begun to add Infestation Quests to POIs.
+* Am dabbling with the use of Triggers, but am mindful of the great many user
+    complaints about the use of this feature in A21 vanilla POIs with regard
+    to zombies appearing out of thin air and the affects on stealth. As a
+    stealth player myself, I do appreciate being able to disarm an ambush if I
+    play well.
+* Removed settlement modifications from rwgmixer.xml with respect to what
+    districts are used to wrap towns and cities. In retrospect, those options
+    are probably better off in a map/RWG focused modlet. Now this modlet only
+    contains configuration that support the placement of the modlet's POIs.
 * In response to player feedback, the placement of dogs on Tiles and in Tier 1
     POIs has been revisited and those dogs have mostly been either muzzled or
     removed. In the cases where they stayed, there was generally a reason why
