@@ -23,6 +23,9 @@ A21.0.016 (ZZ016)
     they were there, but I did lower the chance of the dog appearing. If you
     choose to wander through a higher tier POI as a shortcut then you can still
     encounter the beasties.
+* Added Trader variants for those who want to play without trader POIs.
+    This is NOT configured by default so if you want to play this way, see the
+    README file for instructions.
 
 A21.0.015 (ZZ015):
 * Updated to A21 Blocks.

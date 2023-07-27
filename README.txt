@@ -148,6 +148,30 @@ that you can use RWG.
 OTHER - My hope is that if you can use RWG to generate a map for your overhaul
 that all you would have to do is correctly install this modlet.
 
+PLAYING WITHOUT TRADERS
+
+This modlet includes an alternative collections of Traders that you can use to
+replace the traders on a map that you have just made. You can find these
+trader files in the Prefabs/Traders/ folder. Filenames that end in "x" are dead
+trader versions, when the trader has been overrun by zombies and the trader is
+now just a POI.
+
+None of these files are rigged for RWG to detect them. To use them, you
+generate a world like normal. Then you find the "prefabs.xml" for your new
+world in your %AppData%/Roaming/7DaysToDie/GeneratedWorlds folder. You edit
+prefabs.xml in your favorite text editor, find all the POIs with that start
+with "trader_" and add "x" to the name.
+
+For example, change trader_jen to trader_jenx.
+
+Then, when somebody approaches those locations playing the game, the game will
+load the alternative POI instead. If you've already been playing the world, it
+won't retroactively revert the POI.
+
+Why would you use these? These are in support of people who play with heavily
+modified games. Have you ever wanted to play without any traders? Having these
+variant POIs in the modlet makes that easy to configure and play.
+
 LINUX SERVERS:
 
 I often get questions about how to install this modlet on a Linux Server.
