@@ -17,7 +17,7 @@
   <property name="POIMarkerSize" value="7, 13, 3#5, 5, 11#7, 13, 2" />
   <property name="POIMarkerStart" value="20, 0, -3#21, 1, 17#20, 0, -2" />
   <property name="POIMarkerGroup" value="driveway,trailer,driveway" />
-  <property name="POIMarkerTags" value="##gateway" />
+  <property name="POIMarkerTags" value="rural##gateway" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_12,part_zztong_tfp_trailer_reefer_empty_01,part_driveway_gateway_02" />
   <property name="POIMarkerPartRotations" value="2,2,2" />

@@ -24,15 +24,15 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="desert,countrytown,pine_forest,nodiagonal" />
-  <property name="POIMarkerSize" value="6, 13, 2#5, 5, 11#5, 1, 5" />
-  <property name="POIMarkerStart" value="53, 3, -2#3, 4, 43#23, 4, 12" />
-  <property name="POIMarkerGroup" value="driveway,camper,campsite" />
-  <property name="POIMarkerTags" value="countrytown##" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_03,part_zztong_camper_01,part_zztong_campsite_01" />
-  <property name="POIMarkerPartRotations" value="2,0,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4" />
+  <property name="Tags" value="desert,countrytown,gateway,pine_forest,nodiagonal" />
+  <property name="POIMarkerSize" value="6, 13, 2#5, 5, 11#5, 1, 5#4, 13, 2" />
+  <property name="POIMarkerStart" value="53, 3, -2#3, 4, 43#23, 4, 12#54, 3, -2" />
+  <property name="POIMarkerGroup" value="driveway,camper,campsite,driveway" />
+  <property name="POIMarkerTags" value="countrytown###" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_03,part_zztong_camper_01,part_zztong_campsite_01,part_zztong_driveway_gateway_04" />
+  <property name="POIMarkerPartRotations" value="2,0,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,1" />
   <property name="PrefabSize" value="60, 18, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="IndexedBlockOffsets">

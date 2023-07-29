@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="RotationToFaceNorth" value="3" />
+  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-3" />
+  <property name="Zoning" value="none" />
+  <property name="Tags" value="streettile,rwgonly,gatewaytile" />
+  <property name="PrefabSize" value="150, 12, 150" />
+  <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#42, 0, 42#42, 0, 42#42, 0, 42#6, 1, 1#11, 16, 13#5, 1, 5#12, 3, 3#7, 4, 5#1, 1, 8#5, 1, 5#8, 2, 18#16, 0, 16#8, 2, 18#16, 0, 16#18, 2, 8#16, 0, 16" />
+  <property name="POIMarkerStart" value="5, 3, 0#85, 3, 0#9, 3, 85#53, 3, 85#97, 3, 85#68, 3, 66#139, 3, 83#125, 3, 130#10, 3, 128#1, 3, 133#1, 3, 18#72, 3, 73#0, 2, 66#-8, 3, 67#142, 2, 66#142, 3, 67#66, 2, 0#67, 3, -8" />
+  <property name="POIMarkerGroup" value="M1,M2,S1,S2,S3,barrier,billboard,camp,culvert,excavator,log,minesfake,highwayW,reW,highwayE,reE,highwayS,reS" />
+  <property name="POIMarkerTags" value="#################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,RoadExit,PartSpawn,RoadExit,PartSpawn,RoadExit" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,part_zztong_barrier6_white,part_zztong_billboard_kzmb,part_zztong_campsite_01,part_zztong_culvert_pipe,part_zztong_excavator_01,part_zztong_log8,part_zztong_mine_field_fake_01,part_highway_transition,,part_highway_transition,,part_highway_transition," />
+  <property name="POIMarkerPartRotations" value="3,1,2,2,2,0,1,0,0,0,1,0,3,1,1,3,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.4,0.5,0.2,0.5,0.5,0.5,0.1,1,1,1,1,1,1" />
+  <property class="Stats">
+    <property name="TotalVertices" value="371625" />
+    <property name="TotalTriangles" value="374702" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="300603" />
+      <property name="Triangles" value="269294" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="12550" />
+      <property name="Triangles" value="10328" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="58472" />
+      <property name="Triangles" value="95080" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="144, 3, 134" />
+      <property name="1" value="139, 3, 137" />
+    </property>
+  </property>
+</prefab>

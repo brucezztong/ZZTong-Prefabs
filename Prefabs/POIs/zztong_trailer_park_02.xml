@@ -12,15 +12,15 @@
   <property name="PrefabSize" value="60, 18, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="countryresidential,rural" />
-  <property name="POIMarkerSize" value="4, 1, 1#4, 1, 1#2, 2, 2#3, 2, 2#2, 2, 2#5, 5, 11#5, 4, 5#8, 13, 3#8, 13, 3#6, 13, 1#6, 13, 1" />
-  <property name="POIMarkerStart" value="43, 8, 1#13, 8, 5#41, 8, 56#45, 8, 57#34, 8, 48#42, 8, 34#30, 8, 18#11, 7, -3#41, 7, -3#12, 7, -1#42, 7, -1" />
-  <property name="POIMarkerGroup" value="spikes1,spikes2,cobble,dumpster,delivery,camper,shed,drive1,drive2,drive3,drive4" />
-  <property name="POIMarkerTags" value="#######rural#rural#countryresidential#countryresidential" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_zztong_spikes_wood4,part_zztong_spikes_wood4,part_zztong_pallets_cobble_01,part_zztong_dumpster_02,part_zztong_delivery_02,part_zztong_camper_01,part_shed_03,part_driveway_rural_06,part_driveway_rural_06,part_driveway_countryresidential_06,part_driveway_countryresidential_06" />
-  <property name="POIMarkerPartRotations" value="0,0,3,0,1,0,1,2,2,2,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.4,0.6,0.6,0.4,0.8,1,1,1,1" />
+  <property name="Tags" value="countryresidential,rural,gateway" />
+  <property name="POIMarkerSize" value="4, 1, 1#4, 1, 1#2, 2, 2#3, 2, 2#2, 2, 2#5, 5, 11#5, 4, 5#8, 13, 3#8, 13, 3#6, 13, 1#6, 13, 1#8, 13, 2#8, 13, 2" />
+  <property name="POIMarkerStart" value="43, 8, 1#13, 8, 5#41, 8, 56#45, 8, 57#34, 8, 48#42, 8, 34#30, 8, 18#11, 7, -3#41, 7, -3#12, 7, -1#42, 7, -1#41, 7, -2#11, 7, -2" />
+  <property name="POIMarkerGroup" value="spikes1,spikes2,cobble,dumpster,delivery,camper,shed,drive1,drive2,drive1,drive2,drive2,drive1" />
+  <property name="POIMarkerTags" value="#######rural#rural#countryresidential#countryresidential#gateway#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_spikes_wood4,part_zztong_spikes_wood4,part_zztong_pallets_cobble_01,part_zztong_dumpster_02,part_zztong_delivery_02,part_zztong_camper_01,part_shed_03,part_driveway_rural_06,part_driveway_rural_06,part_driveway_countryresidential_06,part_driveway_countryresidential_06,part_driveway_gateway_05,part_driveway_gateway_05" />
+  <property name="POIMarkerPartRotations" value="0,0,3,0,1,0,1,2,2,2,2,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.4,0.6,0.6,0.4,0.8,1,1,1,1,1,1" />
   <property name="SleeperVolumeSize" value="7, 7, 33#7, 7, 17#7, 7, 15#8, 7, 16#7, 7, 17#9, 7, 15#7, 7, 36#9, 5, 12#20, 7, 9#13, 5, 15#10, 6, 15" />
   <property name="SleeperVolumeStart" value="2, 8, 3#2, 8, 42#21, 8, 2#21, 8, 26#31, 8, 1#30, 8, 26#51, 8, 22#41, 8, 46#20, 8, 50#27, 1, 38#48, 8, 2" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
@@ -30,11 +30,12 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0" />
   <property name="YOffset" value="-8" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
+  <property name="EditorGroups" value="settlements" />
   <property class="Stats">
-    <property name="TotalVertices" value="997772" />
+    <property name="TotalVertices" value="996293" />
     <property name="TotalTriangles" value="421149" />
     <property class="BlockEntities">
-      <property name="Vertices" value="859225" />
+      <property name="Vertices" value="857746" />
       <property name="Triangles" value="319296" />
     </property>
     <property class="ChunkMeshes0">
