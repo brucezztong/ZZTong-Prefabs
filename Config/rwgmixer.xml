@@ -14,17 +14,6 @@
 	</append>
 
     <!-- **************************************************************
-        This section puts the ZZTong POIs at a slight disadvantage
-        when competing with TFP POIs. The disadvantage is equivalent
-        to being 1/2 of a tier lower. In most cases you probably won't
-        even notice a difference.
-    ****************************************************************-->
-
-	<append xpath="/rwgmixer">
-        <prefab_spawn_adjust partial_name="zztong" bias="-0.1"/>
-	</append>
-
-    <!-- **************************************************************
         This should make sure a POI under development ends up all over
         the map. This is harmless if you find it active as no POIs
         should be tagged this way.
