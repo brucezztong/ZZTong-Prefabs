@@ -11,7 +11,7 @@
   <property name="PrefabSize" value="6, 6, 6" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="EditorGroups" value="parts" />
-  <property name="Tags" value="hideui" />
+  <property name="Tags" value="part,hideui" />
   <property name="Zoning" value="none" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">

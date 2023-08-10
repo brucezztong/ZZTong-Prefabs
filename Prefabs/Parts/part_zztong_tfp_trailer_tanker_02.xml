@@ -11,7 +11,7 @@
   <property name="PrefabSize" value="5, 5, 11" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="EditorGroups" value="parts" />
-  <property name="Tags" value="hideui" />
+  <property name="Tags" value="part,hideui" />
   <property name="Zoning" value="none" />
   <property class="Stats">
     <property name="TotalVertices" value="16552" />

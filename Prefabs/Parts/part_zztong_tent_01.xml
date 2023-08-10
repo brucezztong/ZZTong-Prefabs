@@ -10,7 +10,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="9, 4, 8" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="part,hideui" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="7, 4, 6" />
   <property name="SleeperVolumeStart" value="1, 0, 1" />

@@ -12,9 +12,10 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-1" />
   <property name="Zoning" value="none" />
+  <property name="Tags" value="biomeonly,devonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="4917" />
-    <property name="TotalTriangles" value="4580" />
+    <property name="TotalVertices" value="4605" />
+    <property name="TotalTriangles" value="4132" />
     <property class="BlockEntities">
       <property name="Vertices" value="4190" />
       <property name="Triangles" value="3865" />
@@ -44,18 +45,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="312" />
-      <property name="Triangles" value="448" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

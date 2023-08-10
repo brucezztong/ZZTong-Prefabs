@@ -10,6 +10,9 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="11, 4, 1" />
   <property name="RotationToFaceNorth" value="2" />
+  <property name="EditorGroups" value="parts" />
+  <property name="Tags" value="part,hideui" />
+  <property name="Zoning" value="none" />
   <property class="Stats">
     <property name="TotalVertices" value="50980" />
     <property name="TotalTriangles" value="13153" />

@@ -12,7 +12,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="parts" />
-  <property name="Tags" value="hideui" />
+  <property name="Tags" value="part,hideui" />
   <property class="Stats">
     <property name="TotalVertices" value="27358" />
     <property name="TotalTriangles" value="12305" />

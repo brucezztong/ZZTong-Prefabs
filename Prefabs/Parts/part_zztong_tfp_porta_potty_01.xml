@@ -12,7 +12,8 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-1" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="part" />
+  <property name="Tags" value="part,hideui" />
+  <property name="EditorGroups" value="parts" />
   <property class="Stats">
     <property name="TotalVertices" value="5537" />
     <property name="TotalTriangles" value="1452" />

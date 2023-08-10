@@ -12,7 +12,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="parts" />
-  <property name="Tags" value="hideui" />
+  <property name="Tags" value="part,hideui" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="2, 3, 7" />

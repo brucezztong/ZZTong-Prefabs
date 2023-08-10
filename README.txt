@@ -104,6 +104,20 @@ vanilla settlements but leave the "ZZTong" POIs in all of the CompoPack's
 custom settlements. This gives you the best combination, but involves the most
 work.
 
+POI EXPANSION PACK (PEP)
+
+If you playing Darkness Falls, then you should follow their instructions.
+
+If you are playing Vanilla and mixing in the PEP with other sources of POIs
+then consider removing the PEP modlet's Config/rwgmixer.xml file as it puts
+a finger on the scale of RWG bias in favor of PEP and Vanilla POIs. The PEP
+POIs should work just fine using RWG without that configuration file.
+
+Note that in removing PEP's Config/rwgmixer.xml file you would also be removing
+their changes to city and world generation. If you want those and you don't
+want PEP to dominate the POI selection, then you have some choices and editing
+to do.
+
 OVERHAUL MODS:
 
 Overhaul Mods make extensive changes to the game and I cannot give you a recipe

@@ -12,9 +12,10 @@
   <property name="PrefabSize" value="9, 2, 9" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
+  <property name="Tags" value="biomeonly,devonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="6434" />
-    <property name="TotalTriangles" value="6244" />
+    <property name="TotalVertices" value="6136" />
+    <property name="TotalTriangles" value="5816" />
     <property class="BlockEntities">
       <property name="Vertices" value="6136" />
       <property name="Triangles" value="5816" />
@@ -44,18 +45,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes7">
-      <property name="Vertices" value="298" />
-      <property name="Triangles" value="428" />
-    </property>
-    <property class="ChunkMeshes8">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes9">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>

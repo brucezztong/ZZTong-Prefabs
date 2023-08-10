@@ -11,7 +11,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="BiomeOnly" />
   <property name="PrefabSize" value="8, 1, 6" />
-  <property name="Tags" value="part,biomeonly,devonly" />
+  <property name="Tags" value="biomeonly,devonly" />
   <property name="EditorGroups" value="world/deco/biome" />
   <property class="Stats">
     <property name="TotalVertices" value="1696" />
