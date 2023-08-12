@@ -7,8 +7,6 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="3" />
-  <property name="ThemeTags" value="radio" />
-  <property name="ThemeRepeatDistance" value="500" />
   <property name="Zoning" value="none" />
   <property name="AllowedTownships" value="city" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
@@ -26,6 +24,7 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="commercial" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="PrefabSize" value="42, 83, 42" />
   <property name="POIMarkerSize" value="4, 1, 1#4, 1, 1" />
   <property name="POIMarkerStart" value="24, 3, 10#15, 3, 10" />

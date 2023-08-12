@@ -12,6 +12,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="industrial,residential,countryresidential" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="YOffset" value="-10" />
   <property class="Stats">
     <property name="TotalVertices" value="17526" />

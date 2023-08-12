@@ -22,6 +22,7 @@
   <property name="POIMarkerPartSpawnChance" value="1,1,0.2,0.4,0.6,0.2" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="countryresidential,rural" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeSize" value="8, 7, 11#13, 7, 6#12, 7, 5#12, 7, 10" />
   <property name="SleeperVolumeStart" value="15, 3, 12#2, 3, 17#2, 3, 12#2, 3, 2" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />

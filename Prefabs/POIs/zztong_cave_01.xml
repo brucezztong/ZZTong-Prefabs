@@ -23,6 +23,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="YOffset" value="-20" />
   <property name="Tags" value="wilderness,pine_forest" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="4, 1, 5#5, 4, 1#1, 1, 6" />
   <property name="POIMarkerStart" value="14, 19, -5#27, 20, 17#14, 20, 14" />
   <property name="POIMarkerGroup" value="road,gas,log" />

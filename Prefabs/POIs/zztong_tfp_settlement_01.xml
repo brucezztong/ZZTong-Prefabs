@@ -24,6 +24,7 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property name="YOffset" value="-1" />
   <property name="Tags" value="wilderness" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="4, 1, 5#3, 1, 1#1, 1, 2#1, 1, 2#4, 3, 4#11, 5, 5#4, 3, 6" />
   <property name="POIMarkerStart" value="15, 0, -5#16, 1, 7#38, 1, 11#38, 1, 31#23, 1, 30#17, 1, 35#18, 1, 27" />
   <property name="POIMarkerGroup" value="road,barbwire,hay1,hay2,appliance,fortwall,genny" />

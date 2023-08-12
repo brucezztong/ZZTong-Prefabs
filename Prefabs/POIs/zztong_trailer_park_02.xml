@@ -13,6 +13,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="countryresidential,rural,gateway" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="4, 1, 1#4, 1, 1#2, 2, 2#3, 2, 2#2, 2, 2#5, 5, 11#5, 4, 5#8, 13, 3#8, 13, 3#6, 13, 1#6, 13, 1#8, 13, 2#8, 13, 2" />
   <property name="POIMarkerStart" value="43, 8, 1#13, 8, 5#41, 8, 56#45, 8, 57#34, 8, 48#42, 8, 34#30, 8, 18#11, 7, -3#41, 7, -3#12, 7, -1#42, 7, -1#41, 7, -2#11, 7, -2" />
   <property name="POIMarkerGroup" value="spikes1,spikes2,cobble,dumpster,delivery,camper,shed,drive1,drive2,drive1,drive2,drive2,drive1" />

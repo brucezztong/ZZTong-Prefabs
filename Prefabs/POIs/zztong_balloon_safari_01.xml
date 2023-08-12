@@ -29,6 +29,7 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.2,0.6,0.4,0.2,0.2,0.6,0.6,0.4" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="wilderness" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
     <property name="TotalVertices" value="194210" />
