@@ -14,6 +14,20 @@
 	</append>
 
     <!-- **************************************************************
+        Darkness Falls / PEP
+
+        The PEP modlet has a different approach than Vanilla as to how
+        it uses POI bias in the bulding of maps. If you want the ZZTong
+        POIs to be on an equal footing with PEP, then enable the following.
+    ****************************************************************-->
+
+    <!--
+	<append xpath="/rwgmixer">
+        <prefab_spawn_adjust partial_name="zztong_" bias="2" min_count="1"/>
+	</append>
+    -->
+
+    <!-- **************************************************************
         This should make sure a POI under development ends up all over
         the map. This is harmless if you find it active as no POIs
         should be tagged this way.

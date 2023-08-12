@@ -7,6 +7,8 @@ A21.0.016 (ZZ016)
 * Added restaurant_02 -- Waffle House was suggested by Max_Dong and I'm a fan
     of the restaurant, so yeh... there it is.
 * Added rwg_tile_gateway_straight_zztong_04 with a variety of bridge parts.
+* Added rwg_tile_gateway_straight_zztong_05.
+* Added rwg_tile_gateway_straight_zztong_06.
 * Have begun to add Infestation Quests to POIs.
 * Am dabbling with the use of Triggers, but am mindful of the great many user
     complaints about the use of this feature in A21 vanilla POIs with regard
