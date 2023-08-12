@@ -1,6 +1,11 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
-A21.0.016 (ZZ016)
+A21.2.017 (ZZ017)
+* Used DuplicateRepeatDistance to moderate the placement of house and
+    wilderness POIs. I'm not trying to take over the world. Honest!
+* Smoothed the terrain on many Tiles.
+
+A21.1.016 (ZZ016)
 * Added tfp_apartment_adobe_01, tfp_prison_01, tfp_school_k6_01, and
     tfp_settlement_01 because some folks were feeling nostalgic.
     Okay, yes, I was feeling nostalgic too.
