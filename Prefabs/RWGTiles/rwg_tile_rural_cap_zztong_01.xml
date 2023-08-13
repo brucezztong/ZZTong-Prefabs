@@ -22,8 +22,8 @@
   <property name="Tags" value="streettile,hideui,rwgonly" />
   <property name="YOffset" value="-5" />
   <property class="Stats">
-    <property name="TotalVertices" value="278363" />
-    <property name="TotalTriangles" value="281946" />
+    <property name="TotalVertices" value="278467" />
+    <property name="TotalTriangles" value="282146" />
     <property class="BlockEntities">
       <property name="Vertices" value="199039" />
       <property name="Triangles" value="171598" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="60440" />
-      <property name="Triangles" value="98560" />
+      <property name="Vertices" value="60544" />
+      <property name="Triangles" value="98760" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
