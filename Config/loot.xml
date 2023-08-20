@@ -75,12 +75,4 @@
         <item group="zztongNotes" prob="1" count="1"/>
 	</append>
 
-    <!-- **************************************************************
-        Fun with Quests
-    *************************************************************** -->
-
-	<append xpath="/lootcontainers/lootgroup[@name='groupTreasureMaps']">
-        <item name="qt_zztong"/>
-	</append>
-
 </lootcontainers>

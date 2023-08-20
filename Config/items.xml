@@ -258,20 +258,5 @@
             <property name="DescriptionKey" value="zztongNote25Desc"/>
         </item>
 
-        <!-- *************************************************************************
-            Documents
-        ************************************************************************** -->
-
-        <!-- *************************************************************************
-            Quests
-        ************************************************************************** -->
-
-        <item name="qt_zztong">
-            <property name="Extends" value="treasureQuestMaster"/>
-            <property class="Action0">
-                <property name="QuestGiven" value="treasure_zztong"/>
-            </property>
-        </item>
-
     </append>
 </items>
