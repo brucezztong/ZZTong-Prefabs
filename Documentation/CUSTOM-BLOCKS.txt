@@ -1,0 +1,32 @@
+THE CUSTOM BLOCKS ADVEVENTURE (SO FAR)
+
+As you can imagine, POI design work inevitably ends up leading to a desire for
+more block options. The wonderful flexibility of XML and XPath, combined with
+supporting game features, makes adding new game blocks easy, even if you don't
+have the artistic resources (3D models, 2D images) to support them.
+
+Perhaps the best case in point would be a bathroom cabinet. The game does not
+include one. A kitchen cabinet acts just like a bathroom cabinet, but has a
+different loot list. If you make a bathroom cabinet using the definition of a
+kitchen cabinet, it works great except the bathroom cabinet will give out food.
+
+To get your bathroom cabinet to give out items more apropos for a bathroom,
+you have to define a custom loot list and fill it with items from within the
+game. What might you find? How about these:
+
+* Cloth
+* Plastic
+* Bandage
+* Painkillers
+* T-Shirt
+* Candle
+
+Awesome. The citizens of Navezgane are no longer keeping canned peas in the
+bathroom.
+
+But here's where compatibility with other modlets gets complicated. Another
+modlet may remove the blocks upon which the bathroom cabinet is based. When
+this happens, it keeps POIs from loading and throws exceptions.
+
+Another modlet may remove the items listed in the custom loot list. This leads
+to an exception, but does not keep the game from loading and playing.
