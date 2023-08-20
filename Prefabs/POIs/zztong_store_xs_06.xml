@@ -34,10 +34,10 @@
   <property name="PrefabSize" value="25, 17, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="352551" />
+    <property name="TotalVertices" value="352029" />
     <property name="TotalTriangles" value="144990" />
     <property class="BlockEntities">
-      <property name="Vertices" value="316247" />
+      <property name="Vertices" value="315725" />
       <property name="Triangles" value="122658" />
     </property>
     <property class="ChunkMeshes0">
@@ -76,16 +76,16 @@
     <property class="POILight">
       <property name="0" value="18, 13, 13" />
       <property name="1" value="13, 13, 15" />
-      <property name="2" value="14, 5, 16" />
-      <property name="3" value="21, 7, 16" />
-      <property name="4" value="17, 5, 18" />
-      <property name="5" value="20, 5, 18" />
-      <property name="6" value="13, 9, 19" />
-      <property name="7" value="15, 13, 19" />
-      <property name="8" value="17, 9, 19" />
-      <property name="9" value="17, 5, 21" />
-      <property name="10" value="17, 5, 15" />
-      <property name="11" value="17, 5, 19" />
+      <property name="2" value="17, 5, 15" />
+      <property name="3" value="14, 5, 16" />
+      <property name="4" value="21, 7, 16" />
+      <property name="5" value="17, 5, 18" />
+      <property name="6" value="20, 5, 18" />
+      <property name="7" value="13, 9, 19" />
+      <property name="8" value="15, 13, 19" />
+      <property name="9" value="17, 5, 19" />
+      <property name="10" value="17, 9, 19" />
+      <property name="11" value="17, 5, 21" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="18, 4, 13" />
@@ -97,9 +97,9 @@
       <property name="3" value="19, 3, 17" />
       <property name="4" value="13, 7, 18" />
       <property name="5" value="15, 11, 18" />
-      <property name="6" value="21, 15, 19" />
-      <property name="7" value="17, 3, 20" />
-      <property name="8" value="17, 7, 18" />
+      <property name="6" value="17, 7, 18" />
+      <property name="7" value="21, 15, 19" />
+      <property name="8" value="17, 3, 20" />
     </property>
     <property class="quest_feather">
       <property name="0" value="12, 15, 13" />

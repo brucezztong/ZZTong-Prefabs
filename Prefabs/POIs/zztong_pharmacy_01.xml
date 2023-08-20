@@ -41,15 +41,15 @@
     <property class="Rally">
       <property name="0" value="6, 4, 4" />
     </property>
+    <property class="POILight">
+      <property name="0" value="29, 5, 26" />
+      <property name="1" value="35, 5, 27" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="32, 3, 24" />
       <property name="1" value="30, 3, 26" />
       <property name="2" value="24, 3, 32" />
       <property name="3" value="28, 3, 32" />
-    </property>
-    <property class="POILight">
-      <property name="0" value="35, 5, 27" />
-      <property name="1" value="29, 5, 26" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="31, 3, 31" />

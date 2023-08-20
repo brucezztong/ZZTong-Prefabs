@@ -44,33 +44,33 @@
     </property>
     <property class="POILight">
       <property name="0" value="17, 3, 12" />
-      <property name="1" value="16, 15, 16" />
-      <property name="2" value="19, 7, 16" />
-      <property name="3" value="16, 11, 17" />
-      <property name="4" value="17, 3, 18" />
-      <property name="5" value="15, 7, 19" />
-      <property name="6" value="19, 7, 20" />
-      <property name="7" value="19, 7, 22" />
-      <property name="8" value="20, 9, 14" />
-      <property name="9" value="15, 9, 20" />
-      <property name="10" value="18, 9, 20" />
+      <property name="1" value="20, 9, 14" />
+      <property name="2" value="16, 15, 16" />
+      <property name="3" value="19, 7, 16" />
+      <property name="4" value="16, 11, 17" />
+      <property name="5" value="17, 3, 18" />
+      <property name="6" value="15, 7, 19" />
+      <property name="7" value="15, 9, 20" />
+      <property name="8" value="18, 9, 20" />
+      <property name="9" value="19, 7, 20" />
+      <property name="10" value="19, 7, 22" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="14, 9, 12" />
-      <property name="1" value="16, 1, 16" />
-      <property name="2" value="19, 5, 17" />
+      <property name="1" value="14, 10, 16" />
+      <property name="2" value="16, 1, 16" />
       <property name="3" value="14, 10, 17" />
-      <property name="4" value="14, 10, 16" />
+      <property name="4" value="19, 5, 17" />
     </property>
     <property class="quest_feather">
       <property name="0" value="21, 18, 3" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="592916" />
+    <property name="TotalVertices" value="592829" />
     <property name="TotalTriangles" value="218305" />
     <property class="BlockEntities">
-      <property name="Vertices" value="546293" />
+      <property name="Vertices" value="546206" />
       <property name="Triangles" value="189564" />
     </property>
     <property class="ChunkMeshes0">

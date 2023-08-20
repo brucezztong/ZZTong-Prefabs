@@ -32,10 +32,10 @@
   <property name="Tags" value="wilderness" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="3937448" />
+    <property name="TotalVertices" value="3936056" />
     <property name="TotalTriangles" value="1308739" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3601749" />
+      <property name="Vertices" value="3600357" />
       <property name="Triangles" value="1090240" />
     </property>
     <property class="ChunkMeshes0">

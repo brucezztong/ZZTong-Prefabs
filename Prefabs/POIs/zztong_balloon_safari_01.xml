@@ -77,13 +77,13 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="9, 3, 7" />
-      <property name="1" value="7, 3, 11" />
-      <property name="2" value="11, 3, 11" />
-      <property name="3" value="5, 3, 12" />
-      <property name="4" value="7, 3, 14" />
-      <property name="5" value="20, 5, 14" />
-      <property name="6" value="19, 3, 8" />
-      <property name="7" value="17, 3, 14" />
+      <property name="1" value="19, 3, 8" />
+      <property name="2" value="7, 3, 11" />
+      <property name="3" value="11, 3, 11" />
+      <property name="4" value="5, 3, 12" />
+      <property name="5" value="7, 3, 14" />
+      <property name="6" value="17, 3, 14" />
+      <property name="7" value="20, 5, 14" />
     </property>
     <property class="Rally">
       <property name="0" value="37, 4, 3" />

@@ -77,9 +77,8 @@
       <property name="0" value="12, 6, 21" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="19, 3, 13" />
-      <property name="1" value="13, 3, 19" />
-      <property name="2" value="16, 3, 19" />
+      <property name="0" value="13, 3, 19" />
+      <property name="1" value="16, 3, 19" />
     </property>
     <property class="Rally">
       <property name="0" value="19, 4, 2" />

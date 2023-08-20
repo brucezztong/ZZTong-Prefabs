@@ -14,11 +14,11 @@
   <property name="Zoning" value="BiomeOnly" />
   <property name="EditorGroups" value="world/deco/biome" />
   <property class="Stats">
-    <property name="TotalVertices" value="20068" />
-    <property name="TotalTriangles" value="9737" />
+    <property name="TotalVertices" value="20081" />
+    <property name="TotalTriangles" value="9745" />
     <property class="BlockEntities">
-      <property name="Vertices" value="19972" />
-      <property name="Triangles" value="9689" />
+      <property name="Vertices" value="19985" />
+      <property name="Triangles" value="9697" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="96" />

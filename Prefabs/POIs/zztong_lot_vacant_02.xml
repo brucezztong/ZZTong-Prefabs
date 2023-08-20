@@ -22,10 +22,10 @@
   <property name="Tags" value="industrial,countrytown,nodiagonal" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="217112" />
+    <property name="TotalVertices" value="217025" />
     <property name="TotalTriangles" value="71765" />
     <property class="BlockEntities">
-      <property name="Vertices" value="212194" />
+      <property name="Vertices" value="212107" />
       <property name="Triangles" value="67221" />
     </property>
     <property class="ChunkMeshes0">

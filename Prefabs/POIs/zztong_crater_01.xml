@@ -15,11 +15,11 @@
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="YOffset" value="-10" />
   <property class="Stats">
-    <property name="TotalVertices" value="17526" />
-    <property name="TotalTriangles" value="11508" />
+    <property name="TotalVertices" value="16952" />
+    <property name="TotalTriangles" value="11222" />
     <property class="BlockEntities">
-      <property name="Vertices" value="12594" />
-      <property name="Triangles" value="4748" />
+      <property name="Vertices" value="12020" />
+      <property name="Triangles" value="4462" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="0" />
