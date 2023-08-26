@@ -31,15 +31,15 @@
   <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.8,0.4,0.4,0.6,0.8,0.7,0.6" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="981612" />
-    <property name="TotalTriangles" value="384863" />
+    <property name="TotalVertices" value="995481" />
+    <property name="TotalTriangles" value="390439" />
     <property class="BlockEntities">
-      <property name="Vertices" value="830291" />
-      <property name="Triangles" value="289536" />
+      <property name="Vertices" value="844436" />
+      <property name="Triangles" value="295250" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="140865" />
-      <property name="Triangles" value="80951" />
+      <property name="Vertices" value="140589" />
+      <property name="Triangles" value="80813" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -81,8 +81,8 @@
       <property name="1" value="24, 19, 37" />
       <property name="2" value="24, 26, 37" />
       <property name="3" value="36, 28, 37" />
-      <property name="4" value="36, 11, 40" />
-      <property name="5" value="36, 11, 38" />
+      <property name="4" value="36, 11, 38" />
+      <property name="5" value="36, 11, 40" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="11, 17, 33" />

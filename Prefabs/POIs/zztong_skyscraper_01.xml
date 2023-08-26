@@ -35,15 +35,15 @@
   <property name="POIMarkerPartSpawnChance" value="0.4,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2086410" />
-    <property name="TotalTriangles" value="883934" />
+    <property name="TotalVertices" value="2088492" />
+    <property name="TotalTriangles" value="884970" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1810021" />
-      <property name="Triangles" value="715453" />
+      <property name="Vertices" value="1812151" />
+      <property name="Triangles" value="716513" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="267229" />
-      <property name="Triangles" value="157529" />
+      <property name="Vertices" value="267181" />
+      <property name="Triangles" value="157505" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,14 +71,20 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="TraderOnOff">
-      <property name="0" value="37, 3, 20" />
-    </property>
     <property class="Rally">
       <property name="0" value="20, 4, 1" />
     </property>
     <property class="POILight">
       <property name="0" value="33, 11, 37" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="32, 26, 23" />
+      <property name="1" value="32, 30, 23" />
+      <property name="2" value="26, 34, 24" />
+      <property name="3" value="21, 26, 26" />
+      <property name="4" value="27, 22, 26" />
+      <property name="5" value="26, 3, 28" />
+      <property name="6" value="26, 22, 29" />
     </property>
   </property>
 </prefab>

@@ -31,15 +31,15 @@
   <property name="Tags" value="snow,desert,commercial,pine_forest" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="247510" />
-    <property name="TotalTriangles" value="97565" />
+    <property name="TotalVertices" value="258219" />
+    <property name="TotalTriangles" value="101970" />
     <property class="BlockEntities">
-      <property name="Vertices" value="204558" />
-      <property name="Triangles" value="71233" />
+      <property name="Vertices" value="215499" />
+      <property name="Triangles" value="75754" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="39816" />
-      <property name="Triangles" value="20764" />
+      <property name="Vertices" value="39584" />
+      <property name="Triangles" value="20648" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

@@ -45,23 +45,23 @@
       <property name="3" value="15, 5, 17" />
       <property name="4" value="19, 7, 19" />
       <property name="5" value="14, 5, 20" />
-      <property name="6" value="18, 5, 23" />
-      <property name="7" value="18, 5, 21" />
+      <property name="6" value="18, 5, 21" />
+      <property name="7" value="18, 5, 23" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="15, 3, 18" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="215630" />
-    <property name="TotalTriangles" value="89078" />
+    <property name="TotalVertices" value="216640" />
+    <property name="TotalTriangles" value="89494" />
     <property class="BlockEntities">
-      <property name="Vertices" value="188487" />
-      <property name="Triangles" value="71390" />
+      <property name="Vertices" value="189513" />
+      <property name="Triangles" value="71814" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25307" />
-      <property name="Triangles" value="14560" />
+      <property name="Vertices" value="25291" />
+      <property name="Triangles" value="14552" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
