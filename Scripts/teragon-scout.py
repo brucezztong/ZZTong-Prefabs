@@ -38,7 +38,7 @@ outputFile.write( "// ----------------------------------------------------------
 
 outputFile.write( "//\n" )
 outputFile.write( "// ZZTong-Prefabs: Wilderness POIs\n" )
-outputFile.write( "// POI name;rotation;yoffset;x;y;z;distance to other POIs;biomes;regions;road\n" )
+outputFile.write( "// POI name;distance to other POIs;biomes;regions;road;poi_duplicate_distance\n" )
 outputFile.write( "//\n" )
 
 #######################################################################################
@@ -69,6 +69,7 @@ for fileName in os.listdir( dirName ):
         biome = ""
         region = "default"
         road = "gravel"
+        duplicate = "500"
 
         for line in xmlFileName:
             if "name=\"Tags\"" in line:
@@ -96,16 +97,19 @@ for fileName in os.listdir( dirName ):
                 if ( len(biome) == 0 ):
                     biome = allBiomes
 
-            if "name=\"RotationToFaceNorth\"" in line:
-                rotation = re.findall( "value=\"(.*?)\"", line )[0]
+            if "name=\"DuplicateRepeatDistance\"" in line:
+                duplicate = re.findall( "value=\"(.*?)\"", line )[0]
 
-            if "name=\"YOffset\"" in line:
-                yoffset = re.findall( "value=\"(.*?)\"", line )[0]
+            #if "name=\"RotationToFaceNorth\"" in line:
+            #    rotation = re.findall( "value=\"(.*?)\"", line )[0]
 
-            if "name=\"PrefabSize\"" in line:
-                size = re.findall( "value=\"(.*?)\"", line )[0]
-                size = size.replace( ",", ";" )
-                size = size.replace( " ", "" )
+            #if "name=\"YOffset\"" in line:
+            #    yoffset = re.findall( "value=\"(.*?)\"", line )[0]
+
+            #if "name=\"PrefabSize\"" in line:
+            #    size = re.findall( "value=\"(.*?)\"", line )[0]
+            #    size = size.replace( ",", ";" )
+            #    size = size.replace( " ", "" )
 
         #######################################################################################
         # Save the results...
@@ -114,13 +118,14 @@ for fileName in os.listdir( dirName ):
         if ( isWildernessPOI == True ):
             print( "Wilderness POI File : " + fileName )
             outputFile.write( poiName )
-            outputFile.write( ";" + str(rotation) )
-            outputFile.write( ";" + str(yoffset) )
-            outputFile.write( ";" + size )
+            #outputFile.write( ";" + str(rotation) )
+            #outputFile.write( ";" + str(yoffset) )
+            #outputFile.write( ";" + size )
             outputFile.write( ";poi_distance:49" )                   # Distance Value (from other POIs)
             outputFile.write( ";biome:" + biome )
             outputFile.write( ";region:" + region )
             outputFile.write( ";road:" + road )
+            outputFile.write( ";poi_duplicate_distance:" + duplicate )
             outputFile.write( "\n")
 
         #######################################################################################
