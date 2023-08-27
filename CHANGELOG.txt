@@ -1,13 +1,15 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
-A21.2.017 (ZZ017)
+A21.1.017 (ZZ017)
+* Updated Teragon configuration file to match newest format.
+* Adjustments to POIs based on user feedback.
 * Revised rwg_tile_downtown_intersection_zztong_01 to improve performance.
     Adjustments made to the four intersection POIs to match.
 * Used DuplicateRepeatDistance to moderate the placement of house and
     wilderness POIs. I'm not trying to take over the world. Honest!
 * Smoothed the terrain on many Tiles.
 * Moved Quest (qt_zztong) to another modlet. This kind of thing has started
-    to look like scope creep and is better of elsewhere.
+    to look like scope creep and is better off elsewhere.
 
 A21.1.016 (ZZ016)
 * Added tfp_apartment_adobe_01, tfp_prison_01, tfp_school_k6_01, and

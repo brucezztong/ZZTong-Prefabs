@@ -1,4 +1,4 @@
-ZZTONG-PREFABS READ-ME for A21.2.ZZ017
+ZZTONG-PREFABS READ-ME for A21.1.ZZ017
 
 GOAL:
 
@@ -21,7 +21,7 @@ CLIENT INSTALLATION: (Windows)
 	The folder does not exist by default. If this is your first Mod, then you
 	will need to create the Mods folder.
 
-3. Place the "00-Custom-Blocks-Pack" folder in the Mods folder:
+3. Place the "Custom-Blocks-Pack" folder in the Mods folder:
 	%APPDATA%/7DaysToDie/Mods ... %APPDATA/7DaysToDie/Mods/00-Custom-Blocks-Pack
 
 4. Place the "ZZTong-Prefabs" folder in the Mods folder:
@@ -106,17 +106,15 @@ work.
 
 POI EXPANSION PACK (PEP)
 
-If you playing Darkness Falls, then you should follow their instructions.
+If you playing Darkness Falls, then you should follow their instructions. This
+is because Darkness Falls has unique world requirements to support DF's story.
 
 If you are playing Vanilla and mixing in the PEP with other sources of POIs
 then consider removing the PEP modlet's Config/rwgmixer.xml file as it puts
-a finger on the scale of RWG bias in favor of PEP and Vanilla POIs. The PEP
-POIs should work just fine using RWG without that configuration file.
-
-Note that in removing PEP's Config/rwgmixer.xml file you would also be removing
-their changes to city and world generation. If you want those and you don't
-want PEP to dominate the POI selection, then you have some choices and editing
-to do.
+a finger on the scale of RWG bias in favor of PEP and Vanilla POIs. You might
+also consider removing the "Prefabs/POIs/VanillaTagOverride" folder if you
+would like Vanilla POIs to use the game's default Tags. The PEP POIs should
+work just fine using RWG without those features.
 
 OVERHAUL MODS:
 
@@ -136,10 +134,10 @@ APOCALYPSE NOW - I'm under the impression you can using the Game's RWG to make
 maps and if this modlet is installed when you do that, then I'm told you will
 have a viable map.
 
-DARKNESS FALLS - Requires special POIs to be on a map, so you need somebody
-to make you a map and do specific placement. If that effort involves using
-the Game's RWG while this modlet is installed, then you'll see these POIs in
-the resulting map.
+DARKNESS FALLS - Requires special POIs to be on a map. DF's approach to making
+this happen involves extensive use of "bias" settings. My modlet won't have
+those, so you may find the ZZTong-Prefabs are at a slight disadvantage when
+it comes to placement in the world, but you'll still see them.
 
 RAVENHEARST - I'm under the impression you can use the Game's RWG to make
 maps. If so, make sure this modlet is installed when you do that.
