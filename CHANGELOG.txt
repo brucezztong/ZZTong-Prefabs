@@ -1,5 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+A21.2.018 (ZZ018)
+* Bug fixes
+
 A21.1.017 (ZZ017)
 * Updated Teragon configuration file to match newest format.
 * Adjustments to POIs based on user feedback.
