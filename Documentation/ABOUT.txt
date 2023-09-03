@@ -552,6 +552,12 @@ Any resemblence to a real Waffle House is purely intentional. It's parody,
 so call off the lawyers! You should be flattered as you pride yourself on
 being the first restaurant to reopen after a disaster.
 
+RESTAURANT 03
+
+White Castle is the most awesome fast food restaurant in the world! It has to
+be in Navezgane. If Waffle House is going to be in the game, White Castle has
+to be here too.
+
 SHELTER 01 & SHELTER 01 DESTROYED
 
 I created this POI after trying to think what would happen to a Salvation Army
@@ -842,6 +848,12 @@ the exterior has some resemblance.
 WAREHOUSE 03
 
 This is based on a local business in real life, but the name was changed.
+
+WAREHOUSE 04
+
+This started as Tile content and were removed from the Intersection Tile
+because I had packed that Tile too tight with content creating performance
+issues. They're reappearing as POIs.
 
 WIND TURBINE 01
 
