@@ -2,7 +2,7 @@ CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 A21.2.018 (ZZ018)
 * Bug fixes
-* Added restaurant_03, warehouse_04, warehouse_05.
+* Added restaurant_03, warehouse_04.
 
 A21.1.017 (ZZ017)
 * Updated Teragon configuration file to match newest format.
