@@ -608,6 +608,10 @@ Monster's Arcade modlet and with my own experiments into the world of making
 custom block assets. The version of this modlet found in this modlet is the
 vanilla-safe version. Chuck E. Cheese was the inspiration for this POI.
 
+STORE S 03 - VALMONT BUILDINGS
+These two buildings were Tile content rescued from the original version of the
+Intersection Tile. They were removed from that Tile to improve performance.
+
 STORE XS 01 - AVALANCHE PIZZA
 
 This is a tribute to the greatest real life pizza on Earth. It was the first
