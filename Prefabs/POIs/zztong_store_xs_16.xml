@@ -22,6 +22,7 @@
   <property name="YOffset" value="-8" />
   <property name="EditorGroups" value="commercial" />
   <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="12, 11, 21" />
@@ -38,11 +39,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="294482" />
-    <property name="TotalTriangles" value="117887" />
+    <property name="TotalVertices" value="301512" />
+    <property name="TotalTriangles" value="121075" />
     <property class="BlockEntities">
-      <property name="Vertices" value="256788" />
-      <property name="Triangles" value="92702" />
+      <property name="Vertices" value="263818" />
+      <property name="Triangles" value="95890" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="34620" />
