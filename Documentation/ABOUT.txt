@@ -212,6 +212,14 @@ a normal amount of loot, kind of like how TFP does with filler and remnant
 content. I'm hopeful TFP will revisit how Gateway Tiles are implemented and
 should that happen each of these POIs can become a normal POI in the future.
 
+GYROPORT 01
+
+Among the most requested POIs is an airport. While I would be interested in
+making a small regional airport, I cannot make a runway long enough. But I had
+the idea that a group of gyrocopter enthusiasts might make something
+independent, kind of like the small private rural airport, like was near my
+grandparent's farm when I was young.
+
 HOUSE 01
 
 My first POI based on a real house. The odd basement with a crawl-space
