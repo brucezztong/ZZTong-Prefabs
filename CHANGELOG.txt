@@ -4,6 +4,7 @@ A21.2.018 (ZZ018)
 * Bug fixes
 * Added restaurant_03, warehouse_04, store_s_03, store_s_04, store_xs_16,
     store_s_05, gyroport_01.
+* More infestation quests.
 
 A21.1.017 (ZZ017)
 * Updated Teragon configuration file to match newest format.

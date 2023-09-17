@@ -6,14 +6,14 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 40, 64" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="downtown,zzintersection" />
+  <property name="Tags" value="snow,desert,wilderness,downtown,pine_forest,zzintersection" />
   <property name="YOffset" value="-13" />
   <property name="POIMarkerSize" value="3, 4, 3#6, 3, 4#1, 6, 3#1, 6, 3#4, 2, 4#4, 2, 4#6, 4, 5#6, 4, 5#4, 4, 2#4, 4, 2#3, 4, 6#8, 5, 5#5, 2, 11#2, 3, 2#2, 3, 2" />
   <property name="POIMarkerStart" value="32, 31, 33#41, 13, 49#36, 21, 31#27, 21, 30#56, 31, 30#4, 31, 30#29, 21, 20#29, 21, 39#46, 22, 31#14, 22, 31#39, 21, 12#1, 13, 48#11, 13, 34#58, 13, 22#55, 13, 22" />
@@ -33,11 +33,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="3925822" />
-    <property name="TotalTriangles" value="1562305" />
+    <property name="TotalVertices" value="3935700" />
+    <property name="TotalTriangles" value="1566273" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3457189" />
-      <property name="Triangles" value="1251358" />
+      <property name="Vertices" value="3467787" />
+      <property name="Triangles" value="1255686" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="445821" />
@@ -56,8 +56,8 @@
       <property name="Triangles" value="1324" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="2168" />
-      <property name="Triangles" value="1084" />
+      <property name="Vertices" value="1448" />
+      <property name="Triangles" value="724" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -105,6 +105,9 @@
       <property name="3" value="54, 26, 43" />
       <property name="4" value="50, 21, 46" />
       <property name="5" value="56, 31, 47" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="31, 38, 31" />
     </property>
     <property class="Rally">
       <property name="0" value="32, 14, 32" />

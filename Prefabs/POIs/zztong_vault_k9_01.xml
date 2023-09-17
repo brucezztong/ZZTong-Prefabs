@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="100, 36, 100" />
@@ -31,12 +31,13 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="Tags" value="snow,desert,wilderness,pine_forest" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
+  <property name="EditorGroups" value="Wilderness" />
   <property class="Stats">
-    <property name="TotalVertices" value="5594836" />
-    <property name="TotalTriangles" value="2529383" />
+    <property name="TotalVertices" value="5598574" />
+    <property name="TotalTriangles" value="2532613" />
     <property class="BlockEntities">
-      <property name="Vertices" value="5164707" />
-      <property name="Triangles" value="2241052" />
+      <property name="Vertices" value="5172981" />
+      <property name="Triangles" value="2246550" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="340645" />
@@ -55,8 +56,8 @@
       <property name="Triangles" value="284" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="13608" />
-      <property name="Triangles" value="6804" />
+      <property name="Vertices" value="9072" />
+      <property name="Triangles" value="4536" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
@@ -91,6 +92,9 @@
     <property class="quest_wood_trees">
       <property name="0" value="90, 28, 82" />
       <property name="1" value="88, 28, 90" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="50, 2, 85" />
     </property>
     <property class="Rally">
       <property name="0" value="59, 29, 1" />

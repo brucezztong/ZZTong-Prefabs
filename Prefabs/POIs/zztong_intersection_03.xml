@@ -7,13 +7,13 @@
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="5" />
   <property name="ShowQuestClearCount" value="3" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 43, 64" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="downtown,zzintersection" />
+  <property name="Tags" value="snow,wasteland,desert,downtown,pine_forest,zzintersection" />
   <property name="YOffset" value="-13" />
   <property name="POIMarkerSize" value="5, 3, 5#5, 3, 5#5, 3, 5#5, 3, 5#3, 8, 6#11, 2, 5#11, 5, 5" />
   <property name="POIMarkerStart" value="45, 41, 45#45, 41, 14#14, 41, 14#14, 41, 45#14, 13, 29#26, 13, 31#50, 13, 29" />
@@ -33,11 +33,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="3729970" />
-    <property name="TotalTriangles" value="1590347" />
+    <property name="TotalVertices" value="3746451" />
+    <property name="TotalTriangles" value="1596926" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2796629" />
-      <property name="Triangles" value="1063426" />
+      <property name="Vertices" value="2813110" />
+      <property name="Triangles" value="1070005" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="869647" />
@@ -102,6 +102,9 @@
     </property>
     <property class="Rally">
       <property name="0" value="31, 14, 29" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="44, 30, 23" />
     </property>
   </property>
 </prefab>
