@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="1" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 15, 42" />
@@ -14,7 +14,7 @@
   <property name="SleeperVolumeSize" value="6, 9, 14#5, 9, 12#8, 9, 12#12, 9, 8" />
   <property name="SleeperVolumeStart" value="15, 3, 2#10, 3, 2#2, 3, 2#3, 3, 14" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,3,4" />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
@@ -28,15 +28,15 @@
   <property name="POIMarkerPartRotations" value="2,3,0,0,2,0,3,3,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.2,0.6,0.4,0.2,0.2,0.6,0.6,0.4" />
   <property name="YOffset" value="-3" />
-  <property name="Tags" value="wilderness" />
+  <property name="Tags" value="snow,desert,wilderness,pine_forest" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="194210" />
-    <property name="TotalTriangles" value="79553" />
+    <property name="TotalVertices" value="201240" />
+    <property name="TotalTriangles" value="82741" />
     <property class="BlockEntities">
-      <property name="Vertices" value="161096" />
-      <property name="Triangles" value="56801" />
+      <property name="Vertices" value="168126" />
+      <property name="Triangles" value="59989" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="27860" />

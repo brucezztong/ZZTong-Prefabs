@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="1" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 22, 42" />
@@ -21,7 +21,7 @@
   <property name="POIMarkerPartToSpawn" value="part_waterheater_01,part_utility_pole,part_trailer_car,part_tank_propane_01,part_greeble_rooftop_05,part_driveway_rural_05,part_driveway_rural_05,part_ambulance_01,part_zztong_tfp_trailer_tanker_02,part_zztong_pallets_cobble_01,part_zztong_ladder_iron_01,part_zztong_dumpster_01,part_zztong_billboard_kztv,part_billboard_mammapizza,part_billboard_mycell,part_driveway_gateway_06,part_driveway_gateway_06" />
   <property name="POIMarkerPartRotations" value="1,2,3,0,0,2,2,0,2,0,0,0,1,1,1,2,2" />
   <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.2,0.8,0.6,1,1,0.2,0.2,0.2,0.8,0.8,0.4,0.4,0.4,1,1" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="Tags" value="snow,desert,rural,gateway,pine_forest" />
   <property name="SleeperVolumeSize" value="8, 4, 10#18, 4, 7#10, 4, 10#21, 4, 11#18, 9, 18" />
   <property name="SleeperVolumeStart" value="22, 3, 28#12, 3, 20#12, 3, 28#11, 3, 9#12, 7, 20" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="336884" />
-    <property name="TotalTriangles" value="138537" />
+    <property name="TotalVertices" value="343914" />
+    <property name="TotalTriangles" value="141725" />
     <property class="BlockEntities">
-      <property name="Vertices" value="304776" />
-      <property name="Triangles" value="114209" />
+      <property name="Vertices" value="311806" />
+      <property name="Triangles" value="117397" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="26830" />

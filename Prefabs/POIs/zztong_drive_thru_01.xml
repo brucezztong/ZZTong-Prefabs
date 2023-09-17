@@ -5,15 +5,15 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="1" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="YOffset" value="-2" />
-  <property name="Zoning" value="downtown" />
+  <property name="Zoning" value="none" />
   <property name="AllowedTownships" value="city,rural,town" />
   <property name="AllowedBiomes" value="desert" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="EditorGroups" value="downtown" />
+  <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="7, 2, 7#8, 4, 3" />
   <property name="SleeperVolumeSize" value="17, 2, 16#16, 6, 21" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,6,8,S_-Group_Generic_Zombie,4,4" />
@@ -58,11 +58,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="213785" />
-    <property name="TotalTriangles" value="76942" />
+    <property name="TotalVertices" value="220815" />
+    <property name="TotalTriangles" value="80130" />
     <property class="BlockEntities">
-      <property name="Vertices" value="201341" />
-      <property name="Triangles" value="67476" />
+      <property name="Vertices" value="208371" />
+      <property name="Triangles" value="70664" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="10678" />

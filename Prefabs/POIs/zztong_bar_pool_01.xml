@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="1" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="POIMarkerSize" value="7, 13, 2#7, 13, 2#2, 1, 2#5, 5, 11" />
@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="7, 2, 14#7, 2, 7#13, 2, 7#19, 2, 14" />
   <property name="SleeperVolumeSize" value="12, 6, 12#6, 6, 7#27, 6, 7#21, 6, 12" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Biker_Bar,1,1,S_-_Group_Biker_Bar,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="S_-_Group_Biker_Bar,1,2,S_-_Group_Biker_Bar,2,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3" />
   <property name="SleeperVolumeGameStageAdjust" value="," />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />

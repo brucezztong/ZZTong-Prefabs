@@ -5,7 +5,7 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="2" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -13,10 +13,10 @@
   <property name="AllowedTownships" value="city" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="EditorGroups" value="industrial" />
-  <property name="Zoning" value="Industrial" />
+  <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
-  <property name="SleeperVolumeSize" value="12, 3, 11#11, 3, 11#24, 7, 28#23, 6, 28#26, 2, 10#27, 4, 10#15, 4, 11" />
-  <property name="SleeperVolumeStart" value="2, 4, 30#2, 8, 30#16, 4, 2#17, 12, 2#14, 4, 31#13, 6, 31#21, 10, 30" />
+  <property name="SleeperVolumeSize" value="12, 3, 10#11, 3, 10#24, 7, 28#23, 6, 28#26, 2, 9#27, 4, 9#30, 4, 10" />
+  <property name="SleeperVolumeStart" value="2, 4, 30#2, 8, 30#16, 4, 2#17, 12, 2#14, 4, 31#13, 6, 31#6, 10, 30" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,7,8,S_Zom_Utility_Worker,1,1,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False" />
@@ -34,11 +34,11 @@
   <property name="PrefabSize" value="42, 22, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="822062" />
-    <property name="TotalTriangles" value="343811" />
+    <property name="TotalVertices" value="843516" />
+    <property name="TotalTriangles" value="365659" />
     <property class="BlockEntities">
-      <property name="Vertices" value="727764" />
-      <property name="Triangles" value="287717" />
+      <property name="Vertices" value="749218" />
+      <property name="Triangles" value="309565" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="88276" />

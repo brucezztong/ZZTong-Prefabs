@@ -4,10 +4,10 @@
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="2" />
   <property name="DuplicateRepeatDistance" value="2000" />
-  <property name="Zoning" value="Rural, ResidentialOld" />
+  <property name="Zoning" value="none" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="town" />
   <property name="Age" value="Old" />
@@ -39,11 +39,11 @@
   <property name="PrefabSize" value="60, 23, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="736257" />
-    <property name="TotalTriangles" value="247703" />
+    <property name="TotalVertices" value="742591" />
+    <property name="TotalTriangles" value="250891" />
     <property class="BlockEntities">
-      <property name="Vertices" value="684498" />
-      <property name="Triangles" value="208779" />
+      <property name="Vertices" value="690832" />
+      <property name="Triangles" value="211967" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="39317" />

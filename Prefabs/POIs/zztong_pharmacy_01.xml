@@ -5,18 +5,18 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="1" />
-  <property name="Zoning" value="downtown, ResidentialOld" />
+  <property name="Zoning" value="ResidentialOld, none" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="rural,town" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="EditorGroups" value="downtown, rural" />
+  <property name="EditorGroups" value="rural, commercial" />
   <property name="SleeperVolumeStart" value="8, 3, 12#31, 3, 24#9, 10, 13#22, 3, 32#10, 3, 32#30, 3, 14" />
-  <property name="SleeperVolumeSize" value="22, 6, 19#7, 6, 14#29, 4, 19#5, 10, 6#12, 6, 6#8, 6, 10" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeSize" value="22, 6, 19#6, 6, 13#29, 4, 19#5, 10, 6#12, 6, 5#7, 6, 10" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
   <property name="SleeperVolumeGameStageAdjust" value="," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
@@ -52,17 +52,16 @@
       <property name="3" value="28, 3, 32" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="31, 3, 31" />
-      <property name="1" value="21, 5, 33" />
-      <property name="2" value="22, 7, 33" />
+      <property name="0" value="21, 5, 33" />
+      <property name="1" value="22, 7, 33" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="838920" />
-    <property name="TotalTriangles" value="261979" />
+    <property name="TotalVertices" value="839284" />
+    <property name="TotalTriangles" value="262761" />
     <property class="BlockEntities">
-      <property name="Vertices" value="801229" />
-      <property name="Triangles" value="235889" />
+      <property name="Vertices" value="801593" />
+      <property name="Triangles" value="236671" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="32365" />

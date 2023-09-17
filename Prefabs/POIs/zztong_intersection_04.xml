@@ -5,14 +5,14 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="4" />
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="64, 41, 64" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="downtown,zzintersection" />
+  <property name="Tags" value="snow,wasteland,desert,downtown,pine_forest,zzintersection" />
   <property name="SleeperVolumeSize" value="16, 4, 17#23, 3, 25#9, 11, 12#10, 11, 10#17, 4, 17#18, 14, 10#20, 3, 18#19, 7, 10#13, 4, 17#10, 5, 11#19, 5, 7#15, 5, 19#9, 7, 21#19, 10, 34#15, 3, 15#12, 4, 7#19, 4, 11#6, 5, 13#12, 3, 19#6, 5, 7#6, 5, 12#13, 5, 20#19, 5, 20#21, 8, 22#15, 4, 15" />
   <property name="SleeperVolumeStart" value="43, 2, 43#19, 2, 20#3, 10, 3#12, 10, 11#3, 6, 3#43, 10, 3#41, 7, 3#42, 10, 13#40, 6, 43#44, 10, 43#42, 10, 54#46, 15, 42#53, 20, 41#22, 5, 7#6, 6, 24#3, 6, 54#3, 6, 42#3, 10, 48#10, 12, 42#3, 15, 41#3, 15, 49#9, 15, 41#3, 20, 41#1, 25, 41#23, 6, 43" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="1480036" />
-    <property name="TotalTriangles" value="626920" />
+    <property name="TotalVertices" value="1487066" />
+    <property name="TotalTriangles" value="630108" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1149172" />
-      <property name="Triangles" value="423760" />
+      <property name="Vertices" value="1156202" />
+      <property name="Triangles" value="426948" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="310956" />

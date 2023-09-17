@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="1" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 17, 42" />
@@ -30,12 +30,13 @@
   <property name="POIMarkerPartRotations" value="2,3,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.8,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="454966" />
-    <property name="TotalTriangles" value="208050" />
+    <property name="TotalVertices" value="461996" />
+    <property name="TotalTriangles" value="211238" />
     <property class="BlockEntities">
-      <property name="Vertices" value="401712" />
-      <property name="Triangles" value="173000" />
+      <property name="Vertices" value="408742" />
+      <property name="Triangles" value="176188" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="44822" />

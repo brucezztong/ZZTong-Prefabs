@@ -5,9 +5,9 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="3" />
-  <property name="Zoning" value="Commercial" />
+  <property name="Zoning" value="none" />
   <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="AllowedTownships" value="city" />
   <property name="RotationToFaceNorth" value="2" />
@@ -16,7 +16,7 @@
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="10, 33, 9#10, 26, 9#10, 19, 9#10, 12, 9#13, 6, 9#22, 2, 25#10, 26, 29#27, 19, 29#10, 19, 29" />
   <property name="SleeperVolumeSize" value="32, 9, 32#32, 7, 20#32, 7, 20#32, 7, 32#25, 6, 28#9, 5, 8#32, 7, 12#15, 7, 12#15, 7, 12" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Businessman,9,10,S_Zom_Businessman,4,5,S_Zom_Businessman,4,4,S_Zom_Businessman,4,4,S_-Group_Generic_Zombie,3,3,S_Zom_Janitor_Only,2,2,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Businessman,9,10,S_Zom_Businessman,4,5,S_Zom_Businessman,5,5,S_Zom_Businessman,4,5,S_-Group_Generic_Zombie,3,3,S_Zom_Janitor_Only,2,2,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
@@ -68,13 +68,16 @@
       <property name="13" value="34, 28, 31" />
       <property name="14" value="31, 7, 33" />
     </property>
+    <property class="FetchContainer">
+      <property name="0" value="28, 28, 37" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1586486" />
-    <property name="TotalTriangles" value="579397" />
+    <property name="TotalVertices" value="1600182" />
+    <property name="TotalTriangles" value="584991" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1433798" />
-      <property name="Triangles" value="489816" />
+      <property name="Vertices" value="1447494" />
+      <property name="Triangles" value="495410" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="144406" />

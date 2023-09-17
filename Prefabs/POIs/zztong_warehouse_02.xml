@@ -3,7 +3,7 @@
   <property name="CopyAirBlocks" value="False" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="RotationToFaceNorth" value="3" />
-  <property name="Zoning" value="industrial" />
+  <property name="Zoning" value="none" />
   <property name="AllowedTownships" value="city,town" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
@@ -15,7 +15,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="industrial" />
   <property name="SleeperIsBossVolume" value="False,False" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="4" />
   <property name="ExcludePOICulling" value="False" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
@@ -35,11 +35,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.8,0.8,0.8,0.8,0.8,0.2,0.4,0.6,0.6,0.4,0.6,1,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1613862" />
-    <property name="TotalTriangles" value="720092" />
+    <property name="TotalVertices" value="1620892" />
+    <property name="TotalTriangles" value="723280" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1309260" />
-      <property name="Triangles" value="546713" />
+      <property name="Vertices" value="1316290" />
+      <property name="Triangles" value="549901" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="294684" />
