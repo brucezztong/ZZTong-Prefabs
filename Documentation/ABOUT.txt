@@ -768,6 +768,11 @@ I found this POI when playing an earlier alpha and remembered it being kind
 of creepy at night. I brought it forward to A19 and A20 at the same time I
 was working on the TFP Army Barracks.
 
+TFP DOCKS 01 and 02
+
+I wanted to bring some of the Navezgane dock POIs to RWG. So I created a
+gateway tile (T 02) with a reservoir to place them on.
+
 TFP HOUSE NEW 04
 
 This POI was brought forward to A19 and A20 at the request of Evil Geoff of
