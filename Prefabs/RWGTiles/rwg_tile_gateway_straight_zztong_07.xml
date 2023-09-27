@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="150, 25, 150" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property name="Tags" value="hideui" />
+  <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#1, 1, 5#13, 15, 6#5, 1, 5#14, 90, 14#9, 3, 23#12, 3, 3#13, 17, 4" />
+  <property name="POIMarkerStart" value="85, 4, 3#85, 4, 87#65, 4, 72#83, 4, 74#143, 4, 67#84, 3, 68#83, 2, 63#50, 4, 71#83, 4, 75" />
+  <property name="POIMarkerGroup" value="M1,M2,barbwire,roadside,camp,roadside,roadside,pipe,roadside" />
+  <property name="POIMarkerTags" value="nocheckpoint########" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,part_zztong_barbwire5,part_zztong_billboard_carshow,part_zztong_campsite_01,part_zztong_cell_tower_01,part_zztong_culvert_01,part_zztong_culvert_pipe,part_billboard_pills" />
+  <property name="POIMarkerPartRotations" value="1,1,1,0,0,3,2,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,0.5,0.5,0.2,0.1,0.5,0.5,0.5" />
+  <property name="YOffset" value="-4" />
+  <property name="SleeperVolumeSize" value="44, 10, 44#44, 10, 44" />
+  <property name="SleeperVolumeStart" value="11, 4, 17#8, 4, 84" />
+  <property name="SleeperVolumeGroupId" value="0,0" />
+  <property name="SleeperVolumeGroup" value="S_Zom_Burnt,3,4,S_Zom_Burnt,3,4" />
+  <property name="SleeperIsLootVolume" value="False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False" />
+  <property name="SleeperVolumeFlags" value="0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # " />
+  <property class="Stats">
+    <property name="TotalVertices" value="1468123" />
+    <property name="TotalTriangles" value="1104593" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="1404069" />
+      <property name="Triangles" value="1006933" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="5728" />
+      <property name="Triangles" value="2864" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="58326" />
+      <property name="Triangles" value="94796" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="139, 4, 80" />
+    </property>
+  </property>
+</prefab>
