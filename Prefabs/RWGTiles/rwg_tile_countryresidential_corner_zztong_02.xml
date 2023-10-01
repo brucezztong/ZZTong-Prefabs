@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-7" />
+  <property name="RotationToFaceNorth" value="0" />
+  <property name="Zoning" value="none" />
+  <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#25, 0, 25#42, 0, 42#25, 0, 25#1, 1, 5#3, 2, 1#1, 1, 6#1, 3, 1#1, 3, 1#1, 3, 1#5, 5, 11#5, 1, 5#14, 90, 14#6, 1, 7#12, 3, 3#5, 4, 7#7, 2, 2#7, 2, 2#5, 2, 1#2, 1, 2#7, 7, 7#5, 2, 2#8, 4, 9#17, 12, 17#8, 2, 8#11, 4, 5#4, 3, 4#9, 3, 12#8, 3, 13#25, 10, 17#7, 6, 7#3, 3, 3#8, 5, 5" />
+  <property name="POIMarkerStart" value="80, 7, 12#28, 7, 0#106, 7, 80#45, 7, 43#54, 7, 80#123, 7, 45#68, 7, 70#101, 7, 81#123, 7, 72#132, 7, 29#132, 7, 25#132, 7, 21#44, 7, 85#60, 7, 74#94, 6, 128#129, 7, 5#99, 7, 2#39, 7, 65#141, 7, 35#134, 7, 35#39, 7, 43#129, 7, 32#138, 3, 27#19, 7, 21#138, 7, 7#22, 6, 107#100, 6, 59#46, 7, 72#44, 7, 130#1, 7, 1#71, 6, 1#15, 6, 91#68, 6, 134#81, 7, 65#130, 7, 123" />
+  <property name="POIMarkerGroup" value="2,3,1,5,4,6,barbwire,barricade,barrier,hive1,hive2,hive3,camper,camp,celltower,sandbags,pipe,excavator,fence1,fence2,firewood,hay,storm,targets,new,barn,sandbox,trailer,appliances,campsite,accident,backlot,corncrib,voltage,container" />
+  <property name="POIMarkerTags" value="##################################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,,part_zztong_barbwire5,part_zztong_barricade_01,part_zztong_barrier6_white,part_zztong_beehive_01,part_zztong_beehive_01,part_zztong_beehive_01,part_zztong_camper_01,part_zztong_campsite_01,part_zztong_cell_tower_01,part_zztong_checkpoint_03,part_zztong_culvert_pipe,part_zztong_excavator_01,part_zztong_fence_01,part_zztong_fence_02,part_zztong_firewood_01,part_zztong_hay_bale_round_02,part_zztong_storm_cellar_01,part_zztong_targets_02,part_zztong_tent_02,part_zztong_tfp_farm60_barn_01,part_zztong_tfp_playground_sandbox,part_zztong_tfp_trailer_curtain_loaded_01,part_appliance_pile_01,part_campsite_01,part_car_accident_01,part_countryresidential_back_lot1,part_farm60_corncrib_01,part_high_voltage_box_2,part_shipping_container_04" />
+  <property name="POIMarkerPartRotations" value="1,3,2,3,3,0,1,3,1,3,3,3,2,0,2,3,0,1,0,0,1,0,3,2,3,1,0,3,0,2,2,0,0,0,3" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,0.5,0.2,0.1,0.5,0.5,0.5,0.2,0.5,0.1,0.2,0.5,0.2,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.2,0.5,0.5,0.2,0.2,0.5,0.5,0.2" />
+  <property name="SleeperVolumeSize" value="7, 3, 11#8, 3, 8#16, 3, 17#16, 3, 11" />
+  <property name="SleeperVolumeStart" value="2, 7, 138#9, 7, 140#0, 6, 0#96, 7, 125" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_Zom_Janitor_Only,1,1,S_Zom_Burnt,2,2,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperIsLootVolume" value="True,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="2,2,2,2" />
+  <property name="PrefabSize" value="150, 17, 150" />
+  <property name="Tags" value="streettile,rwgonly" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property class="Stats">
+    <property name="TotalVertices" value="917956" />
+    <property name="TotalTriangles" value="1060277" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="837478" />
+      <property name="Triangles" value="948011" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="18606" />
+      <property name="Triangles" value="11210" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="61872" />
+      <property name="Triangles" value="101056" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="139, 9, 142" />
+      <property name="1" value="145, 8, 144" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="130, 7, 36" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="101, 16, 70" />
+    </property>
+  </property>
+</prefab>
