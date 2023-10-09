@@ -32,11 +32,11 @@
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="295784" />
-    <property name="TotalTriangles" value="151352" />
+    <property name="TotalVertices" value="295736" />
+    <property name="TotalTriangles" value="151305" />
     <property class="BlockEntities">
-      <property name="Vertices" value="237481" />
-      <property name="Triangles" value="114265" />
+      <property name="Vertices" value="237593" />
+      <property name="Triangles" value="114298" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="51937" />
@@ -55,8 +55,8 @@
       <property name="Triangles" value="384" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="480" />
-      <property name="Triangles" value="240" />
+      <property name="Vertices" value="320" />
+      <property name="Triangles" value="160" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />

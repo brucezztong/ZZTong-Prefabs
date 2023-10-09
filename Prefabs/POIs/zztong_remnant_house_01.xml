@@ -34,12 +34,13 @@
   <property name="POIMarkerPartRotations" value="2,2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
+  <property name="QuestTags" value="burnt_forest,wasteland" />
   <property class="Stats">
-    <property name="TotalVertices" value="104007" />
-    <property name="TotalTriangles" value="31047" />
+    <property name="TotalVertices" value="106406" />
+    <property name="TotalTriangles" value="31760" />
     <property class="BlockEntities">
-      <property name="Vertices" value="92533" />
-      <property name="Triangles" value="21311" />
+      <property name="Vertices" value="94940" />
+      <property name="Triangles" value="22032" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="8254" />
@@ -66,8 +67,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="3220" />
-      <property name="Triangles" value="5564" />
+      <property name="Vertices" value="3212" />
+      <property name="Triangles" value="5556" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

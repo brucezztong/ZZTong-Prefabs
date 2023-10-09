@@ -37,11 +37,11 @@
   <property name="PrefabSize" value="25, 15, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="242975" />
-    <property name="TotalTriangles" value="102414" />
+    <property name="TotalVertices" value="249658" />
+    <property name="TotalTriangles" value="105158" />
     <property class="BlockEntities">
-      <property name="Vertices" value="202823" />
-      <property name="Triangles" value="78740" />
+      <property name="Vertices" value="209506" />
+      <property name="Triangles" value="81484" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="35055" />
@@ -77,15 +77,15 @@
       <property name="0" value="13, 10, 13" />
       <property name="1" value="16, 6, 13" />
     </property>
+    <property class="FetchContainer">
+      <property name="0" value="6, 9, 14" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="20, 3, 9" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="13, 4, 8" />
       <property name="1" value="15, 8, 10" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="6, 9, 14" />
     </property>
     <property class="Rally">
       <property name="0" value="19, 4, 22" />

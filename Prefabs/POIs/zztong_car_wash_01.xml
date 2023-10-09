@@ -29,12 +29,13 @@
   <property name="YOffset" value="-3" />
   <property name="Tags" value="rural" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
-    <property name="TotalVertices" value="217010" />
-    <property name="TotalTriangles" value="93688" />
+    <property name="TotalVertices" value="222481" />
+    <property name="TotalTriangles" value="95909" />
     <property class="BlockEntities">
-      <property name="Vertices" value="185706" />
-      <property name="Triangles" value="69615" />
+      <property name="Vertices" value="191177" />
+      <property name="Triangles" value="71836" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="26210" />
