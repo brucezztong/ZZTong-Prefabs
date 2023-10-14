@@ -821,6 +821,11 @@ TRAILER 01
 There's no long story with this one. I like trailers in the game and felt
 like making one to land on a rural tile in the 25x25 spots I've been making.
 
+TRAILER 02
+
+This is a derivitive of a TFP Trailer. We really need 25x25 variety, and this
+was a quick creation.
+
 TRAILER PARK 01
 
 I thought the TFP's A19 Trailer Park was really creative and I was inspired to
@@ -832,6 +837,17 @@ TRAILER PARK 02
 This was a self-imposed challenge to make a Trailer Park higher than tier 1.
 The larger 60x60 foot-print easily supported tier 2. I've been watching the
 Breaking Bad TV show, so adding a secret drug lab got it to tier 3.
+
+TRAILER PARK 03
+
+There's not much to say, I just like the Trailer Park POIs. I think it because
+they make neat starting bases.
+
+TRAILER PARK 04
+
+This is a derivitive of a TFP trailer park to create more 25x25 country
+residential content, which is being repetitive because there's not a lot
+of POIs tagged for that district at that size.
 
 TUNNELS
 
