@@ -33,21 +33,21 @@
   <property name="POIMarkerPartSpawnChance" value="0.8,0.5,0.2,0.5,0.5,0.5,0.5,0.5" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="11, 16, 21" />
-      <property name="1" value="5, 21, 22" />
-      <property name="2" value="5, 12, 23" />
-      <property name="3" value="13, 17, 23" />
-      <property name="4" value="14, 12, 23" />
-      <property name="5" value="13, 22, 25" />
-      <property name="6" value="5, 12, 26" />
-      <property name="7" value="6, 17, 26" />
-      <property name="8" value="6, 22, 26" />
-      <property name="9" value="13, 17, 26" />
-      <property name="10" value="14, 12, 26" />
-      <property name="11" value="15, 19, 27" />
-      <property name="12" value="7, 20, 28" />
-      <property name="13" value="11, 19, 28" />
-      <property name="14" value="13, 16, 28" />
+      <property name="0" value="5, 21, 22" />
+      <property name="1" value="5, 12, 23" />
+      <property name="2" value="13, 17, 23" />
+      <property name="3" value="14, 12, 23" />
+      <property name="4" value="13, 22, 25" />
+      <property name="5" value="5, 12, 26" />
+      <property name="6" value="6, 17, 26" />
+      <property name="7" value="6, 22, 26" />
+      <property name="8" value="13, 17, 26" />
+      <property name="9" value="14, 12, 26" />
+      <property name="10" value="15, 19, 27" />
+      <property name="11" value="7, 20, 28" />
+      <property name="12" value="11, 19, 28" />
+      <property name="13" value="13, 16, 28" />
+      <property name="14" value="11, 16, 21" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="38, 14, 13" />
@@ -60,11 +60,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="784958" />
-    <property name="TotalTriangles" value="329094" />
+    <property name="TotalVertices" value="784814" />
+    <property name="TotalTriangles" value="329062" />
     <property class="BlockEntities">
-      <property name="Vertices" value="696091" />
-      <property name="Triangles" value="270013" />
+      <property name="Vertices" value="695947" />
+      <property name="Triangles" value="269981" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="78717" />
