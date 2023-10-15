@@ -10,9 +10,10 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 6, 25" />
   <property name="RotationToFaceNorth" value="2" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
-  <property name="Tags" value="residential,rural" />
+  <property name="Tags" value="residential,countryresidential,rural" />
   <property name="POIMarkerSize" value="5, 13, 3#5, 13, 5" />
   <property name="POIMarkerStart" value="18, 2, -3#18, 2, -5" />
   <property name="POIMarkerGroup" value="driveway,driveway" />
@@ -29,6 +30,7 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="2,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
+  <property name="EditorGroups" value="rural" />
   <property class="Stats">
     <property name="TotalVertices" value="92764" />
     <property name="TotalTriangles" value="40672" />
