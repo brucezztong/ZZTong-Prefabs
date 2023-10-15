@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="3" />
-  <property name="ShowQuestClearCount" value="1" />
+  <property name="ShowQuestClearCount" value="2" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="42, 46, 42" />
   <property name="RotationToFaceNorth" value="0" />

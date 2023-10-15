@@ -39,6 +39,10 @@
     <property class="Rally">
       <property name="0" value="17, 11, 2" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="82, 17, 70" />
+      <property name="1" value="87, 10, 78" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="83, 10, 95" />
     </property>
@@ -50,17 +54,13 @@
       <property name="4" value="85, 20, 75" />
       <property name="5" value="85, 20, 81" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="82, 17, 70" />
-      <property name="1" value="87, 10, 78" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="4259053" />
-    <property name="TotalTriangles" value="1614873" />
+    <property name="TotalVertices" value="4262244" />
+    <property name="TotalTriangles" value="1616603" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3645268" />
-      <property name="Triangles" value="1251727" />
+      <property name="Vertices" value="3648515" />
+      <property name="Triangles" value="1253485" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="577141" />
@@ -79,8 +79,8 @@
       <property name="Triangles" value="1420" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="168" />
-      <property name="Triangles" value="84" />
+      <property name="Vertices" value="112" />
+      <property name="Triangles" value="56" />
     </property>
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
