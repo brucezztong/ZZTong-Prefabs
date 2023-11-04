@@ -6,6 +6,11 @@ import string
 import sys
 
 #######################################################################
+# usage: ./zz2cp.py
+# There are no command line arguments. The code knows the directories.
+#######################################################################
+
+#######################################################################
 # Loop through all files for the given source path and copy the files
 # to a destination path, converting from the ZZTong naming convention
 # to the CompoPack naming convention...
@@ -15,7 +20,8 @@ import sys
 
 # Files of these types have to be renamed to meet CP conventions...
 # Decorations and POIs get renamed. Parts and Tiles do not.
-renameList = [ "Decorations", "POIs" ]
+renameListPOI = [ "Decorations", "POIs" ]
+renameListPart = [ "Parts" ]
 extensionsList = [ ".blocks.nim", ".ins", ".jpg", ".mesh", ".tts", ".xml" ]
 
 def exportFiles( srcPath, dstPath, poiType ):
@@ -30,7 +36,7 @@ def exportFiles( srcPath, dstPath, poiType ):
             dstFilename = srcFileName
 
             # If the file must be renamed, then devise the new name...
-            if ( poiType in renameList ): 
+            if ( poiType in renameListPOI ): 
                 # Remove the modlet filename's prefix and suffix information
                 poiNameRoot = srcFileName.replace( "zztong_", "" )
                 poiNameRoot = poiNameRoot.replace( ".xml", "" )
@@ -46,12 +52,31 @@ def exportFiles( srcPath, dstPath, poiType ):
                 poiNameRoot = poiNameRoot.replace( "_Tfp_", "_TFP_" )
                 poiNameRoot = poiNameRoot.replace( "_Xs_", "_XS_" )
 
+            # Parts get renamed for inclusion in the CBP...
+            elif ( poiType in renameListPart ):
+                poiNameRoot = srcFileName.replace( "zztong", "cbp" )
+                poiNameRoot = poiNameRoot.replace( ".xml", "" )
+
             else:
                 poiNameRoot = srcFileName.replace( ".xml", "" )
 
             for extension in extensionsList:
                 shutil.copy2( srcPath + "/" + srcFileName + extension, dstPath + "/" + poiNameRoot + extension )
                 print( poiNameRoot + extension )
+
+def replace_string_in_file( file_path, origString, repString):
+    print( "Editing " + file_path )
+
+    # Open the file in read mode and read all lines
+    with open( file_path, 'r', encoding='utf-8' ) as file:
+        lines = file.readlines()
+    
+    # Replace the string in each line
+    new_lines = [ line.replace( origString, repString) for line in lines ]
+    
+    # Open the file in write mode and write the modified lines back to the file
+    with open( file_path, 'w', encoding='utf-8' ) as file:
+        file.writelines( new_lines )
 
 #######################################################################
 # Driver
@@ -64,6 +89,7 @@ copyPathTop = "../CP-Export/"
 copyPathPrefabs = copyPathTop + "Prefabs/"
 subDirsTop = [ "Config", "Prefabs", "Stamps" ]
 subDirsPrefab = [ "Decorations", "Parts", "POIs", "RWGTiles" ]
+subDirsPartFix = [ "POIs", "RWGTiles" ]
 
 # Prepare destination paths...
 if ( os.path.exists( copyPathTop ) == True ):
@@ -93,3 +119,10 @@ for fileName in os.listdir( configPath ):
 for fileName in os.listdir( stampPath ):
     shutil.copy2( stampPath + "/" + fileName, copyPathTop + "Stamps/" )
     print( fileName )
+
+# POI XML CBP Conversion...
+for subDir in subDirsPartFix:
+    for fileName in os.listdir( copyPathPrefabs + subDir ):
+        if ( fileName.endswith( ".xml" ) ):
+            replace_string_in_file( copyPathPrefabs + subDir + "/" + fileName, 'part_zztong', 'part_cbp')
+
