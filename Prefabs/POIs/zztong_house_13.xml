@@ -75,16 +75,16 @@
       <property name="0" value="23, 3, 1" />
     </property>
     <property class="POILight">
-      <property name="0" value="21, 3, 16" />
-      <property name="1" value="19, 6, 17" />
-      <property name="2" value="13, 6, 18" />
-      <property name="3" value="21, 3, 19" />
-      <property name="4" value="13, 4, 12" />
+      <property name="0" value="13, 4, 12" />
+      <property name="1" value="21, 3, 16" />
+      <property name="2" value="19, 6, 17" />
+      <property name="3" value="13, 6, 18" />
+      <property name="4" value="21, 3, 19" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="17, 3, 14" />
-      <property name="1" value="15, 3, 16" />
-      <property name="2" value="21, 4, 15" />
+      <property name="1" value="21, 4, 15" />
+      <property name="2" value="15, 3, 16" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="13, 6, 15" />

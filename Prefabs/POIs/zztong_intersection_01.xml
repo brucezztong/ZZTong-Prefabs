@@ -33,11 +33,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="3540498" />
-    <property name="TotalTriangles" value="1409465" />
+    <property name="TotalVertices" value="3540005" />
+    <property name="TotalTriangles" value="1409334" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3006656" />
-      <property name="Triangles" value="1076606" />
+      <property name="Vertices" value="3006163" />
+      <property name="Triangles" value="1076475" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="501906" />
@@ -70,37 +70,37 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="50, 24, 48" />
-      <property name="1" value="50, 30, 48" />
-      <property name="2" value="53, 18, 48" />
-      <property name="3" value="52, 12, 49" />
-      <property name="4" value="49, 18, 50" />
-      <property name="5" value="50, 24, 51" />
-      <property name="6" value="50, 30, 51" />
-      <property name="7" value="51, 12, 52" />
-      <property name="8" value="56, 21, 52" />
-      <property name="9" value="57, 27, 52" />
-      <property name="10" value="48, 12, 53" />
-      <property name="11" value="49, 18, 54" />
-      <property name="12" value="50, 24, 54" />
-      <property name="13" value="50, 30, 54" />
-      <property name="14" value="55, 18, 54" />
-      <property name="15" value="56, 11, 54" />
-      <property name="16" value="57, 24, 54" />
-      <property name="17" value="57, 30, 54" />
-      <property name="18" value="58, 24, 56" />
-      <property name="19" value="50, 24, 57" />
-      <property name="20" value="50, 30, 57" />
-      <property name="21" value="55, 18, 57" />
-      <property name="22" value="56, 11, 57" />
-      <property name="23" value="57, 24, 57" />
-      <property name="24" value="57, 30, 57" />
-      <property name="25" value="59, 27, 57" />
-      <property name="26" value="50, 12, 58" />
-      <property name="27" value="52, 27, 58" />
-      <property name="28" value="49, 15, 59" />
-      <property name="29" value="59, 26, 59" />
-      <property name="30" value="49, 16, 48" />
+      <property name="0" value="49, 16, 48" />
+      <property name="1" value="50, 24, 48" />
+      <property name="2" value="50, 30, 48" />
+      <property name="3" value="53, 18, 48" />
+      <property name="4" value="52, 12, 49" />
+      <property name="5" value="49, 18, 50" />
+      <property name="6" value="50, 24, 51" />
+      <property name="7" value="50, 30, 51" />
+      <property name="8" value="51, 12, 52" />
+      <property name="9" value="56, 21, 52" />
+      <property name="10" value="57, 27, 52" />
+      <property name="11" value="48, 12, 53" />
+      <property name="12" value="49, 18, 54" />
+      <property name="13" value="50, 24, 54" />
+      <property name="14" value="50, 30, 54" />
+      <property name="15" value="55, 18, 54" />
+      <property name="16" value="56, 11, 54" />
+      <property name="17" value="57, 24, 54" />
+      <property name="18" value="57, 30, 54" />
+      <property name="19" value="58, 24, 56" />
+      <property name="20" value="50, 24, 57" />
+      <property name="21" value="50, 30, 57" />
+      <property name="22" value="55, 18, 57" />
+      <property name="23" value="56, 11, 57" />
+      <property name="24" value="57, 24, 57" />
+      <property name="25" value="57, 30, 57" />
+      <property name="26" value="59, 27, 57" />
+      <property name="27" value="50, 12, 58" />
+      <property name="28" value="52, 27, 58" />
+      <property name="29" value="49, 15, 59" />
+      <property name="30" value="59, 26, 59" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="49, 8, 49" />

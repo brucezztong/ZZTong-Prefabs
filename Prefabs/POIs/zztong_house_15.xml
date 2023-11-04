@@ -72,8 +72,8 @@
       <property name="0" value="10, 7, 1" />
     </property>
     <property class="POILight">
-      <property name="0" value="17, 10, 12" />
-      <property name="1" value="15, 8, 12" />
+      <property name="0" value="15, 8, 12" />
+      <property name="1" value="17, 10, 12" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="23, 6, 13" />

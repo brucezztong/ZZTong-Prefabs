@@ -33,15 +33,15 @@
   <property name="Tags" value="snow,desert,wilderness,pine_forest" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="553010" />
-    <property name="TotalTriangles" value="240778" />
+    <property name="TotalVertices" value="493004" />
+    <property name="TotalTriangles" value="223138" />
     <property class="BlockEntities">
-      <property name="Vertices" value="509261" />
-      <property name="Triangles" value="206763" />
+      <property name="Vertices" value="448871" />
+      <property name="Triangles" value="188931" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="34099" />
-      <property name="Triangles" value="17915" />
+      <property name="Vertices" value="34483" />
+      <property name="Triangles" value="18107" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

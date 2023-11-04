@@ -68,9 +68,9 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="22, 6, 28" />
-      <property name="1" value="22, 6, 32" />
-      <property name="2" value="26, 7, 27" />
+      <property name="0" value="26, 7, 27" />
+      <property name="1" value="22, 6, 28" />
+      <property name="2" value="22, 6, 32" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="27, 5, 27" />
