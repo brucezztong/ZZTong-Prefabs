@@ -211,6 +211,7 @@ tiles upon which to build bases, I have intentionally not filled them with
 a normal amount of loot, kind of like how TFP does with filler and remnant
 content. I'm hopeful TFP will revisit how Gateway Tiles are implemented and
 should that happen each of these POIs can become a normal POI in the future.
+Yes, Barter Town is a tribute to Mad Max: Beyond Thunderdome.
 
 GYROPORT 01
 
