@@ -14,7 +14,7 @@
   <property name="QuestTags" value="clear" />
   <property name="ExcludePOICulling" value="True" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="navonly" />
+  <property name="Tags" value="gateway,bartertown" />
   <property name="PrefabSize" value="60, 48, 60" />
   <property name="POIMarkerSize" value="7, 13, 3#7, 13, 2" />
   <property name="POIMarkerStart" value="34, 0, -3#34, 0, -2" />

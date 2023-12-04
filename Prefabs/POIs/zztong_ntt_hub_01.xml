@@ -28,7 +28,7 @@
   <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_05,part_greeble_rooftop_05,part_driveway_rural_12,part_zztong_ladder_iron_01,part_zztong_driveway_gateway_07" />
   <property name="POIMarkerPartRotations" value="0,0,2,3,2" />
   <property name="POIMarkerPartSpawnChance" value="0.8,0.8,1,0.6,1" />
-  <property name="Tags" value="snow,desert,rural,gateway,pine_forest" />
+  <property name="Tags" value="snow,desert,rural,gateway,pine_forest,bartertown" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property name="EditorGroups" value="rural" />
   <property class="IndexedBlockOffsets">

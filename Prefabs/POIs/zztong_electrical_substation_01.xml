@@ -26,7 +26,7 @@
   <property name="POIMarkerPartToSpawn" value="part_high_voltage_box_2" />
   <property name="POIMarkerPartRotations" value="1" />
   <property name="POIMarkerPartSpawnChance" value="0.8" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="Tags" value="rural,gateway,bartertown" />
   <property name="YOffset" value="-1" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
