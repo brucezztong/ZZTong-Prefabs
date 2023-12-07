@@ -2,6 +2,11 @@ CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 A21.2.019 (ZZ019)
 * Added rwg_tile_gateway_straight_zztong_08.
+* Added rwg_tile_gateway_intersection_zztong_01.
+* Added rwg_tile_gateway_intersection_zztong_02.
+* Added rwg_tile_gateway_intersection_zztong_03.
+* Changed the DifficultyTier for all Tiles to 0 to assist modders.
+* Removed QuestTags from things that shouldn't have quest tags.
 
 A21.2.018 (ZZ018)
 * Bug fixes

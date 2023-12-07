@@ -16,7 +16,6 @@
   <property name="EditorGroups" value="world/deco/biome" />
   <property name="PrefabSize" value="7, 10, 7" />
   <property name="Tags" value="biomeonly,devonly" />
-  <property name="QuestTags" value="snow,pine_forest,desert,burnt_forest" />
   <property class="Stats">
     <property name="TotalVertices" value="46750" />
     <property name="TotalTriangles" value="26391" />

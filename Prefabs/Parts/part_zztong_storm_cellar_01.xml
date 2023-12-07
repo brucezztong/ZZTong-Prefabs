@@ -24,7 +24,6 @@
   <property name="PrefabSize" value="7, 7, 7" />
   <property name="Tags" value="part,hideui" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="QuestTags" value="snow, pine_forest, desert, burnt_forest, wasteland" />
   <property class="Stats">
     <property name="TotalVertices" value="22069" />
     <property name="TotalTriangles" value="9434" />
