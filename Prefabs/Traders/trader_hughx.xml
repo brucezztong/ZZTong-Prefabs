@@ -16,6 +16,8 @@
   <property name="SleeperIsBossVolume" value="False" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="gateway,bartertown" />
+  <property name="ThemeTags" value="zztraderx" />
+  <property name="ThemeRepeatDistance" value="1000" />
   <property name="PrefabSize" value="60, 21, 60" />
   <property name="POIMarkerSize" value="7, 13, 2" />
   <property name="POIMarkerStart" value="37, 0, -2" />

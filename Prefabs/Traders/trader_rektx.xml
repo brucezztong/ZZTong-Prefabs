@@ -15,6 +15,8 @@
   <property name="ExcludePOICulling" value="True" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="gateway,bartertown" />
+  <property name="ThemeTags" value="zztraderx" />
+  <property name="ThemeRepeatDistance" value="1000" />
   <property name="PrefabSize" value="60, 21, 60" />
   <property name="POIMarkerSize" value="3, 13, 7" />
   <property name="POIMarkerStart" value="-3, 0, 20" />
