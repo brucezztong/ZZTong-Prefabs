@@ -10,7 +10,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 7, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="rural,gateway,swampland" />
+  <property name="Tags" value="rural,gateway" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-5" />
   <property name="SleeperVolumeSize" value="16, 6, 15" />

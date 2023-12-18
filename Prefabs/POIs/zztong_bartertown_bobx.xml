@@ -14,7 +14,7 @@
   <property name="DifficultyTier" value="2" />
   <property name="ExcludePOICulling" value="True" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="gateway,bartertown" />
+  <property name="Tags" value="gateway,zzbartertown" />
   <property name="ThemeTags" value="zztraderx" />
   <property name="ThemeRepeatDistance" value="1000" />
   <property name="PrefabSize" value="62, 28, 62" />

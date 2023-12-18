@@ -11,7 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 16, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="rural,gateway,swampland,bartertown" />
+  <property name="Tags" value="rural,gateway,zzbartertown" />
   <property name="YOffset" value="-3" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="8, 3, 8#12, 6, 8#10, 6, 9" />
