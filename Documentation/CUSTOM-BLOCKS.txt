@@ -1,4 +1,17 @@
-THE CUSTOM BLOCKS ADVEVENTURE (SO FAR)
+THE CUSTOM BLOCKS ADVEVENTURE
+
+ZZ019
+
+My enthusiasm for custom blocks has been overridden for my desires for
+compatibility with other modlets and overhauls. In other words, I see more
+potential for usage if my modlet is vanilla-like instead of heading off on
+my own.
+
+That said, I learned a lot from the BCP effort and still work to support it
+to some extent. I'm just not currently interested in the extra effort needed
+to troubleshoot issues.
+
+ZZ018
 
 As you can imagine, POI design work inevitably ends up leading to a desire for
 more block options. The wonderful flexibility of XML and XPath, combined with

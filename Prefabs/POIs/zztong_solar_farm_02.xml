@@ -8,39 +8,47 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="25, 15, 25" />
+  <property name="PrefabSize" value="25, 6, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Zoning" value="none" />
-  <property name="SleeperVolumeSize" value="17, 11, 18" />
-  <property name="SleeperVolumeStart" value="4, 5, 4" />
+  <property name="EditorGroups" value="industrial" />
+  <property name="SleeperVolumeSize" value="14, 6, 13" />
+  <property name="SleeperVolumeStart" value="6, 3, 6" />
   <property name="SleeperVolumeGroupId" value="0" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="YOffset" value="-5" />
-  <property name="EditorGroups" value="industrial" />
-  <property name="Tags" value="industrial,rural,gateway,zzbartertown" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="POIMarkerSize" value="3, 13, 2" />
-  <property name="POIMarkerStart" value="7, 4, -2" />
-  <property name="POIMarkerGroup" value="drive" />
+  <property name="POIMarkerStart" value="11, 2, -2" />
+  <property name="POIMarkerGroup" value="driveway" />
   <property name="POIMarkerTags" value="gateway" />
   <property name="POIMarkerType" value="PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_zztong_driveway_gateway_03" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
+  <property name="Tags" value="industrial,rural,gateway,zzbartertown" />
+  <property name="DuplicateRepeatDistance" value="1000" />
+  <property name="Zoning" value="none" />
+  <property name="YOffset" value="-3" />
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="12, 3, 2" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="13, 3, 6" />
+    </property>
+  </property>
   <property class="Stats">
-    <property name="TotalVertices" value="100763" />
-    <property name="TotalTriangles" value="46905" />
+    <property name="TotalVertices" value="76503" />
+    <property name="TotalTriangles" value="31798" />
     <property class="BlockEntities">
-      <property name="Vertices" value="81150" />
-      <property name="Triangles" value="29389" />
+      <property name="Vertices" value="48001" />
+      <property name="Triangles" value="15620" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="17609" />
-      <property name="Triangles" value="14000" />
+      <property name="Vertices" value="26730" />
+      <property name="Triangles" value="13082" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -51,8 +59,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="8" />
-      <property name="Triangles" value="4" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -63,17 +71,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="1996" />
-      <property name="Triangles" value="3512" />
-    </property>
-  </property>
-  <property class="IndexedBlockOffsets">
-    <property class="TraderOnOff">
-      <property name="0" value="8, 13, 17" />
-    </property>
-    <property class="POILight">
-      <property name="0" value="7, 7, 6" />
-      <property name="1" value="8, 7, 10" />
+      <property name="Vertices" value="1772" />
+      <property name="Triangles" value="3096" />
     </property>
   </property>
 </prefab>

@@ -46,6 +46,14 @@ BAR POOL 01
 This was an early A19 POI for me that attempts to mix a honkytonk with a pool
 hall. A20 didn't change it much.
 
+BARTERTOWN
+
+This isn't a POI, but a Gateway Intersection Tile with some unique features.
+Yes, it was influenced by Mad Max Beyond Thunderdome and The Road Warrior.
+There are two versions of this Tile. The CompoPack is the sole source for
+the original one, which I wasn't completely happy with, and I distribute the
+one I liked the best.
+
 BIOWASTE DUMP 01
 
 More filler for the Rural XS POI and Tile variety. There is no quest for this
@@ -504,6 +512,10 @@ around this POI and that they're bad shots. (Evil laugh.) Adding Parts to the
 POI let me sprinkle in some rare landmines. (Another evil laugh.) Since you're
 nice enough to read this file, take this as a friendly warning to be careful.
 
+PUMP SUBSTATION 01
+
+This was influenced by TFP filler. I too needed filler for gateway tiles.
+
 RANCH 01
 
 This POI resulted as part of my desire to make T5 content for the Wilderness.
@@ -591,7 +603,7 @@ resemblence the POI has to Tower Records in Sacramento is less planned than
 it may seem. I got lucky on the partial resemblence as I was not referring to
 pictures.
 
-SOLAR FARM 01
+SOLAR FARM 01 & 02
 
 I made this POI as one of my early efforts. It was a nice small project with
 which to learn more about the Prefab Editor. It also appealed to me as a

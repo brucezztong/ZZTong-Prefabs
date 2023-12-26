@@ -134,6 +134,27 @@ and you'll have to abandon the idead of an increasing density goal.
 And so, my conclusion here is Density is important, but it isn't everything
 except perhaps at Tier 1-2, and maybe 3.
 
+TRIGGERS
+
+Zombie volumes that are triggered by some event have been around for many
+versions, but their use became more common to Vanilla POIs starting in A20
+and ramping up significantly in A21. I suspect this happened in response to
+player calls for more difficulty at higher tiers. But triggers have also been
+a point of criticism by players, as players don't get an opportunity to
+outsmart or outmaneuver triggered zombies. Thus, players who crave a slow,
+methodical stealth adventure are often denied a stealthy conclusion to a POI
+or have no choice but to face an ambush they worked hard to disarm. Other
+players resent having zombies spawn behind the player in areas that have been
+previously cleared.
+
+There can be technical issues with triggers. When POIs are only installed on
+the server and not the client, some triggers do not fire unless the trigger
+object is destroyed. This is yet another subtle issue with POIs not being
+installed on the client.
+
+Because of these issues, my current approach to triggers is to use them
+lightly. This likely makes my upper tier POIs easier than vanilla POIs.
+
 WHAT IS THE COMPOPACK?
 
 I think the way people view the CompoPack influences their opinion of it.
