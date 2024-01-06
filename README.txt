@@ -9,9 +9,7 @@ variety.
 
 DEPENDENCIES:
 
-This modlet depends upon the "Custom Blocks Pack" modlet, which you should
-find has also been distributed with this modlet. Future versions of this
-modlet may become to dependent on other modlets.
+There are currently no dependencies. This modlet can stand alone.
 
 CLIENT INSTALLATION: (Windows)
 
@@ -21,10 +19,7 @@ CLIENT INSTALLATION: (Windows)
 	The folder does not exist by default. If this is your first Mod, then you
 	will need to create the Mods folder.
 
-3. Place the "Custom-Blocks-Pack" folder in the Mods folder:
-	%APPDATA%/7DaysToDie/Mods ... %APPDATA/7DaysToDie/Mods/00-Custom-Blocks-Pack
-
-4. Place the "ZZTong-Prefabs" folder in the Mods folder:
+3. Place the "ZZTong-Prefabs" folder in the Mods folder:
 	%APPDATA%/7DaysToDie/Mods ... %APPDATA/7DaysToDie/Mods/ZZTong-Prefabs
 
 CLIENT INSTALLATION (Mac) - TBD
@@ -32,7 +27,7 @@ CLIENT INSTALLATION (Linux) - TBD
 SERVER INSTALLATION - TBD
 
 WARNING: If you choose to extract POIs from this modlet that you need to know
-Parts and Custom Block XML works, or you will not end up with a complete POI!
+how Parts work, or you will not end up with complete POIs and Tiles!
 
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
@@ -46,10 +41,12 @@ The most notable issue observed by players without a local installation of the
 modlet is the lack of local "imposter" files will mean custom POIs only become
 visible when you get close to them. This alone can be enough to annoy players.
 
-The next complication relates to features such as using F11 to identify a POI
-and Admin abilities such as being able to teleport to a POI. Neither of those
-features will not work without a local copy. Players may also find that odd
-things, like key boxes, only work if they have the modlet installed.
+Players may find that some game features, such as keyracks, don't work in POIs
+that are not stored locally. You may have to destroy those blocks, rather than
+interact with them, to get them to trigger their events.
+
+Admins will find features such as using F11 to identify a POI and the ability
+to teleport to a POI do not work without a local copy of a POI.
 
 These quirks are NOT bugs in the modlet or the POIs.
 
