@@ -1,6 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 A21.2.020 (ZZ020)
+* Fixed installation instructions.
+* Fixed biomes.xml issues with decorations.
 
 A21.2.019 (ZZ019)
 * Added rwg_tile_gateway_straight_zztong_08.
