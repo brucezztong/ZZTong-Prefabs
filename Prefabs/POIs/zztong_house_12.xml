@@ -29,7 +29,7 @@
   <property name="POIMarkerPartRotations" value="0,2,0,0,2,0,1,0" />
   <property name="POIMarkerPartSpawnChance" value="0.8,1,1,0.4,0.4,0.8,0.4,0.2" />
   <property name="Tags" value="residential" />
-  <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
     <property name="TotalVertices" value="144267" />

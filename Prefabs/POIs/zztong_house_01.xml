@@ -24,7 +24,7 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="residential,countryresidential" />
-  <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="POIMarkerSize" value="7, 13, 1#1, 4, 5#7, 13, 5#4, 1, 1#1, 1, 4" />
   <property name="POIMarkerStart" value="18, 3, 25#21, 4, 7#18, 3, 25#17, 4, 2#21, 4, 3" />
   <property name="POIMarkerGroup" value="driveway,gas,driveway,spikes1,spikes2" />

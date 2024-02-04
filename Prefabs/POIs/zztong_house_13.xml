@@ -29,7 +29,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="Tags" value="residential" />
-  <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
     <property name="TotalVertices" value="194614" />

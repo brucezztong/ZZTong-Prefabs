@@ -1,5 +1,10 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+A21.2.021 (ZZ021)
+* DuplicateRepeatDistances on Houses reduced to 1000 to combat empty lots.
+* New Hidden Decorations and POIs thanks to ideas from the Rebirth community:
+    buried_treasure_01 (Deco), buried_treasure_02 (POI)
+
 A21.2.020 (ZZ020)
 * Fixed installation instructions.
 * Fixed biomes.xml issues with decorations.
