@@ -6,7 +6,7 @@ A21.2.021 (ZZ021)
     buried_treasure_01 (Deco), buried_treasure_02 (POI)
 * Retired the old, huge, ugly, wasteful Office_Bldg_03.
 * Added a new Office_Bldg_03, lighter, nastier, nicer looking.
-* Added watering_hole_01.
+* Added watering_hole_01, house_22.
 
 A21.2.020 (ZZ020)
 * Fixed installation instructions.
