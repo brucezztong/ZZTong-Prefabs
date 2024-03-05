@@ -10,18 +10,29 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 14, 25" />
   <property name="RotationToFaceNorth" value="2" />
+  <property name="DuplicateRepeatDistance" value="4000" />
   <property name="YOffset" value="-3" />
   <property name="Zoning" value="none" />
+  <property name="SleeperVolumeSize" value="19, 13, 19" />
+  <property name="SleeperVolumeStart" value="3, 3, 3" />
+  <property name="SleeperVolumeGroupId" value="0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,5" />
+  <property name="SleeperIsLootVolume" value="False" />
+  <property name="SleeperIsQuestExclude" value="False" />
+  <property name="SleeperVolumeFlags" value="0" />
+  <property name="SleeperVolumeTriggeredBy" value=" " />
+  <property name="EditorGroups" value="remnant" />
+  <property name="Tags" value="commercial,downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="207048" />
-    <property name="TotalTriangles" value="88916" />
+    <property name="TotalVertices" value="341854" />
+    <property name="TotalTriangles" value="152823" />
     <property class="BlockEntities">
-      <property name="Vertices" value="147070" />
-      <property name="Triangles" value="50576" />
+      <property name="Vertices" value="278308" />
+      <property name="Triangles" value="112655" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="54210" />
-      <property name="Triangles" value="32852" />
+      <property name="Vertices" value="57778" />
+      <property name="Triangles" value="34680" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -52,6 +63,9 @@
     <property class="TraderOnOff">
       <property name="0" value="16, 3, 14" />
       <property name="1" value="15, 3, 17" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="15, 12, 22" />
     </property>
   </property>
 </prefab>
