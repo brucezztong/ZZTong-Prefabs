@@ -79,8 +79,8 @@
     </property>
     <property class="FetchContainer">
       <property name="0" value="21, 17, 21" />
-      <property name="1" value="27, 2, 29" />
-      <property name="2" value="36, 18, 25" />
+      <property name="1" value="36, 18, 25" />
+      <property name="2" value="27, 2, 29" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="35, 17, 37" />
