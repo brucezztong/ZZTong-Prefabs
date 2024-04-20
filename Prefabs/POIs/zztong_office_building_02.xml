@@ -8,8 +8,6 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="3" />
   <property name="Zoning" value="Commercial" />
-  <property name="AllowedTownships" value="city" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="YOffset" value="-3" />
   <property name="DistantPOIYOffset" value="0" />
@@ -23,7 +21,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="PrefabSize" value="42, 34, 42" />
   <property name="POIMarkerSize" value="3, 1, 2#4, 1, 1" />
   <property name="POIMarkerStart" value="33, 24, 23#3, 3, 36" />

@@ -10,7 +10,6 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="AllowedTownships" value="wilderness" />
   <property name="EditorGroups" value="rural" />
   <property name="SleeperVolumeSize" value="15, 5, 15" />
   <property name="PrefabSize" value="25, 6, 25" />

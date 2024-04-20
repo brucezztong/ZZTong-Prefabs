@@ -19,7 +19,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
-  <property name="Tags" value="snow,desert,rural,gateway,pine_forest" />
+  <property name="Tags" value="rural,gateway" />
   <property name="YOffset" value="-3" />
   <property name="POIMarkerSize" value="8, 13, 3#6, 3, 4#3, 4, 6#11, 2, 5#6, 1, 1#2, 2, 3#5, 1, 14#7, 13, 2" />
   <property name="POIMarkerStart" value="29, 2, -3#12, 3, 8#35, 3, 12#12, 3, 19#30, 3, 4#37, 3, 6#29, 3, 6#29, 2, -2" />

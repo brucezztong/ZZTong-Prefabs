@@ -20,7 +20,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property name="EditorGroups" value="commercial" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="POIMarkerSize" value="3, 1, 1#6, 1, 1#2, 3, 2#3, 2, 2#11, 6, 5#5, 1, 5#3, 8, 4#3, 2, 3#3, 7, 4#5, 5, 11#5, 5, 5" />
   <property name="POIMarkerStart" value="14, 8, 23#2, 8, 40#36, 8, 2#35, 8, 2#18, 8, 7#33, 8, 35#3, 8, 4#21, 32, 19#20, 32, 31#33, 8, 11#12, 32, 27" />

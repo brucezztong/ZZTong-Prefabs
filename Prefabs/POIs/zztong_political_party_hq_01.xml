@@ -28,7 +28,7 @@
   <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_02,part_greeble_rooftop_04,part_greeble_rooftop_04,part_zztong_party_hq_01,part_fusebox_01,part_high_voltage_box_1,part_large_fusebox_01,part_shipping_container_04,part_utility_pole_large,part_zztong_barbwire2,part_zztong_delivery_01,part_zztong_ladder_iron_01" />
   <property name="POIMarkerPartRotations" value="1,0,2,2,2,2,0,2,1,0,1,3" />
   <property name="POIMarkerPartSpawnChance" value="0.8,0.6,0.6,0.5,0.6,0.6,0.6,0.4,0.4,0.8,0.4,0.8" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property name="EditorGroups" value="commercial" />
   <property class="Stats">

@@ -10,8 +10,6 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-9" />
   <property name="Zoning" value="downtown" />
-  <property name="AllowedTownships" value="city" />
-  <property name="AllowedBiomes" value="desert" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="downtown" />
   <property name="SleeperVolumeStart" value="16, 9, 26#4, 13, 6#4, 23, 6#16, 18, 6#16, 8, 6#27, 8, 6#17, 3, 8#4, 3, 6" />
@@ -23,7 +21,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="PrefabSize" value="42, 29, 42" />
   <property name="POIMarkerSize" value="3, 4, 6#7, 7, 7" />
   <property name="POIMarkerStart" value="1, 9, 9#18, 5, 32" />

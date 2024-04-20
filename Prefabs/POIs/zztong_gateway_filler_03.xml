@@ -11,7 +11,7 @@
   <property name="YOffset" value="-3" />
   <property name="PrefabSize" value="42, 7, 42" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="gateway,pine_forest" />
+  <property name="Tags" value="gateway" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="15, 6, 15" />
   <property name="SleeperVolumeStart" value="13, 4, 12" />

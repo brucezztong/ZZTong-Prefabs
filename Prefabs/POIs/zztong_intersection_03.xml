@@ -13,7 +13,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="snow,wasteland,desert,downtown,pine_forest,zzintersection" />
+  <property name="Tags" value="downtown,zzintersection" />
   <property name="YOffset" value="-13" />
   <property name="POIMarkerSize" value="5, 3, 5#5, 3, 5#5, 3, 5#5, 3, 5#3, 8, 6#11, 2, 5#11, 5, 5" />
   <property name="POIMarkerStart" value="45, 41, 45#45, 41, 14#14, 41, 14#14, 41, 45#14, 13, 29#26, 13, 31#50, 13, 29" />

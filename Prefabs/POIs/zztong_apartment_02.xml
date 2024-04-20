@@ -8,8 +8,6 @@
   <property name="QuestTags" value="clear" />
   <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Commercial" />
-  <property name="AllowedTownships" value="town" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-2" />
   <property name="DistantPOIYOffset" value="0" />

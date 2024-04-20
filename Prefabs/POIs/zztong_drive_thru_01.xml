@@ -10,8 +10,6 @@
   <property name="RotationToFaceNorth" value="0" />
   <property name="YOffset" value="-2" />
   <property name="Zoning" value="none" />
-  <property name="AllowedTownships" value="city,rural,town" />
-  <property name="AllowedBiomes" value="desert" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="7, 2, 7#8, 4, 3" />
@@ -23,7 +21,7 @@
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="SleeperVolumeGroupId" value="0,0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="snow,desert,countrytown,pine_forest,nodiagonal" />
+  <property name="Tags" value="countrytown,nodiagonal" />
   <property name="POIMarkerSize" value="7, 13, 2#7, 13, 2" />
   <property name="POIMarkerStart" value="0, 1, 25#16, 1, 25" />
   <property name="POIMarkerGroup" value="driveway1,driveway2" />

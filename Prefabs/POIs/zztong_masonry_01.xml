@@ -10,8 +10,6 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="Industrial" />
-  <property name="AllowedTownships" value="town" />
-  <property name="AllowedBiomes" value="pine_forest,desert" />
   <property name="EditorGroups" value="industrial" />
   <property name="QuestTags" value="clear, fetch" />
   <property name="YOffset" value="-3" />
@@ -22,7 +20,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
-  <property name="Tags" value="snow,desert,countrytown,pine_forest,diagonal" />
+  <property name="Tags" value="countrytown,diagonal" />
   <property name="POIMarkerSize" value="7, 13, 2#11, 8, 5#11, 4, 5#2, 2, 2" />
   <property name="POIMarkerStart" value="13, 2, -2#19, 3, 23#6, 3, 23#4, 3, 11" />
   <property name="POIMarkerGroup" value="driveway,excavator,trailer,cobble" />

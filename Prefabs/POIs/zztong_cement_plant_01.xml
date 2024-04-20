@@ -28,7 +28,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0" />
-  <property name="Tags" value="snow,wasteland,desert,industrial,pine_forest" />
+  <property name="Tags" value="industrial" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property name="EditorGroups" value="industrial" />
   <property class="Stats">

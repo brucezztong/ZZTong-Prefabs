@@ -9,8 +9,6 @@
   <property name="DifficultyTier" value="4" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
-  <property name="AllowedTownships" value="city" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="12, 20, 4#11, 15, 8#32, 8, 8#34, 3, 4#11, 3, 4#13, 3, 34#34, 3, 34#11, 8, 8#12, 8, 34#11, 15, 34#25, 8, 3" />
@@ -22,7 +20,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="POIMarkerSize" value="8, 16, 7#4, 7, 10#4, 3, 9" />
   <property name="POIMarkerStart" value="44, 15, 36#10, 16, 40#16, 21, 12" />
   <property name="POIMarkerGroup" value="tower,billboard,hvac" />

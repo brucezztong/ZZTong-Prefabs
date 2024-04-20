@@ -11,8 +11,6 @@
   <property name="YOffset" value="-2" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="Zoning" value="none" />
-  <property name="AllowedTownships" value="city" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="2, 2, 5#2, 8, 5#3, 13, 5#18, 2, 20#3, 2, 22#20, 2, 5#17, 8, 5#18, 8, 12" />
   <property name="SleeperVolumeSize" value="18, 6, 15#15, 5, 15#29, 8, 13#16, 6, 19#15, 6, 18#13, 6, 14#16, 5, 7#15, 5, 8" />

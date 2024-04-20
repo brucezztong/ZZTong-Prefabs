@@ -26,7 +26,7 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_03,part_driveway_countryresidential_03,part_appliance_pile_01,part_zztong_pallets_cobble_01,part_utility_pole" />
   <property name="POIMarkerPartRotations" value="2,2,0,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1,0.8,0.5,0.5" />
-  <property name="Tags" value="snow,desert,countryresidential,pine_forest" />
+  <property name="Tags" value="countryresidential" />
   <property name="EditorGroups" value="rural" />
   <property name="YOffset" value="-1" />
   <property name="SleeperVolumeTriggeredBy" value=" " />

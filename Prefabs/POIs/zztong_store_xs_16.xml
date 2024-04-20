@@ -21,7 +21,7 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property name="YOffset" value="-8" />
   <property name="EditorGroups" value="commercial" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">

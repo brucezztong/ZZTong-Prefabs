@@ -11,8 +11,6 @@
   <property name="YOffset" value="-2" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="Zoning" value="Industrial" />
-  <property name="AllowedBiomes" value="snow,pine_forest" />
-  <property name="AllowedTownships" value="town" />
   <property name="EditorGroups" value="industrial" />
   <property name="SleeperVolumeStart" value="24, 2, 26#5, 2, 26#20, 2, 4#25, 4, 27#4, 2, 4#31, 2, 4" />
   <property name="SleeperVolumeSize" value="16, 2, 14#18, 10, 12#10, 6, 22#15, 6, 12#15, 5, 20#7, 5, 22" />
@@ -23,7 +21,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="snow,desert,countrytown,pine_forest,diagonal" />
+  <property name="Tags" value="countrytown,diagonal" />
   <property name="POIMarkerSize" value="7, 13, 2#5, 5, 8" />
   <property name="POIMarkerStart" value="16, 1, 42#9, 2, 10" />
   <property name="POIMarkerGroup" value="driveway,container" />

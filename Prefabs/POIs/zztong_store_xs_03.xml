@@ -11,8 +11,6 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="Commercial" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
-  <property name="AllowedTownships" value="city,town" />
   <property name="EditorGroups" value="commercial" />
   <property name="YOffset" value="-6" />
   <property name="SleeperVolumeSize" value="12, 3, 7#11, 3, 7#10, 3, 7#12, 3, 12#23, 4, 12#10, 3, 18#12, 3, 10#14, 5, 12" />
@@ -22,7 +20,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0" />
-  <property name="Tags" value="snow,desert,countrytown,pine_forest,nodiagonal" />
+  <property name="Tags" value="countrytown,nodiagonal" />
   <property name="POIMarkerSize" value="10, 13, 2#2, 2, 3#2, 1, 2" />
   <property name="POIMarkerStart" value="3, 5, -2#2, 6, 6#4, 14, 20" />
   <property name="POIMarkerGroup" value="driveway,dumpster,vultures" />

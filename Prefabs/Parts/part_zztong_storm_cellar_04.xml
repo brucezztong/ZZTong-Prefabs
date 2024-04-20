@@ -10,8 +10,6 @@
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-4" />
   <property name="RotationToFaceNorth" value="1" />
-  <property name="AllowedTownships" value="city,town,rural,wilderness" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert,burnt_forest,wasteland" />
   <property name="EditorGroups" value="parts" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="7, 7, 7" />

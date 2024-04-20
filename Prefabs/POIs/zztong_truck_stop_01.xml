@@ -16,12 +16,11 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False" />
   <property name="Zoning" value="none" />
-  <property name="AllowedTownships" value="city,rural,town" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeFlags" value="0,0,2,0,0,0,2,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False" />
-  <property name="Tags" value="snow,desert,gateway,pine_forest" />
+  <property name="Tags" value="gateway" />
   <property name="PrefabSize" value="60, 13, 60" />
   <property name="YOffset" value="-2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />

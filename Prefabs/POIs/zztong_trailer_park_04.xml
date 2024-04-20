@@ -21,7 +21,7 @@
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property name="EditorGroups" value="rural" />
-  <property name="Tags" value="snow,wasteland,desert,countryresidential,pine_forest" />
+  <property name="Tags" value="countryresidential" />
   <property name="POIMarkerSize" value="5, 13, 1#4, 3, 4#5, 1, 1" />
   <property name="POIMarkerStart" value="2, 2, -1#1, 3, 12#2, 3, 2" />
   <property name="POIMarkerGroup" value="driveway,appliances,spikes" />

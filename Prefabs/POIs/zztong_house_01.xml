@@ -11,8 +11,6 @@
   <property name="YOffset" value="-4" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="Zoning" value="ResidentialOld, Residential" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
-  <property name="AllowedTownships" value="town" />
   <property name="EditorGroups" value="house old" />
   <property name="SleeperVolumeStart" value="2, 6, 8#5, 1, 5#2, 6, 1#14, 6, 7" />
   <property name="SleeperVolumeSize" value="12, 3, 9#13, 5, 11#11, 3, 7#8, 3, 11" />

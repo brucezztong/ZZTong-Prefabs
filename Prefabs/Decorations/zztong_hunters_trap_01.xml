@@ -11,8 +11,6 @@
   <property name="YOffset" value="-8" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="BiomeOnly" />
-  <property name="AllowedTownships" value="wilderness" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert,burnt_forest" />
   <property name="EditorGroups" value="world/deco/biome" />
   <property name="PrefabSize" value="7, 8, 7" />
   <property name="Tags" value="biomeonly,devonly" />

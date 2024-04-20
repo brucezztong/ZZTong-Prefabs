@@ -22,7 +22,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="PrefabSize" value="32, 25, 32" />
-  <property name="Tags" value="snow,desert,gateway,pine_forest,zzdocks" />
+  <property name="Tags" value="gateway,zzdocks" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property name="InfoVolumeSize" value="27, 18, 24" />
   <property name="InfoVolumeStart" value="4, -1, 6" />

@@ -4,7 +4,6 @@
   <property name="AllowTopSoilDecorations" value="False" />
   <property name="Zoning" value="none" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="AllowedTownships" value="wilderness,rural,town,city" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="DistantPOIYOffset" value="0" />

@@ -11,7 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 12, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="POIMarkerSize" value="5, 3, 5#5, 4, 5#2, 2, 2#1, 1, 4#1, 1, 4" />
   <property name="POIMarkerStart" value="10, 9, 12#10, 9, 5#14, 3, 11#22, 10, 5#2, 10, 5" />
   <property name="POIMarkerGroup" value="hvac,shed,delivery,sand1,sand2" />

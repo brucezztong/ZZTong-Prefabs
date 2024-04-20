@@ -8,8 +8,6 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="1" />
   <property name="Zoning" value="none" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
-  <property name="AllowedTownships" value="city,town" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />
   <property name="DistantPOIYOffset" value="0" />
@@ -22,7 +20,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="snow,desert,commercial,countrytown,pine_forest,diagonal" />
+  <property name="Tags" value="commercial,countrytown,diagonal" />
   <property name="POIMarkerSize" value="5, 13, 2#2, 1, 2#2, 2, 2" />
   <property name="POIMarkerStart" value="5, 2, -2#4, 3, 18#22, 8, 16" />
   <property name="POIMarkerGroup" value="driveway,vultures,delivery" />

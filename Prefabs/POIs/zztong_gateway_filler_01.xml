@@ -12,7 +12,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
-  <property name="Tags" value="snow,wasteland,desert,gateway,pine_forest" />
+  <property name="Tags" value="gateway" />
   <property name="SleeperVolumeSize" value="15, 6, 15" />
   <property name="SleeperVolumeStart" value="2, 3, 4" />
   <property name="SleeperVolumeGroupId" value="0" />

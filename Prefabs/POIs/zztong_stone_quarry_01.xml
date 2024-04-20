@@ -13,8 +13,6 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="ResidentialOld" />
-  <property name="AllowedTownships" value="wilderness" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="SleeperVolumeSize" value="15, 5, 8#27, 12, 27#30, 11, 20#24, 12, 27#28, 11, 20" />
   <property name="SleeperVolumeStart" value="57, 16, 3#24, 3, 40#47, 3, 20#52, 3, 40#19, 3, 20" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
@@ -23,7 +21,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="YOffset" value="-16" />
-  <property name="Tags" value="snow,desert,wilderness,pine_forest" />
+  <property name="Tags" value="wilderness" />
   <property name="POIMarkerSize" value="5, 1, 5#8, 1, 4#3, 1, 1#10, 5, 5" />
   <property name="POIMarkerStart" value="72, 15, -5#71, 16, 6#55, 16, 4#16, 3, 58" />
   <property name="POIMarkerGroup" value="road,checkpt,wire,new" />

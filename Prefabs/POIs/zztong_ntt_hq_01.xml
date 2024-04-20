@@ -12,7 +12,7 @@
   <property name="PrefabSize" value="42, 31, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="snow,desert,commercial,pine_forest" />
+  <property name="Tags" value="commercial" />
   <property name="SleeperVolumeSize" value="14, 5, 13#36, 7, 33#15, 7, 14#15, 7, 14#26, 6, 9#27, 6, 10#27, 7, 9#27, 7, 10#27, 7, 9#27, 7, 10#12, 5, 12#12, 5, 8#12, 8, 21#12, 7, 21#40, 9, 21" />
   <property name="SleeperVolumeStart" value="2, 9, 8#2, 2, 4#1, 14, 7#1, 21, 7#2, 9, 21#1, 9, 31#1, 15, 21#1, 15, 31#1, 22, 21#1, 22, 31#29, 9, 20#29, 9, 33#29, 14, 20#29, 22, 20#1, 29, 20" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />

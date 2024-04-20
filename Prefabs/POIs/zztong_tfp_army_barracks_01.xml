@@ -8,8 +8,6 @@
   <property name="DifficultyTier" value="2" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="Zoning" value="none" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
-  <property name="AllowedTownships" value="town" />
   <property name="Age" value="Old" />
   <property name="Condition" value="Normal" />
   <property name="TraderArea" value="False" />
@@ -27,7 +25,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
-  <property name="Tags" value="snow,desert,wilderness,pine_forest" />
+  <property name="Tags" value="wilderness" />
   <property name="POIMarkerSize" value="5, 1, 5#1, 1, 3#5, 1, 1#5, 1, 1" />
   <property name="POIMarkerStart" value="39, 2, -5#39, 3, 32#39, 3, 10#16, 3, 10" />
   <property name="POIMarkerGroup" value="road,spikes2,spikes1,spikes3" />

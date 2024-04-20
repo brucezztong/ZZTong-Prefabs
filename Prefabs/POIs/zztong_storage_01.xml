@@ -11,7 +11,7 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="60, 12, 60" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="snow,desert,rural,gateway,pine_forest" />
+  <property name="Tags" value="rural,gateway" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="15, 6, 8#14, 4, 5#5, 5, 5#7, 9, 25#7, 6, 11#11, 6, 3" />
   <property name="SleeperVolumeStart" value="22, 3, 4#21, 3, 46#31, 3, 24#23, 3, 14#30, 3, 13#39, 3, 38" />

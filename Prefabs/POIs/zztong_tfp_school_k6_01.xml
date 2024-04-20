@@ -20,7 +20,7 @@
   <property name="ShowQuestClearCount" value="2" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False" />
   <property name="PrefabSize" value="60, 21, 60" />
-  <property name="Tags" value="snow,wasteland,desert,rural,pine_forest" />
+  <property name="Tags" value="rural" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="Zoning" value="none" />

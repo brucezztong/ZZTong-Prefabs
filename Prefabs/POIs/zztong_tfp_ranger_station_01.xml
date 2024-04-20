@@ -5,8 +5,6 @@
   <property name="QuestTags" value="clear, fetch" />
   <property name="DifficultyTier" value="1" />
   <property name="Zoning" value="ResidentialOld" />
-  <property name="AllowedTownships" value="wilderness" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="RotationToFaceNorth" value="1" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
@@ -32,7 +30,7 @@
   <property name="POIMarkerPartRotations" value="3,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.4" />
   <property name="YOffset" value="-3" />
-  <property name="Tags" value="snow,desert,wilderness,pine_forest" />
+  <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="PrefabSize" value="25, 15, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />

@@ -13,7 +13,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="DuplicateRepeatDistance" value="4000" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="wasteland,desert,residential,pine_forest" />
+  <property name="Tags" value="residential" />
   <property name="POIMarkerSize" value="12, 13, 5#3, 4, 3#1, 2, 1#4, 3, 6#1, 6, 3#3, 3, 3#5, 5, 8#2, 4, 1#2, 2, 2#2, 3, 2#2, 2, 2" />
   <property name="POIMarkerStart" value="45, 5, -5#26, 2, 36#27, 2, 26#52, 6, 27#3, 6, 30#4, 6, 1#49, 6, 11#22, 2, 40#51, 6, 37#56, 6, 32#45, 6, 28" />
   <property name="POIMarkerGroup" value="driveway,furnace,fusebox,generator,air,electric,container,waterheat,delivery,evcharge,cobble" />

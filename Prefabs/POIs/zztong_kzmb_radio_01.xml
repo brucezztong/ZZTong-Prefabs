@@ -8,8 +8,6 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="3" />
   <property name="Zoning" value="none" />
-  <property name="AllowedTownships" value="city" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-2" />
   <property name="DistantPOIYOffset" value="0" />

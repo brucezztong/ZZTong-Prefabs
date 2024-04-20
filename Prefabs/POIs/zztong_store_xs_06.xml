@@ -10,8 +10,6 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
-  <property name="AllowedTownships" value="city,town" />
   <property name="EditorGroups" value="commercial" />
   <property name="Zoning" value="Commercial" />
   <property name="SleeperVolumeSize" value="17, 3, 9#8, 4, 19#8, 4, 19#17, 4, 19#17, 4, 19#8, 3, 10#8, 3, 8" />

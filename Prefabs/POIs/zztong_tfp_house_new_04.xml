@@ -11,8 +11,6 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="YOffset" value="-3" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="AllowedBiomes" value="desert" />
-  <property name="AllowedTownships" value="city" />
   <property name="EditorGroups" value="house new" />
   <property name="SleeperVolumeStart" value="26, 3, 1#30, 4, 25#26, 9, 1#13, 7, 25#30, 9, 36#19, 15, 23#20, 3, 52#15, 4, 39#6, 4, 25" />
   <property name="SleeperVolumeSize" value="16, 5, 24#12, 4, 27#16, 6, 25#16, 8, 21#12, 6, 17#18, 6, 26#20, 4, 6#15, 3, 13#23, 3, 14" />

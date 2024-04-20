@@ -10,8 +10,6 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="3" />
-  <property name="AllowedTownships" value="city" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
   <property name="EditorGroups" value="industrial" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
@@ -22,7 +20,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
-  <property name="Tags" value="snow,desert,industrial,pine_forest" />
+  <property name="Tags" value="industrial" />
   <property name="POIMarkerSize" value="1, 13, 13#11, 5, 5#11, 5, 5#2, 2, 2" />
   <property name="POIMarkerStart" value="-1, 2, 10#2, 3, 10#2, 3, 17#19, 4, 12" />
   <property name="POIMarkerGroup" value="drive,trailer1,trailer2,delivery" />

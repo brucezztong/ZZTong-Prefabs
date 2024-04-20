@@ -20,7 +20,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0" />
-  <property name="Tags" value="snow,desert,countrytown,rural,pine_forest,nodiagonal" />
+  <property name="Tags" value="countrytown,rural,nodiagonal" />
   <property name="POIMarkerSize" value="6, 13, 2#6, 13, 3#1, 2, 1#5, 4, 1#4, 1, 1#8, 2, 2#4, 1, 1" />
   <property name="POIMarkerStart" value="20, 1, -2#20, 1, -3#14, 2, 15#9, 2, 6#21, 2, 6#15, 2, 16#24, 2, 25" />
   <property name="POIMarkerGroup" value="driveway,driveway,fuse,propane,barbwire,firewood,sandbags" />

@@ -12,7 +12,7 @@
   <property name="PrefabSize" value="42, 12, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="snow,desert,countryresidential,pine_forest" />
+  <property name="Tags" value="countryresidential" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeSize" value="16, 7, 8#16, 7, 8#16, 7, 9#15, 7, 8#16, 7, 14" />
   <property name="SleeperVolumeStart" value="25, 2, 33#1, 2, 33#1, 2, 18#2, 2, 2#24, 2, 2" />

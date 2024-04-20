@@ -11,8 +11,6 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="wilderness, ResidentialOld" />
-  <property name="AllowedTownships" value="wilderness" />
-  <property name="AllowedBiomes" value="snow,pine_forest" />
   <property name="EditorGroups" value="Wilderness" />
   <property name="SleeperVolumeSize" value="11, 7, 14#19, 10, 38#15, 4, 10#5, 4, 8#15, 10, 15" />
   <property name="SleeperVolumeStart" value="22, 21, 4#2, 20, 2#12, 10, 20#3, 2, 21#24, 20, 20" />
@@ -22,7 +20,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,True,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="YOffset" value="-20" />
-  <property name="Tags" value="wilderness,pine_forest" />
+  <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="4, 1, 5#5, 4, 1#1, 1, 6" />
   <property name="POIMarkerStart" value="14, 19, -5#27, 20, 17#14, 20, 14" />

@@ -29,7 +29,7 @@
   <property name="Zoning" value="none" />
   <property name="EditorGroups" value="rural" />
   <property name="YOffset" value="-3" />
-  <property name="Tags" value="snow,wasteland,desert,countryresidential,pine_forest" />
+  <property name="Tags" value="countryresidential" />
   <property class="Stats">
     <property name="TotalVertices" value="125027" />
     <property name="TotalTriangles" value="52907" />

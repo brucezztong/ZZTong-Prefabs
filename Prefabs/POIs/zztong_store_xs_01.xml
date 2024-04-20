@@ -11,8 +11,6 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="Commercial" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
-  <property name="AllowedTownships" value="city,town" />
   <property name="EditorGroups" value="commercial" />
   <property name="YOffset" value="-3" />
   <property name="SleeperVolumeSize" value="19, 3, 10#19, 5, 19#19, 3, 9" />

@@ -9,8 +9,6 @@
   <property name="DifficultyTier" value="5" />
   <property name="ShowQuestClearCount" value="3" />
   <property name="Zoning" value="Commercial" />
-  <property name="AllowedBiomes" value="snow,pine_forest,desert" />
-  <property name="AllowedTownships" value="city" />
   <property name="EditorGroups" value="commercial, downtown" />
   <property name="DuplicateRepeatDistance" value="4000" />
   <property name="TraderArea" value="False" />
@@ -23,7 +21,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,2" />
-  <property name="Tags" value="snow,wasteland,desert,commercial,downtown,pine_forest" />
+  <property name="Tags" value="commercial,downtown" />
   <property name="PrefabSize" value="42, 83, 42" />
   <property name="POIMarkerSize" value="2, 2, 2#3, 1, 1" />
   <property name="POIMarkerStart" value="5, 3, 6#20, 38, 14" />
