@@ -7,7 +7,7 @@ A21.2.021 (ZZ021)
 * Retired the old, huge, ugly, wasteful Office_Bldg_03.
 * Added a new Office_Bldg_03, lighter, nastier, nicer looking.
 * Added watering_hole_01, watering_hole_02, house_22.
-* Bug fixes to house_17, kzmb, and warehouse_02.
+* Bug fixes to house_17, kzmb, brownstones, and warehouse_02.
 * Removed AllowedBiome and AllowedTownship tags and various Biome tags.
 
 A21.2.020 (ZZ020)
