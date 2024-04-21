@@ -70,6 +70,14 @@ the apartments was cutoff to make it fit. Folks have liked the appearance
 of the front, and it did take a lot of work. Part of me regrets making this
 POI because a NYC Brownstone is really out of place in an Arizona setting.
 
+BURIED TREASURE 01 & 02
+
+These are the result of a discussion on the Rebirth Discord about the buried
+treasure quests in the game. The idea was that instead of having a map quest
+that there be unannounced things scattered about the map. While Buried
+Treasure 01 is a Decoration, Buried Treasure 02 is a POI so that it can show
+up on the danger meter out in the wilderness.
+
 CABIN FORT 01
 
 This is a very early A19 POI that is one of my favorites. The idea for the
@@ -352,6 +360,11 @@ I had an idea for a POI where somebody built up a perimeter around their house
 as sort of a half-hearted defense scheme. This is the POI that resulted. It was
 somewhat confined by my need for a POI with a small footprint.
 
+HOUSE 22
+
+My preference for wrapping countryresidential districts around countrytowns
+in my solo games chews through more POIs, so this was a step towards that need.
+
 KZMB RADIO 01 & KZMB RADIO DESTROYED
 
 I made this POI after I realized we didn't have any POIs for media companies.
@@ -473,7 +486,14 @@ quite decided what they were selling, but there's a small data center on one
 of the upper floors with some larger IZM (cough IBM) computers. This A19 POI
 did not need a lot of conversion for A20.
 
-OFFICE BUILDING 03 & OFFICE BUILDING 03 DESTROYED
+OFFICE BUILDING 03 (NEW)
+
+The original Office Building 03 was retired with the ZZ021 release and replaced
+with this newer design. You will still be able to find the original version in
+the CompoPack because Stallionsden curates a collection of everything. To me,
+that old version was an ugly POI full of early mistakes.
+
+OFFICE BUILDING 03 & OFFICE BUILDING 03 DESTROYED (OLD)
 
 This POI was originally supposed to be a grand skyscraper of some 15+ floors
 and two underground parking levels. Oh boy. I sure learned a lot about how a
@@ -900,6 +920,18 @@ WAREHOUSE 04
 This started as Tile content and were removed from the Intersection Tile
 because I had packed that Tile too tight with content creating performance
 issues. They're reappearing as POIs.
+
+WATERING HOLE 01
+
+With A21 introducing the new Dew Collector, I thought it was odd we weren't
+finding more Dew Collectors in POIs. This is a small POI where some survivors
+realized they needed to be collecting water and were doing so in an open field.
+
+WATERING HOLE 02
+
+Along the same lines as Watering Hole 01, some survivors realized they needed
+to collect water, but rather than use a bunch of Dew Collectors, they built a
+large Dew Collector within the shell of a building.
 
 WIND TURBINE 01
 
