@@ -1,5 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+1.0.EXP.022 (ZZ022)
+* Bug fixes.
+
 A21.2.021 (ZZ021)
 * DuplicateRepeatDistances on Houses reduced to 1000 to combat empty lots.
 * New Hidden Decorations and POIs thanks to ideas from the Rebirth community:
