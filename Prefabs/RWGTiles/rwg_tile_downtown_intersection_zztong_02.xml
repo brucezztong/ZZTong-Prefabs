@@ -21,14 +21,14 @@
   <property name="POIMarkerPartToSpawn" value=",,,,,,,,,part_ambulance_01,part_armytruck_01,part_bus_stop_02,part_car_accident_01,part_coffee_stand,part_generator_02,part_greeble_rooftop_02,part_kiosk_01,part_kiosk_02,part_kiosk_foodtrailer_01,part_lift_03,part_mobile_office_trailer,part_roadside_fruit_stand_02,part_sculpture_01,part_sculpture_02,part_semi_truck,part_shipping_container_06,part_street_clock,part_zztong_barrier6,part_zztong_barrier6_yellow,part_zztong_camper_01,part_zztong_delivery_02,part_zztong_delivery_03,part_zztong_ev_charger_01,part_zztong_land_mine_01,part_zztong_pallets_cement_01,part_zztong_shopping_cart_01,part_zztong_spikes_wood5,part_zztong_tfp_cell_on_wheels_02,part_zztong_traffic_cones5" />
   <property name="POIMarkerPartRotations" value="0,3,3,1,1,1,0,1,3,0,3,0,3,3,0,2,1,3,1,0,0,0,0,0,0,3,0,1,1,1,0,0,0,0,2,2,0,0,1" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,1,0.1,0.1,0.9,0.2,0.5,0.5,0.8,0.5,0.5,0.5,0.2,0.2,0.5,0.5,0.5,0.2,0.2,0.5,0.2,0.2,0.2,0.5,0.5,0.5,0.2,0.2,0.5,0.5,0.2,0.2" />
-  <property name="SleeperVolumeSize" value="12, 7, 24#15, 3, 6#30, 9, 16#16, 7, 9#13, 8, 3#18, 7, 5#7, 8, 12" />
-  <property name="SleeperVolumeStart" value="29, 13, 83#10, 13, 143#116, 13, 131#27, 13, 17#30, 13, 13#20, 13, 8#20, 12, 13" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,9,10,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
+  <property name="SleeperVolumeSize" value="15, 3, 6#30, 9, 16#16, 7, 9#13, 8, 3#18, 7, 5#7, 8, 12" />
+  <property name="SleeperVolumeStart" value="10, 13, 143#116, 13, 131#27, 13, 17#30, 13, 13#20, 13, 8#20, 12, 13" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,9,10,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
     <property name="TotalVertices" value="1206255" />
     <property name="TotalTriangles" value="615262" />

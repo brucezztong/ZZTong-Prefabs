@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="RotationToFaceNorth" value="0" />
+  <property name="YOffset" value="-13" />
+  <property name="Zoning" value="none" />
+  <property name="PrefabSize" value="150, 23, 150" />
+  <property name="Tags" value="streettile,rwgonly" />
+  <property name="POIMarkerSize" value="64, 0, 64#25, 0, 25#42, 0, 42#25, 0, 25#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25" />
+  <property name="POIMarkerStart" value="43, 13, 43#83, 13, 115#108, 13, 83#41, 13, 117#0, 13, 25#42, 13, 17#83, 13, 1#125, 13, 25#125, 13, 0" />
+  <property name="POIMarkerGroup" value="POI-Main,XS1,S1,XS2,S2,XS3,XS4,XS5,XS6" />
+  <property name="POIMarkerTags" value="zzintersection########" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,,,," />
+  <property name="POIMarkerPartRotations" value="0,1,2,3,0,3,1,1,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,1" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="SleeperVolumeFlags" value="0,0,0,0" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeStart" value="121, 13, 127#137, 17, 127#122, 17, 127#110, 17, 127" />
+  <property name="SleeperVolumeSize" value="16, 3, 12#11, 3, 13#14, 3, 13#11, 3, 13" />
+  <property class="Stats">
+    <property name="TotalVertices" value="564333" />
+    <property name="TotalTriangles" value="315090" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="385357" />
+      <property name="Triangles" value="145778" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="111794" />
+      <property name="Triangles" value="59276" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="496" />
+      <property name="Triangles" value="248" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="66686" />
+      <property name="Triangles" value="109788" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="POILight">
+      <property name="0" value="140, 19, 139" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="144, 18, 130" />
+      <property name="1" value="146, 17, 132" />
+    </property>
+  </property>
+</prefab>
