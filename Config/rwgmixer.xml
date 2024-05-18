@@ -23,6 +23,12 @@
             <property name="mintiles" value="0"/>
             <property name="maxdensity" value="120"/>
         </streettile>
+
+        <streettile name="rwg_tile_downtown_intersection_zztong_04">
+            <property name="maxtiles" value="1"/>
+            <property name="mintiles" value="0"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
 	</append>
 
     <!-- **************************************************************

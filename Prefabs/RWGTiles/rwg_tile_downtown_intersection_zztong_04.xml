@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="True" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="RotationToFaceNorth" value="0" />
+  <property name="YOffset" value="-13" />
+  <property name="Zoning" value="none" />
+  <property name="PrefabSize" value="150, 27, 150" />
+  <property name="Tags" value="streettile,rwgonly" />
+  <property name="POIMarkerSize" value="64, 0, 64#25, 0, 25#25, 0, 25#1, 1, 2#5, 1, 1#5, 1, 1#1, 1, 1#3, 2, 1#1, 1, 3#6, 1, 1#4, 6, 8#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#5, 1, 5#5, 1, 5#5, 1, 5#5, 1, 5#1, 1, 1#7, 5, 11" />
+  <property name="POIMarkerStart" value="43, 13, 43#125, 13, 125#124, 13, 1#80, 13, 141#110, 13, 82#73, 13, 24#116, 13, 40#144, 13, 67#129, 13, 72#142, 13, 109#21, 13, 71#42, 13, 89#37, 13, 136#113, 13, 106#116, 13, 58#111, 13, 41#37, 13, 60#60, 13, 18#143, 13, 103#139, 13, 79#31, 13, 42" />
+  <property name="POIMarkerGroup" value="POI-Main,XS1,XS2,barb1,barb2,barb3,barrel,barricade,barrier1,barrier2,checkpoint,mine1,mine2,mine3,mine4,mines1,mines2,mines3,mines4,cart,coffee" />
+  <property name="POIMarkerTags" value="zzintersection####################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,part_zztong_barbwire2,part_zztong_barbwire5,part_zztong_barbwire5,part_zztong_barrel_burning_01,part_zztong_barricade_01,part_zztong_barrier3,part_zztong_barrier6,part_zztong_checkpoint_02,part_zztong_land_mine_01,part_zztong_land_mine_02,part_zztong_land_mine_03,part_zztong_land_mine_fake_01,part_zztong_mine_field_01,part_zztong_mine_field_02,part_zztong_mine_field_03,part_zztong_mine_field_04,part_zztong_shopping_cart_01,part_coffee_stand" />
+  <property name="POIMarkerPartRotations" value="0,2,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.2,0.2,0.2,0.5,0.2,0.2,0.2,0.2,0.5,0.5" />
+  <property name="SleeperVolumeSize" value="12, 7, 24#15, 4, 14" />
+  <property name="SleeperVolumeStart" value="29, 13, 83#119, 13, 52" />
+  <property name="SleeperVolumeGroupId" value="0,0" />
+  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperIsLootVolume" value="False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False" />
+  <property name="SleeperVolumeFlags" value="0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # " />
+  <property class="Stats">
+    <property name="TotalVertices" value="1584396" />
+    <property name="TotalTriangles" value="681856" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="1355451" />
+      <property name="Triangles" value="474053" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="155055" />
+      <property name="Triangles" value="88275" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="112" />
+      <property name="Triangles" value="56" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="652" />
+      <property name="Triangles" value="468" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="64" />
+      <property name="Triangles" value="32" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes6">
+      <property name="Vertices" value="73062" />
+      <property name="Triangles" value="118972" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="137, 13, 69" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="139, 16, 84" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="138, 14, 87" />
+    </property>
+  </property>
+</prefab>
