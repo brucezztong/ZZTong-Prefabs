@@ -12,7 +12,7 @@
   <property name="YOffset" value="-3" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="commercial" />
-  <property name="DuplicateRepeatDistance" value="4000" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeStart" value="1, 3, 5#21, 3, 5#21, 3, 18#1, 3, 15#1, 6, 24#3, 11, 7#1, 5, 5" />
   <property name="SleeperVolumeSize" value="19, 2, 9#15, 4, 12#15, 4, 22#19, 2, 25#19, 4, 16#31, 4, 32#19, 5, 19" />
   <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3" />
@@ -23,7 +23,6 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="commercial" />
-  <property name="DuplicateRepeatDistance" value="2000" />
   <property name="PrefabSize" value="42, 14, 42" />
   <property name="POIMarkerSize" value="5, 3, 5#5, 3, 5#5, 5, 11" />
   <property name="POIMarkerStart" value="25, 11, 29#25, 11, 17#37, 3, 20" />
@@ -56,15 +55,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1118941" />
-    <property name="TotalTriangles" value="386282" />
+    <property name="TotalVertices" value="1118957" />
+    <property name="TotalTriangles" value="386290" />
     <property class="BlockEntities">
       <property name="Vertices" value="1057605" />
       <property name="Triangles" value="347898" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="54980" />
-      <property name="Triangles" value="29512" />
+      <property name="Vertices" value="54996" />
+      <property name="Triangles" value="29520" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

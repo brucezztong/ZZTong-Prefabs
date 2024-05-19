@@ -13,7 +13,6 @@
   <property name="DifficultyTier" value="2" />
   <property name="ExcludePOICulling" value="True" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="" />
   <property name="PrefabSize" value="60, 28, 60" />
   <property name="POIMarkerSize" value="7, 13, 1#7, 13, 1#7, 13, 2#7, 13, 2#7, 13, 2#7, 13, 2" />
   <property name="POIMarkerStart" value="17, 0, -1#47, 0, -1#17, 0, -2#47, 0, -2#17, 0, -2#47, 0, -2" />
@@ -32,15 +31,15 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1743493" />
-    <property name="TotalTriangles" value="732644" />
+    <property name="TotalVertices" value="1753398" />
+    <property name="TotalTriangles" value="734586" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1658764" />
-      <property name="Triangles" value="673417" />
+      <property name="Vertices" value="1668677" />
+      <property name="Triangles" value="675363" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="73827" />
-      <property name="Triangles" value="43011" />
+      <property name="Vertices" value="73819" />
+      <property name="Triangles" value="43007" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

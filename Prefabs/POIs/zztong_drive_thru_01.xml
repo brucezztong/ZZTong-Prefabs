@@ -44,6 +44,7 @@
     <property class="TraderOnOff">
       <property name="0" value="15, 2, 14" />
       <property name="1" value="13, 2, 20" />
+      <property name="2" value="22, 3, 13" />
     </property>
     <property class="quest_feather">
       <property name="0" value="11, 6, 21" />
@@ -56,15 +57,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="220815" />
-    <property name="TotalTriangles" value="80130" />
+    <property name="TotalVertices" value="239712" />
+    <property name="TotalTriangles" value="84594" />
     <property class="BlockEntities">
-      <property name="Vertices" value="208371" />
-      <property name="Triangles" value="70664" />
+      <property name="Vertices" value="227284" />
+      <property name="Triangles" value="75136" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="10678" />
-      <property name="Triangles" value="6430" />
+      <property name="Vertices" value="10662" />
+      <property name="Triangles" value="6422" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
