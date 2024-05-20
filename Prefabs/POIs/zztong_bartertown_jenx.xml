@@ -26,8 +26,8 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1568542" />
-    <property name="TotalTriangles" value="629887" />
+    <property name="TotalVertices" value="1568280" />
+    <property name="TotalTriangles" value="629879" />
     <property class="BlockEntities">
       <property name="Vertices" value="1465174" />
       <property name="Triangles" value="560968" />
@@ -41,8 +41,8 @@
       <property name="Triangles" value="672" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="24" />
-      <property name="Triangles" value="12" />
+      <property name="Vertices" value="8" />
+      <property name="Triangles" value="4" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="788" />
@@ -57,18 +57,19 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes6">
-      <property name="Vertices" value="10320" />
+      <property name="Vertices" value="10074" />
       <property name="Triangles" value="17020" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
-      <property name="0" value="51, 4, 48" />
-      <property name="1" value="51, 4, 49" />
-      <property name="2" value="51, 4, 51" />
-      <property name="3" value="50, 6, 53" />
-      <property name="4" value="53, 6, 55" />
-      <property name="5" value="56, 4, 55" />
+      <property name="0" value="51, 4, 47" />
+      <property name="1" value="51, 4, 48" />
+      <property name="2" value="51, 4, 49" />
+      <property name="3" value="51, 4, 51" />
+      <property name="4" value="50, 6, 53" />
+      <property name="5" value="53, 6, 55" />
+      <property name="6" value="56, 4, 55" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="47, 4, 37" />
