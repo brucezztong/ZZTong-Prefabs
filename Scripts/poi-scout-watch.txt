@@ -1,73 +1,17 @@
 # blockname:watch note
-zztongTestHelper:Test BLOCK BAD DO NOT USE
-bedroll:BAD BLOCK
-bedrollRed:BAD BLOCK
-bedrollOrange:BAD BLOCK
-bedrollYellow:BAD BLOCK
-bedrollGreen:BAD BLOCK
-bedrollBlue:BAD BLOCK
-bedrollPurple:BAD BLOCK
-bedrollPink:BAD BLOCK
-bedrollGrey:BAD BLOCK
-bedrollWhite:BAD BLOCK
-bedrollArmyGreen:BAD BLOCK
-forge:Changing SHAPE
-cntCollapsedForge:Changing SHAPE
-cntToolsAndForgeRandomLootHelper:Changing SHAPE
-cntTrashCompactor:Changing BLOCKs
-cntWallOven:Changing BLOCKs
-treeStump:BAD BLOCK
-cntAmmoPileSmall:Loot 100%
-cntAmmoPileMedium:Loot 100%
-cntAmmoPilelarge:Loot 100%
-cntFoodPileSmallRandomHelper:Loot 50%
-cntFoodPileSmall:Loot 100%
-cntFoodPileMedium:Loot 100%
-cntFoodPileLarge:Loot 100%
-cntChemPileSmall:Loot 100%
-cntChemPileMedium:Loot 100%
-cntChemPileLarge:Loot 100%
-cntMedicLootPileA:Loot 100%
-cntMedicLootPileB:Loot 100%
-cntMedicineCabinetFaucetRandomLootHelper:Loot 33%
-cntMedicineCabinetFaucetClosed:Loot 100%
-cntBookPile01:Loot 100%
-cntBookPile02:Loot 100%
-cntBookPile03:Loot 100%
-cntBookPile04:Loot 100%
-cntBookPileRandomLootHelper:Loot 100%
-cntBookPileRandomLootHelper2:Loot 60%
-cntBookcaseFull:Loot 100%
-cntBookcaseGoodRandomLootHelper:Loot 60%
-cntBookcasePoorRandomLootHelper:Loot 30%
-cntBookShelfSingleBottomRandomLootHelper:Loot 10%
-cntBookShelfSingleTopRandomLootHelper:Loot 10%
-cntBookShelfDoubleBottomRandomLootHelper:Loot 10%
-cntBookShelfDoubleTopRandomLootHelper:Loot 10%
-cntBookShelfSingleCapBottomRandomLootHelper:Loot 10%
-cntBookShelfSingleCapTopRandomLootHelper:Loot 10%
-zztongStorageGenericAmmo:Minor Loot
-zztongStorageGenericBuilding:Minor Loot
-zztongStorageGenericExplosives:Minor Loot
-zztongStorageGenericFood:Minor Loot
-zztongStorageGenericMedical:Minor Loot
-zztongStorageGenericWeapons:Minor Loot
-zztongShamwayShippingCrateHelper:Loot 2%
-zztongShamwayShippingCrateHelperAir:Loot 2%
-zztongLabEquipmentShippingCrateHelper:Loot 2%
-zztongLabEquipmentShippingCrateHelperAir:Loot 2%
-zztongBookstoreShippingCrateHelper:Loot 2%
-zztongBookstoreShippingCrateHelperAir:Loot 2%
-zztongCarPartsShippingCrateHelper:Loot 2%
-zztongCarPartsShippingCrateHelperAir:Loot 2%
-zztongShotgunMessiahShippingCrateHelper:Loot 2%
-zztongShotgunMessiahShippingCrateHelperAir:Loot 2%
-zztongWorkingStiffsShippingCrateHelper:Loot 2%
-zztongWorkingStiffsShippingCrateHelperAir:Loot 2%
-zztongSavageCountryShippingCrateHelper:Loot 2%
-zztongSavageCountryShippingCrateHelperAir:Loot 2%
-zztongMoPowerElectronicsShippingCrateHelper:Loot 2%
-zztongMoPowerElectronicsShippingCrateHelperAir:Loot 2%
-zztongSurvivorChest:Minor Loot
-zztongBookcaseBookless:Minor Loot
-zztongDelosStorageCrate:Minor Loot
+cntStorageChest:REMOVED
+cntSecureStorageChest:REMOVED
+cntStorageGeneric:REMOVED
+cntStorageGenericInsecure:REMOVED
+cntStorageGenericPOI:REMOVED
+cntStorageGenericSigned:REMOVED
+cntStorageGenericSignedInsecure:REMOVED
+cntBeerCooler:REMOVED
+signShopColdBeer:REMOVED
+playerSignWood1x1:SIGN
+playerSignWood1x3:SIGN
+playerSignWood2x5:SIGN
+cable1:REMOVED
+railingBlackSheet:REMOVED
+whitePicketFenceSheet:REMOVED
+wroughtIronFenceSheet:REMOVED
