@@ -11,7 +11,7 @@
   <property name="PrefabSize" value="13, 16, 11" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="part,hideui" />
+  <property name="Tags" value="part, hideui" />
   <property name="EditorGroups" value="parts" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
@@ -20,11 +20,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="26642" />
-    <property name="TotalTriangles" value="14236" />
+    <property name="TotalVertices" value="21529" />
+    <property name="TotalTriangles" value="12277" />
     <property class="BlockEntities">
-      <property name="Vertices" value="11309" />
-      <property name="Triangles" value="3866" />
+      <property name="Vertices" value="6196" />
+      <property name="Triangles" value="1907" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="15333" />
@@ -47,10 +47,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
