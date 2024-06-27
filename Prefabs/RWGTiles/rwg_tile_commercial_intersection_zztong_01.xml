@@ -11,8 +11,8 @@
   <property name="YOffset" value="-3" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="PrefabSize" value="150, 24, 150" />
-  <property name="Tags" value="streettile,hideui,rwgonly" />
+  <property name="PrefabSize" value="150, 23, 150" />
+  <property name="Tags" value="streettile, hideui, rwgonly" />
   <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#25, 0, 25#42, 0, 42#25, 0, 25#42, 0, 42#4, 3, 9#16, 3, 17#6, 3, 4#5, 4, 6#5, 4, 6#7, 5, 11#5, 8, 11#11, 5, 5#11, 2, 5#3, 2, 1#6, 1, 1#6, 1, 7#2, 2, 2#2, 3, 2#2, 2, 2#4, 1, 1#11, 5, 5#5, 5, 11" />
   <property name="POIMarkerStart" value="85, 3, 1#107, 3, 107#81, 3, 120#1, 3, 107#44, 3, 120#11, 3, 11#6, 3, 55#44, 0, 92#86, 3, 62#85, 3, 95#60, 3, 95#5, 3, 87#98, 3, 108#134, 3, 93#134, 3, 63#75, 3, 5#72, 3, 85#72, 3, 72#8, 3, 12#65, 3, 4#65, 3, 33#113, 3, 70#134, 3, 93#105, 3, 91" />
   <property name="POIMarkerGroup" value="m1,s1,xs1,s2,xs2,s3,ambulance,hole,generator,kiosk1,kiosk2,foodtrail,lift,shipcon,trailercar,barricade1,barrier,checkpoint,delivery,evcharge,cement,spikes,shipcon,tanker" />
@@ -22,14 +22,14 @@
   <property name="POIMarkerPartRotations" value="0,2,2,2,2,3,0,0,0,1,3,1,3,3,0,3,0,1,1,0,0,0,3,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,0.2,0.2,0.2,0.8,0.8,0.8,0.2,0.4,0.2,0.2,0.2,0.2,0.4,0.8,0.2,0.2,0.4,0.2" />
   <property class="Stats">
-    <property name="TotalVertices" value="611963" />
-    <property name="TotalTriangles" value="457127" />
+    <property name="TotalVertices" value="564458" />
+    <property name="TotalTriangles" value="438546" />
     <property class="BlockEntities">
-      <property name="Vertices" value="492172" />
-      <property name="Triangles" value="326610" />
+      <property name="Vertices" value="444691" />
+      <property name="Triangles" value="308029" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="61435" />
+      <property name="Vertices" value="61411" />
       <property name="Triangles" value="36397" />
     </property>
     <property class="ChunkMeshes1">
@@ -37,22 +37,18 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="664" />
       <property name="Triangles" value="456" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="57692" />
       <property name="Triangles" value="93664" />
     </property>
@@ -61,8 +57,14 @@
     <property class="quest_wood_trees">
       <property name="0" value="147, 3, 99" />
     </property>
+    <property class="challenge_cars">
+      <property name="0" value="125, 3, 87" />
+    </property>
     <property class="POILight">
       <property name="0" value="113, 12, 80" />
+    </property>
+    <property class="challenge_barrels">
+      <property name="0" value="131, 3, 72" />
     </property>
   </property>
 </prefab>

@@ -11,8 +11,8 @@
   <property name="YOffset" value="-4" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="PrefabSize" value="150, 14, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="PrefabSize" value="150, 24, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25#7, 5, 10#11, 2, 5#5, 15, 6#13, 4, 12#5, 5, 8#5, 4, 5#11, 7, 11#7, 1, 3#18, 5, 21#5, 9, 4#3, 1, 3#1, 1, 11#17, 5, 17#4, 2, 4#5, 3, 13#3, 5, 5#6, 4, 14#1, 1, 8#7, 7, 7#4, 1, 1#4, 6, 8#6, 1, 1" />
   <property name="POIMarkerStart" value="80, 4, 28#80, 4, 80#28, 4, 0#28, 4, 52#28, 4, 108#80, 4, 2#80, 4, 123#124, 4, 45#111, 3, 128#49, 4, 94#142, 4, 81#10, 3, 109#23, 4, 15#141, 4, 37#130, 3, 81#10, 4, 53#119, 3, 127#18, 4, 67#74, 4, 73#21, 4, 91#122, 3, 8#30, 4, 101#122, 4, 108#125, 3, 30#14, 4, 20#68, 4, 43#15, 0, 135#106, 4, 145#127, 4, 71#72, 4, 144" />
   <property name="POIMarkerGroup" value="S1,S2,S3,S4,S5,XS1,XS2,XS3,tent,trailer,tower,camp,container,shed,quonset,pipes,army,tank,horde,guardrail,ruin,carblocks,armytruck,well,mobilehome,cones,storm,sandbags,checkpt,barrier" />
@@ -22,11 +22,11 @@
   <property name="POIMarkerPartRotations" value="1,1,3,3,3,1,1,0,2,2,1,1,0,0,2,0,2,2,0,3,3,1,2,0,0,1,1,1,3,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.2,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.3,0.5,0.1,0.1" />
   <property class="Stats">
-    <property name="TotalVertices" value="609918" />
-    <property name="TotalTriangles" value="709520" />
+    <property name="TotalVertices" value="95511" />
+    <property name="TotalTriangles" value="116726" />
     <property class="BlockEntities">
-      <property name="Vertices" value="514407" />
-      <property name="Triangles" value="592794" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="26207" />
@@ -49,10 +49,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="58808" />
       <property name="Triangles" value="95680" />
     </property>
@@ -61,6 +57,12 @@
     <property class="quest_wood_trees">
       <property name="0" value="142, 4, 139" />
       <property name="1" value="147, 4, 147" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="6, 1, 36" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="72, 4, 12" />
     </property>
     <property class="POILight">
       <property name="0" value="137, 13, 79" />
