@@ -14,14 +14,14 @@
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="7, 2, 14#7, 2, 7#13, 2, 7#19, 2, 14" />
   <property name="SleeperVolumeSize" value="12, 6, 12#6, 6, 7#27, 6, 7#21, 6, 12" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Biker_Bar,1,2,S_-_Group_Biker_Bar,2,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="GroupBikerBar,1,2,GroupBikerBar,2,2,GroupGenericZombie,2,3,GroupGenericZombie,2,3" />
   <property name="SleeperVolumeGameStageAdjust" value="," />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="Tags" value="countrytown,nodiagonal" />
+  <property name="Tags" value="countrytown, nodiagonal" />
   <property name="POIMarkerStart" value="33, 1, 42#1, 1, 42#14, 8, 17#1, 2, 7" />
   <property name="POIMarkerGroup" value="driveway2,driveway1,vultures,trailer" />
   <property name="POIMarkerTags" value="countrytown#countrytown##" />
@@ -45,20 +45,31 @@
     <property class="quest_feather">
       <property name="0" value="19, 9, 16" />
     </property>
+    <property class="challenge_cars">
+      <property name="0" value="18, 2, 32" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="38, 2, 8" />
+      <property name="1" value="38, 2, 10" />
+      <property name="2" value="38, 3, 12" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="29, 8, 13" />
+    </property>
     <property class="Rally">
       <property name="0" value="24, 3, 35" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="372999" />
-    <property name="TotalTriangles" value="156948" />
+    <property name="TotalVertices" value="275338" />
+    <property name="TotalTriangles" value="112652" />
     <property class="BlockEntities">
-      <property name="Vertices" value="341468" />
-      <property name="Triangles" value="135411" />
+      <property name="Vertices" value="243703" />
+      <property name="Triangles" value="91027" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="26521" />
-      <property name="Triangles" value="13621" />
+      <property name="Vertices" value="26625" />
+      <property name="Triangles" value="13709" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -77,10 +88,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="5010" />
       <property name="Triangles" value="7916" />
     </property>
