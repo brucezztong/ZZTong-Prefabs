@@ -12,8 +12,8 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-5" />
-  <property name="PrefabSize" value="60, 21, 60" />
-  <property name="Tags" value="countryresidential,rural" />
+  <property name="PrefabSize" value="60, 24, 60" />
+  <property name="Tags" value="countryresidential, rural" />
   <property name="POIMarkerSize" value="6, 13, 3#2, 3, 2#2, 3, 2#7, 7, 7#7, 7, 7#6, 13, 1" />
   <property name="POIMarkerStart" value="19, 4, -3#20, 5, 55#24, 5, 55#27, 1, 29#27, 1, 29#19, 4, -1" />
   <property name="POIMarkerGroup" value="drive1,ev1,ev2,storm,storm,drive2" />
@@ -25,17 +25,17 @@
   <property name="SleeperVolumeSize" value="17, 5, 18#17, 5, 20#11, 3, 25#25, 7, 31#9, 4, 7" />
   <property name="SleeperVolumeStart" value="2, 5, 9#2, 10, 9#5, 2, 8#21, 5, 17#5, 5, 28" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,3,4,GroupGenericZombie,1,1,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="884468" />
-    <property name="TotalTriangles" value="268024" />
+    <property name="TotalVertices" value="799207" />
+    <property name="TotalTriangles" value="231581" />
     <property class="BlockEntities">
-      <property name="Vertices" value="795111" />
-      <property name="Triangles" value="209966" />
+      <property name="Vertices" value="709850" />
+      <property name="Triangles" value="173523" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="78861" />
@@ -46,27 +46,28 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="136" />
       <property name="Triangles" value="68" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="10360" />
       <property name="Triangles" value="17516" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="47, 5, 53" />
+      <property name="1" value="49, 5, 56" />
+      <property name="2" value="52, 5, 56" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="50, 5, 48" />
       <property name="1" value="56, 5, 51" />
@@ -87,8 +88,23 @@
       <property name="3" value="4, 3, 20" />
       <property name="4" value="13, 11, 22" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="4, 6, 18" />
+      <property name="1" value="6, 7, 19" />
+      <property name="2" value="4, 7, 23" />
+      <property name="3" value="4, 11, 26" />
+      <property name="4" value="6, 12, 26" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="13, 2, 18" />
+      <property name="1" value="6, 2, 23" />
+      <property name="2" value="10, 2, 24" />
+    </property>
     <property class="Rally">
       <property name="0" value="27, 6, 4" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="37, 5, 12" />
     </property>
   </property>
 </prefab>

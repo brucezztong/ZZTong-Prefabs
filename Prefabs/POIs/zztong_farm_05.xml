@@ -13,7 +13,7 @@
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-1" />
   <property name="PrefabSize" value="60, 16, 60" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="Tags" value="rural, gateway" />
   <property name="POIMarkerSize" value="7, 13, 3#5, 5, 11#1, 2, 8#1, 1, 4#3, 3, 3#7, 13, 2" />
   <property name="POIMarkerStart" value="19, 0, -3#20, 1, 12#40, 1, 8#53, 1, 21#56, 1, 21#19, 0, -2" />
   <property name="POIMarkerGroup" value="driveway,trailer,firewood,spikes,electric,driveway" />
@@ -25,18 +25,18 @@
   <property name="SleeperVolumeSize" value="17, 6, 10#17, 6, 8#29, 3, 27" />
   <property name="SleeperVolumeStart" value="25, 1, 1#25, 1, 11#15, 1, 20" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,3,GroupGenericZombie,1,1,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="284851" />
-    <property name="TotalTriangles" value="127726" />
+    <property name="TotalVertices" value="1705247" />
+    <property name="TotalTriangles" value="854409" />
     <property class="BlockEntities">
-      <property name="Vertices" value="220853" />
-      <property name="Triangles" value="83236" />
+      <property name="Vertices" value="1656369" />
+      <property name="Triangles" value="817479" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="39992" />
@@ -55,14 +55,10 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="15120" />
-      <property name="Triangles" value="7560" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
+    <property class="ChunkMeshes5">
       <property name="Vertices" value="8886" />
       <property name="Triangles" value="14876" />
     </property>
@@ -78,11 +74,21 @@
     <property class="TraderOnOff">
       <property name="0" value="34, 1, 7" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="35, 2, 4" />
+    </property>
+    <property class="challenge_officechairs">
+      <property name="0" value="37, 1, 4" />
+      <property name="1" value="37, 1, 8" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="37, 5, 4" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="30, 2, 14" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="38, 1, 23" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="56, 1, 20" />
