@@ -11,6 +11,9 @@
   <property name="YOffset" value="-4" />
   <property name="PrefabSize" value="17, 5, 15" />
   <property name="RotationToFaceNorth" value="2" />
+  <property name="EditorGroups" value="parts" />
+  <property name="Tags" value="part" />
+  <property name="Zoning" value="none" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="10, 4, 8" />
@@ -18,8 +21,8 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="38057" />
-    <property name="TotalTriangles" value="32963" />
+    <property name="TotalVertices" value="37185" />
+    <property name="TotalTriangles" value="31523" />
     <property class="BlockEntities">
       <property name="Vertices" value="20993" />
       <property name="Triangles" value="23427" />
@@ -47,10 +50,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="872" />
-      <property name="Triangles" value="1440" />
     </property>
   </property>
 </prefab>

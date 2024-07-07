@@ -12,11 +12,11 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="EditorGroups" value="parts" />
   <property name="YOffset" value="-5" />
-  <property name="Tags" value="part,hideui" />
+  <property name="Tags" value="part, hideui" />
   <property name="Zoning" value="none" />
   <property class="Stats">
-    <property name="TotalVertices" value="29362" />
-    <property name="TotalTriangles" value="21630" />
+    <property name="TotalVertices" value="28320" />
+    <property name="TotalTriangles" value="19898" />
     <property class="BlockEntities">
       <property name="Vertices" value="15840" />
       <property name="Triangles" value="13658" />
@@ -44,10 +44,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1042" />
-      <property name="Triangles" value="1732" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
