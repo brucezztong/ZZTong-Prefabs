@@ -21,22 +21,22 @@
   <property name="POIMarkerPartRotations" value="2,2,1,1,1,1" />
   <property name="POIMarkerPartSpawnChance" value="1,1,0.2,0.4,0.6,0.2" />
   <property name="YOffset" value="-3" />
-  <property name="Tags" value="countryresidential,rural" />
+  <property name="Tags" value="countryresidential, rural" />
   <property name="DuplicateRepeatDistance" value="1000" />
   <property name="SleeperVolumeSize" value="8, 7, 11#13, 7, 6#12, 7, 5#12, 7, 10" />
   <property name="SleeperVolumeStart" value="15, 3, 12#2, 3, 17#2, 3, 12#2, 3, 2" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,3,4" />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="224549" />
-    <property name="TotalTriangles" value="83189" />
+    <property name="TotalVertices" value="186891" />
+    <property name="TotalTriangles" value="66877" />
     <property class="BlockEntities">
-      <property name="Vertices" value="201123" />
-      <property name="Triangles" value="68901" />
+      <property name="Vertices" value="163465" />
+      <property name="Triangles" value="52589" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="21654" />
@@ -59,15 +59,15 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="1772" />
       <property name="Triangles" value="3096" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="17, 3, 23" />
+      <property name="1" value="20, 3, 23" />
+    </property>
     <property class="POILight">
       <property name="0" value="8, 3, 3" />
       <property name="1" value="11, 3, 5" />
@@ -80,8 +80,28 @@
       <property name="0" value="13, 3, 19" />
       <property name="1" value="16, 3, 19" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="10, 3, 17" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="21, 3, 14" />
+      <property name="1" value="17, 3, 15" />
+      <property name="2" value="21, 5, 17" />
+      <property name="3" value="21, 5, 19" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="5, 3, 16" />
+      <property name="1" value="6, 4, 16" />
+      <property name="2" value="10, 4, 21" />
+    </property>
     <property class="Rally">
       <property name="0" value="19, 4, 2" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="17, 3, 17" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="20, 3, 18" />
     </property>
   </property>
 </prefab>

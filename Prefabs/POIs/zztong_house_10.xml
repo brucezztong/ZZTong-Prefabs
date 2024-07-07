@@ -9,12 +9,12 @@
   <property name="QuestTags" value="clear, fetch" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="25, 28, 25" />
+  <property name="PrefabSize" value="25, 27, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="SleeperVolumeSize" value="14, 3, 5#4, 3, 8#7, 3, 8#16, 3, 4#6, 3, 4#6, 3, 7#9, 3, 7#6, 3, 4#9, 6, 10#7, 6, 10#9, 6, 9#7, 6, 8#16, 7, 17" />
   <property name="SleeperVolumeStart" value="4, 3, 15#13, 3, 6#4, 3, 6#3, 8, 5#13, 8, 10#13, 8, 15#3, 8, 15#3, 8, 10#10, 11, 4#3, 11, 4#3, 11, 14#12, 11, 15#3, 17, 5" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,5,5" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,3,GroupGenericZombie,2,3,GroupGenericZombie,3,4,GroupGenericZombie,3,4,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,3,3,GroupGenericZombie,3,3,GroupGenericZombie,3,3,GroupGenericZombie,3,3,GroupGenericZombie,5,5" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0" />
@@ -32,11 +32,11 @@
   <property name="DuplicateRepeatDistance" value="1000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="356731" />
-    <property name="TotalTriangles" value="153131" />
+    <property name="TotalVertices" value="288311" />
+    <property name="TotalTriangles" value="127376" />
     <property class="BlockEntities">
-      <property name="Vertices" value="307461" />
-      <property name="Triangles" value="123662" />
+      <property name="Vertices" value="239041" />
+      <property name="Triangles" value="97907" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="46452" />
@@ -47,27 +47,27 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="112" />
       <property name="Triangles" value="56" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="2706" />
       <property name="Triangles" value="4788" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="14, 13, 18" />
+      <property name="1" value="16, 7, 23" />
+    </property>
     <property class="Rally">
       <property name="0" value="9, 8, 0" />
     </property>
@@ -88,8 +88,29 @@
       <property name="2" value="16, 14, 16" />
       <property name="3" value="14, 13, 17" />
     </property>
+    <property class="challenge_leather">
+      <property name="0" value="13, 8, 6" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="9, 3, 6" />
+      <property name="1" value="9, 4, 6" />
+      <property name="2" value="10, 3, 6" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="7, 18, 18" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="13, 3, 15" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="17, 3, 17" />
+      <property name="1" value="17, 9, 18" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="17, 6, 16" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="21, 7, 20" />
     </property>
   </property>
 </prefab>
