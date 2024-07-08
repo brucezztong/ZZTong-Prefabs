@@ -14,58 +14,54 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="ShowQuestClearCount" value="1" />
-  <property name="POIMarkerSize" value="6, 1, 5#2, 2, 2#2, 2, 2#5, 5, 5#5, 5, 5" />
-  <property name="POIMarkerStart" value="18, 0, -5#5, 1, 11#35, 1, 18#13, 9, 24#23, 9, 24" />
-  <property name="POIMarkerGroup" value="roadexit,delivery,cobble,hvac1,hvac2" />
-  <property name="POIMarkerTags" value="####" />
-  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",part_zztong_delivery_03,part_zztong_pallets_cobble_01,part_greeble_rooftop_04,part_greeble_rooftop_04" />
-  <property name="POIMarkerPartRotations" value="2,0,0,2,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.6,0.6,1" />
+  <property name="POIMarkerSize" value="6, 1, 5#2, 2, 2#2, 2, 2" />
+  <property name="POIMarkerStart" value="18, 0, -5#5, 1, 11#35, 1, 18" />
+  <property name="POIMarkerGroup" value="roadexit,delivery,cobble" />
+  <property name="POIMarkerTags" value="##" />
+  <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",part_zztong_delivery_03,part_zztong_pallets_cobble_01" />
+  <property name="POIMarkerPartRotations" value="2,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.4,0.6" />
   <property name="PrefabSize" value="42, 19, 42" />
   <property name="YOffset" value="-1" />
   <property name="SleeperVolumeSize" value="7, 3, 13#22, 3, 7#22, 3, 12#7, 3, 24#7, 3, 37#9, 10, 9#9, 14, 9#7, 14, 9#7, 13, 9#22, 2, 18#22, 5, 18#22, 6, 19" />
   <property name="SleeperVolumeStart" value="3, 1, 2#10, 1, 2#10, 1, 9#3, 1, 15#32, 1, 2#30, 8, 2#3, 4, 2#3, 4, 33#32, 5, 33#10, 1, 21#10, 3, 21#10, 9, 20" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,7,8,S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,7,8,GroupGenericZombie,4,5,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
-  <property name="Tags" value="wilderness" />
+  <property name="Tags" value="oldwest" />
   <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
-    <property name="TotalVertices" value="623793" />
-    <property name="TotalTriangles" value="266327" />
+    <property name="TotalVertices" value="708670" />
+    <property name="TotalTriangles" value="262342" />
     <property class="BlockEntities">
-      <property name="Vertices" value="507822" />
-      <property name="Triangles" value="183216" />
+      <property name="Vertices" value="590827" />
+      <property name="Triangles" value="178279" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="111907" />
-      <property name="Triangles" value="76835" />
+      <property name="Vertices" value="113779" />
+      <property name="Triangles" value="77787" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="72" />
       <property name="Triangles" value="36" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="3992" />
       <property name="Triangles" value="6240" />
     </property>
@@ -74,14 +70,35 @@
     <property class="Rally">
       <property name="0" value="2, 2, 1" />
     </property>
-    <property class="POILight">
-      <property name="0" value="37, 7, 37" />
-      <property name="1" value="37, 10, 37" />
-      <property name="2" value="37, 14, 37" />
-      <property name="3" value="38, 13, 41" />
+    <property class="challenge_polymers">
+      <property name="0" value="37, 5, 36" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 5, 33" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="21, 3, 37" />
+      <property name="1" value="21, 7, 37" />
+      <property name="2" value="24, 3, 37" />
+      <property name="3" value="24, 7, 37" />
+      <property name="4" value="27, 3, 37" />
+      <property name="5" value="27, 7, 37" />
+      <property name="6" value="30, 3, 37" />
+      <property name="7" value="30, 7, 37" />
+      <property name="8" value="34, 14, 37" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="29, 1, 24" />
+      <property name="1" value="29, 5, 24" />
+      <property name="2" value="30, 1, 29" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 1, 37" />
+      <property name="1" value="23, 5, 37" />
+      <property name="2" value="26, 1, 37" />
+      <property name="3" value="26, 5, 37" />
+      <property name="4" value="29, 1, 37" />
+      <property name="5" value="29, 5, 37" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="11, 9, 37" />

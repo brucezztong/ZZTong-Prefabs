@@ -5,7 +5,7 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -13,8 +13,8 @@
   <property name="EditorGroups" value="commercial" />
   <property name="Zoning" value="Commercial" />
   <property name="YOffset" value="-3" />
-  <property name="SleeperVolumeSize" value="15, 3, 23#19, 3, 23#19, 6, 23#5, 3, 11" />
-  <property name="SleeperVolumeStart" value="9, 3, 1#5, 6, 1#5, 9, 1#4, 3, 13" />
+  <property name="SleeperVolumeSize" value="14, 3, 22#18, 3, 23#19, 6, 23#5, 3, 10" />
+  <property name="SleeperVolumeStart" value="9, 3, 1#6, 6, 1#5, 9, 1#4, 3, 13" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,1,1,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
@@ -32,15 +32,15 @@
   <property name="PrefabSize" value="25, 12, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="289373" />
-    <property name="TotalTriangles" value="111082" />
+    <property name="TotalVertices" value="292790" />
+    <property name="TotalTriangles" value="112273" />
     <property class="BlockEntities">
-      <property name="Vertices" value="262335" />
-      <property name="Triangles" value="93664" />
+      <property name="Vertices" value="265656" />
+      <property name="Triangles" value="94807" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25090" />
-      <property name="Triangles" value="14130" />
+      <property name="Vertices" value="25186" />
+      <property name="Triangles" value="14178" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -78,8 +78,13 @@
     <property class="Rally">
       <property name="0" value="3, 4, 2" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="5, 3, 5" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="12, 5, 18" />
+      <property name="1" value="16, 5, 18" />
+      <property name="2" value="17, 7, 19" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="16, 7, 19" />
@@ -88,7 +93,7 @@
       <property name="0" value="21, 7, 14" />
       <property name="1" value="16, 3, 18" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="7, 3, 15" />
     </property>
     <property class="challenge_sinks">
@@ -97,6 +102,9 @@
     <property class="quest_feather">
       <property name="0" value="18, 11, 19" />
       <property name="1" value="21, 11, 20" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="21, 7, 4" />
     </property>
   </property>
 </prefab>

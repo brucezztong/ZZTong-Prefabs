@@ -41,7 +41,7 @@
       <property name="4" value="33, 9, 25" />
       <property name="5" value="33, 5, 30" />
     </property>
-    <property class="challenge_booths">
+    <property class="challenge_leather">
       <property name="0" value="23, 3, 22" />
       <property name="1" value="24, 3, 22" />
       <property name="2" value="27, 3, 22" />
@@ -80,7 +80,16 @@
       <property name="35" value="35, 3, 27" />
       <property name="36" value="35, 7, 27" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_polymers">
+      <property name="0" value="21, 3, 22" />
+      <property name="1" value="28, 9, 23" />
+      <property name="2" value="35, 8, 23" />
+      <property name="3" value="35, 9, 23" />
+      <property name="4" value="26, 7, 25" />
+      <property name="5" value="22, 3, 30" />
+      <property name="6" value="33, 3, 33" />
+    </property>
+    <property class="challenge_mech_parts">
       <property name="0" value="5, 3, 33" />
     </property>
     <property class="TraderOnOff">
@@ -108,11 +117,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="990367" />
-    <property name="TotalTriangles" value="363138" />
+    <property name="TotalVertices" value="986796" />
+    <property name="TotalTriangles" value="361309" />
     <property class="BlockEntities">
-      <property name="Vertices" value="870226" />
-      <property name="Triangles" value="293459" />
+      <property name="Vertices" value="866655" />
+      <property name="Triangles" value="291630" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="112835" />

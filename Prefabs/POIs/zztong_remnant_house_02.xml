@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="25, 9, 25" />
+  <property name="PrefabSize" value="25, 25, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="POIMarkerSize" value="7, 13, 5#4, 2, 6#4, 1, 1#5, 1, 5#5, 4, 7#1, 3, 1#3, 4, 3" />
@@ -22,7 +22,7 @@
   <property name="SleeperVolumeSize" value="14, 6, 17" />
   <property name="SleeperVolumeStart" value="2, 2, 5" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,3" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -31,11 +31,11 @@
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="71156" />
-    <property name="TotalTriangles" value="25911" />
+    <property name="TotalVertices" value="70433" />
+    <property name="TotalTriangles" value="25717" />
     <property class="BlockEntities">
-      <property name="Vertices" value="61286" />
-      <property name="Triangles" value="17023" />
+      <property name="Vertices" value="60563" />
+      <property name="Triangles" value="16829" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="7218" />
@@ -58,10 +58,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="2652" />
       <property name="Triangles" value="4688" />
     </property>
@@ -72,6 +68,9 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="11, 6, 4" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="22, 6, 17" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="20, 6, 22" />

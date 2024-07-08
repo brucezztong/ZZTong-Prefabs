@@ -29,17 +29,17 @@
   <property name="SleeperVolumeSize" value="43, 4, 31#43, 4, 31#21, 4, 31#21, 4, 31#21, 4, 31#21, 4, 31#21, 4, 31#21, 4, 31#43, 12, 31" />
   <property name="SleeperVolumeStart" value="14, 3, 23#14, 7, 23#14, 11, 23#36, 11, 23#14, 15, 23#36, 15, 23#14, 19, 23#36, 19, 23#14, 23, 23" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,6,7,S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,5,5,S_-Group_Generic_Zombie,5,5,S_-Group_Generic_Zombie,8,8,S_-Group_Generic_Zombie,8,8,S_-Group_Generic_Zombie,7,8" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,5,6,GroupGenericZombie,6,7,GroupGenericZombie,5,6,GroupGenericZombie,5,6,GroupGenericZombie,5,5,GroupGenericZombie,5,5,GroupGenericZombie,8,8,GroupGenericZombie,8,8,GroupGenericZombie,7,8" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="2322985" />
-    <property name="TotalTriangles" value="918373" />
+    <property name="TotalVertices" value="1933685" />
+    <property name="TotalTriangles" value="761382" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2096873" />
-      <property name="Triangles" value="783978" />
+      <property name="Vertices" value="1708093" />
+      <property name="Triangles" value="627247" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="202818" />
@@ -50,32 +50,67 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="520" />
-      <property name="Triangles" value="260" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="13888" />
       <property name="Triangles" value="11298" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="8886" />
       <property name="Triangles" value="14876" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_cars">
+      <property name="0" value="50, 1, 18" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="57, 1, 31" />
+      <property name="1" value="57, 1, 33" />
+      <property name="2" value="57, 1, 35" />
+      <property name="3" value="57, 1, 37" />
+      <property name="4" value="57, 1, 39" />
+      <property name="5" value="56, 1, 41" />
+      <property name="6" value="56, 1, 43" />
+      <property name="7" value="56, 1, 45" />
+    </property>
     <property class="POILight">
       <property name="0" value="48, 12, 46" />
       <property name="1" value="51, 12, 46" />
       <property name="2" value="46, 4, 49" />
       <property name="3" value="46, 8, 49" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="54, 12, 31" />
+      <property name="1" value="50, 4, 43" />
+      <property name="2" value="48, 4, 45" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="49, 13, 32" />
+      <property name="1" value="51, 8, 34" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="49, 5, 33" />
+      <property name="1" value="49, 9, 33" />
+      <property name="2" value="49, 13, 33" />
+      <property name="3" value="49, 17, 33" />
+      <property name="4" value="49, 21, 33" />
+      <property name="5" value="47, 5, 37" />
+      <property name="6" value="47, 9, 37" />
+      <property name="7" value="47, 13, 37" />
+      <property name="8" value="47, 17, 37" />
+      <property name="9" value="47, 21, 37" />
+      <property name="10" value="46, 4, 39" />
+      <property name="11" value="46, 8, 39" />
+      <property name="12" value="46, 12, 39" />
+      <property name="13" value="46, 16, 39" />
+      <property name="14" value="46, 20, 39" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="54, 8, 40" />
@@ -90,11 +125,63 @@
       <property name="9" value="50, 13, 42" />
       <property name="10" value="50, 13, 43" />
     </property>
+    <property class="challenge_leather">
+      <property name="0" value="55, 8, 30" />
+      <property name="1" value="51, 8, 31" />
+      <property name="2" value="50, 8, 32" />
+      <property name="3" value="50, 8, 33" />
+      <property name="4" value="50, 8, 34" />
+      <property name="5" value="54, 8, 34" />
+      <property name="6" value="50, 8, 35" />
+      <property name="7" value="52, 4, 35" />
+      <property name="8" value="55, 4, 35" />
+      <property name="9" value="55, 8, 35" />
+      <property name="10" value="55, 12, 35" />
+      <property name="11" value="55, 16, 35" />
+      <property name="12" value="55, 20, 35" />
+      <property name="13" value="50, 4, 36" />
+      <property name="14" value="50, 8, 36" />
+      <property name="15" value="50, 16, 36" />
+      <property name="16" value="50, 20, 36" />
+      <property name="17" value="55, 4, 36" />
+      <property name="18" value="55, 8, 36" />
+      <property name="19" value="55, 12, 36" />
+      <property name="20" value="55, 16, 36" />
+      <property name="21" value="55, 20, 36" />
+      <property name="22" value="50, 4, 37" />
+      <property name="23" value="50, 16, 37" />
+      <property name="24" value="50, 20, 37" />
+      <property name="25" value="55, 4, 37" />
+      <property name="26" value="55, 8, 37" />
+      <property name="27" value="55, 12, 37" />
+      <property name="28" value="55, 16, 37" />
+      <property name="29" value="55, 20, 37" />
+      <property name="30" value="50, 4, 38" />
+      <property name="31" value="50, 16, 38" />
+      <property name="32" value="50, 20, 38" />
+      <property name="33" value="55, 4, 38" />
+      <property name="34" value="55, 8, 38" />
+      <property name="35" value="55, 12, 38" />
+      <property name="36" value="55, 16, 38" />
+      <property name="37" value="55, 20, 38" />
+      <property name="38" value="50, 4, 39" />
+      <property name="39" value="50, 16, 39" />
+      <property name="40" value="50, 20, 39" />
+      <property name="41" value="52, 8, 39" />
+      <property name="42" value="55, 4, 39" />
+      <property name="43" value="55, 8, 39" />
+      <property name="44" value="55, 12, 39" />
+      <property name="45" value="55, 16, 39" />
+      <property name="46" value="55, 20, 39" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="51, 13, 43" />
     </property>
     <property class="Rally">
       <property name="0" value="34, 2, 6" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="41, 21, 36" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="54, 1, 55" />

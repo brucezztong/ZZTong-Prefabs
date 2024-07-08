@@ -15,7 +15,7 @@
   <property name="EditorGroups" value="rural" />
   <property name="SleeperVolumeStart" value="88, 3, 2#93, 3, 26#48, 3, 26#1, 3, 26#7, 3, 16" />
   <property name="SleeperVolumeSize" value="19, 5, 13#46, 6, 117#44, 6, 117#46, 6, 117#74, 10, 9" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,3,S_-_Group_Biker_Bar,3,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,3,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,3,GroupGenericZombie,2,3,GroupBikerBar,3,3,GroupGenericZombie,2,3,GroupGenericZombie,3,3" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
@@ -37,6 +37,16 @@
     <property class="quest_wood_trees">
       <property name="0" value="145, 3, 119" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="144, 3, 144" />
+      <property name="1" value="145, 3, 146" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="141, 3, 144" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="76, 3, 134" />
+    </property>
     <property class="quest_stone_boulder">
       <property name="0" value="111, 3, 49" />
     </property>
@@ -50,13 +60,26 @@
     <property class="Rally">
       <property name="0" value="75, 4, 7" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="116, 3, 4" />
+      <property name="1" value="117, 3, 4" />
+      <property name="2" value="116, 3, 8" />
+      <property name="3" value="117, 3, 8" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="92, 3, 9" />
+      <property name="1" value="94, 3, 9" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="122, 3, 16" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="2006346" />
-    <property name="TotalTriangles" value="832220" />
+    <property name="TotalVertices" value="1915815" />
+    <property name="TotalTriangles" value="793331" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1939136" />
-      <property name="Triangles" value="733824" />
+      <property name="Vertices" value="1848335" />
+      <property name="Triangles" value="694659" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="10070" />
@@ -71,20 +94,16 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="384" />
+      <property name="Triangles" value="192" />
     </property>
     <property class="ChunkMeshes4">
-      <property name="Vertices" value="256" />
-      <property name="Triangles" value="128" />
-    </property>
-    <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="56884" />
-      <property name="Triangles" value="92248" />
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="57026" />
+      <property name="Triangles" value="92460" />
     </property>
   </property>
 </prefab>

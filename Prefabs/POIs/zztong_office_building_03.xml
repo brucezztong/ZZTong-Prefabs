@@ -25,11 +25,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # #3# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="YOffset" value="-7" />
   <property class="Stats">
-    <property name="TotalVertices" value="1906385" />
-    <property name="TotalTriangles" value="708895" />
+    <property name="TotalVertices" value="1899676" />
+    <property name="TotalTriangles" value="706070" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1551474" />
-      <property name="Triangles" value="501813" />
+      <property name="Vertices" value="1544765" />
+      <property name="Triangles" value="498988" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="341271" />
@@ -63,14 +63,19 @@
       <property name="2" value="37, 28, 28" />
       <property name="3" value="38, 5, 31" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="40, 7, 23" />
+      <property name="1" value="38, 25, 25" />
+      <property name="2" value="37, 13, 29" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="38, 13, 28" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="37, 4, 5" />
       <property name="1" value="38, 31, 16" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="34, 2, 22" />
-    </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="32, 13, 24" />
       <property name="1" value="32, 13, 27" />
       <property name="2" value="32, 13, 28" />
@@ -88,9 +93,6 @@
     <property class="FetchContainer">
       <property name="0" value="31, 22, 24" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="38, 13, 28" />
-    </property>
     <property class="quest_feather">
       <property name="0" value="35, 36, 27" />
     </property>
@@ -106,6 +108,11 @@
       <property name="5" value="38, 13, 36" />
       <property name="6" value="38, 19, 36" />
       <property name="7" value="38, 25, 36" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="23, 25, 30" />
+      <property name="1" value="23, 25, 31" />
+      <property name="2" value="23, 25, 32" />
     </property>
   </property>
 </prefab>

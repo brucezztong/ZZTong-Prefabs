@@ -22,21 +22,21 @@
   <property name="SleeperVolumeSize" value="19, 4, 11#9, 4, 17#12, 4, 7#6, 4, 5#30, 9, 18" />
   <property name="SleeperVolumeStart" value="10, 3, 21#29, 3, 21#9, 3, 32#21, 3, 34#9, 8, 21" />
   <property name="SleeperVolumeGroupId" value="1,1,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,3,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,4,4,GroupGenericZombie,3,3,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,3,3" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,3,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # #1# " />
   <property name="YOffset" value="-3" />
   <property name="EditorGroups" value="commercial" />
-  <property name="Tags" value="countrytown,gateway,nodiagonal" />
+  <property name="Tags" value="countrytown, gateway, nodiagonal" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="292297" />
-    <property name="TotalTriangles" value="128597" />
+    <property name="TotalVertices" value="230922" />
+    <property name="TotalTriangles" value="101246" />
     <property class="BlockEntities">
-      <property name="Vertices" value="249278" />
-      <property name="Triangles" value="98508" />
+      <property name="Vertices" value="187903" />
+      <property name="Triangles" value="71157" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="36981" />
@@ -47,27 +47,39 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="944" />
       <property name="Triangles" value="472" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="5094" />
       <property name="Triangles" value="8060" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="39, 3, 21" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="10, 3, 22" />
+      <property name="1" value="12, 3, 22" />
+      <property name="2" value="12, 4, 23" />
+      <property name="3" value="12, 4, 27" />
+      <property name="4" value="12, 3, 28" />
+      <property name="5" value="18, 4, 32" />
+      <property name="6" value="19, 4, 32" />
+      <property name="7" value="12, 3, 35" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="37, 3, 37" />
+    </property>
     <property class="POILight">
       <property name="0" value="37, 7, 27" />
       <property name="1" value="37, 7, 30" />
@@ -77,8 +89,14 @@
     <property class="TraderOnOff">
       <property name="0" value="29, 3, 38" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="14, 3, 37" />
+    </property>
     <property class="Rally">
       <property name="0" value="25, 4, 3" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="24, 3, 12" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="26, 5, 36" />

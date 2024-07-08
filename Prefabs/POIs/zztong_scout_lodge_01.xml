@@ -9,13 +9,13 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="42, 17, 42" />
+  <property name="PrefabSize" value="42, 23, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="22, 4, 15#22, 5, 13#22, 4, 9#22, 5, 11" />
   <property name="SleeperVolumeStart" value="10, 7, 9#10, 11, 9#10, 7, 24#10, 11, 22" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,3,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,3,3" />
   <property name="SleeperIsLootVolume" value="False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="462068" />
-    <property name="TotalTriangles" value="211265" />
+    <property name="TotalVertices" value="389511" />
+    <property name="TotalTriangles" value="181216" />
     <property class="BlockEntities">
-      <property name="Vertices" value="408814" />
-      <property name="Triangles" value="176215" />
+      <property name="Vertices" value="336257" />
+      <property name="Triangles" value="146166" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="44822" />
@@ -47,22 +47,18 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="2856" />
       <property name="Triangles" value="1904" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="5576" />
       <property name="Triangles" value="8840" />
     </property>
@@ -70,6 +66,9 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="37, 3, 37" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="38, 3, 36" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="26, 8, 25" />
@@ -82,8 +81,21 @@
       <property name="3" value="23, 10, 29" />
       <property name="4" value="25, 11, 29" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="26, 9, 21" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="29, 8, 26" />
+      <property name="1" value="25, 9, 27" />
+      <property name="2" value="29, 8, 28" />
+      <property name="3" value="25, 9, 29" />
+      <property name="4" value="29, 8, 30" />
+    </property>
     <property class="Rally">
       <property name="0" value="21, 4, 3" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="26, 8, 14" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="23, 13, 17" />

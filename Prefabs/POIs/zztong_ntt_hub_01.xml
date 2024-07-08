@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="12, 5, 14#6, 5, 6#9, 5, 13#7, 5, 5#21, 6, 19" />
   <property name="SleeperVolumeStart" value="11, 3, 9#10, 3, 3#2, 3, 10#16, 3, 4#2, 8, 4" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,3,S_Zom_Utility_Worker,1,2,S_Zom_Utility_Worker,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,2,3,ZomUtilityWorker,1,2,ZomUtilityWorker,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
@@ -28,12 +28,19 @@
   <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_05,part_greeble_rooftop_05,part_driveway_rural_12,part_zztong_ladder_iron_01,part_zztong_driveway_gateway_07" />
   <property name="POIMarkerPartRotations" value="0,0,2,3,2" />
   <property name="POIMarkerPartSpawnChance" value="0.8,0.8,1,0.6,1" />
-  <property name="Tags" value="rural,gateway,zzbartertown" />
+  <property name="Tags" value="rural, gateway, zzbartertown" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property name="EditorGroups" value="rural" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="4, 4, 2" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="15, 3, 20" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="23, 3, 22" />
+      <property name="1" value="23, 3, 23" />
     </property>
     <property class="POILight">
       <property name="0" value="19, 5, 14" />
@@ -44,19 +51,30 @@
     <property class="TraderOnOff">
       <property name="0" value="14, 3, 19" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="17, 3, 19" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="6, 3, 15" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="16, 3, 18" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="12, 3, 20" />
+      <property name="1" value="12, 3, 21" />
+      <property name="2" value="15, 3, 21" />
     </property>
     <property class="quest_feather">
       <property name="0" value="21, 9, 21" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="321912" />
-    <property name="TotalTriangles" value="114576" />
+    <property name="TotalVertices" value="229923" />
+    <property name="TotalTriangles" value="72177" />
     <property class="BlockEntities">
-      <property name="Vertices" value="300023" />
-      <property name="Triangles" value="100746" />
+      <property name="Vertices" value="208034" />
+      <property name="Triangles" value="58347" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="19445" />
@@ -67,22 +85,18 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="672" />
       <property name="Triangles" value="336" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="1772" />
       <property name="Triangles" value="3096" />
     </property>

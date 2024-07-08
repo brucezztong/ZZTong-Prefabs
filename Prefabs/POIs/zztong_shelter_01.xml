@@ -41,6 +41,11 @@
       <property name="0" value="48, 6, 57" />
       <property name="1" value="51, 6, 57" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="54, 6, 46" />
+      <property name="1" value="50, 15, 47" />
+      <property name="2" value="46, 3, 48" />
+    </property>
     <property class="Rally">
       <property name="0" value="8, 7, 22" />
     </property>
@@ -58,9 +63,8 @@
     <property class="challenge_sinks">
       <property name="0" value="46, 16, 26" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="47, 15, 12" />
-      <property name="1" value="50, 15, 12" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="46, 3, 14" />
     </property>
     <property class="POILight">
       <property name="0" value="46, 7, 52" />
@@ -68,20 +72,23 @@
       <property name="2" value="49, 7, 52" />
       <property name="3" value="49, 13, 52" />
     </property>
+    <property class="challenge_leather">
+      <property name="0" value="40, 3, 53" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="36, 15, 42" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1478839" />
-    <property name="TotalTriangles" value="557783" />
+    <property name="TotalVertices" value="1475302" />
+    <property name="TotalTriangles" value="555868" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1327053" />
-      <property name="Triangles" value="462224" />
+      <property name="Vertices" value="1323228" />
+      <property name="Triangles" value="460165" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="139510" />
-      <property name="Triangles" value="75583" />
+      <property name="Vertices" value="139798" />
+      <property name="Triangles" value="75727" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

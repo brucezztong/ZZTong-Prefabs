@@ -8,7 +8,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="12, 5, 10#7, 8, 10#6, 6, 7#5, 7, 6#8, 5, 8#10, 3, 8#10, 3, 6#10, 5, 8#8, 3, 6#12, 5, 10" />
   <property name="SleeperVolumeStart" value="24, 0, 8#28, 2, 20#3, 5, 10#31, 2, 31#4, 4, 20#5, 1, 21#6, 1, 30#6, 4, 29#4, 2, 10#24, 5, 8" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_-_Group_Zom_Soldier,1,1,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,3,GroupGenericZombie,1,2,GroupGenericZombie,1,1,GroupZomSoldier,1,1,GroupGenericZombie,1,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,2" />
   <property name="SleeperVolumeGameStageAdjust" value="hard,hard,hard,hard" />
   <property name="SleeperIsLootVolume" value="True,True,True,False,False,False,False,False,False,False" />
   <property name="DistantPOIYOffset" value="0" />
@@ -35,37 +35,33 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.6,0.5,0.5,0.4,0.5,0.6" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="683193" />
-    <property name="TotalTriangles" value="291847" />
+    <property name="TotalVertices" value="605990" />
+    <property name="TotalTriangles" value="273197" />
     <property class="BlockEntities">
-      <property name="Vertices" value="573427" />
-      <property name="Triangles" value="221236" />
+      <property name="Vertices" value="496821" />
+      <property name="Triangles" value="202962" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="103048" />
-      <property name="Triangles" value="62105" />
+      <property name="Vertices" value="102951" />
+      <property name="Triangles" value="62057" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="576" />
       <property name="Triangles" value="288" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="500" />
-      <property name="Triangles" value="328" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="1056" />
       <property name="Triangles" value="746" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="4586" />
       <property name="Triangles" value="7144" />
     </property>
@@ -73,6 +69,9 @@
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="15, 2, 1" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="31, 2, 29" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="30, 6, 23" />
@@ -84,6 +83,9 @@
     </property>
     <property class="FetchContainer">
       <property name="0" value="32, 7, 25" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="19, 4, 19" />
     </property>
     <property class="POILight">
       <property name="0" value="29, 4, 22" />

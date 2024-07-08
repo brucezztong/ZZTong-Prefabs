@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="9, 4, 9#11, 5, 13#15, 9, 25" />
   <property name="SleeperVolumeStart" value="11, 4, 11#10, 56, 10#7, 61, 8" />
   <property name="SleeperVolumeGroupId" value="0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,3,3" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,2,2,ZomUtilityWorker,1,1,ZomUtilityWorker,3,3" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
@@ -33,15 +33,15 @@
   <property name="PrefabSize" value="31, 69, 31" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="543836" />
-    <property name="TotalTriangles" value="211345" />
+    <property name="TotalVertices" value="372014" />
+    <property name="TotalTriangles" value="149615" />
     <property class="BlockEntities">
-      <property name="Vertices" value="493844" />
-      <property name="Triangles" value="174733" />
+      <property name="Vertices" value="322077" />
+      <property name="Triangles" value="113083" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="47428" />
-      <property name="Triangles" value="32028" />
+      <property name="Vertices" value="47373" />
+      <property name="Triangles" value="31948" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -60,17 +60,22 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="2564" />
       <property name="Triangles" value="4584" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="17, 3, 27" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="16, 58, 14" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="15, 4, 12" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="5, 3, 16" />
     </property>
     <property class="Rally">
       <property name="0" value="16, 4, 1" />

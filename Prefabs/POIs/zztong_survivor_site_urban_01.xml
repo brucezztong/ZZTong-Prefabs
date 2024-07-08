@@ -14,7 +14,7 @@
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="25, 13, 38#25, 8, 39#26, 3, 39#43, 13, 24#44, 4, 24#21, 3, 22#25, 4, 2#24, 18, 1#4, 3, 2#4, 8, 2#4, 13, 2#4, 18, 2#4, 3, 44#4, 8, 44#4, 13, 44#4, 18, 44" />
   <property name="SleeperVolumeSize" value="18, 9, 21#20, 5, 20#13, 5, 19#15, 9, 14#13, 9, 15#22, 8, 17#33, 14, 20#35, 5, 23#15, 5, 15#15, 5, 15#15, 5, 15#15, 5, 15#15, 5, 15#15, 5, 15#15, 5, 15#15, 5, 15" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,5,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,5,6,S_-Group_Generic_Zombie,10,10,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,4,5,GroupGenericZombie,3,3,GroupGenericZombie,1,2,GroupGenericZombie,3,3,GroupGenericZombie,3,4,GroupGenericZombie,5,6,GroupGenericZombie,10,10,GroupGenericZombie,2,2,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,2,3" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,,,,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
@@ -33,6 +33,19 @@
   <property name="PrefabSize" value="60, 32, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="16, 3, 41" />
+      <property name="1" value="17, 3, 41" />
+      <property name="2" value="16, 3, 42" />
+      <property name="3" value="17, 3, 42" />
+      <property name="4" value="16, 3, 43" />
+      <property name="5" value="17, 3, 43" />
+      <property name="6" value="16, 3, 44" />
+      <property name="7" value="17, 3, 44" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="55, 9, 32" />
+    </property>
     <property class="POILight">
       <property name="0" value="47, 6, 30" />
       <property name="1" value="47, 11, 30" />
@@ -46,8 +59,17 @@
     <property class="quest_feather">
       <property name="0" value="33, 19, 45" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="54, 4, 30" />
+      <property name="1" value="50, 4, 32" />
+      <property name="2" value="58, 3, 38" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="2, 3, 42" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="46, 14, 36" />
+      <property name="1" value="54, 9, 37" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="33, 19, 13" />
@@ -55,44 +77,56 @@
     <property class="TraderOnOff">
       <property name="0" value="55, 19, 30" />
       <property name="1" value="54, 9, 36" />
-      <property name="2" value="54, 14, 36" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="52, 5, 32" />
+      <property name="1" value="50, 14, 38" />
+      <property name="2" value="51, 9, 38" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="22, 4, 23" />
+      <property name="1" value="23, 4, 23" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="24, 3, 35" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="49, 9, 23" />
+      <property name="1" value="49, 14, 23" />
+      <property name="2" value="53, 4, 28" />
     </property>
     <property class="Rally">
       <property name="0" value="56, 6, 57" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1754608" />
-    <property name="TotalTriangles" value="703037" />
+    <property name="TotalVertices" value="1399591" />
+    <property name="TotalTriangles" value="550261" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1535146" />
-      <property name="Triangles" value="571904" />
+      <property name="Vertices" value="1181049" />
+      <property name="Triangles" value="419588" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="200086" />
-      <property name="Triangles" value="105929" />
+      <property name="Vertices" value="200486" />
+      <property name="Triangles" value="106129" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1288" />
-      <property name="Triangles" value="644" />
+      <property name="Vertices" value="5416" />
+      <property name="Triangles" value="3268" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="5448" />
-      <property name="Triangles" value="3284" />
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="12640" />
       <property name="Triangles" value="21276" />
     </property>

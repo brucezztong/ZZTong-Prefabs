@@ -37,6 +37,9 @@
     <property class="quest_wood_trees">
       <property name="0" value="55, 3, 32" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="47, 3, 34" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="56, 3, 48" />
       <property name="1" value="56, 3, 49" />
@@ -56,6 +59,9 @@
       <property name="0" value="34, 5, 39" />
       <property name="1" value="35, 5, 39" />
     </property>
+    <property class="challenge_leather">
+      <property name="0" value="30, 4, 41" />
+    </property>
     <property class="challenge_sinks">
       <property name="0" value="35, 10, 10" />
       <property name="1" value="37, 9, 10" />
@@ -63,20 +69,20 @@
     <property class="quest_feather">
       <property name="0" value="33, 17, 26" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="38, 9, 47" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="866703" />
-    <property name="TotalTriangles" value="346572" />
+    <property name="TotalVertices" value="864545" />
+    <property name="TotalTriangles" value="344310" />
     <property class="BlockEntities">
-      <property name="Vertices" value="733735" />
-      <property name="Triangles" value="266618" />
+      <property name="Vertices" value="733113" />
+      <property name="Triangles" value="265940" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="121276" />
-      <property name="Triangles" value="62734" />
+      <property name="Vertices" value="119740" />
+      <property name="Triangles" value="61150" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
