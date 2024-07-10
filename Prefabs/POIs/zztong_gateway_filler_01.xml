@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="42, 8, 42" />
+  <property name="PrefabSize" value="42, 25, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
@@ -16,7 +16,7 @@
   <property name="SleeperVolumeSize" value="15, 6, 15" />
   <property name="SleeperVolumeStart" value="2, 3, 4" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -30,8 +30,8 @@
   <property name="POIMarkerPartSpawnChance" value="0.6,0.1,0.1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="156005" />
-    <property name="TotalTriangles" value="117867" />
+    <property name="TotalVertices" value="150143" />
+    <property name="TotalTriangles" value="108487" />
     <property class="BlockEntities">
       <property name="Vertices" value="144864" />
       <property name="Triangles" value="105426" />
@@ -60,14 +60,18 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="5862" />
-      <property name="Triangles" value="9380" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="39, 3, 37" />
+      <property name="1" value="38, 4, 38" />
+      <property name="2" value="38, 3, 39" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="37, 4, 7" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="25, 5, 32" />
     </property>
     <property class="POILight">
       <property name="0" value="14, 5, 16" />

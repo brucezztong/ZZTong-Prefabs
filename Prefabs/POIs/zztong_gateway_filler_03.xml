@@ -9,14 +9,14 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-3" />
-  <property name="PrefabSize" value="42, 7, 42" />
+  <property name="PrefabSize" value="42, 26, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Tags" value="gateway" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="15, 6, 15" />
   <property name="SleeperVolumeStart" value="13, 4, 12" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-_Group_Night_Club,4,4" />
+  <property name="SleeperVolumeGroup" value="GroupNightClub,4,4" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -30,8 +30,8 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="199724" />
-    <property name="TotalTriangles" value="152898" />
+    <property name="TotalVertices" value="193990" />
+    <property name="TotalTriangles" value="143742" />
     <property class="BlockEntities">
       <property name="Vertices" value="193446" />
       <property name="Triangles" value="143230" />
@@ -60,14 +60,20 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="5734" />
-      <property name="Triangles" value="9156" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="39, 3, 6" />
+      <property name="1" value="39, 3, 16" />
+    </property>
     <property class="quest_stone_boulder">
       <property name="0" value="38, 3, 18" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="24, 3, 3" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="31, 4, 9" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="37, 3, 37" />

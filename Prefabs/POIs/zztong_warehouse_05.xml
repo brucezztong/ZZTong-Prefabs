@@ -23,13 +23,13 @@
   <property name="SleeperVolumeSize" value="9, 6, 16#9, 6, 16" />
   <property name="SleeperVolumeStart" value="2, 3, 7#14, 3, 7" />
   <property name="SleeperVolumeGroupId" value="0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,4,4" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,4,GroupGenericZombie,4,4" />
   <property name="SleeperIsLootVolume" value="False,False" />
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property name="EditorGroups" value="industrial" />
-  <property name="Tags" value="industrial,rural,gateway,zzbartertown" />
+  <property name="Tags" value="industrial, rural, gateway, zzbartertown" />
   <property name="DuplicateRepeatDistance" value="1000" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="IndexedBlockOffsets">
@@ -47,10 +47,15 @@
     <property class="FetchContainer">
       <property name="0" value="4, 6, 11" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="18, 3, 5" />
+      <property name="1" value="22, 3, 6" />
+      <property name="2" value="18, 3, 11" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="174857" />
-    <property name="TotalTriangles" value="80048" />
+    <property name="TotalVertices" value="173085" />
+    <property name="TotalTriangles" value="76952" />
     <property class="BlockEntities">
       <property name="Vertices" value="157927" />
       <property name="Triangles" value="69132" />
@@ -78,10 +83,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1772" />
-      <property name="Triangles" value="3096" />
     </property>
   </property>
 </prefab>

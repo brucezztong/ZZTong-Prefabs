@@ -14,7 +14,7 @@
   <property name="SleeperVolumeSize" value="14, 6, 13" />
   <property name="SleeperVolumeStart" value="6, 3, 6" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,4" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -27,21 +27,27 @@
   <property name="POIMarkerPartToSpawn" value="part_zztong_driveway_gateway_03" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
-  <property name="Tags" value="industrial,rural,gateway,zzbartertown" />
+  <property name="Tags" value="industrial, rural, gateway, zzbartertown" />
   <property name="DuplicateRepeatDistance" value="1000" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="11, 3, 8" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="12, 3, 2" />
     </property>
     <property class="quest_feather">
       <property name="0" value="13, 3, 6" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="13, 3, 13" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="76503" />
-    <property name="TotalTriangles" value="31798" />
+    <property name="TotalVertices" value="74731" />
+    <property name="TotalTriangles" value="28702" />
     <property class="BlockEntities">
       <property name="Vertices" value="48001" />
       <property name="Triangles" value="15620" />
@@ -69,10 +75,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1772" />
-      <property name="Triangles" value="3096" />
     </property>
   </property>
 </prefab>

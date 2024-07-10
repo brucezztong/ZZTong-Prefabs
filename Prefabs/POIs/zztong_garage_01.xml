@@ -8,14 +8,14 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="25, 11, 25" />
+  <property name="PrefabSize" value="25, 22, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="rural,gateway,zzbartertown" />
+  <property name="Tags" value="rural, gateway, zzbartertown" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="10, 6, 15#10, 6, 15" />
   <property name="SleeperVolumeStart" value="2, 3, 7#13, 3, 7" />
   <property name="SleeperVolumeGroupId" value="0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,2,2,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False" />
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
@@ -30,19 +30,34 @@
   <property name="POIMarkerPartSpawnChance" value="0.2,0.2,1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="17, 3, 19" />
+    </property>
     <property class="POILight">
       <property name="0" value="16, 7, 15" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="16, 3, 12" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="4, 3, 16" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="6, 3, 17" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="11, 3, 17" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="3, 3, 22" />
     </property>
+    <property class="challenge_steel">
+      <property name="0" value="20, 3, 3" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="139786" />
-    <property name="TotalTriangles" value="54337" />
+    <property name="TotalVertices" value="138014" />
+    <property name="TotalTriangles" value="51241" />
     <property class="BlockEntities">
       <property name="Vertices" value="120852" />
       <property name="Triangles" value="42437" />
@@ -70,10 +85,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1772" />
-      <property name="Triangles" value="3096" />
     </property>
   </property>
 </prefab>

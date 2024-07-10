@@ -11,14 +11,14 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 24, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="POIMarkerSize" value="6, 2, 4#3, 4, 3#3, 8, 6#7, 11, 2#1, 4, 2#2, 2, 2#1, 2, 1#2, 2, 2" />
-  <property name="POIMarkerStart" value="18, 9, 1#11, 2, 6#17, 9, 18#2, 9, 1#8, 2, 12#4, 2, 7#9, 9, 5#22, 9, 15" />
-  <property name="POIMarkerGroup" value="dumpster,furnace,lift,scaffold,waterheat,delivery1,delivery2,cement" />
-  <property name="POIMarkerTags" value="#######" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_dumpster,part_furnace_01,part_lift_01,part_zztong_tfp_scaffolding_02,part_waterheater_02,part_zztong_delivery_03,part_zztong_delivery_05,part_zztong_pallets_cement_01" />
-  <property name="POIMarkerPartRotations" value="1,0,3,1,3,3,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.8,0.8,0.8,0.6,0.4,0.6" />
+  <property name="POIMarkerSize" value="6, 2, 4#3, 4, 3#3, 8, 6#7, 11, 2#1, 4, 2#2, 2, 2#1, 2, 1#2, 2, 2#24, 13, 2" />
+  <property name="POIMarkerStart" value="18, 9, 1#11, 2, 6#17, 9, 18#2, 9, 1#8, 2, 12#4, 2, 7#9, 9, 5#22, 9, 15#1, 8, -2" />
+  <property name="POIMarkerGroup" value="dumpster,furnace,lift,scaffold,waterheat,delivery1,delivery2,cement,driveway" />
+  <property name="POIMarkerTags" value="########countrytown" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_dumpster,part_furnace_01,part_lift_01,part_zztong_tfp_scaffolding_02,part_waterheater_02,part_zztong_delivery_03,part_zztong_delivery_05,part_zztong_pallets_cement_01,part_driveway_gateway_11" />
+  <property name="POIMarkerPartRotations" value="1,0,3,1,3,3,0,0,2" />
+  <property name="POIMarkerPartSpawnChance" value="0.6,0.8,0.8,0.8,0.8,0.6,0.4,0.6,1" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="13, 6, 8#13, 6, 7#15, 4, 14#15, 4, 5#15, 12, 20" />
   <property name="SleeperVolumeStart" value="3, 2, 13#3, 2, 5#2, 9, 3#2, 9, 18#2, 14, 3" />
@@ -28,8 +28,9 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="YOffset" value="-9" />
-  <property name="Tags" value="commercial" />
+  <property name="Tags" value="countrytown, commercial, nodiagonal" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
+  <property name="EditorGroups" value="commercial" />
   <property class="Stats">
     <property name="TotalVertices" value="220053" />
     <property name="TotalTriangles" value="85564" />

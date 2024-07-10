@@ -11,12 +11,12 @@
   <property name="RotationToFaceNorth" value="3" />
   <property name="YOffset" value="-1" />
   <property name="Zoning" value="none" />
-  <property name="PrefabSize" value="25, 5, 25" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="PrefabSize" value="25, 20, 25" />
+  <property name="Tags" value="rural, gateway" />
   <property name="SleeperVolumeSize" value="17, 3, 11#17, 3, 8" />
   <property name="SleeperVolumeStart" value="6, 1, 11#6, 1, 2" />
   <property name="SleeperVolumeGroupId" value="0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False" />
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
@@ -30,8 +30,8 @@
   <property name="POIMarkerPartRotations" value="3,3" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="78159" />
-    <property name="TotalTriangles" value="29817" />
+    <property name="TotalVertices" value="76603" />
+    <property name="TotalTriangles" value="27121" />
     <property class="BlockEntities">
       <property name="Vertices" value="67135" />
       <property name="Triangles" value="22429" />
@@ -60,17 +60,22 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1556" />
-      <property name="Triangles" value="2696" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="15, 1, 1" />
+      <property name="1" value="18, 1, 1" />
+      <property name="2" value="22, 1, 7" />
+      <property name="3" value="23, 1, 11" />
+    </property>
     <property class="POILight">
       <property name="0" value="19, 3, 14" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="8, 1, 14" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="11, 1, 19" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="21, 1, 21" />

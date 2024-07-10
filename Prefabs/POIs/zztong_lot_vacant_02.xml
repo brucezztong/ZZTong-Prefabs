@@ -15,15 +15,15 @@
   <property name="SleeperVolumeSize" value="23, 7, 23" />
   <property name="SleeperVolumeStart" value="1, 2, 1" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,2" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
-  <property name="Tags" value="industrial,countrytown,nodiagonal" />
+  <property name="Tags" value="countrytown, industrial, nodiagonal" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="226067" />
-    <property name="TotalTriangles" value="75470" />
+    <property name="TotalVertices" value="224403" />
+    <property name="TotalTriangles" value="72574" />
     <property class="BlockEntities">
       <property name="Vertices" value="221509" />
       <property name="Triangles" value="71106" />
@@ -52,14 +52,25 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1664" />
-      <property name="Triangles" value="2896" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="17, 2, 8" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="23, 2, 12" />
+      <property name="1" value="23, 2, 14" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="9, 2, 10" />
+      <property name="1" value="8, 2, 11" />
+      <property name="2" value="9, 2, 11" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="23, 2, 1" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="22, 2, 17" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="19, 2, 18" />
@@ -67,6 +78,9 @@
     </property>
     <property class="POILight">
       <property name="0" value="21, 4, 18" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="13, 2, 21" />
     </property>
   </property>
 </prefab>

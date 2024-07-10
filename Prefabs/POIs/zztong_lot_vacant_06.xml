@@ -23,8 +23,8 @@
   <property name="EditorGroups" value="rural" />
   <property name="Tags" value="countryresidential" />
   <property class="Stats">
-    <property name="TotalVertices" value="55136" />
-    <property name="TotalTriangles" value="21075" />
+    <property name="TotalVertices" value="53364" />
+    <property name="TotalTriangles" value="17979" />
     <property class="BlockEntities">
       <property name="Vertices" value="53364" />
       <property name="Triangles" value="17979" />
@@ -53,14 +53,15 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1772" />
-      <property name="Triangles" value="3096" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
       <property name="0" value="22, 3, 3" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="12, 3, 1" />
+      <property name="1" value="16, 3, 3" />
+      <property name="2" value="12, 3, 6" />
     </property>
   </property>
 </prefab>

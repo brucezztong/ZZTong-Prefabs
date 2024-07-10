@@ -16,16 +16,16 @@
   <property name="SleeperVolumeSize" value="19, 13, 19" />
   <property name="SleeperVolumeStart" value="3, 3, 3" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,5,5" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,5,5" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property name="EditorGroups" value="remnant" />
-  <property name="Tags" value="commercial,downtown" />
+  <property name="Tags" value="commercial, downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="342062" />
-    <property name="TotalTriangles" value="153207" />
+    <property name="TotalVertices" value="340190" />
+    <property name="TotalTriangles" value="149927" />
     <property class="BlockEntities">
       <property name="Vertices" value="278308" />
       <property name="Triangles" value="112655" />
@@ -54,18 +54,32 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1872" />
-      <property name="Triangles" value="3280" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="14, 3, 14" />
+      <property name="1" value="15, 3, 14" />
+      <property name="2" value="14, 3, 15" />
+      <property name="3" value="20, 3, 16" />
+      <property name="4" value="18, 3, 24" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="16, 3, 14" />
       <property name="1" value="15, 3, 17" />
     </property>
+    <property class="challenge_gore">
+      <property name="0" value="14, 3, 13" />
+      <property name="1" value="13, 3, 21" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="15, 12, 22" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="18, 3, 13" />
+      <property name="1" value="20, 3, 13" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="21, 3, 11" />
     </property>
   </property>
 </prefab>

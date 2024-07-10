@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="25, 7, 25" />
+  <property name="PrefabSize" value="25, 23, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="DuplicateRepeatDistance" value="4000" />
   <property name="YOffset" value="-3" />
@@ -16,13 +16,13 @@
   <property name="SleeperVolumeSize" value="17, 5, 21" />
   <property name="SleeperVolumeStart" value="2, 3, 2" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,4,5" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,4,5" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property name="EditorGroups" value="rural" />
-  <property name="Tags" value="countryresidential,rural,gateway,zzbartertown" />
+  <property name="Tags" value="countryresidential, rural, gateway, zzbartertown" />
   <property name="POIMarkerSize" value="5, 13, 2#1, 1, 1#5, 13, 1#5, 13, 3" />
   <property name="POIMarkerStart" value="12, 2, -2#6, 3, 23#12, 2, -1#12, 2, -3" />
   <property name="POIMarkerGroup" value="driveway,stump,driveway,new" />
@@ -32,8 +32,8 @@
   <property name="POIMarkerPartRotations" value="2,0,2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,0.4,1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="112387" />
-    <property name="TotalTriangles" value="69987" />
+    <property name="TotalVertices" value="110563" />
+    <property name="TotalTriangles" value="66795" />
     <property class="BlockEntities">
       <property name="Vertices" value="110563" />
       <property name="Triangles" value="66795" />
@@ -62,12 +62,23 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1824" />
-      <property name="Triangles" value="3192" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="18, 3, 12" />
+      <property name="1" value="14, 3, 14" />
+      <property name="2" value="14, 3, 15" />
+      <property name="3" value="17, 3, 15" />
+      <property name="4" value="17, 3, 16" />
+      <property name="5" value="18, 3, 17" />
+      <property name="6" value="14, 3, 18" />
+      <property name="7" value="16, 3, 18" />
+      <property name="8" value="18, 3, 19" />
+      <property name="9" value="12, 3, 20" />
+      <property name="10" value="16, 3, 20" />
+      <property name="11" value="16, 3, 21" />
+      <property name="12" value="17, 3, 21" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="21, 3, 21" />
     </property>

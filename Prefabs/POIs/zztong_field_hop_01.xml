@@ -12,11 +12,11 @@
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-5" />
   <property name="PrefabSize" value="25, 7, 25" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="Tags" value="rural, gateway" />
   <property name="SleeperVolumeSize" value="21, 3, 22" />
   <property name="SleeperVolumeStart" value="2, 5, 1" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,3" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -52,9 +52,10 @@
       <property name="Vertices" value="4800" />
       <property name="Triangles" value="2400" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="23, 5, 20" />
     </property>
   </property>
 </prefab>

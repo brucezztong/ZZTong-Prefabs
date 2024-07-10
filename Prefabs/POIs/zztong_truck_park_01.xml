@@ -15,11 +15,11 @@
   <property name="SleeperVolumeSize" value="7, 8, 20#8, 8, 20#7, 6, 18#9, 5, 11#27, 5, 15#15, 6, 19" />
   <property name="SleeperVolumeStart" value="26, 3, 20#33, 3, 20#2, 3, 21#2, 3, 2#12, 3, 4#10, 3, 21" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2,S_-Group_Generic_Zombie,2,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,2,GroupGenericZombie,2,3,GroupGenericZombie,1,1,GroupGenericZombie,2,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="Tags" value="rural, gateway" />
   <property name="YOffset" value="-3" />
   <property name="POIMarkerSize" value="8, 13, 3#6, 3, 4#3, 4, 6#11, 2, 5#6, 1, 1#2, 2, 3#5, 1, 14#7, 13, 2" />
   <property name="POIMarkerStart" value="29, 2, -3#12, 3, 8#35, 3, 12#12, 3, 19#30, 3, 4#37, 3, 6#29, 3, 6#29, 2, -2" />
@@ -31,8 +31,8 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4,0.2,0.4,0.4,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="509030" />
-    <property name="TotalTriangles" value="213053" />
+    <property name="TotalVertices" value="503936" />
+    <property name="TotalTriangles" value="204993" />
     <property class="BlockEntities">
       <property name="Vertices" value="472059" />
       <property name="Triangles" value="186735" />
@@ -61,16 +61,20 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="5094" />
-      <property name="Triangles" value="8060" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="6, 6, 29" />
+      <property name="1" value="6, 5, 32" />
+    </property>
     <property class="POILight">
       <property name="0" value="26, 7, 27" />
       <property name="1" value="22, 6, 28" />
       <property name="2" value="22, 6, 32" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="24, 3, 13" />
+      <property name="1" value="24, 3, 20" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="27, 5, 27" />
@@ -79,6 +83,42 @@
       <property name="3" value="35, 5, 31" />
       <property name="4" value="30, 5, 34" />
       <property name="5" value="35, 5, 34" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="38, 3, 2" />
+      <property name="1" value="39, 3, 2" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="22, 4, 5" />
+      <property name="1" value="24, 4, 5" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="5, 3, 9" />
+    </property>
+    <property class="challenge_pallet">
+      <property name="0" value="8, 4, 14" />
+      <property name="1" value="8, 5, 14" />
+      <property name="2" value="9, 4, 14" />
+      <property name="3" value="9, 5, 14" />
+      <property name="4" value="10, 4, 14" />
+      <property name="5" value="10, 5, 14" />
+      <property name="6" value="8, 4, 15" />
+      <property name="7" value="8, 5, 15" />
+      <property name="8" value="9, 4, 15" />
+      <property name="9" value="9, 5, 15" />
+      <property name="10" value="10, 4, 15" />
+      <property name="11" value="10, 5, 15" />
+      <property name="12" value="8, 4, 16" />
+      <property name="13" value="8, 5, 16" />
+      <property name="14" value="9, 4, 16" />
+      <property name="15" value="9, 5, 16" />
+      <property name="16" value="10, 4, 16" />
+      <property name="17" value="10, 5, 16" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="6, 5, 23" />
+      <property name="1" value="6, 5, 24" />
+      <property name="2" value="6, 5, 25" />
     </property>
     <property class="Rally">
       <property name="0" value="34, 4, 1" />

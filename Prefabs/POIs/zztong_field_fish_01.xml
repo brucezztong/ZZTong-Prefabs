@@ -11,11 +11,11 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeSize" value="16, 4, 11" />
-  <property name="PrefabSize" value="25, 8, 25" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="PrefabSize" value="25, 22, 25" />
+  <property name="Tags" value="rural, gateway" />
   <property name="SleeperVolumeStart" value="5, 3, 8" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,3" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -30,8 +30,8 @@
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property class="Stats">
-    <property name="TotalVertices" value="64061" />
-    <property name="TotalTriangles" value="26432" />
+    <property name="TotalVertices" value="62225" />
+    <property name="TotalTriangles" value="23224" />
     <property class="BlockEntities">
       <property name="Vertices" value="47615" />
       <property name="Triangles" value="14932" />
@@ -60,14 +60,17 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1836" />
-      <property name="Triangles" value="3208" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="17, 3, 8" />
+      <property name="1" value="18, 3, 8" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="22, 3, 2" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="3, 3, 13" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="13, 3, 9" />

@@ -16,11 +16,11 @@
   <property name="SleeperVolumeSize" value="9, 3, 9#11, 5, 13#15, 9, 25#9, 11, 9#11, 5, 14" />
   <property name="SleeperVolumeStart" value="17, 4, 11#16, 56, 10#13, 61, 8#17, 7, 11#16, 51, 10" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,3,3,S_Zom_Utility_Worker,1,2,S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,2,2,ZomUtilityWorker,1,1,ZomUtilityWorker,3,3,ZomUtilityWorker,1,2,GroupGenericZombie,1,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
-  <property name="Tags" value="rural,gateway" />
+  <property name="Tags" value="rural, gateway" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="5, 13, 3#5, 13, 2" />
   <property name="POIMarkerStart" value="19, 2, -3#19, 2, -2" />
@@ -33,8 +33,8 @@
   <property name="PrefabSize" value="42, 69, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="855609" />
-    <property name="TotalTriangles" value="345514" />
+    <property name="TotalVertices" value="850515" />
+    <property name="TotalTriangles" value="337454" />
     <property class="BlockEntities">
       <property name="Vertices" value="801796" />
       <property name="Triangles" value="304972" />
@@ -63,12 +63,14 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="5094" />
-      <property name="Triangles" value="8060" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="37, 3, 37" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="22, 58, 14" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="21, 4, 12" />
     </property>

@@ -11,12 +11,12 @@
   <property name="PrefabSize" value="25, 11, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="industrial,residential,countryresidential" />
+  <property name="Tags" value="countryresidential, industrial, residential" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="YOffset" value="-10" />
   <property class="Stats">
-    <property name="TotalVertices" value="16952" />
-    <property name="TotalTriangles" value="11222" />
+    <property name="TotalVertices" value="13620" />
+    <property name="TotalTriangles" value="5262" />
     <property class="BlockEntities">
       <property name="Vertices" value="12020" />
       <property name="Triangles" value="4462" />
@@ -45,14 +45,13 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="3332" />
-      <property name="Triangles" value="5960" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="3, 10, 3" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="18, 10, 1" />
     </property>
   </property>
 </prefab>

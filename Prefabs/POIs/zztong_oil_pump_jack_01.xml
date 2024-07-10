@@ -15,11 +15,11 @@
   <property name="SleeperVolumeSize" value="21, 7, 21" />
   <property name="SleeperVolumeStart" value="2, 3, 2" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,2" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
-  <property name="Tags" value="wilderness,rural,gateway,zzbartertown" />
+  <property name="Tags" value="wilderness, rural, gateway, zzbartertown" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property name="POIMarkerSize" value="3, 1, 5" />
@@ -31,8 +31,8 @@
   <property name="POIMarkerPartRotations" value="0" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="39288" />
-    <property name="TotalTriangles" value="20569" />
+    <property name="TotalVertices" value="37516" />
+    <property name="TotalTriangles" value="17473" />
     <property class="BlockEntities">
       <property name="Vertices" value="30526" />
       <property name="Triangles" value="12707" />
@@ -61,12 +61,11 @@
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1772" />
-      <property name="Triangles" value="3096" />
-    </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="20, 3, 3" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="12, 3, 1" />
     </property>
