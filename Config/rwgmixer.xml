@@ -1,53 +1,129 @@
 ﻿<rwgmixer>
     <!-- **************************************************************
-        Tries to make the intersection tile a little more common
-        so that players get more Tier 5 content. Oddly enough, TFP
-        does this exact same thing in the Vanilla rwgmixer.
+        These are Tiles that should be considered unique.
+        A maxdensity of 120 means 12 million vertices of POI budget.
     ****************************************************************-->
 
-	<append xpath="/rwgmixer">
-        <streettile name="rwg_tile_downtown_intersection_zztong_01">
-            <property name="maxtiles" value="1"/>
-            <property name="mintiles" value="0"/>
-            <property name="maxdensity" value="120"/>
-        </streettile>
-
-        <streettile name="rwg_tile_downtown_intersection_zztong_02">
-            <property name="maxtiles" value="1"/>
-            <property name="mintiles" value="0"/>
-            <property name="maxdensity" value="120"/>
-        </streettile>
-
-        <streettile name="rwg_tile_downtown_intersection_zztong_03">
-            <property name="maxtiles" value="1"/>
-            <property name="mintiles" value="0"/>
-            <property name="maxdensity" value="120"/>
-        </streettile>
-
-        <streettile name="rwg_tile_downtown_intersection_zztong_04">
-            <property name="maxtiles" value="1"/>
-            <property name="mintiles" value="0"/>
-            <property name="maxdensity" value="120"/>
-        </streettile>
-	</append>
-
     <!-- **************************************************************
-        Darkness Falls / PEP
-
-        The PEP modlet has a different approach than Vanilla as to how
-        it uses POI bias in the bulding of maps. If you want the ZZTong
-        POIs to be on an equal footing with PEP, then enable the following.
+        A mundane tile that adds 25x25 commercial POI support.
+        It is okay to have a number of these. It only appears here
+        because I'm trying to see if a maxdensity value helps with
+        other RWG issues...
     ****************************************************************-->
 
     <!--
 	<append xpath="/rwgmixer">
-        <prefab_spawn_adjust partial_name="zztong_" bias="2" min_count="1"/>
+        <streettile name="rwg_tile_commercial_intersection_zztong_01">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="6"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
 	</append>
     -->
 
     <!-- **************************************************************
+        These downtown tiles support a set of heavy-weight (vertices)
+        and high tier POIs so we don't want to have a lot of them in
+        the game for fear of tanking downtown performance.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_downtown_intersection_zztong_01">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="1"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
+
+        <streettile name="rwg_tile_downtown_intersection_zztong_02">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="1"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
+
+        <streettile name="rwg_tile_downtown_intersection_zztong_03">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="1"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
+
+        <streettile name="rwg_tile_downtown_intersection_zztong_04">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="1"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
+        This is the bartertown tile. It is a distictive landmark so
+        we don't want a bunch of them on the map. Also included are
+        the bartertown fallen traders to make them match up with TFP's
+        biome restricted traders. Min_Count, Max_Count, and Bias are
+        unlikely to be relevant since the supporting Tile is limited.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_gateway_intersection_zztong_03">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="1"/>
+        </streettile>
+
+        <prefab_spawn_adjust partial_name="zztong_bartertown_rektx" biomeTags="forest" bias="0" min_count="2" max_count="4"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_jenx" biomeTags="burntforest" bias="0" min_count="2" max_count="4"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_bobx" biomeTags="desert" bias="0" min_count="2" max_count="4"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_hughx" biomeTags="snow" bias="0" min_count="2" max_count="4"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_joelx" biomeTags="wasteland" bias="0" min_count="2" max_count="4"/>
+	</append>
+
+    <!-- **************************************************************
+        This Tile supports a Tunnel through a mountain. It is a
+        distictive landmark so you probably don't want many of them.
+        There are only three variations of the tunnel.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_gateway_straight_zztong_03">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="2"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
+        This Tile supports a Reservoir. It is a distictive landmark
+        so you probably don't want many of them. There are only two
+        variations of the docks.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_gateway_t_zztong_02">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="2"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
+        Various biome-restricted POIs for thematic reasons.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <prefab_spawn_adjust partial_name="zztong_balloon_safari_01" biomeTags="desert"/>
+        <prefab_spawn_adjust partial_name="zztong_farmers_market_01" biomeTags="forest"/>
+        <prefab_spawn_adjust partial_name="zztong_field_aloe_01" biomeTags="desert"/>
+        <prefab_spawn_adjust partial_name="zztong_field_blueberry_01" biomeTags="snow"/>
+        <prefab_spawn_adjust partial_name="zztong_field_coffee_01" biomeTags="forest"/>
+        <prefab_spawn_adjust partial_name="zztong_field_corn_01" biomeTags="forest"/>
+        <prefab_spawn_adjust partial_name="zztong_field_cotton_01" biomeTags="forest"/>
+        <prefab_spawn_adjust partial_name="zztong_field_hop_01" biomeTags="forest"/>
+        <prefab_spawn_adjust partial_name="zztong_field_potato_01" biomeTags="forest"/>
+        <prefab_spawn_adjust partial_name="zztong_field_pumpkin_01" biomeTags="forest"/>
+        <prefab_spawn_adjust partial_name="zztong_field_yucca_01" biomeTags="desert"/>
+        <prefab_spawn_adjust partial_name="zztong_gyroport_01" biomeTags="desert"/>
+        <prefab_spawn_adjust partial_name="zztong_survivor_base_ruin_01" biomeTags="wasteland"/>
+	</append>
+
+    <!-- **************************************************************
         This should make sure a POI under development ends up all over
-        the map. This is harmless if you find it active as no POIs
+        the map. This setting is harmless outside of my development
+        environment, so don't worry if you find it active as no POIs
         should be tagged this way.
     ****************************************************************-->
 

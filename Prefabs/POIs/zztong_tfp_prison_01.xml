@@ -8,11 +8,11 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeGameStageAdjust" value=",,hard" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="EditorGroups" value="commercial" />
+  <property name="EditorGroups" value="Wilderness, oldwest" />
   <property name="SleeperIsBossVolume" value="False,False" />
   <property name="DifficultyTier" value="2" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="DuplicateRepeatDistance" value="4000" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="POIMarkerSize" value="6, 1, 5#2, 2, 2#2, 2, 2" />
   <property name="POIMarkerStart" value="18, 0, -5#5, 1, 11#35, 1, 18" />
@@ -32,7 +32,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
-  <property name="Tags" value="oldwest" />
+  <property name="Tags" value="wilderness, oldwest" />
   <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
     <property name="TotalVertices" value="708670" />

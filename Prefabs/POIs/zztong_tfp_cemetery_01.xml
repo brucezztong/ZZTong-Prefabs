@@ -3,7 +3,7 @@
   <property name="CopyAirBlocks" value="True" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="Zoning" value="Industrial" />
-  <property name="Tags" value="oldwest" />
+  <property name="Tags" value="rural, oldwest" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
@@ -13,7 +13,7 @@
   <property name="SleeperVolumeGameStageAdjust" value="" />
   <property name="SleeperIsLootVolume" value="False,False,False" />
   <property name="DistantPOIYOffset" value="0" />
-  <property name="EditorGroups" value="industrial" />
+  <property name="EditorGroups" value="oldwest, rural" />
   <property name="SleeperIsBossVolume" value="False" />
   <property name="DifficultyTier" value="1" />
   <property name="ExcludePOICulling" value="False" />
@@ -25,16 +25,25 @@
   <property name="YOffset" value="-3" />
   <property name="PrefabSize" value="42, 23, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
+  <property name="POIMarkerSize" value="3, 4, 3#4, 13, 3#1, 1, 1#4, 1, 1#1, 1, 1#1, 1, 1#5, 1, 5" />
+  <property name="POIMarkerStart" value="20, 3, 19#19, 2, -3#8, 3, 24#19, 3, 4#31, 3, 15#33, 3, 22#22, 3, 25" />
+  <property name="POIMarkerGroup" value="sculpture,driveway,stump,spikes,shopping,fakemine,camp" />
+  <property name="POIMarkerTags" value="#rural#####" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_sculpture_01,part_driveway_rural_03,part_zztong_tree_stump_01,part_zztong_spikes_wood4,part_zztong_shopping_cart_01,part_zztong_land_mine_fake_01,part_zztong_campsite_01" />
+  <property name="POIMarkerPartRotations" value="2,2,0,0,1,0,1" />
+  <property name="POIMarkerPartSpawnChance" value="0.5,1,0.5,0.2,0.3,0.2,0.2" />
+  <property name="DuplicateRepeatDistance" value="1000" />
   <property class="Stats">
-    <property name="TotalVertices" value="314087" />
-    <property name="TotalTriangles" value="147640" />
+    <property name="TotalVertices" value="314279" />
+    <property name="TotalTriangles" value="147768" />
     <property class="BlockEntities">
       <property name="Vertices" value="268503" />
       <property name="Triangles" value="114232" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="39468" />
-      <property name="Triangles" value="24276" />
+      <property name="Vertices" value="39660" />
+      <property name="Triangles" value="24404" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

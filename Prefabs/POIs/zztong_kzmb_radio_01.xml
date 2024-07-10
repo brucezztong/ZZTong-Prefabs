@@ -33,6 +33,7 @@
   <property name="POIMarkerPartRotations" value="0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
+  <property name="ThemeTags" value="radio" />
   <property class="IndexedBlockOffsets">
     <property class="challenge_polymers">
       <property name="0" value="31, 11, 25" />
