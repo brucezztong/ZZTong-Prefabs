@@ -11,15 +11,34 @@
         other RWG issues...
     ****************************************************************-->
 
-    <!--
 	<append xpath="/rwgmixer">
         <streettile name="rwg_tile_commercial_intersection_zztong_01">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="3"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
+        More Commercial Tiles to deal with maxdensity issues. I needed
+        these quick, so they're largely copies of TFP Tiles with a
+        few minor tweaks and a bunch of Parts for variability.
+        I wonder if anyone will notice the differences.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_commercial_cap_zztong_01">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="5"/>
+            <property name="maxdensity" value="120"/>
+        </streettile>
+
+        <streettile name="rwg_tile_commercial_t_zztong_01">
             <property name="mintiles" value="1"/>
             <property name="maxtiles" value="6"/>
             <property name="maxdensity" value="120"/>
         </streettile>
 	</append>
-    -->
 
     <!-- **************************************************************
         These downtown tiles support a set of heavy-weight (vertices)
