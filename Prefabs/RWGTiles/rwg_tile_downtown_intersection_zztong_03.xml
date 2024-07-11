@@ -12,7 +12,7 @@
   <property name="YOffset" value="-13" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 59, 150" />
-  <property name="Tags" value="streettile,rwgonly" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="POIMarkerSize" value="64, 0, 64#25, 0, 25#42, 0, 42#25, 0, 25#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#1, 2, 1#5, 1, 1#5, 1, 1#1, 1, 1#3, 2, 1#1, 1, 6#13, 15, 6#13, 17, 6#14, 2, 4#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#11, 5, 5#7, 1, 6#2, 2, 3#2, 3, 2#5, 1, 5#1, 1, 1#1, 1, 5#1, 1, 5#9, 4, 8#3, 8, 4#2, 7, 7#11, 5, 5#11, 5, 5#13, 3, 5#13, 17, 5#8, 3, 13#11, 5, 7#4, 2, 6#4, 4, 2#3, 4, 6#19, 5, 5" />
   <property name="POIMarkerStart" value="43, 13, 43#83, 13, 115#108, 13, 83#41, 13, 117#0, 13, 25#42, 13, 17#83, 13, 1#125, 13, 25#125, 13, 0#0, 13, 0#107, 13, 44#108, 13, 49#119, 13, 49#114, 13, 48#72, 13, 117#67, 13, 7#110, 13, 1#110, 13, 1#88, 13, 37#83, 13, 28#83, 13, 31#83, 13, 34#83, 13, 37#83, 13, 40#110, 13, 62#113, 13, 41#109, 13, 8#143, 13, 79#86, 13, 29#111, 13, 23#93, 13, 27#93, 13, 32#111, 13, 27#38, 13, 12#22, 13, 85#49, 13, 108#91, 13, 109#96, 13, 29#110, 13, 2#138, 12, 59#112, 13, 8#23, 13, 95#114, 13, 19#27, 13, 11#116, 13, 72" />
   <property name="POIMarkerGroup" value="POI-Main,XS1,S1,XS2,S2,XS3,XS4,XS5,XS6,XS7,atm,barb1,barb2,barrel,barricade,barrier,billb,billb,bleachers,bollard1,bollard2,bollard3,bollard4,bollard5,camper,checkpt,dumpster,ev,minefield,cart,spikes1,spikes2,tent,cow,scaffold1,trailer1,trailer2,army,billb,accident,coffee,dumpbin,sign,lift,semi" />
@@ -25,13 +25,13 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,2,S_Zom_Utility_Worker,5,5,S_Zom_Utility_Worker,2,3,S_-Group_Generic_Zombie,1,2" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,4,GroupGenericZombie,2,2,GroupGenericZombie,3,4,GroupGenericZombie,2,2,ZomUtilityWorker,5,5,ZomUtilityWorker,2,3,GroupGenericZombie,1,2" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0" />
   <property name="SleeperVolumeStart" value="121, 13, 127#137, 17, 127#122, 17, 127#110, 17, 127#3, 8, 85#5, 13, 117#34, 13, 129" />
   <property name="SleeperVolumeSize" value="16, 3, 12#11, 3, 13#14, 3, 13#11, 3, 13#17, 4, 29#24, 6, 27#3, 6, 12" />
   <property class="Stats">
-    <property name="TotalVertices" value="1301547" />
-    <property name="TotalTriangles" value="610189" />
+    <property name="TotalVertices" value="1235647" />
+    <property name="TotalTriangles" value="501813" />
     <property class="BlockEntities">
       <property name="Vertices" value="1014825" />
       <property name="Triangles" value="371267" />
@@ -59,10 +59,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="65900" />
-      <property name="Triangles" value="108376" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
