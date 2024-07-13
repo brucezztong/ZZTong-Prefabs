@@ -15,13 +15,14 @@ import sys
 # to a destination path, converting from the ZZTong naming convention
 # to the CompoPack naming convention...
 #
-# zztong_apartment_01.xml ==> xcp_Apartment_01(by_ZZTong).xml
+# zztong_apartment_01.xml ==> xcpv_Apartment_01_ZZTong.xml
 #######################################################################
 
 # Files of these types have to be renamed to meet CP conventions...
 # Decorations and POIs get renamed. Parts and Tiles do not.
 renameListPOI = [ "Decorations", "POIs" ]
-renameListPart = [ "Parts" ]
+#renameListPart = [ "Parts" ]
+renameListPart = []
 extensionsList = [ ".blocks.nim", ".ins", ".jpg", ".mesh", ".tts", ".xml" ]
 
 def exportFiles( srcPath, dstPath, poiType ):
@@ -43,7 +44,7 @@ def exportFiles( srcPath, dstPath, poiType ):
                 # Stallion likes mixed case names, so upper any letter that follows an underscore
                 poiNameRoot = string.capwords( poiNameRoot, sep='_' )
                 # Append the CP prefix and suffix
-                poiNameRoot = "xcp_" + poiNameRoot + "_ZZTong"
+                poiNameRoot = "xcpv_" + poiNameRoot + "_ZZTong"
                 # Fix unique naming issues...
                 poiNameRoot = poiNameRoot.replace( "_Destroyed_", "_Dest_" )
                 poiNameRoot = poiNameRoot.replace( "_Ems_", "_EMS_" )
