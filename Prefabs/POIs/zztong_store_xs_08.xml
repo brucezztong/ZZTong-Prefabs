@@ -21,13 +21,13 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="countrytown, commercial, nodiagonal" />
-  <property name="POIMarkerSize" value="5, 3, 5#2, 13, 23" />
+  <property name="POIMarkerSize" value="5, 3, 5#23, 13, 2" />
   <property name="POIMarkerStart" value="11, 7, 16#1, 2, -2" />
   <property name="POIMarkerGroup" value="roof,driveway" />
   <property name="POIMarkerTags" value="#countrytown" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_01,part_driveway_countrytown_20" />
-  <property name="POIMarkerPartRotations" value="0,3" />
+  <property name="POIMarkerPartRotations" value="0,2" />
   <property name="POIMarkerPartSpawnChance" value="0.8,1" />
   <property name="PrefabSize" value="25, 9, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />

@@ -77,7 +77,10 @@
     <property class="Rally">
       <property name="0" value="18, 2, 3" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_polymers">
+      <property name="0" value="22, 1, 24" />
+    </property>
+    <property class="challenge_mech_parts">
       <property name="0" value="6, 2, 24" />
     </property>
     <property class="TraderOnOff">

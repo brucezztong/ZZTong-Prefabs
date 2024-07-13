@@ -27,7 +27,7 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,2,GroupGenericZombie,2,2,GroupGenericZombie,1,2,GroupGenericZombie,2,3" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,True" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,True,True" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,3" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # #1" />
   <property name="EditorGroups" value="commercial" />
@@ -72,11 +72,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="179745" />
-    <property name="TotalTriangles" value="72761" />
+    <property name="TotalVertices" value="179709" />
+    <property name="TotalTriangles" value="72753" />
     <property class="BlockEntities">
-      <property name="Vertices" value="152622" />
-      <property name="Triangles" value="55081" />
+      <property name="Vertices" value="152586" />
+      <property name="Triangles" value="55073" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="25287" />

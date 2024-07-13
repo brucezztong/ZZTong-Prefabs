@@ -31,11 +31,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.6,0.6,1,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1499619" />
-    <property name="TotalTriangles" value="530665" />
+    <property name="TotalVertices" value="1501154" />
+    <property name="TotalTriangles" value="533069" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1404853" />
-      <property name="Triangles" value="470886" />
+      <property name="Vertices" value="1406388" />
+      <property name="Triangles" value="473290" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="83140" />
@@ -91,10 +91,16 @@
     <property class="TraderOnOff">
       <property name="0" value="32, 4, 24" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="14, 1, 41" />
+    </property>
     <property class="POILight">
       <property name="0" value="19, 11, 46" />
       <property name="1" value="18, 7, 47" />
       <property name="2" value="17, 3, 51" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="14, 10, 50" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="29, 4, 16" />

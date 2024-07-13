@@ -13,13 +13,13 @@
   <property name="EditorGroups" value="rural, out buildings" />
   <property name="QuestTags" value="clear, fetch" />
   <property name="YOffset" value="-2" />
-  <property name="SleeperVolumeSize" value="15, 6, 12#9, 6, 10#18, 5, 9#13, 6, 10#18, 5, 10" />
-  <property name="SleeperVolumeStart" value="25, 2, 9#31, 2, 24#4, 2, 14#4, 2, 24#4, 2, 4" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,1,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,2,3" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
+  <property name="SleeperVolumeSize" value="11, 6, 12#9, 6, 10#15, 5, 9#13, 6, 10#18, 5, 10#13, 3, 21" />
+  <property name="SleeperVolumeStart" value="29, 2, 9#31, 2, 24#4, 2, 14#4, 2, 24#4, 2, 4#18, 2, 17" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,1,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,2,3,GroupGenericZombie,1,1" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
   <property name="Tags" value="rural, gateway" />
   <property name="POIMarkerSize" value="6, 13, 3#7, 13, 2" />
   <property name="POIMarkerStart" value="18, 1, 42#17, 1, 42" />
@@ -30,17 +30,17 @@
   <property name="POIMarkerPartRotations" value="0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
   <property name="PrefabSize" value="42, 22, 42" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="423336" />
-    <property name="TotalTriangles" value="233980" />
+    <property name="TotalVertices" value="423312" />
+    <property name="TotalTriangles" value="233968" />
     <property class="BlockEntities">
       <property name="Vertices" value="405632" />
       <property name="Triangles" value="219038" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="12658" />
-      <property name="Triangles" value="7146" />
+      <property name="Vertices" value="12634" />
+      <property name="Triangles" value="7134" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -74,12 +74,11 @@
     <property class="quest_feather">
       <property name="0" value="41, 2, 38" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="38, 2, 27" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="34, 3, 30" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="13, 2, 35" />
-      <property name="1" value="10, 2, 36" />
     </property>
     <property class="Rally">
       <property name="0" value="18, 3, 38" />
@@ -92,9 +91,9 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="33, 4, 27" />
-      <property name="1" value="33, 4, 28" />
-      <property name="2" value="33, 4, 29" />
-      <property name="3" value="36, 3, 27" />
+      <property name="1" value="36, 3, 27" />
+      <property name="2" value="33, 4, 28" />
+      <property name="3" value="33, 4, 29" />
     </property>
   </property>
 </prefab>

@@ -31,11 +31,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1689361" />
-    <property name="TotalTriangles" value="562487" />
+    <property name="TotalVertices" value="1703176" />
+    <property name="TotalTriangles" value="584123" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1482800" />
-      <property name="Triangles" value="441604" />
+      <property name="Vertices" value="1496615" />
+      <property name="Triangles" value="463240" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="185081" />
@@ -91,6 +91,9 @@
       <property name="1" value="48, 7, 53" />
       <property name="2" value="48, 7, 54" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="49, 16, 37" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="53, 6, 48" />
       <property name="1" value="54, 6, 49" />
@@ -98,15 +101,20 @@
       <property name="3" value="47, 6, 51" />
       <property name="4" value="53, 6, 51" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="50, 6, 22" />
-      <property name="1" value="49, 6, 26" />
+      <property name="1" value="54, 12, 22" />
+      <property name="2" value="49, 6, 26" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="22, 11, 14" />
+      <property name="1" value="22, 11, 15" />
+      <property name="2" value="22, 11, 16" />
+      <property name="3" value="25, 11, 17" />
+      <property name="4" value="20, 11, 19" />
     </property>
     <property class="Rally">
       <property name="0" value="25, 7, 1" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="44, 6, 45" />
     </property>
     <property class="quest_feather">
       <property name="0" value="39, 11, 42" />

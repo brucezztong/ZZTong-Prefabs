@@ -32,11 +32,11 @@
   <property name="YOffset" value="-6" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1098380" />
-    <property name="TotalTriangles" value="407073" />
+    <property name="TotalVertices" value="1096652" />
+    <property name="TotalTriangles" value="406286" />
     <property class="BlockEntities">
-      <property name="Vertices" value="980586" />
-      <property name="Triangles" value="332324" />
+      <property name="Vertices" value="978858" />
+      <property name="Triangles" value="331537" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="102668" />
@@ -86,13 +86,13 @@
       <property name="2" value="47, 15, 46" />
       <property name="3" value="50, 8, 49" />
     </property>
+    <property class="challenge_cars">
+      <property name="0" value="19, 6, 28" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="49, 13, 46" />
       <property name="1" value="49, 13, 47" />
       <property name="2" value="49, 13, 48" />
-    </property>
-    <property class="challenge_cars">
-      <property name="0" value="19, 6, 28" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="26, 7, 30" />

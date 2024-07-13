@@ -33,11 +33,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="Wilderness, oldwest" />
   <property class="Stats">
-    <property name="TotalVertices" value="1052253" />
-    <property name="TotalTriangles" value="434912" />
+    <property name="TotalVertices" value="1053641" />
+    <property name="TotalTriangles" value="435306" />
     <property class="BlockEntities">
-      <property name="Vertices" value="902757" />
-      <property name="Triangles" value="343474" />
+      <property name="Vertices" value="904145" />
+      <property name="Triangles" value="343868" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="137444" />

@@ -19,7 +19,7 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,1,1" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="commercial" />
   <property name="PrefabSize" value="42, 34, 42" />

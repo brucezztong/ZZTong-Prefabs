@@ -78,9 +78,8 @@
       <property name="1" value="30, 3, 3" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="34, 3, 21" />
-      <property name="1" value="23, 3, 25" />
-      <property name="2" value="27, 3, 25" />
+      <property name="0" value="23, 3, 25" />
+      <property name="1" value="27, 3, 25" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="27, 7, 24" />
@@ -90,11 +89,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="939677" />
-    <property name="TotalTriangles" value="311226" />
+    <property name="TotalVertices" value="939891" />
+    <property name="TotalTriangles" value="311280" />
     <property class="BlockEntities">
-      <property name="Vertices" value="879100" />
-      <property name="Triangles" value="273564" />
+      <property name="Vertices" value="879314" />
+      <property name="Triangles" value="273618" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="54221" />

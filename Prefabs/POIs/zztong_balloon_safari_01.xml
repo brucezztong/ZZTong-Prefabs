@@ -71,12 +71,13 @@
       <property name="0" value="5, 5, 22" />
       <property name="1" value="13, 5, 22" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="11, 3, 5" />
       <property name="1" value="13, 3, 6" />
       <property name="2" value="13, 3, 8" />
+      <property name="3" value="6, 3, 18" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="8, 3, 5" />
     </property>
     <property class="FetchContainer">
@@ -91,6 +92,9 @@
       <property name="5" value="7, 3, 14" />
       <property name="6" value="17, 3, 14" />
       <property name="7" value="20, 5, 14" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="14, 3, 22" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="37, 3, 26" />

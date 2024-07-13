@@ -46,21 +46,26 @@
       <property name="1" value="15, 2, 14" />
       <property name="2" value="13, 2, 20" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="13, 2, 17" />
+    </property>
     <property class="challenge_sinks">
       <property name="0" value="13, 2, 22" />
       <property name="1" value="14, 2, 22" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="7, 2, 19" />
     </property>
     <property class="quest_feather">
       <property name="0" value="11, 6, 21" />
     </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="13, 2, 17" />
-    </property>
     <property class="Rally">
       <property name="0" value="4, 3, 23" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="16, 2, 13" />
+      <property name="1" value="22, 2, 13" />
+      <property name="2" value="12, 2, 19" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="16, 4, 18" />

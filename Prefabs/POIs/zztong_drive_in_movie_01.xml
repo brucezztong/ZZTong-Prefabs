@@ -13,13 +13,13 @@
   <property name="DuplicateRepeatDistance" value="4000" />
   <property name="Zoning" value="downtown" />
   <property name="EditorGroups" value="downtown" />
-  <property name="SleeperVolumeStart" value="43, 4, 1#9, 4, 10#26, 7, 51#26, 4, 51#14, 4, 51" />
-  <property name="SleeperVolumeSize" value="15, 3, 7#49, 3, 40#9, 4, 7#9, 3, 6#9, 3, 6" />
+  <property name="SleeperVolumeStart" value="43, 4, 1#9, 4, 8#26, 7, 51#26, 4, 51#14, 4, 51" />
+  <property name="SleeperVolumeSize" value="15, 3, 7#49, 3, 42#9, 4, 7#9, 3, 6#9, 3, 6" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,4,5,GroupGenericZombie,1,1,GroupGenericZombie,1,2,GroupGenericZombie,1,1" />
   <property name="SleeperVolumeGameStageAdjust" value=",," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
+  <property name="SleeperVolumeFlags" value="0,4,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="countrytown, gateway, nodiagonal" />
@@ -43,6 +43,10 @@
       <property name="0" value="47, 4, 3" />
       <property name="1" value="46, 4, 4" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="48, 4, 36" />
+      <property name="1" value="47, 4, 42" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="49, 4, 15" />
     </property>
@@ -65,7 +69,7 @@
       <property name="1" value="50, 4, 6" />
       <property name="2" value="55, 4, 8" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="26, 4, 52" />
     </property>
     <property class="challenge_sinks">

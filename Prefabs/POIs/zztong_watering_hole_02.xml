@@ -24,11 +24,11 @@
   <property name="EditorGroups" value="remnant" />
   <property name="Tags" value="commercial, downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="340190" />
-    <property name="TotalTriangles" value="149927" />
+    <property name="TotalVertices" value="295585" />
+    <property name="TotalTriangles" value="125150" />
     <property class="BlockEntities">
-      <property name="Vertices" value="278308" />
-      <property name="Triangles" value="112655" />
+      <property name="Vertices" value="231831" />
+      <property name="Triangles" value="84598" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="57778" />
@@ -39,20 +39,20 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="4104" />
       <property name="Triangles" value="2592" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1872" />
+      <property name="Triangles" value="3280" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

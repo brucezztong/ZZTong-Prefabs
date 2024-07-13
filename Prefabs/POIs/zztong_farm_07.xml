@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="836455" />
-    <property name="TotalTriangles" value="316177" />
+    <property name="TotalVertices" value="837149" />
+    <property name="TotalTriangles" value="316374" />
     <property class="BlockEntities">
-      <property name="Vertices" value="688390" />
-      <property name="Triangles" value="231548" />
+      <property name="Vertices" value="689084" />
+      <property name="Triangles" value="231745" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="134459" />
@@ -77,7 +77,7 @@
       <property name="9" value="55, 1, 1" />
       <property name="10" value="56, 1, 1" />
     </property>
-    <property class="challenge_barrels">
+    <property class="challenge_polymers">
       <property name="0" value="48, 1, 55" />
       <property name="1" value="52, 1, 55" />
     </property>
@@ -108,10 +108,11 @@
       <property name="1" value="41, 1, 4" />
       <property name="2" value="31, 2, 6" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="37, 5, 4" />
       <property name="1" value="39, 5, 4" />
       <property name="2" value="32, 5, 5" />
+      <property name="3" value="43, 1, 6" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="36, 1, 13" />

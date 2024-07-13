@@ -90,6 +90,7 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="19, 4, 4" />
+      <property name="1" value="13, 4, 10" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="15, 9, 5" />

@@ -30,6 +30,7 @@
   <property name="POIMarkerPartToSpawn" value="part_zztong_driveway_gateway_07,part_zztong_driveway_gateway_07" />
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="SVS2" value="" />
   <property class="Stats">
     <property name="TotalVertices" value="395574" />
     <property name="TotalTriangles" value="122910" />

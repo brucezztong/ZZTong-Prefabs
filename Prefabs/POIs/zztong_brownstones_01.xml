@@ -36,6 +36,13 @@
     <property class="Rally">
       <property name="0" value="2, 10, 31" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="28, 8, 21" />
+      <property name="1" value="22, 23, 22" />
+      <property name="2" value="28, 8, 22" />
+      <property name="3" value="34, 13, 24" />
+      <property name="4" value="33, 13, 25" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="30, 28, 10" />
       <property name="1" value="23, 28, 19" />
@@ -43,8 +50,13 @@
     <property class="POILight">
       <property name="0" value="37, 14, 6" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_leather">
+      <property name="0" value="29, 23, 22" />
+    </property>
+    <property class="challenge_mech_parts">
       <property name="0" value="35, 18, 8" />
+      <property name="1" value="28, 8, 9" />
+      <property name="2" value="30, 8, 9" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="22, 19, 21" />
