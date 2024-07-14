@@ -33,11 +33,11 @@
   <property name="Tags" value="wilderness" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="483482" />
-    <property name="TotalTriangles" value="207102" />
+    <property name="TotalVertices" value="366310" />
+    <property name="TotalTriangles" value="177503" />
     <property class="BlockEntities">
-      <property name="Vertices" value="448871" />
-      <property name="Triangles" value="188931" />
+      <property name="Vertices" value="322177" />
+      <property name="Triangles" value="143296" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="34483" />
@@ -48,20 +48,20 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="128" />
       <property name="Triangles" value="64" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="9522" />
+      <property name="Triangles" value="16036" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

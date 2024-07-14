@@ -33,6 +33,9 @@
   <property name="PrefabSize" value="42, 10, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="37, 2, 38" />
+    </property>
     <property class="POILight">
       <property name="0" value="27, 4, 24" />
     </property>
@@ -41,6 +44,9 @@
     </property>
     <property class="FetchContainer">
       <property name="0" value="22, 2, 16" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="26, 2, 8" />
     </property>
     <property class="quest_feather">
       <property name="0" value="19, 9, 16" />
@@ -61,11 +67,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="275338" />
-    <property name="TotalTriangles" value="112652" />
+    <property name="TotalVertices" value="280284" />
+    <property name="TotalTriangles" value="114176" />
     <property class="BlockEntities">
-      <property name="Vertices" value="243703" />
-      <property name="Triangles" value="91027" />
+      <property name="Vertices" value="248649" />
+      <property name="Triangles" value="92551" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="26625" />
