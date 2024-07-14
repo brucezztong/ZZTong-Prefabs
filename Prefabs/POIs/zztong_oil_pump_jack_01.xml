@@ -15,7 +15,7 @@
   <property name="SleeperVolumeSize" value="21, 7, 21" />
   <property name="SleeperVolumeStart" value="2, 3, 2" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,2" />
+  <property name="SleeperVolumeGroup" value="3ZomUtilityWorker,1,2" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -31,15 +31,15 @@
   <property name="POIMarkerPartRotations" value="0" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="37516" />
-    <property name="TotalTriangles" value="17473" />
+    <property name="TotalVertices" value="43982" />
+    <property name="TotalTriangles" value="20336" />
     <property class="BlockEntities">
-      <property name="Vertices" value="30526" />
-      <property name="Triangles" value="12707" />
+      <property name="Vertices" value="35260" />
+      <property name="Triangles" value="12494" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="6990" />
-      <property name="Triangles" value="4766" />
+      <property name="Vertices" value="6950" />
+      <property name="Triangles" value="4746" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -58,8 +58,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1772" />
+      <property name="Triangles" value="3096" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
