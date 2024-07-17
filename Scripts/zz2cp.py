@@ -122,8 +122,9 @@ for fileName in os.listdir( stampPath ):
     print( fileName )
 
 # POI XML CBP Conversion...
-for subDir in subDirsPartFix:
-    for fileName in os.listdir( copyPathPrefabs + subDir ):
-        if ( fileName.endswith( ".xml" ) ):
-            replace_string_in_file( copyPathPrefabs + subDir + "/" + fileName, 'part_zztong', 'part_cbp')
+# Not renameing Parts anymore, so commented out.
+#for subDir in subDirsPartFix:
+#    for fileName in os.listdir( copyPathPrefabs + subDir ):
+#        if ( fileName.endswith( ".xml" ) ):
+#            replace_string_in_file( copyPathPrefabs + subDir + "/" + fileName, 'part_zztong', 'part_cbp')
 
