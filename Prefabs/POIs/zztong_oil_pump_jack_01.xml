@@ -15,7 +15,7 @@
   <property name="SleeperVolumeSize" value="21, 7, 21" />
   <property name="SleeperVolumeStart" value="2, 3, 2" />
   <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="3ZomUtilityWorker,1,2" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,1,2" />
   <property name="SleeperIsLootVolume" value="False" />
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
@@ -28,7 +28,7 @@
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
   <property name="POIMarkerPartToSpawn" value="" />
-  <property name="POIMarkerPartRotations" value="0" />
+  <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
     <property name="TotalVertices" value="43982" />

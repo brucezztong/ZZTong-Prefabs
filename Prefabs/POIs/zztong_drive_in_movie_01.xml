@@ -26,7 +26,7 @@
   <property name="POIMarkerSize" value="6, 13, 2#5, 5, 11#5, 1, 5#4, 13, 2" />
   <property name="POIMarkerStart" value="53, 3, -2#3, 4, 43#23, 4, 12#54, 3, -2" />
   <property name="POIMarkerGroup" value="driveway,camper,campsite,driveway" />
-  <property name="POIMarkerTags" value="countrytown###" />
+  <property name="POIMarkerTags" value="countrytown###gateway" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_03,part_zztong_camper_01,part_zztong_campsite_01,part_zztong_driveway_gateway_04" />
   <property name="POIMarkerPartRotations" value="2,0,2,2" />
