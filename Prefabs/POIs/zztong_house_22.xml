@@ -11,7 +11,6 @@
   <property name="PrefabSize" value="25, 22, 25" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="POIMarkerSize" value="7, 13, 1#8, 13, 5#3, 4, 3#1, 1, 1#2, 1, 1#1, 1, 1#5, 1, 1" />
   <property name="POIMarkerStart" value="2, 6, -1#2, 6, -5#12, 3, 19#15, 11, 15#11, 8, 7#1, 7, 21#3, 7, 5" />
   <property name="POIMarkerGroup" value="driveway,driveway,furnace,cookpot,delivery,mine,spikes" />

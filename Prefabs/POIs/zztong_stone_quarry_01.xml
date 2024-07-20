@@ -13,13 +13,13 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="DuplicateRepeatDistance" value="8000" />
   <property name="Zoning" value="ResidentialOld" />
-  <property name="SleeperVolumeSize" value="15, 5, 8#27, 12, 27#30, 11, 20#24, 12, 27#28, 11, 20" />
-  <property name="SleeperVolumeStart" value="57, 16, 3#24, 3, 40#47, 3, 20#52, 3, 40#19, 3, 20" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,2,2,ZomUtilityWorker,3,4,ZomUtilityWorker,1,2,GroupGenericZombie,2,2,GroupGenericZombie,1,2" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
+  <property name="SleeperVolumeSize" value="15, 5, 8#73, 10, 60" />
+  <property name="SleeperVolumeStart" value="57, 16, 3#4, 3, 18" />
+  <property name="SleeperVolumeGroupId" value="0,0" />
+  <property name="SleeperVolumeGroup" value="ZomUtilityWorker,2,2,GroupGenericZombie,9,10" />
+  <property name="SleeperIsLootVolume" value="False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False" />
+  <property name="SleeperVolumeFlags" value="0,4" />
   <property name="YOffset" value="-16" />
   <property name="Tags" value="wilderness" />
   <property name="POIMarkerSize" value="5, 1, 5#8, 1, 4#3, 1, 1#10, 5, 5" />
@@ -31,13 +31,13 @@
   <property name="POIMarkerPartRotations" value="2,0,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.8" />
   <property name="PrefabSize" value="81, 21, 81" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
+  <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="188951" />
-    <property name="TotalTriangles" value="105272" />
+    <property name="TotalVertices" value="185642" />
+    <property name="TotalTriangles" value="104223" />
     <property class="BlockEntities">
-      <property name="Vertices" value="151202" />
-      <property name="Triangles" value="54231" />
+      <property name="Vertices" value="147893" />
+      <property name="Triangles" value="53182" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="9647" />
@@ -82,9 +82,11 @@
       <property name="1" value="42, 4, 43" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="63, 18, 5" />
-      <property name="1" value="69, 18, 5" />
-      <property name="2" value="68, 17, 7" />
+      <property name="0" value="57, 17, 5" />
+      <property name="1" value="63, 18, 5" />
+      <property name="2" value="69, 18, 5" />
+      <property name="3" value="57, 16, 6" />
+      <property name="4" value="68, 17, 7" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="66, 17, 8" />

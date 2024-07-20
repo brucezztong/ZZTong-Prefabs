@@ -30,11 +30,13 @@
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property name="EditorGroups" value="industrial" />
   <property name="Tags" value="industrial, rural, gateway, zzbartertown" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="11, 4, 1" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="14, 4, 8" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="18, 3, 7" />
@@ -54,11 +56,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="145189" />
-    <property name="TotalTriangles" value="65976" />
+    <property name="TotalVertices" value="155033" />
+    <property name="TotalTriangles" value="69012" />
     <property class="BlockEntities">
-      <property name="Vertices" value="128259" />
-      <property name="Triangles" value="55060" />
+      <property name="Vertices" value="138103" />
+      <property name="Triangles" value="58096" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="14784" />

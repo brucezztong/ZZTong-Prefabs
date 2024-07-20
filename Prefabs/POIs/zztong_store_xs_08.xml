@@ -32,15 +32,15 @@
   <property name="PrefabSize" value="25, 9, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="125813" />
-    <property name="TotalTriangles" value="53307" />
+    <property name="TotalVertices" value="125431" />
+    <property name="TotalTriangles" value="53119" />
     <property class="BlockEntities">
-      <property name="Vertices" value="104859" />
-      <property name="Triangles" value="39611" />
+      <property name="Vertices" value="104973" />
+      <property name="Triangles" value="39687" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="18668" />
-      <property name="Triangles" value="10236" />
+      <property name="Vertices" value="18172" />
+      <property name="Triangles" value="9972" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -93,15 +93,17 @@
       <property name="3" value="18, 7, 21" />
       <property name="4" value="14, 3, 23" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="19, 3, 19" />
+      <property name="1" value="19, 4, 19" />
+      <property name="2" value="19, 3, 20" />
+      <property name="3" value="19, 3, 21" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="16, 3, 16" />
       <property name="1" value="19, 3, 16" />
       <property name="2" value="16, 3, 22" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="19, 4, 19" />
-      <property name="1" value="19, 3, 20" />
-      <property name="2" value="19, 3, 21" />
+      <property name="3" value="16, 3, 23" />
     </property>
     <property class="Rally">
       <property name="0" value="23, 4, 23" />

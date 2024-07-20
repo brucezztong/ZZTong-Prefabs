@@ -19,7 +19,7 @@
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,3,3,GroupGenericZombie,2,3,GroupGenericZombie,2,2,GroupGenericZombie,1,2" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
+  <property name="SleeperVolumeFlags" value="0,0,3,0,0,0" />
   <property name="YOffset" value="-3" />
   <property name="POIMarkerSize" value="4, 2, 4#7, 13, 3#7, 13, 3#6, 2, 4#2, 3, 6#6, 3, 2#2, 3, 6#4, 4, 2#3, 3, 2#6, 4, 3#3, 4, 3#6, 1, 1#6, 1, 1#2, 2, 5#7, 13, 2#7, 13, 2" />
   <property name="POIMarkerStart" value="8, 3, 14#15, 2, -3#37, 2, -3#46, 3, 10#57, 3, 27#23, 3, 57#1, 3, 35#10, 3, 39#26, 3, 13#45, 3, 30#47, 3, 45#38, 3, 1#15, 3, 1#50, 3, 17#15, 2, -2#37, 2, -2" />
@@ -29,13 +29,13 @@
   <property name="POIMarkerPartToSpawn" value="part_car_on_blocks_01,part_driveway_rural_12,part_driveway_rural_12,part_dumpster,part_fence_industrial_broken,part_fence_industrial_broken,part_fence_industrial_broken,part_kiosk_sign_01,part_lab_greeble_10,part_lift_03,part_sculpture_02,part_zztong_barrier6,part_zztong_barrier6,part_zztong_targets_02,part_zztong_driveway_gateway_07,part_zztong_driveway_gateway_07" />
   <property name="POIMarkerPartRotations" value="1,2,2,1,1,0,3,0,0,0,0,0,0,1,2,2" />
   <property name="POIMarkerPartSpawnChance" value="0.7,1,1,0.3,0.5,0.5,0.5,0.2,0.2,0.4,0.2,0.4,0.4,0.6,1,1" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
+  <property name="SleeperVolumeTriggeredBy" value=" # #1# # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="413951" />
-    <property name="TotalTriangles" value="198841" />
+    <property name="TotalVertices" value="330185" />
+    <property name="TotalTriangles" value="185833" />
     <property class="BlockEntities">
-      <property name="Vertices" value="319649" />
-      <property name="Triangles" value="130415" />
+      <property name="Vertices" value="235883" />
+      <property name="Triangles" value="117407" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="84868" />
@@ -75,6 +75,10 @@
     <property class="challenge_polymers">
       <property name="0" value="47, 3, 14" />
       <property name="1" value="52, 3, 29" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="27, 3, 30" />
+      <property name="1" value="28, 4, 30" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="55, 3, 49" />

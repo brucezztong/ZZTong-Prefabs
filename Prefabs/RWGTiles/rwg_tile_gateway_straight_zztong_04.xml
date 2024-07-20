@@ -10,23 +10,23 @@
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="PrefabSize" value="150, 29, 150" />
-  <property name="Tags" value="streettile,hideui,rwgonly,gatewaytile" />
+  <property name="PrefabSize" value="150, 28, 150" />
+  <property name="Tags" value="streettile, hideui, rwgonly, gatewaytile" />
   <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#16, 0, 16#18, 2, 8#16, 0, 16#18, 2, 8#18, 17, 39#25, 0, 25#25, 0, 25#18, 17, 39#5, 1, 1#5, 1, 1#6, 6, 6#3, 2, 5#2, 1, 1#11, 4, 1#6, 1, 7#5, 1, 5#11, 5, 5#13, 17, 6#13, 17, 6#13, 18, 6#1, 1, 6#1, 1, 6#3, 2, 1#11, 2, 5#6, 15, 5#5, 5, 19#3, 4, 3#9, 4, 7#13, 15, 5" />
   <property name="POIMarkerStart" value="85, 8, 78#5, 8, 78#67, 8, 142#66, 7, 142#67, 8, -8#66, 7, 0#66, 1, 24#120, 8, 49#24, 8, 3#66, 1, 24#69, 8, 65#76, 8, 21#97, 8, 9#105, 8, 16#92, 8, 21#108, 8, 6#84, 8, 8#4, 8, 25#22, 8, 31#54, 8, 64#54, 8, 64#54, 8, 64#84, 8, 69#64, 8, 10#70, 8, 140#92, 8, 72#85, 8, 140#69, 8, 69#97, 8, 22#96, 8, 61#54, 8, 65" />
   <property name="POIMarkerGroup" value="m1,m2,re1,HighwayN,re2,HighwayS,bridge,xs1,xs2,bridge,cones1,cones2,gazebo,targets,hay,logger,sandbags,campsite,camper,billboard,billboard,billboard,barrier1,barrier2,barricade,trailer,watertwr,truck,sculpture,stand,billboard" />
-  <property name="POIMarkerTags" value="##############################" />
+  <property name="POIMarkerTags" value="#nocheckpoint#############################" />
   <property name="POIMarkerType" value="POISpawn,POISpawn,RoadExit,PartSpawn,RoadExit,PartSpawn,PartSpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value=",,,part_highway_transition,,part_highway_transition,part_zztong_tfp_bridge_01,,,part_zztong_tfp_bridge_02,part_zztong_traffic_cones5,part_zztong_traffic_cones5,part_zztong_tfp_gazebo,part_zztong_targets_01,part_zztong_hay_bale_square,part_zztong_excavator_02,part_zztong_checkpoint_03,part_zztong_campsite_01,part_zztong_camper_01,part_zztong_billboard_kztv,part_zztong_billboard_ham_radio,part_zztong_billboard_balloon,part_zztong_barrier6_yellow,part_zztong_barrier6_white,part_zztong_barricade_01,part_trailer_car,part_tower_water_01,part_semi_truck,part_sculpture_01,part_roadside_fruit_stand_02,part_billboard_umove" />
   <property name="POIMarkerPartRotations" value="1,3,0,0,2,2,1,1,3,1,0,0,0,1,0,0,3,1,3,0,0,0,1,1,1,0,2,0,2,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,0.5,1,1,0.5,0.5,1,0.5,0.4,0.2,0.5,0.2,0.2,0.2,0.3,0.3,0.3,0.2,0.2,0.2,0.4,0.4,0.1,0.1,0.1,0.3" />
   <property name="YOffset" value="-8" />
   <property class="Stats">
-    <property name="TotalVertices" value="611841" />
-    <property name="TotalTriangles" value="681616" />
+    <property name="TotalVertices" value="572389" />
+    <property name="TotalTriangles" value="671212" />
     <property class="BlockEntities">
-      <property name="Vertices" value="527741" />
-      <property name="Triangles" value="565184" />
+      <property name="Vertices" value="488289" />
+      <property name="Triangles" value="554780" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="18812" />
@@ -49,10 +49,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="65288" />
       <property name="Triangles" value="107172" />
     </property>
@@ -60,6 +56,9 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="145, 8, 145" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="147, 8, 18" />
     </property>
   </property>
 </prefab>

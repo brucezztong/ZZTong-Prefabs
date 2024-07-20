@@ -35,11 +35,11 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.6,0.5,0.5,0.4,0.5,0.6" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="605990" />
-    <property name="TotalTriangles" value="273197" />
+    <property name="TotalVertices" value="589589" />
+    <property name="TotalTriangles" value="267959" />
     <property class="BlockEntities">
-      <property name="Vertices" value="496821" />
-      <property name="Triangles" value="202962" />
+      <property name="Vertices" value="480420" />
+      <property name="Triangles" value="197724" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="102951" />
@@ -67,6 +67,11 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="36, 7, 5" />
+      <property name="1" value="36, 4, 9" />
+      <property name="2" value="30, 5, 13" />
+    </property>
     <property class="Rally">
       <property name="0" value="15, 2, 1" />
     </property>

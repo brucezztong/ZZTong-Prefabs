@@ -28,7 +28,6 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="Tags" value="industrial, rural, gateway, zzbartertown" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
   <property class="IndexedBlockOffsets">

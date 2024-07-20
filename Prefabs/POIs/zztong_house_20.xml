@@ -28,7 +28,6 @@
   <property name="POIMarkerPartRotations" value="2,0,1,2,0,0,2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.6,0.2,0.4,1,1" />
   <property name="Tags" value="countryresidential, rural, gateway" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="Zoning" value="none" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="IndexedBlockOffsets">

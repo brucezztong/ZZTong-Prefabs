@@ -29,7 +29,6 @@
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-7" />
   <property name="Tags" value="residential" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
   <property class="Stats">
     <property name="TotalVertices" value="288311" />

@@ -10,7 +10,6 @@
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 9, 25" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="countryresidential, residential, rural" />
@@ -31,12 +30,13 @@
   <property name="SleeperVolumeFlags" value="2,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property name="EditorGroups" value="rural" />
+  <property name="ThemeRepeatDistance" value="0" />
   <property class="Stats">
-    <property name="TotalVertices" value="90968" />
-    <property name="TotalTriangles" value="37528" />
+    <property name="TotalVertices" value="77571" />
+    <property name="TotalTriangles" value="33991" />
     <property class="BlockEntities">
-      <property name="Vertices" value="87670" />
-      <property name="Triangles" value="35166" />
+      <property name="Vertices" value="72477" />
+      <property name="Triangles" value="28485" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="2978" />
@@ -59,8 +59,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1796" />
+      <property name="Triangles" value="3144" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -80,6 +80,9 @@
     </property>
     <property class="challenge_gore">
       <property name="0" value="4, 3, 21" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 3, 2" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="20, 3, 4" />

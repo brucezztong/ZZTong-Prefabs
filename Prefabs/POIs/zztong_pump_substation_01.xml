@@ -22,7 +22,6 @@
   <property name="YOffset" value="-5" />
   <property name="EditorGroups" value="industrial" />
   <property name="Tags" value="industrial, rural, gateway, zzbartertown" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="POIMarkerSize" value="3, 13, 2" />
   <property name="POIMarkerStart" value="7, 4, -2" />
   <property name="POIMarkerGroup" value="drive" />

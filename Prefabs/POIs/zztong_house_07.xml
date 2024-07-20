@@ -29,7 +29,6 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="YOffset" value="-7" />
   <property name="Tags" value="residential" />
-  <property name="DuplicateRepeatDistance" value="1000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
     <property name="TotalVertices" value="145075" />

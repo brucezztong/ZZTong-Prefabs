@@ -31,11 +31,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.6,1,0.6,0.8,0.4,0.4,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="220863" />
-    <property name="TotalTriangles" value="90381" />
+    <property name="TotalVertices" value="221455" />
+    <property name="TotalTriangles" value="90203" />
     <property class="BlockEntities">
-      <property name="Vertices" value="182995" />
-      <property name="Triangles" value="67272" />
+      <property name="Vertices" value="183587" />
+      <property name="Triangles" value="67094" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="35034" />
@@ -84,16 +84,17 @@
     <property class="challenge_mech_parts">
       <property name="0" value="16, 3, 16" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="16, 10, 14" />
+      <property name="1" value="15, 4, 19" />
+      <property name="2" value="12, 9, 20" />
+      <property name="3" value="13, 3, 20" />
+      <property name="4" value="13, 9, 20" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="17, 9, 17" />
       <property name="1" value="12, 3, 18" />
       <property name="2" value="16, 9, 18" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="16, 10, 14" />
-      <property name="1" value="12, 9, 20" />
-      <property name="2" value="13, 3, 20" />
-      <property name="3" value="13, 9, 20" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="12, 11, 12" />
