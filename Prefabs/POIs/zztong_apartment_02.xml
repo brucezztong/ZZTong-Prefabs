@@ -5,7 +5,7 @@
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="ExcludePOICulling" value="False" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="4" />
   <property name="Zoning" value="Commercial" />
   <property name="RotationToFaceNorth" value="2" />
@@ -47,17 +47,10 @@
       <property name="0" value="47, 7, 30" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="47, 13, 14" />
-      <property name="1" value="49, 8, 14" />
-      <property name="2" value="47, 12, 15" />
-      <property name="3" value="49, 7, 15" />
-      <property name="4" value="47, 7, 20" />
-      <property name="5" value="49, 12, 20" />
-      <property name="6" value="47, 8, 21" />
-      <property name="7" value="47, 8, 22" />
-      <property name="8" value="47, 13, 22" />
-      <property name="9" value="56, 3, 22" />
-      <property name="10" value="56, 2, 24" />
+      <property name="0" value="49, 2, 32" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="42, 8, 8" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="52, 2, 40" />
@@ -96,11 +89,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1288293" />
-    <property name="TotalTriangles" value="498517" />
+    <property name="TotalVertices" value="1186294" />
+    <property name="TotalTriangles" value="483503" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1079873" />
-      <property name="Triangles" value="377806" />
+      <property name="Vertices" value="977874" />
+      <property name="Triangles" value="362792" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="198212" />

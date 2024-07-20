@@ -5,7 +5,7 @@
   <property name="ExcludePOICulling" value="False" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="DifficultyTier" value="1" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
@@ -43,12 +43,12 @@
     <property class="POILight">
       <property name="0" value="12, 5, 23" />
     </property>
-    <property class="challenge_cars">
-      <property name="0" value="7, 3, 13" />
-    </property>
     <property class="challenge_sinks">
       <property name="0" value="18, 4, 21" />
       <property name="1" value="19, 4, 21" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="7, 3, 13" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="14, 3, 17" />
@@ -61,11 +61,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="190029" />
-    <property name="TotalTriangles" value="70243" />
+    <property name="TotalVertices" value="167256" />
+    <property name="TotalTriangles" value="67388" />
     <property class="BlockEntities">
-      <property name="Vertices" value="165045" />
-      <property name="Triangles" value="54087" />
+      <property name="Vertices" value="142272" />
+      <property name="Triangles" value="51232" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="23052" />

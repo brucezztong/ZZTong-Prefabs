@@ -6,14 +6,14 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="1" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="60, 23, 60" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Tags" value="rural, gateway" />
   <property name="Zoning" value="none" />
-  <property name="SleeperVolumeSize" value="15, 6, 8#14, 4, 5#5, 5, 5#7, 9, 25#7, 6, 11#11, 6, 3" />
+  <property name="SleeperVolumeSize" value="15, 6, 8#14, 4, 5#5, 8, 5#7, 9, 25#7, 6, 11#11, 6, 3" />
   <property name="SleeperVolumeStart" value="22, 3, 4#21, 3, 46#31, 3, 24#23, 3, 14#30, 3, 13#39, 3, 38" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,3,3,GroupGenericZombie,2,3,GroupGenericZombie,2,2,GroupGenericZombie,1,2" />
@@ -31,11 +31,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.7,1,1,0.3,0.5,0.5,0.5,0.2,0.2,0.4,0.2,0.4,0.4,0.6,1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # #1# # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="330185" />
-    <property name="TotalTriangles" value="185833" />
+    <property name="TotalVertices" value="334159" />
+    <property name="TotalTriangles" value="187426" />
     <property class="BlockEntities">
-      <property name="Vertices" value="235883" />
-      <property name="Triangles" value="117407" />
+      <property name="Vertices" value="239857" />
+      <property name="Triangles" value="119000" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="84868" />

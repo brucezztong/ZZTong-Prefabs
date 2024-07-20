@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="2" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 25, 25" />
@@ -31,11 +31,11 @@
   <property name="Tags" value="residential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="310280" />
-    <property name="TotalTriangles" value="131224" />
+    <property name="TotalVertices" value="308262" />
+    <property name="TotalTriangles" value="130340" />
     <property class="BlockEntities">
-      <property name="Vertices" value="251714" />
-      <property name="Triangles" value="94775" />
+      <property name="Vertices" value="249696" />
+      <property name="Triangles" value="93891" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="55148" />
@@ -91,9 +91,13 @@
       <property name="7" value="15, 15, 18" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="12, 16, 15" />
-      <property name="1" value="12, 11, 21" />
-      <property name="2" value="13, 11, 21" />
+      <property name="0" value="15, 5, 12" />
+      <property name="1" value="15, 6, 12" />
+      <property name="2" value="12, 16, 15" />
+      <property name="3" value="17, 15, 20" />
+      <property name="4" value="12, 11, 21" />
+      <property name="5" value="13, 11, 21" />
+      <property name="6" value="16, 20, 23" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="20, 5, 13" />

@@ -31,11 +31,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="190007" />
-    <property name="TotalTriangles" value="68058" />
+    <property name="TotalVertices" value="155229" />
+    <property name="TotalTriangles" value="63501" />
     <property class="BlockEntities">
-      <property name="Vertices" value="166581" />
-      <property name="Triangles" value="53770" />
+      <property name="Vertices" value="131803" />
+      <property name="Triangles" value="49213" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="21654" />
@@ -82,16 +82,14 @@
     <property class="challenge_mech_parts">
       <property name="0" value="10, 3, 17" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="21, 3, 20" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="21, 3, 14" />
       <property name="1" value="17, 3, 15" />
       <property name="2" value="21, 5, 17" />
       <property name="3" value="21, 5, 19" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="5, 3, 16" />
-      <property name="1" value="6, 4, 16" />
-      <property name="2" value="10, 4, 21" />
     </property>
     <property class="Rally">
       <property name="0" value="19, 4, 2" />

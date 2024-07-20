@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="2" />
-  <property name="QuestTags" value="clear, fetch" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="25, 20, 25" />
@@ -31,11 +31,11 @@
   <property name="Tags" value="residential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="261652" />
-    <property name="TotalTriangles" value="109052" />
+    <property name="TotalVertices" value="260123" />
+    <property name="TotalTriangles" value="108554" />
     <property class="BlockEntities">
-      <property name="Vertices" value="212506" />
-      <property name="Triangles" value="80982" />
+      <property name="Vertices" value="210977" />
+      <property name="Triangles" value="80484" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="45592" />
@@ -82,6 +82,19 @@
       <property name="6" value="14, 8, 19" />
       <property name="7" value="15, 3, 20" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 4, 14" />
+      <property name="1" value="13, 4, 17" />
+      <property name="2" value="13, 3, 18" />
+      <property name="3" value="14, 3, 18" />
+      <property name="4" value="21, 8, 19" />
+      <property name="5" value="15, 9, 20" />
+      <property name="6" value="13, 3, 21" />
+      <property name="7" value="14, 4, 21" />
+      <property name="8" value="15, 8, 21" />
+      <property name="9" value="18, 4, 21" />
+      <property name="10" value="19, 4, 21" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="18, 4, 16" />
     </property>
@@ -91,14 +104,6 @@
     </property>
     <property class="challenge_gore">
       <property name="0" value="18, 13, 14" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="15, 9, 20" />
-      <property name="1" value="13, 3, 21" />
-      <property name="2" value="14, 4, 21" />
-      <property name="3" value="15, 8, 21" />
-      <property name="4" value="18, 4, 21" />
-      <property name="5" value="19, 4, 21" />
     </property>
     <property class="Rally">
       <property name="0" value="14, 4, 1" />

@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="4" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="60, 28, 60" />
@@ -31,11 +31,11 @@
   <property name="YOffset" value="-6" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1096652" />
-    <property name="TotalTriangles" value="406286" />
+    <property name="TotalVertices" value="727600" />
+    <property name="TotalTriangles" value="341156" />
     <property class="BlockEntities">
-      <property name="Vertices" value="978858" />
-      <property name="Triangles" value="331537" />
+      <property name="Vertices" value="609806" />
+      <property name="Triangles" value="266407" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="102668" />
@@ -85,6 +85,9 @@
       <property name="2" value="47, 15, 46" />
       <property name="3" value="50, 8, 49" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="48, 12, 49" />
+    </property>
     <property class="challenge_cars">
       <property name="0" value="19, 6, 28" />
     </property>
@@ -106,10 +109,8 @@
     <property class="challenge_mech_parts">
       <property name="0" value="49, 7, 47" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="47, 12, 38" />
-      <property name="1" value="50, 13, 38" />
-      <property name="2" value="48, 12, 41" />
+    <property class="FetchContainer">
+      <property name="0" value="47, 17, 32" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="45, 4, 47" />
