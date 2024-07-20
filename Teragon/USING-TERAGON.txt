@@ -10,41 +10,20 @@ list for Vanilla content provided with Teragon.
 
 1. Launch Teragon
 
-2. Load the "world generator 1" present (stored in an .INI file).
-    File > Load... world generator 1.ini
+2. Load the "world generator 1.ini" present found in the default directory.
 
 3. Switch to the Expert Tab
 
-4. Add an "Import POI Property List" step.
+4. Add an "Add Source Path" step.
 
-    Under "Available Commands", select "Import POI Property List"
+    Under the "Available Commands", locate the "Add Source Path" step.
 
-    Click the ">" button to add the command to the Command Queue.
+    Double click the "Add Source Path" to add the command to the Command Queue.
 
-    Use the up and down arrow buttons to move "Import POI Property List"
-        to a position below/after "Read POI Property List"
-
-    Set the "POI property file" to something like this:
-        C:/Users/[username]/AppData/Roaming/7DaysToDie/Mods/ZZTong-Prefabs/Teragon/ZZTong-Prefabs-Property-List.txt
-
-    That would be the normal location for where this modlet's Property List is.
-        Your location might be elsewhere. If so, you'll have to correct it.
-        Note that "[username]" is a variable understood by Teragon.
-
-    The role of this step is to allow Teragon to know details about the POIs
-        found in this modlet.
-
-5. Add an "Add Source Path" step.
-
-    Under the "Available Commands", select "Add Source Path" step.
-
-    Click the ">" button to add the command to the Command Queue.
-
-    Use the up and down arrow buttons to move "Add Source Path" to a position
-        below/after the "Import POI Property List you added in the previous step.
+    Drag and drop the "Add Source Path" step to follow the "Set Game Data" step.
 
     Set the "Directory" path to:
-        C:/Users/[username]/AppData/Roaming/7DaysToDie/Mods/ZZTong-Prefabs/Prefabs
+        C:/Users/[username]/AppData/Roaming/7DaysToDie/Mods/ZZTong-Prefabs
         Note that "[username]" is a variable understood by Teragon.
 
     Enable "Subdirectories" by checking that box if it is not already enabled.
@@ -52,9 +31,9 @@ list for Vanilla content provided with Teragon.
     Again, that path is for a typical setup. If you locate things in different
         places then you'll have to sort that out. (I'm not psychic.)
 
-6. Click RUN button to generate a world.
+5. Click RUN button (found on the left side of the UI) to generate a world.
 
-7. You will see a Preview after the world is generated but before roads are added.
+6. You will see a Preview after the world is generated but before roads are added.
 Roads take a long time, so take advantage of your opportunity to preview before
 you tell it to Continue with roads.
 
