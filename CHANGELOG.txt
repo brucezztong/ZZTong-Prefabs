@@ -1,10 +1,14 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
-1.0.022 (ZZ022)
-* Bug fixes. Block changes. Texture changes. Door changes.
+V1.0.022 (ZZ022)
+* Converted to Version 1.0. (Shocking, right?)
+* Bug fixes. Block changes. Texture changes. Door changes. More bug fixes.
 * More POIs support Infested Quests.
-* Added rwg_tile_downtown_intersection_02, rwg_tile_downtown_intersection_03
-    rwg_tile_downtown_intersection_04.
+* Added rwg_tile_downtown_intersection_zztong_02,
+    rwg_tile_downtown_intersection_zztong_03, and
+    rwg_tile_downtown_intersection_zztong_04.
+* Added rwg_tile_commercial_cap_zztong_01, rwg_tile_commercial_t_zztong_01.
+* Changes to rwgmixer.xml config to align with TFP direction and new features.
 
 A21.2.021 (ZZ021)
 * DuplicateRepeatDistances on Houses reduced to 1000 to combat empty lots.

@@ -1,8 +1,8 @@
-ZZTONG-PREFABS READ-ME for 1.0.ZZ022
+ZZTONG-PREFABS READ-ME for V1.0.ZZ022
 
 GOAL:
 
-This modlet provides semi-plain "meat and potatoes" POIs, Tiles, Parts, Blocks,
+This modlet provides semi-plain "meat and potatoes" POIs, Tiles, Parts, 
 Decorations and Stamps of an acceptable quality and in enough quantity to fill
 gaps in world generation and make a meaningful dent in player demands for
 variety.
@@ -26,29 +26,21 @@ CLIENT INSTALLATION (Mac) - TBD
 CLIENT INSTALLATION (Linux) - TBD
 SERVER INSTALLATION - TBD
 
-WARNING: If you choose to extract POIs from this modlet that you need to know
-how Parts work, or you will not end up with complete POIs and Tiles!
+WARNING: If you choose to extract POIs from this modlet you need to know
+how Parts wnd Localization work or you will not end up with complete POIs
+and Tiles! I suggest you leave everything packed up in the modlet.
 
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
-I recommend installation on both, but Server-Side only should largely work with
-some noticable quirks. As near as I have been able to determine, because POIs
-are rolled into the world distributed by the server, and all the modlet's
-additions to the game configuration are in XML, this can be a Server-Side only
-modlet.
+Both. You want the modlet on both the server and all the clients. Anyone who
+tells you POIs can be server-side only is conveying out-of-date information.
 
-The most notable issue observed by players without a local installation of the
-modlet is the lack of local "imposter" files will mean custom POIs only become
-visible when you get close to them. This alone can be enough to annoy players.
+While a server-side only installation will convey the blocks of a POI, it does
+not convey the Localization information and the details of triggers linked to
+keyracks and similar blocks. These quirks are NOT bugs in the modlet or POIs.
 
-Players may find that some game features, such as keyracks, don't work in POIs
-that are not stored locally. You may have to destroy those blocks, rather than
-interact with them, to get them to trigger their events.
-
-Admins will find features such as using F11 to identify a POI and the ability
-to teleport to a POI do not work without a local copy of a POI.
-
-These quirks are NOT bugs in the modlet or the POIs.
+Perhaps someday TFP will allow the server to send the additional information
+necessary, but for now that is not the case.
 
 VANILLA RANDOM WORLD GENERATOR (RWG):
 
@@ -56,15 +48,7 @@ Installing this Mod should be all that is necessary to include this content
 when generating a new world using the 7D2D built-in Random World Generator. Of
 course, it is up the the RWG to determine if, when, and where to place things.
 
-This modlet changes Cities to be ringed by Residential or Rural content and
-Towns are ringed by Rural. If you don't like that, then change the rwgmixer.xml
-file in this modlet.
-
 TERAGON:
-
-As of the time of this writing, Teragon for A21 is not yet available. If you're
-trying to use an A20 version of Teragon, I can only say good luck. I have not
-attempted to mix versions.
 
 Support for Teragon is current as of the release date, but since Teragon is
 undergoing active development you may find that my support becomes out-of-date.
@@ -74,13 +58,6 @@ You should refer to notes and configuration files found in the Teragon folder
 within this modlet. As I write this I am aware of bugs in Teragon, but also
 excited to see that the Teragon teams takes these issue seriously and works to
 resolve them.
-
-WORLD EDITOR AND MAP MAKERS:
-
-If you have already made a map and plan to place these POIs by hand then be
-aware that I make extensive use of Parts and Custom Blocks. The World Editor
-does not know about Parts, so you run the risk of ending up with a POI that is
-missing content.
 
 COMPOPACK:
 
@@ -101,18 +78,6 @@ vanilla settlements but leave the "ZZTong" POIs in all of the CompoPack's
 custom settlements. This gives you the best combination, but involves the most
 work.
 
-POI EXPANSION PACK (PEP)
-
-If you playing Darkness Falls, then you should follow their instructions. This
-is because Darkness Falls has unique world requirements to support DF's story.
-
-If you are playing Vanilla and mixing in the PEP with other sources of POIs
-then consider removing the PEP modlet's Config/rwgmixer.xml file as it puts
-a finger on the scale of RWG bias in favor of PEP and Vanilla POIs. You might
-also consider removing the "Prefabs/POIs/VanillaTagOverride" folder if you
-would like Vanilla POIs to use the game's default Tags. The PEP POIs should
-work just fine using RWG without those features.
-
 OVERHAUL MODS:
 
 Overhaul Mods make extensive changes to the game and I cannot give you a recipe
@@ -124,38 +89,6 @@ Some Overhaul Mods choose to embed this modlet, or portions of this modlet,
 in their own distributions. I cannot predict the possible collisions and
 ramifications. I also cannot force overhaul modders to update to the latest
 versions of POIs.
-
-As far as I know: (Please correct me if I'm wrong.)
-
-APOCALYPSE NOW - I'm under the impression you can using the Game's RWG to make
-maps and if this modlet is installed when you do that, then I'm told you will
-have a viable map.
-
-DARKNESS FALLS - Requires special POIs to be on a map. DF's approach to making
-this happen involves extensive use of "bias" settings. My modlet won't have
-those, so you may find the ZZTong-Prefabs are at a slight disadvantage when
-it comes to placement in the world, but you'll still see them.
-
-RAVENHEARST - I'm under the impression you can use the Game's RWG to make
-maps. If so, make sure this modlet is installed when you do that.
-
-REBIRTH - I'm aware this overhaul is actively integrating my modlet into maps
-and content, so look to them for advice on the best practices. I probably get
-the most feedback from Rebirth players and creators.
-
-UNDEAD LEGACY - I'm under the impression you can using the Game's RWG to make
-maps and if this modlet is installed when you do that, then I'm told you will
-have a viable map. I'm aware of at least one incompatibility. UL has deleted
-the "dyes" lootlist from the Vanilla configuration. I have custom blocks that
-depended on that lootlist. You'll get errors if you use my modlet with UL.
-There is a compatibility modlet by iV7Z available on Nexus that deals with
-those errors.
-
-WAR3ZUK - I do not know. I'm hoping you just need this modlet installed and
-that you can use RWG.
-
-OTHER - My hope is that if you can use RWG to generate a map for your overhaul
-that all you would have to do is correctly install this modlet.
 
 PLAYING WITHOUT TRADERS
 

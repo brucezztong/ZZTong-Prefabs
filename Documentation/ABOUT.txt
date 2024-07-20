@@ -921,6 +921,10 @@ This started as Tile content and were removed from the Intersection Tile
 because I had packed that Tile too tight with content creating performance
 issues. They're reappearing as POIs.
 
+WAREHOUSE 05
+
+These were a quick pair of quonset huts, turned into storage.
+
 WATERING HOLE 01
 
 With A21 introducing the new Dew Collector, I thought it was odd we weren't
@@ -944,3 +948,7 @@ put blades onto the POI but there are structural integrity issues that would
 lead the blades to fall off if/when somebody modified the tower in-game, so
 I elected to build the POI as if the blades had already failed due to some
 unknown event.
+
+WIND TURBINE 02
+
+This is a variant of Wind Turbine 01 that is rigged to be close to town.
