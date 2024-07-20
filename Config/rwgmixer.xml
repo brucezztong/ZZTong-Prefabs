@@ -73,6 +73,29 @@
 	</append>
 
     <!-- **************************************************************
+        These Tiles do not offer any places for a Trader, so they
+        should only appear once max, otherwise small maps might
+        not get all of their traders.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_gateway_intersection_zztong_01">
+            <property name="mintiles" value="0"/>
+            <property name="maxtiles" value="1"/>
+        </streettile>
+
+        <streettile name="rwg_tile_gateway_straight_zztong_01">
+            <property name="mintiles" value="0"/>
+            <property name="maxtiles" value="1"/>
+        </streettile>
+
+        <streettile name="rwg_tile_gateway_straight_zztong_02">
+            <property name="mintiles" value="0"/>
+            <property name="maxtiles" value="1"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
         This is the bartertown tile. It is a distictive landmark so
         we don't want a bunch of them on the map. Also included are
         the bartertown fallen traders to make them match up with TFP's
@@ -82,7 +105,7 @@
 
 	<append xpath="/rwgmixer">
         <streettile name="rwg_tile_gateway_intersection_zztong_03">
-            <property name="mintiles" value="1"/>
+            <property name="mintiles" value="0"/>
             <property name="maxtiles" value="1"/>
         </streettile>
 
@@ -96,26 +119,29 @@
     <!-- **************************************************************
         This Tile supports a Tunnel through a mountain. It is a
         distictive landmark so you probably don't want many of them.
-        There are only three variations of the tunnel.
+        There are only three variations of the tunnel. It is also
+        a Tile that doesn't support a Trader, so it needs to be
+        limited to once appearance for small maps.
     ****************************************************************-->
 
 	<append xpath="/rwgmixer">
         <streettile name="rwg_tile_gateway_straight_zztong_03">
-            <property name="mintiles" value="1"/>
-            <property name="maxtiles" value="2"/>
+            <property name="mintiles" value="0"/>
+            <property name="maxtiles" value="1"/>
         </streettile>
 	</append>
 
     <!-- **************************************************************
         This Tile supports a Reservoir. It is a distictive landmark
         so you probably don't want many of them. There are only two
-        variations of the docks.
+        variations of the docks. It does not support a Trader so
+        it should only appear once.
     ****************************************************************-->
 
 	<append xpath="/rwgmixer">
         <streettile name="rwg_tile_gateway_t_zztong_02">
-            <property name="mintiles" value="1"/>
-            <property name="maxtiles" value="2"/>
+            <property name="mintiles" value="0"/>
+            <property name="maxtiles" value="1"/>
         </streettile>
 	</append>
 
