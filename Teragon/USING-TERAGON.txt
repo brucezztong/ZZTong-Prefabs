@@ -37,6 +37,15 @@ list for Vanilla content provided with Teragon.
 Roads take a long time, so take advantage of your opportunity to preview before
 you tell it to Continue with roads.
 
+GATEWAY TILES
+
+As of the time of this writing, Teragon does support Gateway Tiles as part of
+the definition of a Town within the Town Property List. I could provide a list
+for this, but it would assume control over the towns. Thus, if you want to mix
+in this modlet's Tiles for gateways into Towns, you need to use Teragon's
+features related to defining Town Properties where you can specify the Gateway
+Tiles to be used.
+
 EXPECTATIONS
 
 Teragon has appealing features as well as quirks and challenges. There are a

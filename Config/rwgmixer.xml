@@ -7,36 +7,26 @@
     <!-- **************************************************************
         A mundane tile that adds 25x25 commercial POI support.
         It is okay to have a number of these. It only appears here
-        because I'm trying to see if a maxdensity value helps with
-        other RWG issues...
-    ****************************************************************-->
-
-	<append xpath="/rwgmixer">
-        <streettile name="rwg_tile_commercial_intersection_zztong_01">
-            <property name="mintiles" value="1"/>
-            <property name="maxtiles" value="3"/>
-            <property name="maxdensity" value="120"/>
-        </streettile>
-	</append>
-
-    <!-- **************************************************************
-        More Commercial Tiles to deal with maxdensity issues. I needed
-        these quick, so they're largely copies of TFP Tiles with a
-        few minor tweaks and a bunch of Parts for variability.
-        I wonder if anyone will notice the differences.
+        because Commercial maxdensity has been an issue...
     ****************************************************************-->
 
 	<append xpath="/rwgmixer">
         <streettile name="rwg_tile_commercial_cap_zztong_01">
             <property name="mintiles" value="1"/>
-            <property name="maxtiles" value="5"/>
-            <property name="maxdensity" value="120"/>
+            <property name="maxtiles" value="4"/>
+            <property name="maxdensity" value="250"/>
+        </streettile>
+
+        <streettile name="rwg_tile_commercial_intersection_zztong_01">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="4"/>
+            <property name="maxdensity" value="250"/>
         </streettile>
 
         <streettile name="rwg_tile_commercial_t_zztong_01">
             <property name="mintiles" value="1"/>
-            <property name="maxtiles" value="6"/>
-            <property name="maxdensity" value="120"/>
+            <property name="maxtiles" value="4"/>
+            <property name="maxdensity" value="250"/>
         </streettile>
 	</append>
 
@@ -48,25 +38,25 @@
 
 	<append xpath="/rwgmixer">
         <streettile name="rwg_tile_downtown_intersection_zztong_01">
-            <property name="mintiles" value="1"/>
+            <property name="mintiles" value="0"/>
             <property name="maxtiles" value="1"/>
             <property name="maxdensity" value="120"/>
         </streettile>
 
         <streettile name="rwg_tile_downtown_intersection_zztong_02">
-            <property name="mintiles" value="1"/>
+            <property name="mintiles" value="0"/>
             <property name="maxtiles" value="1"/>
             <property name="maxdensity" value="120"/>
         </streettile>
 
         <streettile name="rwg_tile_downtown_intersection_zztong_03">
-            <property name="mintiles" value="1"/>
+            <property name="mintiles" value="0"/>
             <property name="maxtiles" value="1"/>
             <property name="maxdensity" value="120"/>
         </streettile>
 
         <streettile name="rwg_tile_downtown_intersection_zztong_04">
-            <property name="mintiles" value="1"/>
+            <property name="mintiles" value="0"/>
             <property name="maxtiles" value="1"/>
             <property name="maxdensity" value="120"/>
         </streettile>
