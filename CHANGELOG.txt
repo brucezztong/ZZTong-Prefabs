@@ -9,6 +9,7 @@ V1.0.022 (ZZ022)
     rwg_tile_downtown_intersection_zztong_04.
 * Added rwg_tile_commercial_cap_zztong_01, rwg_tile_commercial_t_zztong_01.
 * Changes to rwgmixer.xml config to align with TFP direction and new features.
+* Added zztong_tfp_house_old_spanish_01 for grins. (Yeh, it is modified.)
 
 A21.2.021 (ZZ021)
 * DuplicateRepeatDistances on Houses reduced to 1000 to combat empty lots.

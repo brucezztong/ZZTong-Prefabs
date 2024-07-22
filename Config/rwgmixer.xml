@@ -38,27 +38,27 @@
 
 	<append xpath="/rwgmixer">
         <streettile name="rwg_tile_downtown_intersection_zztong_01">
-            <property name="mintiles" value="0"/>
+            <property name="mintiles" value="1"/>
             <property name="maxtiles" value="1"/>
-            <property name="maxdensity" value="120"/>
+            <property name="maxdensity" value="150"/>
         </streettile>
 
         <streettile name="rwg_tile_downtown_intersection_zztong_02">
-            <property name="mintiles" value="0"/>
+            <property name="mintiles" value="1"/>
             <property name="maxtiles" value="1"/>
-            <property name="maxdensity" value="120"/>
+            <property name="maxdensity" value="150"/>
         </streettile>
 
         <streettile name="rwg_tile_downtown_intersection_zztong_03">
-            <property name="mintiles" value="0"/>
+            <property name="mintiles" value="1"/>
             <property name="maxtiles" value="1"/>
-            <property name="maxdensity" value="120"/>
+            <property name="maxdensity" value="150"/>
         </streettile>
 
         <streettile name="rwg_tile_downtown_intersection_zztong_04">
-            <property name="mintiles" value="0"/>
+            <property name="mintiles" value="1"/>
             <property name="maxtiles" value="1"/>
-            <property name="maxdensity" value="120"/>
+            <property name="maxdensity" value="150"/>
         </streettile>
 	</append>
 

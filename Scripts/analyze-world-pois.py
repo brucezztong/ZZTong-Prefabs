@@ -935,6 +935,7 @@ allowed_names = [
 "zztong_tfp_docks_01",
 "zztong_tfp_docks_05",
 "zztong_tfp_house_new_04",
+"zztong_tfp_house_old_spanish_01",
 "zztong_tfp_prison_01",
 "zztong_tfp_ranger_station_01",
 "zztong_tfp_school_k6_01",
