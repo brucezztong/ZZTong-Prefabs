@@ -21,16 +21,16 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
-  <property name="Tags" value="residential" />
+  <property name="Tags" value="countryresidential, residential, rural" />
   <property name="DuplicateRepeatDistance" value="2000" />
-  <property name="POIMarkerSize" value="9, 13, 5#1, 1, 4#2, 3, 2#1, 1, 5" />
-  <property name="POIMarkerStart" value="13, 2, -5#28, 3, 4#35, 3, 3#27, 3, 11" />
-  <property name="POIMarkerGroup" value="driveway,spikes1,charger,spikes2" />
-  <property name="POIMarkerTags" value="residential###" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_03,part_zztong_spikes_wood4,part_zztong_ev_charger_01,part_zztong_spikes_wood5" />
-  <property name="POIMarkerPartRotations" value="2,3,0,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.8,0.6" />
+  <property name="POIMarkerSize" value="9, 13, 5#1, 1, 4#2, 3, 2#1, 1, 5#9, 13, 3#9, 13, 1" />
+  <property name="POIMarkerStart" value="13, 2, -5#28, 3, 4#35, 3, 3#27, 3, 11#13, 2, -3#13, 2, -1" />
+  <property name="POIMarkerGroup" value="driveway,spikes1,charger,spikes2,driveway,driveway" />
+  <property name="POIMarkerTags" value="residential####rural#countryresidential" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_residential_03,part_zztong_spikes_wood4,part_zztong_ev_charger_01,part_zztong_spikes_wood5,part_driveway_rural_10,part_driveway_countryresidential_05" />
+  <property name="POIMarkerPartRotations" value="2,3,0,1,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,0.8,0.6,1,1" />
   <property name="PrefabSize" value="60, 23, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="IndexedBlockOffsets">
