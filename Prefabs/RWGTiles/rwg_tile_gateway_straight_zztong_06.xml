@@ -20,7 +20,7 @@
   <property name="POIMarkerType" value="POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,RoadExit,RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value=",,part_zztong_barrier6_yellow,part_zztong_billboard_balloon,part_zztong_billboard_carshow,part_zztong_tfp_cell_on_wheels_02,part_zztong_tfp_gazebo,part_zztong_tfp_playground_fort_large,part_zztong_tfp_playground_jungle_gym,part_zztong_tfp_playground_ladder,part_zztong_tfp_playground_merry_go_round,part_zztong_tfp_playground_sandbox,part_zztong_tfp_porta_potty_01,part_zztong_well_01,part_zztong_well_02,part_billboard_umove,part_coffee_stand,part_electrical_tower_01,part_highway_transition,part_highway_transition,,,part_kiosk_02,part_roadside_fruit_stand_02,part_road_drainage,part_road_shoulder_01,part_utility_pole_large,part_zztong_barrier6_yellow,part_zztong_barrier6_yellow" />
   <property name="POIMarkerPartRotations" value="3,3,1,2,2,0,3,0,0,1,0,0,2,1,1,2,2,0,0,2,2,0,2,0,0,3,0,1,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,0.5,0.3,0.3,0.5,0.5,0.9,0.8,0.5,0.8,0.8,0.8,0.5,0.5,0.3,0.7,0.6,1,1,1,1,0.5,0.8,0.5,0.5,0.5,0.5,0.5" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,0.5,0.3,0.3,0.5,0.5,0.9,0.8,0.5,0.8,0.8,0.8,0.5,0.5,0.3,0.7,0.6,0.03,0,1,1,0.5,0.8,0.5,0.5,0.5,0.5,0.5" />
   <property class="Stats">
     <property name="TotalVertices" value="549757" />
     <property name="TotalTriangles" value="644422" />

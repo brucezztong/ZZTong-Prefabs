@@ -8,7 +8,7 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="150, 15, 150" />
+  <property name="PrefabSize" value="150, 34, 150" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-4" />
@@ -20,16 +20,16 @@
   <property name="POIMarkerType" value="RoadExit,RoadExit,RoadExit,RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value=",,,,part_highway_transition,part_highway_transition,part_highway_transition,part_highway_transition,part_roadside_fruit_stand_02,part_shed_04,part_tower_water_02,part_zztong_barrier6_orange,part_zztong_culvert_pipe,part_zztong_firewood_03,part_zztong_ladder_wood_01,part_zztong_land_mine_01,part_zztong_traffic_cones3,part_asphalt_hole_01,part_asphalt_hole_01" />
   <property name="POIMarkerPartRotations" value="1,2,3,0,3,2,1,0,3,3,0,1,1,0,0,0,1,0,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,0.5,0.5,0.5,1,0.5,0.5,0.5,0.2,0.5,0.1,0.1" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0,0,0,0.02,0.5,0.5,0.5,1,0.5,0.5,0.5,0.2,0.5,0.1,0.1" />
   <property class="Stats">
-    <property name="TotalVertices" value="1634119" />
-    <property name="TotalTriangles" value="1609399" />
+    <property name="TotalVertices" value="1342498" />
+    <property name="TotalTriangles" value="1543998" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1533669" />
-      <property name="Triangles" value="1479259" />
+      <property name="Vertices" value="1242030" />
+      <property name="Triangles" value="1413858" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="32342" />
+      <property name="Vertices" value="32360" />
       <property name="Triangles" value="18188" />
     </property>
     <property class="ChunkMeshes1">
@@ -49,10 +49,6 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
       <property name="Vertices" value="68108" />
       <property name="Triangles" value="111952" />
     </property>
@@ -60,6 +56,18 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="144, 4, 144" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="142, 4, 61" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="143, 4, 59" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="85, 10, 119" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="126, 13, 126" />
     </property>
   </property>
 </prefab>
