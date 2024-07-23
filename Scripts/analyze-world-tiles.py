@@ -80,6 +80,7 @@ allowed_names = [
 "rwg_tile_countryresidential_corner_zztong_02",
 "rwg_tile_countryresidential_intersection",
 "rwg_tile_countryresidential_straight",
+"rwg_tile_countryresidential_straight_03",
 "rwg_tile_countryresidential_straight_zztong_01",
 "rwg_tile_countryresidential_t",
 "rwg_tile_countryresidential_t_zztong_01",
