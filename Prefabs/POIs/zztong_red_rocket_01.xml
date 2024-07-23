@@ -27,16 +27,16 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,3,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,True" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="316026" />
-    <property name="TotalTriangles" value="125934" />
+    <property name="TotalVertices" value="298241" />
+    <property name="TotalTriangles" value="120008" />
     <property class="BlockEntities">
-      <property name="Vertices" value="283918" />
-      <property name="Triangles" value="101606" />
+      <property name="Vertices" value="266133" />
+      <property name="Triangles" value="95680" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="26830" />
@@ -98,7 +98,7 @@
       <property name="1" value="19, 6, 35" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="22, 3, 33" />
+      <property name="0" value="27, 6, 37" />
     </property>
     <property class="Rally">
       <property name="0" value="33, 4, 2" />
