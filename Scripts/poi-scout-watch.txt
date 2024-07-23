@@ -15,3 +15,6 @@ cable1:REMOVED
 railingBlackSheet:REMOVED
 whitePicketFenceSheet:REMOVED
 wroughtIronFenceSheet:REMOVED
+fakeCabinetDoorTrap1x1Sheet:TEXTURES
+fakeCabinetDoorTrap1x2Sheet:TEXTURES
+fakeCabinetDoorTrap1x1.5Sheet:TEXTURES

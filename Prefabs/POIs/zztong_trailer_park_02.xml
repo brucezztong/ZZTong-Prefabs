@@ -33,15 +33,15 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property name="EditorGroups" value="settlements" />
   <property class="Stats">
-    <property name="TotalVertices" value="856945" />
-    <property name="TotalTriangles" value="368403" />
+    <property name="TotalVertices" value="850357" />
+    <property name="TotalTriangles" value="366658" />
     <property class="BlockEntities">
-      <property name="Vertices" value="718726" />
-      <property name="Triangles" value="266714" />
+      <property name="Vertices" value="712154" />
+      <property name="Triangles" value="264977" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="124749" />
-      <property name="Triangles" value="80619" />
+      <property name="Vertices" value="124733" />
+      <property name="Triangles" value="80611" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -69,6 +69,14 @@
       <property name="0" value="46, 8, 48" />
       <property name="1" value="49, 8, 49" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="53, 9, 47" />
+      <property name="1" value="57, 9, 47" />
+      <property name="2" value="55, 10, 48" />
+      <property name="3" value="54, 13, 50" />
+      <property name="4" value="55, 10, 50" />
+      <property name="5" value="51, 8, 54" />
+    </property>
     <property class="POILight">
       <property name="0" value="54, 11, 47" />
       <property name="1" value="51, 10, 49" />
@@ -77,11 +85,6 @@
     <property class="TraderOnOff">
       <property name="0" value="54, 9, 49" />
       <property name="1" value="52, 9, 50" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="53, 9, 47" />
-      <property name="1" value="55, 10, 48" />
-      <property name="2" value="55, 10, 50" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="54, 8, 39" />
