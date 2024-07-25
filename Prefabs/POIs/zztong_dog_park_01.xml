@@ -13,14 +13,14 @@
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
   <property name="Tags" value="countryresidential, residential, rural" />
-  <property name="POIMarkerSize" value="5, 13, 3#5, 13, 5" />
-  <property name="POIMarkerStart" value="18, 2, -3#18, 2, -5" />
-  <property name="POIMarkerGroup" value="driveway,driveway" />
-  <property name="POIMarkerTags" value="rural#residential" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_02,part_driveway_residential_12" />
-  <property name="POIMarkerPartRotations" value="2,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="POIMarkerSize" value="5, 13, 3#5, 13, 5#5, 13, 1" />
+  <property name="POIMarkerStart" value="18, 2, -3#18, 2, -5#18, 2, -1" />
+  <property name="POIMarkerGroup" value="driveway,driveway,driveway" />
+  <property name="POIMarkerTags" value="rural#residential#countryresidential" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_02,part_driveway_residential_12,part_driveway_countryresidential_07" />
+  <property name="POIMarkerPartRotations" value="2,2,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1" />
   <property name="SleeperVolumeSize" value="21, 5, 18#15, 5, 3" />
   <property name="SleeperVolumeStart" value="2, 3, 5#1, 3, 1" />
   <property name="SleeperVolumeGroupId" value="0,0" />

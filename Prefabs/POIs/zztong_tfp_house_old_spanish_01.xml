@@ -35,11 +35,11 @@
   <property name="PrefabSize" value="60, 35, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # #7# " />
   <property class="Stats">
-    <property name="TotalVertices" value="758558" />
-    <property name="TotalTriangles" value="406848" />
+    <property name="TotalVertices" value="732975" />
+    <property name="TotalTriangles" value="396191" />
     <property class="BlockEntities">
-      <property name="Vertices" value="615137" />
-      <property name="Triangles" value="298611" />
+      <property name="Vertices" value="589554" />
+      <property name="Triangles" value="287954" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="124697" />
@@ -114,6 +114,9 @@
     </property>
     <property class="challenge_leather">
       <property name="0" value="41, 3, 42" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="37, 3, 18" />
     </property>
     <property class="Rally">
       <property name="0" value="35, 16, 31" />
