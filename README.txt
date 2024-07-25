@@ -27,13 +27,14 @@ CLIENT INSTALLATION (Linux) - TBD
 SERVER INSTALLATION - TBD
 
 WARNING: If you choose to extract POIs from this modlet you need to know
-how Parts wnd Localization work or you will not end up with complete POIs
+how Parts and Localization work or you will not end up with complete POIs
 and Tiles! I suggest you leave everything packed up in the modlet.
 
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
 Both. You want the modlet on both the server and all the clients. Anyone who
-tells you POIs can be server-side only is conveying out-of-date information.
+tells you POIs can be server-side only is conveying information information
+without enough nuance. Server-side only mostly works. (Keyword "mostly.")
 
 While a server-side only installation will convey the blocks of a POI, it does
 not convey the Localization information and the details of triggers linked to

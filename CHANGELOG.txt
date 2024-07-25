@@ -1,7 +1,7 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 V1.0.022 (ZZ022)
-* Converted to Version 1.0. (Shocking, right?)
+* Converted to Version 1.0. (Shocking, I know, right?!)
 * Bug fixes. Block changes. Texture changes. Door changes. More bug fixes.
 * More POIs support Infested Quests.
 * Added rwg_tile_downtown_intersection_zztong_02,
