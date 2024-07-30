@@ -33,8 +33,8 @@ and Tiles! I suggest you leave everything packed up in the modlet.
 IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
 Both. You want the modlet on both the server and all the clients. Anyone who
-tells you POIs can be server-side only is conveying information information
-without enough nuance. Server-side only mostly works. (Keyword "mostly.")
+tells you POIs can be server-side only is conveying information without
+enough nuance. Going Server-side only mostly works. (Keyword "mostly.")
 
 While a server-side only installation will convey the blocks of a POI, it does
 not convey the Localization information and the details of triggers linked to
@@ -173,8 +173,8 @@ community a number of POIs as well as providing YouTube/Twitch entertainment.
 
 I'd like to also thank the many folks with whom I collaborate, trade ideas,
 chat, and otherwise geek-out on 7D2D: Deverezieaux, Cranberry Monster,
-and everyone who leaves me feedback scattered about Discord. Thanks to Guppy
-for providing me an "office" channel on his Discord server.
+Voltralux and everyone who leaves me feedback scattered about Discord. Thanks
+to Guppycur for providing me an "office" channel on his Discord server.
 
 Finally, special thanks to Stallionsden and Battlepapi of CompoPack fame, plus
 any and all who lurk on in the #prefabbers-hangout Discord channel. Their
