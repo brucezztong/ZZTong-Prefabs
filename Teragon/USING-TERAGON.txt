@@ -1,9 +1,5 @@
 USING THE ZZTONG-PREFABS MODLET WITH TERAGON
 
-A Prefab Property List is supplied with the modlet. It contains all of the
-details for the POIs, Tiles, and Parts found in the modlet. It does NOT
-contain any information about Vanilla content.
-
 Teragon affords you lots of options -- more than I can support. So these
 instructions describe one method for using the list provided along with the
 list for Vanilla content provided with Teragon.
