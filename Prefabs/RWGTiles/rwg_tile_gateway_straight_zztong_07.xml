@@ -11,7 +11,6 @@
   <property name="PrefabSize" value="150, 24, 150" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="hideui" />
   <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#1, 1, 5#13, 15, 6#5, 1, 5#14, 90, 14#9, 3, 23#12, 3, 3#13, 17, 4#18, 2, 8#18, 2, 8#16, 0, 16#16, 0, 16" />
   <property name="POIMarkerStart" value="85, 4, 3#85, 4, 87#65, 4, 72#83, 4, 74#143, 4, 67#84, 3, 68#83, 2, 63#50, 4, 71#83, 4, 75#66, 3, 0#66, 3, 142#68, 4, 142#67, 4, -8" />
   <property name="POIMarkerGroup" value="M1,M2,barbwire,roadside,camp,roadside,roadside,pipe,roadside,highwayS,highwayN,roadN,roadS" />

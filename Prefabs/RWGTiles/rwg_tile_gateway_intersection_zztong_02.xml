@@ -28,7 +28,6 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="Tags" value="hideui" />
   <property class="Stats">
     <property name="TotalVertices" value="567988" />
     <property name="TotalTriangles" value="578651" />

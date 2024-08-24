@@ -1,4 +1,4 @@
-ZZTONG-PREFABS READ-ME for V1.0.ZZ022
+ZZTONG-PREFABS READ-ME for V1.1.ZZ023
 
 GOAL:
 
@@ -21,6 +21,15 @@ CLIENT INSTALLATION: (Windows)
 
 3. Place the "ZZTong-Prefabs" folder in the Mods folder:
 	%APPDATA%/7DaysToDie/Mods ... %APPDATA/7DaysToDie/Mods/ZZTong-Prefabs
+
+SEE ALSO: INSTALL.png
+
+NOTE: The Internet is full of OLD information. You will find many sites and
+meet people who will suggest an OLD location for Mods. The following path
+is DEPRECATED by TFP and will NOT work in some future release.
+
+C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods
+
 
 CLIENT INSTALLATION (Mac) - TBD
 CLIENT INSTALLATION (Linux) - TBD

@@ -12,7 +12,7 @@
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 25, 150" />
-  <property name="Tags" value="streettile, hideui, rwgonly" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="POIMarkerSize" value="42, 0, 42#42, 0, 42#60, 0, 60#25, 0, 25#25, 0, 25#25, 0, 25#5, 4, 5#6, 4, 7#5, 4, 5#3, 1, 7#3, 3, 3#3, 3, 3#4, 12, 6#4, 4, 9#13, 3, 5#4, 3, 4#9, 3, 4#7, 16, 8#14, 5, 5#5, 15, 6#2, 11, 5#2, 11, 5#3, 2, 1#1, 1, 6#5, 1, 5#7, 1, 6#2, 2, 8#4, 1, 1#9, 5, 8" />
   <property name="POIMarkerStart" value="18, 3, 25#90, 3, 25#5, 3, 83#117, 3, 83#83, 3, 110#83, 3, 83#96, 3, 143#140, 3, 55#6, 3, 59#8, 3, 43#9, 3, 68#132, 3, 68#84, 3, 1#63, 3, 5#50, 3, 18#125, 3, 115#76, 3, 138#120, 3, 6#85, 3, 18#121, 3, 7#131, 3, 2#43, 3, 2#75, 3, 16#4, 3, 72#142, 3, 45#71, 3, 72#17, 3, 8#111, 3, 86#48, 3, 8" />
   <property name="POIMarkerGroup" value="poi42-1,poi42-2,poi60-1,poi25-1,poi25-2,poi25-3,shed1,shed2,shed3,pipes,elec1,elec2,electower,busstop,army,appliance,ambulance,water,trailer,water,elecpole1,elecpole2,barricade,barrier,camp,checkpt,firewood,spikes,tent" />

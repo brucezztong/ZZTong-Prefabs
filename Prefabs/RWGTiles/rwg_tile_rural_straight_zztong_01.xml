@@ -12,7 +12,7 @@
   <property name="YOffset" value="-4" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 13, 150" />
-  <property name="Tags" value="streettile,hideui,rwgonly" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#60, 0, 60#42, 0, 42#25, 0, 25#13, 17, 5#13, 16, 5#12, 3, 9#6, 12, 4#11, 5, 8#4, 9, 5#4, 9, 5#4, 9, 5#9, 4, 10#14, 5, 5#8, 5, 5#11, 5, 5" />
   <property name="POIMarkerStart" value="8, 4, 41#82, 4, 86#82, 4, 4#26, 4, 106#4, 4, 2#56, 4, 20#56, 4, 15#30, 4, 10#82, 4, 65#84, 4, 76#24, 4, 34#18, 4, 34#12, 4, 34#84, 4, 75#128, 4, 73#136, 4, 65#110, 4, 65" />
   <property name="POIMarkerGroup" value="1,2,3,4,5,billboard1,billboard2,camp1,elec1,harvest,tank1,tank2,tank3,harvest,trailer1,trailer2,trailer3" />
@@ -22,8 +22,8 @@
   <property name="POIMarkerPartRotations" value="3,1,1,3,0,0,2,1,2,1,3,3,3,3,3,3,3" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.6,0.6,0.6,0.6,0.2,0.8,0.8,0.8,0.6,0.4,0.4,0.4" />
   <property class="Stats">
-    <property name="TotalVertices" value="486461" />
-    <property name="TotalTriangles" value="278390" />
+    <property name="TotalVertices" value="427247" />
+    <property name="TotalTriangles" value="181962" />
     <property class="BlockEntities">
       <property name="Vertices" value="389768" />
       <property name="Triangles" value="160614" />
@@ -51,10 +51,6 @@
     <property class="ChunkMeshes5">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="59214" />
-      <property name="Triangles" value="96428" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">

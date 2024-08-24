@@ -15,15 +15,15 @@
   <property name="Tags" value="part" />
   <property name="YOffset" value="-7" />
   <property class="Stats">
-    <property name="TotalVertices" value="128823" />
-    <property name="TotalTriangles" value="37255" />
+    <property name="TotalVertices" value="99287" />
+    <property name="TotalTriangles" value="32886" />
     <property class="BlockEntities">
-      <property name="Vertices" value="110783" />
-      <property name="Triangles" value="26679" />
+      <property name="Vertices" value="75788" />
+      <property name="Triangles" value="18351" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="16928" />
-      <property name="Triangles" value="8712" />
+      <property name="Vertices" value="22223" />
+      <property name="Triangles" value="12383" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -42,12 +42,13 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1276" />
+      <property name="Triangles" value="2152" />
     </property>
-    <property class="ChunkMeshes6">
-      <property name="Vertices" value="1112" />
-      <property name="Triangles" value="1864" />
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="challenge_cars">
+      <property name="0" value="30, 8, 15" />
     </property>
   </property>
 </prefab>

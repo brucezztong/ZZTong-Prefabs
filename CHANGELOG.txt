@@ -1,5 +1,9 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+V1.1.023 (ZZ023)
+* Bug fixes: floating blocks, tile tags, bridge gutters.
+* Zombie volume adjustments in zztong_tfp_apartment_adobe_01.
+
 V1.0.022 (ZZ022)
 * Converted to Version 1.0. (Shocking, I know, right?!)
 * Bug fixes. Block changes. Texture changes. Door changes. More bug fixes.

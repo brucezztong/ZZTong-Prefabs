@@ -11,7 +11,7 @@
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 28, 150" />
-  <property name="Tags" value="streettile, hideui, rwgonly, gatewaytile" />
+  <property name="Tags" value="streettile, rwgonly" />
   <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#16, 0, 16#18, 2, 8#16, 0, 16#18, 2, 8#18, 17, 39#25, 0, 25#25, 0, 25#18, 17, 39#5, 1, 1#5, 1, 1#6, 6, 6#3, 2, 5#2, 1, 1#11, 4, 1#6, 1, 7#5, 1, 5#11, 5, 5#13, 17, 6#13, 17, 6#13, 18, 6#1, 1, 6#1, 1, 6#3, 2, 1#11, 2, 5#6, 15, 5#5, 5, 19#3, 4, 3#9, 4, 7#13, 15, 5" />
   <property name="POIMarkerStart" value="85, 8, 78#5, 8, 78#67, 8, 142#66, 7, 142#67, 8, -8#66, 7, 0#66, 1, 24#120, 8, 49#24, 8, 3#66, 1, 24#69, 8, 65#76, 8, 21#97, 8, 9#105, 8, 16#92, 8, 21#108, 8, 6#84, 8, 8#4, 8, 25#22, 8, 31#54, 8, 64#54, 8, 64#54, 8, 64#84, 8, 69#64, 8, 10#70, 8, 140#92, 8, 72#85, 8, 140#69, 8, 69#97, 8, 22#96, 8, 61#54, 8, 65" />
   <property name="POIMarkerGroup" value="m1,m2,re1,HighwayN,re2,HighwayS,bridge,xs1,xs2,bridge,cones1,cones2,gazebo,targets,hay,logger,sandbags,campsite,camper,billboard,billboard,billboard,barrier1,barrier2,barricade,trailer,watertwr,truck,sculpture,stand,billboard" />

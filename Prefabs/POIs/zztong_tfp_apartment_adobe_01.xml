@@ -28,18 +28,18 @@
   <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.6,0.5,0.5,0.5,0.5,0.1,0.4,0.7,0.5,0.6,0.4,0.8,0.8,0.2" />
   <property name="SleeperVolumeSize" value="43, 4, 31#43, 4, 31#21, 4, 31#21, 4, 31#21, 4, 31#21, 4, 31#21, 4, 31#21, 4, 31#43, 12, 31" />
   <property name="SleeperVolumeStart" value="14, 3, 23#14, 7, 23#14, 11, 23#36, 11, 23#14, 15, 23#36, 15, 23#14, 19, 23#36, 19, 23#14, 23, 23" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,1,0,1" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,5,6,GroupGenericZombie,6,7,GroupGenericZombie,5,6,GroupGenericZombie,5,6,GroupGenericZombie,5,5,GroupGenericZombie,5,5,GroupGenericZombie,8,8,GroupGenericZombie,8,8,GroupGenericZombie,7,8" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0" />
+  <property name="SleeperVolumeFlags" value="0,0,2,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1933685" />
-    <property name="TotalTriangles" value="761382" />
+    <property name="TotalVertices" value="1773538" />
+    <property name="TotalTriangles" value="724867" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1708093" />
-      <property name="Triangles" value="627247" />
+      <property name="Vertices" value="1547946" />
+      <property name="Triangles" value="590732" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="202818" />
@@ -80,6 +80,10 @@
       <property name="6" value="56, 1, 43" />
       <property name="7" value="56, 1, 45" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="49, 12, 46" />
+      <property name="1" value="46, 12, 49" />
+    </property>
     <property class="POILight">
       <property name="0" value="48, 12, 46" />
       <property name="1" value="51, 12, 46" />
@@ -94,23 +98,6 @@
     <property class="challenge_polymers">
       <property name="0" value="49, 13, 32" />
       <property name="1" value="51, 8, 34" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="49, 5, 33" />
-      <property name="1" value="49, 9, 33" />
-      <property name="2" value="49, 13, 33" />
-      <property name="3" value="49, 17, 33" />
-      <property name="4" value="49, 21, 33" />
-      <property name="5" value="47, 5, 37" />
-      <property name="6" value="47, 9, 37" />
-      <property name="7" value="47, 13, 37" />
-      <property name="8" value="47, 17, 37" />
-      <property name="9" value="47, 21, 37" />
-      <property name="10" value="46, 4, 39" />
-      <property name="11" value="46, 8, 39" />
-      <property name="12" value="46, 12, 39" />
-      <property name="13" value="46, 16, 39" />
-      <property name="14" value="46, 20, 39" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="54, 8, 40" />
