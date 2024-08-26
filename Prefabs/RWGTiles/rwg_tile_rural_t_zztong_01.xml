@@ -11,22 +11,22 @@
   <property name="YOffset" value="-5" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="100, 0, 100#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#13, 15, 6#13, 16, 11#13, 16, 5#13, 16, 5#13, 17, 5#13, 17, 4#13, 15, 5#3, 1, 7#14, 5, 5#8, 5, 5#7, 6, 7#2, 1, 2#4, 3, 4#4, 3, 4#5, 1, 5" />
-  <property name="POIMarkerStart" value="10, 5, 19#124, 5, 82#124, 5, 108#124, 5, 43#124, 5, 17#2, 5, 123#113, 5, 1#110, 5, 133#110, 5, 133#110, 5, 133#113, 5, 2#113, 5, 3#113, 5, 2#5, 5, 110#52, 5, 142#57, 5, 136#41, 4, 127#73, 5, 120#82, 5, 2#86, 5, 2#115, 5, 72" />
-  <property name="POIMarkerGroup" value="100lot1,25lot1,25lot2,25lot3,25lot4,25lot5,sbillboard,nbillboard,nbillboard,nbillboard,sbillboard,sbillboard,sbillboard,pipes,trailer1,trailer2,corncrib,hay,appl1,appl2,mines" />
-  <property name="POIMarkerTags" value="####################" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,,part_zztong_billboard_kztv,part_zztong_billboard_kzmb,part_billboard_mammapizza,part_billboard_meltdowns,part_billboard_mycell,part_billboard_pills,part_billboard_umove,part_pipestack_01,part_shipping_container_03,part_shipping_container_04,part_farm60_corncrib_01,part_zztong_hay_bale_round_02,part_appliance_pile_01,part_appliance_pile_02,part_zztong_mine_field_03" />
-  <property name="POIMarkerPartRotations" value="3,1,1,1,1,3,0,0,2,2,0,0,0,1,1,1,0,0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,0.4,0.4,0.2,0.2,0.2,0.2,0.2,0.6,0.4,0.4,0.4,0.6,0.6,0.6,0.2" />
-  <property name="PrefabSize" value="150, 14, 150" />
+  <property name="POIMarkerSize" value="100, 0, 100#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#13, 15, 6#13, 16, 11#13, 16, 5#13, 16, 5#13, 17, 5#13, 17, 4#13, 15, 5#3, 1, 7#14, 5, 5#8, 5, 5#7, 6, 7#2, 1, 2#4, 3, 4#4, 3, 4#5, 1, 5" />
+  <property name="POIMarkerStart" value="10, 5, 19#124, 5, 82#124, 5, 108#124, 5, 43#124, 5, 17#113, 5, 1#110, 5, 133#110, 5, 133#110, 5, 133#113, 5, 2#113, 5, 3#113, 5, 2#5, 5, 110#52, 5, 142#57, 5, 136#41, 4, 127#73, 5, 120#82, 5, 2#86, 5, 2#115, 5, 72" />
+  <property name="POIMarkerGroup" value="100lot1,25lot1,25lot2,25lot3,25lot4,sbillboard,nbillboard,nbillboard,nbillboard,sbillboard,sbillboard,sbillboard,pipes,trailer1,trailer2,corncrib,hay,appl1,appl2,mines" />
+  <property name="POIMarkerTags" value="###################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,part_zztong_billboard_kztv,part_zztong_billboard_kzmb,part_billboard_mammapizza,part_billboard_meltdowns,part_billboard_mycell,part_billboard_pills,part_billboard_umove,part_pipestack_01,part_shipping_container_03,part_shipping_container_04,part_farm60_corncrib_01,part_zztong_hay_bale_round_02,part_appliance_pile_01,part_appliance_pile_02,part_zztong_mine_field_03" />
+  <property name="POIMarkerPartRotations" value="3,1,1,1,1,0,0,2,2,0,0,0,1,1,1,0,0,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.4,0.4,0.2,0.2,0.2,0.2,0.2,0.6,0.4,0.4,0.4,0.6,0.6,0.6,0.2" />
+  <property name="PrefabSize" value="150, 27, 150" />
   <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="444743" />
-    <property name="TotalTriangles" value="304769" />
+    <property name="TotalVertices" value="336549" />
+    <property name="TotalTriangles" value="391101" />
     <property class="BlockEntities">
-      <property name="Vertices" value="433562" />
-      <property name="Triangles" value="297227" />
+      <property name="Vertices" value="265084" />
+      <property name="Triangles" value="285315" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="11181" />
@@ -49,13 +49,39 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="60284" />
+      <property name="Triangles" value="98244" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="143, 5, 140" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="141, 5, 5" />
+      <property name="1" value="144, 5, 6" />
+      <property name="2" value="139, 5, 7" />
+      <property name="3" value="139, 5, 9" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="3, 5, 97" />
+      <property name="1" value="4, 5, 97" />
+      <property name="2" value="5, 5, 97" />
+      <property name="3" value="3, 5, 98" />
+      <property name="4" value="4, 5, 98" />
+      <property name="5" value="5, 5, 98" />
+      <property name="6" value="3, 5, 99" />
+      <property name="7" value="4, 5, 99" />
+      <property name="8" value="5, 5, 99" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="138, 5, 80" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="123, 5, 68" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="111, 11, 75" />
     </property>
   </property>
 </prefab>

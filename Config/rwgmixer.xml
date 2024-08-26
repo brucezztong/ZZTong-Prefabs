@@ -136,6 +136,18 @@
 	</append>
 
     <!-- **************************************************************
+        This Tile has a natural bridge which is a distinctive landmark
+        so the number is limited.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_rural_corner_zztong_04">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="2"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
         Various biome-restricted POIs for thematic reasons.
     ****************************************************************-->
 
