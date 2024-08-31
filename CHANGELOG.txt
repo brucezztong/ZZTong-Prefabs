@@ -8,6 +8,7 @@ V1.1.023 (ZZ023)
     and rwg_tile_rural_cap_zztong_01.
 * Added zztong_cabin_01, zztong_cabin_02.
 * Added zztong_trailer_03.
+* Added zztong_gas_station_01.
 * Added zztong_rural_filler_01, zztong_rural_filler_02, zztong_rural_filler_03.
 
 V1.0.022 (ZZ022)

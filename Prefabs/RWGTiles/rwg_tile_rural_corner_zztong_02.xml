@@ -11,30 +11,30 @@
   <property name="YOffset" value="-4" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="PrefabSize" value="150, 14, 150" />
+  <property name="PrefabSize" value="150, 25, 150" />
   <property name="Tags" value="streettile, rwgonly" />
-  <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#60, 0, 60#25, 0, 25#25, 0, 25#25, 0, 25#12, 5, 8#9, 3, 12#6, 12, 4#11, 5, 8#3, 2, 4#3, 1, 7#12, 5, 8#5, 4, 5#1, 2, 3#6, 1, 1#13, 15, 6#7, 4, 5#2, 1, 2#2, 2, 2#14, 6, 5#14, 5, 5#13, 2, 5" />
-  <property name="POIMarkerStart" value="8, 4, 81#8, 4, 8#82, 4, 8#89, 4, 91#119, 4, 91#89, 4, 121#121, 4, 124#79, 4, 137#67, 4, 142#4, 4, 71#79, 4, 7#146, 4, 87#121, 4, 135#143, 4, 62#145, 4, 75#72, 4, 64#78, 4, 85#2, 4, 2#85, 4, 73#119, 4, 120#123, 4, 2#109, 4, 2#95, 4, 2" />
-  <property name="POIMarkerGroup" value="m1,m2,m3,xs1,xs2,xs3,tank1,campsite,electric,harvester,voltbox,pipes,tanks2,shed,closed,barrier,billboard,excavat,hay,cement,caboose,boxcar,flatcar" />
-  <property name="POIMarkerTags" value="######################" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,,part_industrial_tank_horizontal,part_campsite_01,part_electrical_tower_01,part_harverster,part_high_voltage_box_1,part_pipestack_01,part_industrial_tank_horizontal,part_shed_05,part_zztong_barricade_01,part_zztong_barrier6,part_zztong_billboard_kztv,part_zztong_excavator_01,part_zztong_hay_bale_round_02,part_zztong_pallets_cement_01,part_zztong_railroad_caboose_01,part_zztong_railroad_container_01,part_zztong_railroad_flatcar_01" />
-  <property name="POIMarkerPartRotations" value="2,3,1,3,1,3,3,2,2,1,3,1,3,0,2,0,2,0,0,0,2,2,2" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,0.8,0.2,0.6,0.2,0.6,0.6,0.8,0.2,0.2,0.2,0.6,0.4,0.2,0.2,0.8,0.6,0.4" />
+  <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#60, 0, 60#25, 0, 25#25, 0, 25#12, 5, 8#9, 3, 12#6, 12, 4#11, 5, 8#3, 2, 4#3, 1, 7#12, 5, 8#5, 4, 5#1, 2, 3#6, 1, 1#13, 17, 6#7, 4, 5#2, 1, 2#2, 2, 2#14, 6, 5#14, 5, 5#17, 10, 25#17, 10, 25#17, 10, 25#5, 5, 11" />
+  <property name="POIMarkerStart" value="8, 4, 82#8, 4, 8#82, 4, 8#89, 4, 82#119, 4, 82#101, 4, 111#79, 4, 137#67, 4, 143#4, 4, 71#79, 4, 7#146, 4, 87#120, 4, 111#143, 4, 62#145, 4, 75#72, 4, 64#71, 4, 80#2, 4, 2#85, 4, 73#111, 4, 108#123, 4, 2#109, 4, 2#108, 3, 123#108, 3, 123#109, 3, 123#114, 3, 123" />
+  <property name="POIMarkerGroup" value="m1,m2,m3,xs1,xs2,tank1,campsite,electric,harvester,voltbox,pipes,tanks2,shed,closed,barrier,billboard,excavat,hay,cement,caboose,boxcar,backlot,backlot,new,backlot" />
+  <property name="POIMarkerTags" value="########################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,part_industrial_tank_horizontal,part_campsite_01,part_electrical_tower_01,part_harverster,part_high_voltage_box_1,part_pipestack_01,part_industrial_tank_horizontal,part_shed_05,part_zztong_barricade_01,part_zztong_barrier6,part_zztong_billboard_kztv,part_zztong_excavator_01,part_zztong_hay_bale_round_02,part_zztong_pallets_cement_01,part_zztong_railroad_caboose_01,part_zztong_railroad_container_01,part_countryresidential_back_lot1,part_countryresidential_back_lot1,part_countryresidential_back_lot2,part_countryresidential_back_lot7" />
+  <property name="POIMarkerPartRotations" value="2,3,1,2,2,1,2,2,1,3,1,3,0,2,0,2,0,0,3,2,2,1,1,3,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.8,0.2,0.6,0.2,0.6,0.6,0.8,0.2,0.2,0.2,0.6,0.4,0.2,0.2,0.8,0.6,0.3,0.3,0.3,0.3" />
   <property class="Stats">
-    <property name="TotalVertices" value="240079" />
-    <property name="TotalTriangles" value="165752" />
+    <property name="TotalVertices" value="276275" />
+    <property name="TotalTriangles" value="290095" />
     <property class="BlockEntities">
-      <property name="Vertices" value="179048" />
-      <property name="Triangles" value="132048" />
+      <property name="Vertices" value="178321" />
+      <property name="Triangles" value="172367" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="24167" />
-      <property name="Triangles" value="15272" />
+      <property name="Vertices" value="23496" />
+      <property name="Triangles" value="13976" />
     </property>
     <property class="ChunkMeshes1">
-      <property name="Vertices" value="36864" />
-      <property name="Triangles" value="18432" />
+      <property name="Vertices" value="15424" />
+      <property name="Triangles" value="7712" />
     </property>
     <property class="ChunkMeshes2">
       <property name="Vertices" value="0" />
@@ -49,13 +49,19 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="59034" />
+      <property name="Triangles" value="96040" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="139, 4, 140" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="124, 4, 118" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="69, 10, 65" />
     </property>
     <property class="POILight">
       <property name="0" value="81, 13, 68" />
