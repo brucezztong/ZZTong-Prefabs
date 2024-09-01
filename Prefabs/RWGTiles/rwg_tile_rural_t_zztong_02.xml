@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-5" />
+  <property name="RotationToFaceNorth" value="0" />
+  <property name="Zoning" value="none" />
+  <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#42, 0, 42#25, 0, 25#25, 0, 25#1, 2, 3#6, 18, 13#6, 18, 13#6, 1, 7#1, 1, 1#5, 1, 1#4, 3, 4#5, 17, 13#4, 17, 13#12, 3, 9#14, 4, 6#11, 5, 5#12, 5, 8#9, 5, 7#19, 5, 5#5, 4, 5#5, 5, 8#13, 3, 12#6, 15, 5#5, 2, 11#8, 18, 8#3, 4, 5" />
+  <property name="POIMarkerStart" value="82, 5, 82#82, 5, 1#26, 5, 100#43, 5, 1#43, 5, 30#141, 5, 75#65, 5, 69#65, 5, 69#73, 5, 71#144, 5, 104#111, 5, 68#64, 5, 56#66, 5, 69#67, 5, 69#53, 5, 87#54, 4, 88#58, 4, 83#56, 5, 87#57, 4, 82#92, 5, 143#144, 5, 63#20, 5, 121#54, 4, 83#62, 5, 83#143, 5, 82#60, 5, 82#1, 5, 82" />
+  <property name="POIMarkerGroup" value="M1,M2,S1,XS1,XS2,barricade,billboard,billboard,checkpoint,cart,spikes,appliances,billboard,billboard,special,special,special,special,special,semi,shed,container,special,special,trailer,special,well" />
+  <property name="POIMarkerTags" value="##########################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,part_zztong_barricade_01,part_zztong_billboard_balloon,part_zztong_billboard_caves,part_zztong_checkpoint_03,part_zztong_shopping_cart_01,part_zztong_spikes_wood5,part_appliance_pile_02,part_billboard_mycell,part_billboard_pills,part_campsite_01,part_countryresidential_back_lot3,part_countryresidential_back_lot7,part_industrial_tank_horizontal,part_quonset_small,part_semi_truck,part_shed_01,part_shipping_container_04,part_survivor_camp_01,part_tower_water_01,part_trailer_bodybags,part_water_tower_03,part_well_01" />
+  <property name="POIMarkerPartRotations" value="1,1,3,3,3,2,1,1,1,0,0,0,1,1,1,0,3,1,1,1,0,0,1,0,3,1,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.1,0.3,0.3,0.1,0.5,0.2,0.2,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.1,0.2,1,0.2,0.2,0.1,0.2,0.2" />
+  <property name="PrefabSize" value="150, 32, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
+  <property class="Stats">
+    <property name="TotalVertices" value="401782" />
+    <property name="TotalTriangles" value="422695" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="268093" />
+      <property name="Triangles" value="280485" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="12985" />
+      <property name="Triangles" value="10030" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="57536" />
+      <property name="Triangles" value="28768" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="63168" />
+      <property name="Triangles" value="103412" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="147, 5, 147" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="86, 5, 76" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="69, 11, 66" />
+    </property>
+  </property>
+</prefab>
