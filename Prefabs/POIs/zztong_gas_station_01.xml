@@ -68,6 +68,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="5, 4, 1" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="14, 3, 17" />
       <property name="1" value="16, 8, 17" />
@@ -94,11 +97,11 @@
       <property name="4" value="16, 6, 19" />
       <property name="5" value="17, 5, 22" />
     </property>
-    <property class="Rally">
-      <property name="0" value="5, 4, 1" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="14, 3, 12" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="10, 10, 12" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="6, 3, 14" />
@@ -106,9 +109,6 @@
     <property class="challenge_sinks">
       <property name="0" value="13, 4, 20" />
       <property name="1" value="19, 4, 22" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="10, 10, 12" />
     </property>
   </property>
 </prefab>
