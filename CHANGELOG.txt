@@ -10,6 +10,7 @@ V1.1.023 (ZZ023)
 * Added zztong_cabin_01, zztong_cabin_02.
 * Added zztong_trailer_03, zztong_gas_station_01, zztong_store_xs_17.
 * Added zztong_rural_filler_01, zztong_rural_filler_02, zztong_rural_filler_03.
+* zztong_wind_turbine_02 has collapsed under the weight of being too good of a base.
 
 V1.0.022 (ZZ022)
 * Converted to Version 1.0. (Shocking, I know, right?!)
