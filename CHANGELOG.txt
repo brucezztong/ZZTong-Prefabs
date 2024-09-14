@@ -12,6 +12,8 @@ V1.1.023 (ZZ023)
 * Added zztong_trailer_03, zztong_gas_station_01, zztong_store_xs_17, zztong_store_xs_18.
 * Added zztong_rural_filler_01, zztong_rural_filler_02, zztong_rural_filler_03, zztong_rural_filler_04.
 * zztong_wind_turbine_02 has collapsed under the weight of being too good of a base.
+* Removed mine fields from Tiles because they don't match TFPs approach and because
+    they remain invisible for too long as you approach them on a vehicle.
 
 V1.0.022 (ZZ022)
 * Converted to Version 1.0. (Shocking, I know, right?!)

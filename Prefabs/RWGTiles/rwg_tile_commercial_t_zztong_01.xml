@@ -11,14 +11,14 @@
   <property name="YOffset" value="-11" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#60, 0, 60#42, 0, 42#42, 0, 42#11, 5, 7#8, 3, 13#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#11, 5, 7#19, 5, 5#5, 5, 14#6, 15, 5#8, 18, 8#1, 1, 1#1, 1, 1#1, 2, 3#1, 1, 6#5, 5, 11#6, 1, 7#2, 2, 2#5, 1, 5#2, 2, 2#1, 1, 1#8, 1, 1#1, 1, 1" />
-  <property name="POIMarkerStart" value="90, 11, 90#9, 11, 97#90, 11, 0#9, 11, 55#9, 11, 13#104, 11, 81#66, 10, 65#61, 20, 80#80, 13, 62#65, 17, 63#79, 13, 80#68, 20, 126#104, 11, 81#30, 11, 142#3, 11, 39#141, 11, 63#141, 11, 61#87, 11, 58#61, 11, 95#61, 11, 55#83, 11, 72#53, 11, 88#67, 11, 68#85, 11, 83#68, 11, 69#87, 11, 3#53, 11, 9#26, 11, 10#68, 11, 2" />
-  <property name="POIMarkerGroup" value="1,2,5,4,3,fdtrk,caracc,light,light2,light3,light4,light5,fdtrk,semi,container,watertw,watertw,barrel,burn,barricade,barrier,camper,caracc,delivery,caracc,cement,cart,cones,stump" />
-  <property name="POIMarkerTags" value="############################" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,part_kiosk_foodtrailer_01,part_car_accident_01,part_streetlight_single_diagonal,part_crosswalk,part_trafficlight_single,part_crosswalk,part_streetlight_quad,part_kiosk_foodtrailer_02,part_semi_truck,part_shipping_container_03,part_tower_water_01,part_water_tower_03,part_zztong_barrel_03,part_zztong_barrel_burning_01,part_zztong_barricade_01,part_zztong_barrier6_orange,part_zztong_camper_01,part_zztong_checkpoint_03,part_zztong_delivery_02,part_zztong_mine_field_04,part_zztong_pallets_cement_01,part_zztong_shopping_cart_01,part_zztong_traffic_cones8,part_zztong_tree_stump_01" />
-  <property name="POIMarkerPartRotations" value="1,3,1,3,3,0,2,0,2,2,1,0,0,1,2,2,0,0,0,2,1,2,1,2,1,2,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.5,0.3,1,0.2,0.2,0.2,0.2,0.5,0.1,0.2,0.2,0.2,0.5,0.2,0.1,0.1,0.2,0.3,0.2,0.1,0.2,0.5,0.5,0.3" />
+  <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#60, 0, 60#42, 0, 42#42, 0, 42#11, 5, 7#8, 3, 13#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#11, 5, 7#19, 5, 5#5, 5, 14#6, 15, 5#8, 18, 8#1, 1, 1#1, 1, 1#1, 2, 3#1, 1, 6#5, 5, 11#6, 1, 7#2, 2, 2#2, 2, 2#1, 1, 1#8, 1, 1#1, 1, 1" />
+  <property name="POIMarkerStart" value="90, 11, 90#9, 11, 97#90, 11, 0#9, 11, 55#9, 11, 13#104, 11, 81#66, 10, 65#61, 20, 80#80, 13, 62#65, 17, 63#79, 13, 80#68, 20, 126#104, 11, 81#30, 11, 142#3, 11, 39#141, 11, 63#141, 11, 61#87, 11, 58#61, 11, 95#61, 11, 55#83, 11, 72#53, 11, 88#67, 11, 68#85, 11, 83#87, 11, 3#53, 11, 9#26, 11, 10#68, 11, 2" />
+  <property name="POIMarkerGroup" value="1,2,5,4,3,fdtrk,caracc,light,light2,light3,light4,light5,fdtrk,semi,container,watertw,watertw,barrel,burn,barricade,barrier,camper,caracc,delivery,cement,cart,cones,stump" />
+  <property name="POIMarkerTags" value="###########################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,part_kiosk_foodtrailer_01,part_car_accident_01,part_streetlight_single_diagonal,part_crosswalk,part_trafficlight_single,part_crosswalk,part_streetlight_quad,part_kiosk_foodtrailer_02,part_semi_truck,part_shipping_container_03,part_tower_water_01,part_water_tower_03,part_zztong_barrel_03,part_zztong_barrel_burning_01,part_zztong_barricade_01,part_zztong_barrier6_orange,part_zztong_camper_01,part_zztong_checkpoint_03,part_zztong_delivery_02,part_zztong_pallets_cement_01,part_zztong_shopping_cart_01,part_zztong_traffic_cones8,part_zztong_tree_stump_01" />
+  <property name="POIMarkerPartRotations" value="1,3,1,3,3,0,2,0,2,2,1,0,0,1,2,2,0,0,0,2,1,2,1,2,2,0,0,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,0.5,0.3,1,0.2,0.2,0.2,0.2,0.5,0.1,0.2,0.2,0.2,0.5,0.2,0.1,0.1,0.2,0.3,0.2,0.2,0.5,0.5,0.3" />
   <property name="SleeperVolumeSize" value="11, 3, 8#15, 5, 20#8, 4, 3#6, 6, 24#13, 4, 4#7, 4, 9" />
   <property name="SleeperVolumeStart" value="64, 2, 63#85, 1, 62#118, 3, 63#53, 2, 64#124, 2, 80#143, 11, 81" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
@@ -30,11 +30,11 @@
   <property name="Tags" value="streettile, rwgonly" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="546193" />
-    <property name="TotalTriangles" value="371336" />
+    <property name="TotalVertices" value="503493" />
+    <property name="TotalTriangles" value="364130" />
     <property class="BlockEntities">
-      <property name="Vertices" value="254081" />
-      <property name="Triangles" value="110994" />
+      <property name="Vertices" value="211381" />
+      <property name="Triangles" value="103788" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="205972" />
@@ -81,6 +81,15 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="60, 3, 67" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="85, 4, 63" />
+      <property name="1" value="84, 3, 69" />
+      <property name="2" value="84, 4, 69" />
+      <property name="3" value="84, 3, 70" />
+      <property name="4" value="84, 4, 70" />
+      <property name="5" value="84, 3, 71" />
+      <property name="6" value="84, 4, 71" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="65, 3, 74" />

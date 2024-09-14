@@ -13,14 +13,14 @@
   <property name="Zoning" value="none" />
   <property name="PrefabSize" value="150, 59, 150" />
   <property name="Tags" value="streettile, rwgonly" />
-  <property name="POIMarkerSize" value="64, 0, 64#25, 0, 25#42, 0, 42#25, 0, 25#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#1, 2, 1#5, 1, 1#5, 1, 1#1, 1, 1#3, 2, 1#1, 1, 6#13, 15, 6#13, 17, 6#14, 2, 4#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#11, 5, 5#7, 1, 6#2, 2, 3#2, 3, 2#5, 1, 5#1, 1, 1#1, 1, 5#1, 1, 5#9, 4, 8#3, 8, 4#2, 7, 7#11, 5, 5#11, 5, 5#13, 3, 5#13, 17, 5#8, 3, 13#11, 5, 7#4, 2, 6#4, 4, 2#3, 4, 6#19, 5, 5" />
-  <property name="POIMarkerStart" value="43, 13, 43#83, 13, 115#108, 13, 83#41, 13, 117#0, 13, 25#42, 13, 17#83, 13, 1#125, 13, 25#125, 13, 0#0, 13, 0#107, 13, 44#108, 13, 49#119, 13, 49#114, 13, 48#72, 13, 117#67, 13, 7#110, 13, 1#110, 13, 1#88, 13, 37#83, 13, 28#83, 13, 31#83, 13, 34#83, 13, 37#83, 13, 40#110, 13, 62#113, 13, 41#109, 13, 8#143, 13, 79#86, 13, 29#111, 13, 23#93, 13, 27#93, 13, 32#111, 13, 27#38, 13, 12#22, 13, 85#49, 13, 108#91, 13, 109#96, 13, 29#110, 13, 2#138, 12, 59#112, 13, 8#23, 13, 95#114, 13, 19#27, 13, 11#116, 13, 72" />
-  <property name="POIMarkerGroup" value="POI-Main,XS1,S1,XS2,S2,XS3,XS4,XS5,XS6,XS7,atm,barb1,barb2,barrel,barricade,barrier,billb,billb,bleachers,bollard1,bollard2,bollard3,bollard4,bollard5,camper,checkpt,dumpster,ev,minefield,cart,spikes1,spikes2,tent,cow,scaffold1,trailer1,trailer2,army,billb,accident,coffee,dumpbin,sign,lift,semi" />
-  <property name="POIMarkerTags" value="zzintersection############################################" />
-  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,,,,,,,part_zztong_atm_01,part_zztong_barbwire5,part_zztong_barbwire5,part_zztong_barrel_burning_01,part_zztong_barricade_01,part_zztong_barrier6_yellow,part_zztong_billboard_delos,part_zztong_billboard_kztv,part_zztong_bleachers_02,part_zztong_bollard_concrete_01,part_zztong_bollard_concrete_01,part_zztong_bollard_concrete_01,part_zztong_bollard_concrete_01,part_zztong_bollard_concrete_01,part_zztong_camper_01,part_zztong_checkpoint_03,part_zztong_dumpster_01,part_zztong_ev_charger_01,part_zztong_mine_field_01,part_zztong_shopping_cart_01,part_zztong_spikes_wood5,part_zztong_spikes_wood5,part_zztong_tent_02,part_zztong_tfp_cell_on_wheels_01,part_zztong_tfp_scaffolding_01,part_zztong_tfp_trailer_box_loaded_01,part_zztong_tfp_trailer_reefer_loaded_01,part_armytruck_01,part_billboard_mycell,part_car_accident_01,part_coffee_stand,part_dumpster,part_kiosk_sign_04,part_lift_03,part_semi_truck" />
-  <property name="POIMarkerPartRotations" value="0,1,2,3,0,3,1,1,1,3,0,0,0,0,1,1,0,0,3,0,0,0,0,0,3,0,1,2,0,0,1,1,0,0,0,1,3,3,0,0,0,0,0,1,3" />
-  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.1,0.2,0.5,0.5,0.7,0.8,0.8,0.8,0.8,0.8,0.2,0.5,0.5,0.5,0.1,0.5,0.5,0.5,0.5,0.2,0.5,0.5,0.5,0.5,0.5,0.2,0.5,0.5,0.5,0.5,0.5" />
+  <property name="POIMarkerSize" value="64, 0, 64#25, 0, 25#42, 0, 42#25, 0, 25#42, 0, 42#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#25, 0, 25#1, 2, 1#5, 1, 1#5, 1, 1#1, 1, 1#3, 2, 1#1, 1, 6#13, 15, 6#13, 17, 6#14, 2, 4#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#1, 1, 1#11, 5, 5#7, 1, 6#2, 2, 3#2, 3, 2#1, 1, 1#1, 1, 5#1, 1, 5#9, 4, 8#3, 8, 4#2, 7, 7#11, 5, 5#11, 5, 5#13, 3, 5#13, 17, 5#8, 3, 13#11, 5, 7#4, 2, 6#4, 4, 2#3, 4, 6#19, 5, 5" />
+  <property name="POIMarkerStart" value="43, 13, 43#83, 13, 115#108, 13, 83#41, 13, 117#0, 13, 25#42, 13, 17#83, 13, 1#125, 13, 25#125, 13, 0#0, 13, 0#107, 13, 44#108, 13, 49#119, 13, 49#114, 13, 48#72, 13, 117#67, 13, 7#110, 13, 1#110, 13, 1#88, 13, 37#83, 13, 28#83, 13, 31#83, 13, 34#83, 13, 37#83, 13, 40#110, 13, 62#113, 13, 41#109, 13, 8#143, 13, 79#111, 13, 23#93, 13, 27#93, 13, 32#111, 13, 27#38, 13, 12#22, 13, 85#49, 13, 108#91, 13, 109#96, 13, 29#110, 13, 2#138, 12, 59#112, 13, 8#23, 13, 95#114, 13, 19#27, 13, 11#116, 13, 72" />
+  <property name="POIMarkerGroup" value="POI-Main,XS1,S1,XS2,S2,XS3,XS4,XS5,XS6,XS7,atm,barb1,barb2,barrel,barricade,barrier,billb,billb,bleachers,bollard1,bollard2,bollard3,bollard4,bollard5,camper,checkpt,dumpster,ev,cart,spikes1,spikes2,tent,cow,scaffold1,trailer1,trailer2,army,billb,accident,coffee,dumpbin,sign,lift,semi" />
+  <property name="POIMarkerTags" value="zzintersection###########################################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,,,,,,,,,part_zztong_atm_01,part_zztong_barbwire5,part_zztong_barbwire5,part_zztong_barrel_burning_01,part_zztong_barricade_01,part_zztong_barrier6_yellow,part_zztong_billboard_delos,part_zztong_billboard_kztv,part_zztong_bleachers_02,part_zztong_bollard_concrete_01,part_zztong_bollard_concrete_01,part_zztong_bollard_concrete_01,part_zztong_bollard_concrete_01,part_zztong_bollard_concrete_01,part_zztong_camper_01,part_zztong_checkpoint_03,part_zztong_dumpster_01,part_zztong_ev_charger_01,part_zztong_shopping_cart_01,part_zztong_spikes_wood5,part_zztong_spikes_wood5,part_zztong_tent_02,part_zztong_tfp_cell_on_wheels_01,part_zztong_tfp_scaffolding_01,part_zztong_tfp_trailer_box_loaded_01,part_zztong_tfp_trailer_reefer_loaded_01,part_armytruck_01,part_billboard_mycell,part_car_accident_01,part_coffee_stand,part_dumpster,part_kiosk_sign_04,part_lift_03,part_semi_truck" />
+  <property name="POIMarkerPartRotations" value="0,1,2,3,0,3,1,1,1,3,0,0,0,0,1,1,0,0,3,0,0,0,0,0,3,0,1,2,0,1,1,0,0,0,1,3,3,0,0,0,0,0,1,3" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,1,1,1,1,1,1,1,1,0.5,0.5,0.5,0.5,0.1,0.2,0.5,0.5,0.7,0.8,0.8,0.8,0.8,0.8,0.2,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.2,0.5,0.5,0.5,0.5,0.5,0.2,0.5,0.5,0.5,0.5,0.5" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False" />
@@ -30,11 +30,11 @@
   <property name="SleeperVolumeStart" value="121, 13, 127#137, 17, 127#122, 17, 127#110, 17, 127#3, 8, 85#5, 13, 117#34, 13, 129" />
   <property name="SleeperVolumeSize" value="16, 3, 12#11, 3, 13#14, 3, 13#11, 3, 13#17, 4, 29#24, 6, 27#3, 6, 12" />
   <property class="Stats">
-    <property name="TotalVertices" value="1235647" />
-    <property name="TotalTriangles" value="501813" />
+    <property name="TotalVertices" value="1056740" />
+    <property name="TotalTriangles" value="504009" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1014825" />
-      <property name="Triangles" value="371267" />
+      <property name="Vertices" value="770018" />
+      <property name="Triangles" value="265087" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="220016" />
@@ -45,32 +45,63 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="806" />
       <property name="Triangles" value="432" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="65900" />
+      <property name="Triangles" value="108376" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="140, 19, 139" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="146, 13, 131" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="139, 17, 127" />
+      <property name="1" value="145, 17, 127" />
+      <property name="2" value="139, 18, 131" />
+      <property name="3" value="140, 18, 131" />
+      <property name="4" value="140, 17, 132" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="144, 18, 130" />
       <property name="1" value="146, 17, 132" />
     </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="124, 17, 128" />
+      <property name="1" value="126, 13, 130" />
+      <property name="2" value="131, 13, 130" />
+      <property name="3" value="126, 13, 133" />
+      <property name="4" value="131, 13, 133" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="28, 16, 124" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="141, 17, 135" />
+      <property name="1" value="142, 17, 135" />
+      <property name="2" value="143, 17, 135" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="139, 13, 134" />
+    </property>
     <property class="QuestRestorePower">
       <property name="0" value="36, 13, 126" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="129, 17, 140" />
     </property>
   </property>
 </prefab>
