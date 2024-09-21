@@ -4,8 +4,10 @@ V1.1.023 (ZZ023)
 * Bug fixes: floating blocks, tile tags, bridge gutters.
 * Zombie volume adjustments in zztong_tfp_apartment_adobe_01.
 * Added rwg_tile_rural_cap_zztong_02 and rwg_tile_rural_cap_zztong_03.
-* Added rwg_tile_rural_corner_zztong_03, rwg_tile_rural_corner_zztong_04.
-* Added rwg_tile_rural_t_zztong_02, rwg_tile_rural_t_zztong_03.
+* Added rwg_tile_rural_corner_zztong_03, rwg_tile_rural_corner_zztong_04,
+    and rwg_tile_rural_corner_zztong_05.
+* Added rwg_tile_rural_t_zztong_02, rwg_tile_rural_t_zztong_03,
+    and rwg_tile_rural_t_zztong_04.
 * Slimmed down number of XS POIs on rwg_tile_rural_t_zztong_01
     and rwg_tile_rural_cap_zztong_01.
 * Added zztong_cabin_01, zztong_cabin_02, zztong_landscaper_01, zztong_library_01.
