@@ -99,11 +99,11 @@
             <property name="maxtiles" value="1"/>
         </streettile>
 
-        <prefab_spawn_adjust partial_name="zztong_bartertown_rektx" biomeTags="forest" bias="0" min_count="2" max_count="4"/>
-        <prefab_spawn_adjust partial_name="zztong_bartertown_jenx" biomeTags="burntforest" bias="0" min_count="2" max_count="4"/>
-        <prefab_spawn_adjust partial_name="zztong_bartertown_bobx" biomeTags="desert" bias="0" min_count="2" max_count="4"/>
-        <prefab_spawn_adjust partial_name="zztong_bartertown_hughx" biomeTags="snow" bias="0" min_count="2" max_count="4"/>
-        <prefab_spawn_adjust partial_name="zztong_bartertown_joelx" biomeTags="wasteland" bias="0" min_count="2" max_count="4"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_rektx" biomeTags="forest" bias="0" min_count="0" max_count="1"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_jenx" biomeTags="burntforest" bias="0" min_count="0" max_count="1"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_bobx" biomeTags="desert" bias="0" min_count="0" max_count="1"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_hughx" biomeTags="snow" bias="0" min_count="0" max_count="1"/>
+        <prefab_spawn_adjust partial_name="zztong_bartertown_joelx" biomeTags="wasteland" bias="0" min_count="0" max_count="1"/>
 	</append>
 
     <!-- **************************************************************
