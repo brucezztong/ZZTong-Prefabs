@@ -32,11 +32,12 @@ def process_file(file_path):
         print(f"Failed to parse XML in file: {file_path}")
 
 def process_directory(directory):
-    # Loop through all XML files in the directory
-    for filename in os.listdir(directory):
-        if filename.endswith(".xml"):
-            file_path = os.path.join(directory, filename)
-            process_file(file_path)
+    # Recursively loop through all XML files in the directory and subdirectories
+    for root_dir, subdirs, files in os.walk(directory):
+        for filename in files:
+            if filename.endswith(".xml"):
+                file_path = os.path.join(root_dir, filename)
+                process_file(file_path)
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
