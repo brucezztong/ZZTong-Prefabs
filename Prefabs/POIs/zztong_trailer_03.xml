@@ -23,6 +23,14 @@
   <property name="EditorGroups" value="rural" />
   <property name="Tags" value="rural" />
   <property name="QuestTags" value="clear, fetch, infested" />
+  <property name="POIMarkerSize" value="6, 13, 3" />
+  <property name="POIMarkerStart" value="1, 2, -3" />
+  <property name="POIMarkerGroup" value="driveway" />
+  <property name="POIMarkerTags" value="rural" />
+  <property name="POIMarkerType" value="PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_rural_09" />
+  <property name="POIMarkerPartRotations" value="2" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
     <property name="TotalVertices" value="116345" />
     <property name="TotalTriangles" value="49207" />
