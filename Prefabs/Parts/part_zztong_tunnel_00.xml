@@ -12,6 +12,8 @@
   <property name="PrefabSize" value="30, 12, 105" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
+  <property name="EditorGroups" value="parts" />
+  <property name="Tags" value="part" />
   <property class="IndexedBlockOffsets">
     <property class="challenge_barrels">
       <property name="0" value="15, 1, 102" />
