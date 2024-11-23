@@ -19,16 +19,8 @@
   <property name="POIMarkerPartToSpawn" value=",,part_zztong_barrel_01,part_zztong_barricade_01,,part_zztong_barrier3,part_zztong_billboard_balloon,part_zztong_billboard_carshow,part_zztong_campsite_01,part_zztong_culvert_pipe,part_zztong_shopping_cart_01,part_zztong_tree_stump_01,part_zztong_watchtower_01,part_appliance_pile_01,part_billboard_mammapizza,part_billboard_umove,part_electrical_tower_01,part_industrial_tank_vertical,part_semi_truck,part_tower_water_01" />
   <property name="POIMarkerPartRotations" value="1,3,0,2,2,0,2,2,0,0,0,0,2,0,2,2,0,1,0,3" />
   <property name="POIMarkerPartSpawnChance" value="1,1,0.5,0.1,1,0.3,0.2,0.2,0.3,0.1,0.2,0.5,0.3,0.2,0.2,0.2,0.5,0.3,0.1,0.2" />
-  <property name="SleeperVolumeSize" value="11, 3, 7" />
-  <property name="SleeperVolumeStart" value="54, 4, 61" />
-  <property name="SleeperVolumeGroupId" value="0" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1" />
-  <property name="SleeperIsLootVolume" value="False" />
-  <property name="SleeperIsQuestExclude" value="False" />
-  <property name="SleeperVolumeFlags" value="0" />
   <property name="PrefabSize" value="150, 31, 150" />
   <property name="Tags" value="streettile, rwgonly" />
-  <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
     <property name="TotalVertices" value="504544" />
     <property name="TotalTriangles" value="596472" />

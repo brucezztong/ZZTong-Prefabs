@@ -33,11 +33,11 @@
   <property name="Tags" value="wilderness" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="366310" />
-    <property name="TotalTriangles" value="177503" />
+    <property name="TotalVertices" value="364442" />
+    <property name="TotalTriangles" value="177078" />
     <property class="BlockEntities">
-      <property name="Vertices" value="322177" />
-      <property name="Triangles" value="143296" />
+      <property name="Vertices" value="320309" />
+      <property name="Triangles" value="142871" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="34483" />
@@ -93,10 +93,7 @@
       <property name="0" value="23, 4, 21" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="24, 4, 10" />
-      <property name="1" value="24, 4, 11" />
-      <property name="2" value="19, 5, 12" />
-      <property name="3" value="24, 4, 12" />
+      <property name="0" value="35, 4, 35" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="38, 3, 12" />
@@ -117,6 +114,9 @@
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="56, 3, 32" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="52, 3, 35" />
     </property>
   </property>
 </prefab>

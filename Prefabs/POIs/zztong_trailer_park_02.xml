@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="DifficultyTier" value="3" />
-  <property name="QuestTags" value="clear" />
+  <property name="QuestTags" value="clear, fetch" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="60, 18, 60" />
@@ -33,11 +33,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
   <property name="EditorGroups" value="settlements" />
   <property class="Stats">
-    <property name="TotalVertices" value="850357" />
-    <property name="TotalTriangles" value="366658" />
+    <property name="TotalVertices" value="852671" />
+    <property name="TotalTriangles" value="367725" />
     <property class="BlockEntities">
-      <property name="Vertices" value="712154" />
-      <property name="Triangles" value="264977" />
+      <property name="Vertices" value="714468" />
+      <property name="Triangles" value="266044" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="124733" />
