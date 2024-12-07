@@ -77,9 +77,17 @@
     <property class="challenge_cars">
       <property name="0" value="22, 1, 50" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="20, 2, 37" />
+      <property name="1" value="20, 3, 37" />
+      <property name="2" value="25, 2, 38" />
+    </property>
     <property class="challenge_steel">
       <property name="0" value="18, 6, 28" />
       <property name="1" value="18, 6, 29" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="15, 1, 29" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="25, 2, 31" />
@@ -88,10 +96,6 @@
     </property>
     <property class="challenge_gore">
       <property name="0" value="19, 6, 34" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="20, 3, 37" />
-      <property name="1" value="25, 2, 38" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="19, 6, 39" />

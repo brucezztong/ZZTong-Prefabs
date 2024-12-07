@@ -1,7 +1,7 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
-V1.1.024 (ZZ024)
-* Bug fixes.
+V1.2.024 (ZZ024)
+* Bug fixes. (Including zztong_bartertown_joelx.ins file. Hurray!)
 
 V1.1.023 (ZZ023)
 * Bug fixes: floating blocks, tile tags, bridge gutters.
