@@ -89,6 +89,7 @@ allowed_names = [
 "rwg_tile_countrytown_intersection",
 "rwg_tile_countrytown_straight",
 "rwg_tile_countrytown_t",
+"rwg_tile_countrytown_t_zztong_01",
 "rwg_tile_downtown_cap",
 "rwg_tile_downtown_corner",
 "rwg_tile_downtown_intersection",
