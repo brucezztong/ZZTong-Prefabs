@@ -148,6 +148,18 @@
 	</append>
 
     <!-- **************************************************************
+        This Tile has a town square for a country town, which should
+        not be a common tile.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_countrytown_t_zztong_01">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="1"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
         Various biome-restricted POIs for thematic reasons.
     ****************************************************************-->
 
