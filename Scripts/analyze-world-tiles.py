@@ -146,11 +146,16 @@ allowed_names = [
 "rwg_tile_residential_t_zztong_02",
 "rwg_tile_rural_cap",
 "rwg_tile_rural_cap_zztong_01",
+"rwg_tile_rural_cap_zztong_02",
+"rwg_tile_rural_cap_zztong_03",
 "rwg_tile_rural_corner",
 "rwg_tile_rural_corner_02",
 "rwg_tile_rural_corner_03",
 "rwg_tile_rural_corner_zztong_01",
 "rwg_tile_rural_corner_zztong_02",
+"rwg_tile_rural_corner_zztong_03",
+"rwg_tile_rural_corner_zztong_04",
+"rwg_tile_rural_corner_zztong_05",
 "rwg_tile_rural_intersection",
 "rwg_tile_rural_intersection_zztong_01",
 "rwg_tile_rural_straight",
@@ -160,6 +165,10 @@ allowed_names = [
 "rwg_tile_rural_t_03",
 "rwg_tile_rural_t_04",
 "rwg_tile_rural_t_zztong_01",
+"rwg_tile_rural_t_zztong_02",
+"rwg_tile_rural_t_zztong_03",
+"rwg_tile_rural_t_zztong_04",
+"rwg_tile_rural_t_zztong_05",
 ]
 
 # Count the unique prefab names
