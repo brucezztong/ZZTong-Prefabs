@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="2" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="60, 16, 60" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property name="EditorGroups" value="commercial" />
+  <property name="Tags" value="commercial" />
+  <property name="QuestTags" value="clear, fetch, infested" />
+  <property class="Stats">
+    <property name="TotalVertices" value="428059" />
+    <property name="TotalTriangles" value="189194" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="268337" />
+      <property name="Triangles" value="92338" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="148130" />
+      <property name="Triangles" value="79912" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="2160" />
+      <property name="Triangles" value="1080" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="9432" />
+      <property name="Triangles" value="15864" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="challenge_cars">
+      <property name="0" value="9, 3, 9" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="47, 9, 47" />
+      <property name="1" value="51, 5, 48" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="33, 7, 46" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="53, 4, 14" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="30, 3, 48" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="33, 3, 49" />
+      <property name="1" value="30, 3, 52" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="35, 3, 14" />
+      <property name="1" value="37, 3, 14" />
+    </property>
+  </property>
+</prefab>
