@@ -156,6 +156,7 @@ allowed_names = [
 "rwg_tile_rural_corner_zztong_03",
 "rwg_tile_rural_corner_zztong_04",
 "rwg_tile_rural_corner_zztong_05",
+"rwg_tile_rural_corner_zztong_06",
 "rwg_tile_rural_intersection",
 "rwg_tile_rural_intersection_zztong_01",
 "rwg_tile_rural_straight",
