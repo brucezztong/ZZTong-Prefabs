@@ -2,7 +2,9 @@ CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 V1.2.024 (ZZ024)
 * Added rwg_tile_countrytown_t_zztong_01 - Town Square. (Limited occurrences)
+* Added rwg_tile_rural_corner_zztong_06
 * Added rwg_tile_rural_t_zztong_05
+* Added rwg_tile_rural_t_zztong_06
 * Added zztong_cheerdancegym_01
 * Added zztong_farm_09
 * Bug fixes. (Including zztong_bartertown_joelx.ins file. Hurray!)

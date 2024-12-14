@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-5" />
+  <property name="RotationToFaceNorth" value="0" />
+  <property name="Zoning" value="none" />
+  <property name="POIMarkerSize" value="60, 0, 60#60, 0, 60#1, 1, 6#1, 1, 6#1, 1, 6#1, 1, 6#1, 1, 6#1, 1, 6#1, 1, 6#1, 1, 6#3, 2, 3#3, 2, 3#3, 2, 3#3, 2, 3#3, 2, 3#3, 2, 3#5, 1, 5#4, 6, 8#7, 2, 2#2, 1, 2#1, 1, 8#11, 4, 5#14, 1, 5#1, 1, 8#7, 4, 9#9, 4, 10#19, 5, 5#1, 1, 1" />
+  <property name="POIMarkerStart" value="82, 5, 82#82, 5, 8#70, 5, 94#70, 5, 85#70, 5, 76#70, 5, 66#70, 5, 56#70, 5, 47#70, 5, 36#70, 5, 26#68, 5, 53#68, 5, 82#68, 5, 91#72, 5, 33#72, 5, 63#74, 5, 73#11, 5, 4#145, 5, 71#86, 5, 3#146, 5, 10#145, 5, 36#52, 5, 4#52, 5, 4#80, 5, 8#63, 5, 136#61, 5, 136#83, 5, 74#67, 5, 138" />
+  <property name="POIMarkerGroup" value="m1,m2,barrier1,barrier2,barrier3,barrier4,barrier5,barrier6,barrier7,barrier8,boulder1,boulder2,boulder3,boulder4,boulder5,boulder6,campsite,checkpoint,fence,hay,log,trailer,trailer,cones,fruit,fruit,semi,fruit" />
+  <property name="POIMarkerTags" value="###########################" />
+  <property name="POIMarkerType" value="POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value=",,part_zztong_barrier6,part_zztong_barrier6,part_zztong_barrier6,part_zztong_barrier6,part_zztong_barrier6,part_zztong_barrier6,part_zztong_barrier6,part_zztong_barrier6,part_zztong_boulder_01,part_zztong_boulder_02,part_zztong_boulder_03,part_zztong_boulder_03,part_zztong_boulder_01,part_zztong_boulder_02,part_zztong_campsite_01,part_zztong_checkpoint_02,part_zztong_fence_01,part_zztong_hay_bale_round_02,part_zztong_log8,part_zztong_tfp_trailer_curtain_loaded_01,part_zztong_tfp_trailer_flatbed_empty_01,part_zztong_traffic_cones8,part_roadside_fruit_stand_02,part_roadside_fruit_stand_01,part_semi_truck,part_zztong_tree_stump_01" />
+  <property name="POIMarkerPartRotations" value="2,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.1,0.1,0.5,0.5,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.8" />
+  <property name="PrefabSize" value="150, 32, 150" />
+  <property name="Tags" value="streettile, rwgonly" />
+  <property class="Stats">
+    <property name="TotalVertices" value="651121" />
+    <property name="TotalTriangles" value="794561" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="578961" />
+      <property name="Triangles" value="685001" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="8880" />
+      <property name="Triangles" value="5936" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="63280" />
+      <property name="Triangles" value="103624" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood_trees">
+      <property name="0" value="140, 5, 145" />
+      <property name="1" value="146, 5, 147" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="80, 5, 96" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="80, 5, 81" />
+    </property>
+    <property class="challenge_steel">
+      <property name="0" value="112, 11, 69" />
+    </property>
+  </property>
+</prefab>

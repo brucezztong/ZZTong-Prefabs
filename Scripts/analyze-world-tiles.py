@@ -170,6 +170,7 @@ allowed_names = [
 "rwg_tile_rural_t_zztong_03",
 "rwg_tile_rural_t_zztong_04",
 "rwg_tile_rural_t_zztong_05",
+"rwg_tile_rural_t_zztong_06",
 ]
 
 # Count the unique prefab names
