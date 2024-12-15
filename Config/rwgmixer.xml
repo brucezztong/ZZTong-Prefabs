@@ -178,6 +178,7 @@
         <prefab_spawn_adjust partial_name="zztong_field_yucca_01" biomeTags="desert"/>
         <prefab_spawn_adjust partial_name="zztong_gyroport_01" biomeTags="desert"/>
         <prefab_spawn_adjust partial_name="zztong_motocross_01" biomeTags="forest"/>
+        <prefab_spawn_adjust partial_name="zztong_revival_01" biomeTags="forest,desert"/>
         <prefab_spawn_adjust partial_name="zztong_survivor_base_ruin_01" biomeTags="snow,wasteland"/>
 	</append>
 

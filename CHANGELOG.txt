@@ -8,6 +8,7 @@ V1.2.024 (ZZ024)
 * Added zztong_cheerdancegym_01
 * Added zztong_cryptominer_01
 * Added zztong_farm_09
+* Added zztong_revival_01
 * Bug fixes. (Including zztong_bartertown_joelx.ins file. Hurray!)
 
 V1.1.023 (ZZ023)
