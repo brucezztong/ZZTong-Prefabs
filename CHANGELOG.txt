@@ -1,5 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+V1.3.025 (ZZ025)
+* Bug fixes. No new content.
+
 V1.2.024 (ZZ024)
 * Added rwg_tile_countrytown_t_zztong_01 - Town Square. (Limited occurrences)
 * Added rwg_tile_rural_corner_zztong_06
