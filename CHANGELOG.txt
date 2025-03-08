@@ -1,5 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+V1.3.027 (ZZ027)
+* Removed part_terrain_greeble_12W3H from rwg_tile_countrytown_t_zztong_01.
+
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
 * The schinese translation was provided by Croeater477427.
