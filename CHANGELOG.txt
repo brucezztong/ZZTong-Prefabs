@@ -2,6 +2,13 @@ CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 V1.3.027 (ZZ027)
 * Removed part_terrain_greeble_12W3H from rwg_tile_countrytown_t_zztong_01.
+* Added zztong_sheriff_01 to the "police" theme.
+* Rescued the A20 version of abandoned_house_06 for AidenWithAnAxe.
+    This is now zztong_tfp_abandoned_house_06
+* Rescued two A20 junkyards for Vaeliorin.
+    These are now zztong_tfp_junkyard_med_01 and zztong_tfp_junkyard_lg_01.
+* Rescued police_station1 from A20 for 4sheetzngeegles.
+    This is now zztong_tfp_police_station1
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
