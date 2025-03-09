@@ -27,8 +27,8 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="POIMarkerSize" value="6, 1, 1#7, 1, 6#1, 1, 1#8, 2, 2#1, 3, 1#1, 1, 1#2, 2, 5#5, 5, 11#6, 13, 3#4, 2, 6#5, 1, 3#4, 2, 4#3, 4, 3" />
   <property name="POIMarkerStart" value="40, 3, 84#37, 3, 63#35, 8, 51#43, 3, 34#32, 5, 53#28, 3, 38#16, 3, 57#31, 3, 59#37, 2, 100#74, 3, 66#70, 3, 60#31, 11, 42#20, 3, 67" />
-  <property name="POIMarkerGroup" value="barrier,checkpt,bomb,wood,ladder,mine,targets,trailer1,new,dumpster,fence,hvac,sculpture" />
-  <property name="POIMarkerTags" value="############" />
+  <property name="POIMarkerGroup" value="barrier,checkpt,bomb,wood,ladder,mine,targets,trailer1,driveway,dumpster,fence,hvac,sculpture" />
+  <property name="POIMarkerTags" value="########rural####" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value="part_zztong_barrier6_orange,part_zztong_checkpoint_03,part_zztong_cookpot_bomb,part_zztong_firewood_03,part_zztong_ladder_iron_01,part_zztong_land_mine_02,part_zztong_targets_02,part_zztong_tfp_trailer_reefer_empty_01,part_driveway_rural_01,part_dumpster,part_fence_industrial_ground,part_greeble_rooftop_03,part_sculpture_02" />
   <property name="POIMarkerPartRotations" value="0,0,0,1,0,0,3,0,0,0,0,0,0" />
@@ -82,11 +82,11 @@
     <property class="TraderOnOff">
       <property name="0" value="81, 3, 90" />
     </property>
-    <property class="quest_feather">
-      <property name="0" value="55, 7, 37" />
-    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="55, 3, 41" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="55, 7, 37" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="67, 3, 53" />

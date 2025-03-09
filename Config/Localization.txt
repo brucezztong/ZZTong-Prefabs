@@ -234,7 +234,7 @@ zztong_tfp_docks_05,POI,POI,,x,Live Bait,,Lebendköder,Cebo vivo,Appâts en dire
 zztong_tfp_house_new_04,POI,POI,,x,34 Claremont Avenue,,34 Claremont Avenue,34 Claremont Avenue,34 Avenue Claremont,34 Claremont Avenue,34クレアモントアベニュー,34 Claremont Avenue,34 Claremont Avenue,34 Avenida Claremont,34 Claremont Avenue,34 Claremont Bulvarı,克莱尔蒙特大街34号,克萊蒙特大街34號
 zztong_tfp_house_old_spanish_01,POI,POI,,x,66 Barnes Lane,,66 Barnes Lane,66 Barnes Lane,66 Barnes Lane,66 Barnes Lane,66バーンズレーン,66 반즈 레인,66 Barnes Lane,66 Barnes Lane,66 Барнс Лейн,66 Barnes Lane,巴恩斯巷66号,66 Barnes Lane
 zztong_tfp_junkyard_lg_01,POI,POI,,x,Scrap King Junk Depot,,,,,,,,,,,,,
-zztong_tfp_junkyard_md_01,POI,POI,,x,Junk Yard,,,,,,,,,,,,,
+zztong_tfp_junkyard_med_01,POI,POI,,x,Harvey's Haulin' Junkyard,,,,,,,,,,,,,
 zztong_tfp_police_station1,POI,POI,,x,Police Precinct,,,,,,,,,,,,,
 zztong_tfp_prison_01,POI,POI,,x,Old Navezgane Prison Museum,,Old Navezgane Gefängnismuseum,Viejo Museo de la Prisión de Návezgane,Old Navezgane Prison Museum,Old Navezgane Prison Museum,古いナベズガン刑務所博物館,올드 나브 즈 간 감옥 박물관,Old Navezgane więzienne Muzeum,Museu da prisão antiga de Navezgane,Старый тюремный музей,Eski Navezgane Hapishane Müzesi,老纳维加尼监狱博物馆,老納維茲根監獄博物館
 zztong_tfp_ranger_station_01,POI,POI,,x,Delta Creek Ranger Station,,Delta Creek Ranger Station,Estación de guardabosques de Delta Creek,Station de ranger de Delta Creek,Delta Creek Ranger Station,デルタクリークレンジャーステーション,델타 크릭 레인저 스테이션,Delta Creek Ranger Station,Estação de guarda florestal de Delta Creek,Станция Delta Creek Ranger,Delta Creek Ranger İstasyonu,三角洲溪护林站,三角洲溪遊騎兵站
