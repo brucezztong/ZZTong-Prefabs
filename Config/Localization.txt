@@ -235,7 +235,7 @@ zztong_tfp_house_new_04,POI,POI,,x,34 Claremont Avenue,,34 Claremont Avenue,34 C
 zztong_tfp_house_old_spanish_01,POI,POI,,x,66 Barnes Lane,,66 Barnes Lane,66 Barnes Lane,66 Barnes Lane,66 Barnes Lane,66バーンズレーン,66 반즈 레인,66 Barnes Lane,66 Barnes Lane,66 Барнс Лейн,66 Barnes Lane,巴恩斯巷66号,66 Barnes Lane
 zztong_tfp_junkyard_lg_01,POI,POI,,x,Scrap King Junk Depot,,,,,,,,,,,,,
 zztong_tfp_junkyard_med_01,POI,POI,,x,Harvey's Haulin' Junkyard,,,,,,,,,,,,,
-zztong_tfp_police_station1,POI,POI,,x,Police Precinct,,,,,,,,,,,,,
+zztong_tfp_police_station1,POI,POI,,x,Condemned Police Precinct,,,,,,,,,,,,,
 zztong_tfp_prison_01,POI,POI,,x,Old Navezgane Prison Museum,,Old Navezgane Gefängnismuseum,Viejo Museo de la Prisión de Návezgane,Old Navezgane Prison Museum,Old Navezgane Prison Museum,古いナベズガン刑務所博物館,올드 나브 즈 간 감옥 박물관,Old Navezgane więzienne Muzeum,Museu da prisão antiga de Navezgane,Старый тюремный музей,Eski Navezgane Hapishane Müzesi,老纳维加尼监狱博物馆,老納維茲根監獄博物館
 zztong_tfp_ranger_station_01,POI,POI,,x,Delta Creek Ranger Station,,Delta Creek Ranger Station,Estación de guardabosques de Delta Creek,Station de ranger de Delta Creek,Delta Creek Ranger Station,デルタクリークレンジャーステーション,델타 크릭 레인저 스테이션,Delta Creek Ranger Station,Estação de guarda florestal de Delta Creek,Станция Delta Creek Ranger,Delta Creek Ranger İstasyonu,三角洲溪护林站,三角洲溪遊騎兵站
 zztong_tfp_school_k6_01,POI,POI,,x,Navezgane Academy,,Navezgane Academy,Academia Návezgane,Académie Navezgane,Navezgane Academy,ナベズガンアカデミー,Navezgane Academy,Navezgane Academy,Academia de Navezgane,Навзгане Академия,Navezgane Akademisi,纳维加尼学院,Navezgane學院
