@@ -43,6 +43,7 @@ rwg_tile_rural_corner_zztong_03,POI,POIName,,x,Rural,,Ländlich,Rural,Rural,Rura
 rwg_tile_rural_corner_zztong_04,POI,POIName,,x,Rural,,Ländlich,Rural,Rural,Rurale,田舎,시골의,Wiejski,Rural,Деревенский,Kırsal,乡野,鄉村的
 rwg_tile_rural_corner_zztong_05,POI,POIName,,x,Rural,,Ländlich,Rural,Rural,Rurale,田舎,시골의,Wiejski,Rural,Деревенский,Kırsal,乡野,鄉村的
 rwg_tile_rural_corner_zztong_06,POI,POIName,,x,Rural,,Ländlich,Rural,Rural,Rurale,田舎,시골의,Wiejski,Rural,Деревенский,Kırsal,乡野,鄉村的
+rwg_tile_rural_corner_zztong_07,POI,POIName,,x,Rural,,Ländlich,Rural,Rural,Rurale,田舎,시골의,Wiejski,Rural,Деревенский,Kırsal,乡野,鄉村的
 rwg_tile_rural_intersection_zztong_01,POI,POIName,,x,Rural,,Ländlich,Rural,Rural,Rurale,田舎,시골의,Wiejski,Rural,Деревенский,Kırsal,乡野,鄉村的
 rwg_tile_rural_straight_zztong_01,POI,POIName,,x,Rural,,Ländlich,Rural,Rural,Rurale,田舎,시골의,Wiejski,Rural,Деревенский,Kırsal,乡野,鄉村的
 rwg_tile_rural_t_zztong_01,POI,POIName,,x,Rural,,Ländlich,Rural,Rural,Rurale,田舎,시골의,Wiejski,Rural,Деревенский,Kırsal,乡野,鄉村的

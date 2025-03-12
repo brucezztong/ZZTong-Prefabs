@@ -31,6 +31,18 @@
 	</append>
 
     <!-- **************************************************************
+        This Tile has a town square for a country town, which should
+        not be a common tile.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_countrytown_t_zztong_01">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="1"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
         These downtown tiles support a set of heavy-weight (vertices)
         and high tier POIs so we don't want to have a lot of them in
         the game for fear of tanking downtown performance.
@@ -148,12 +160,12 @@
 	</append>
 
     <!-- **************************************************************
-        This Tile has a town square for a country town, which should
-        not be a common tile.
+        This Tile has the TFP Canyon Gift Shop which should
+        not be a unique tile.
     ****************************************************************-->
 
 	<append xpath="/rwgmixer">
-        <streettile name="rwg_tile_countrytown_t_zztong_01">
+        <streettile name="rwg_tile_rural_corner_zztong_07">
             <property name="mintiles" value="1"/>
             <property name="maxtiles" value="1"/>
         </streettile>

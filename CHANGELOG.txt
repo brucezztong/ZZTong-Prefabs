@@ -9,6 +9,7 @@ V1.3.027 (ZZ027)
     These are now zztong_tfp_junkyard_med_01 and zztong_tfp_junkyard_lg_01.
 * Rescued police_station1 from A20 for 4sheetzngeegles.
     This is now zztong_tfp_police_station1
+* Added rwg_tile_rural_corner_zztong_07 featuring the Navezgane Gift Shop.
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
