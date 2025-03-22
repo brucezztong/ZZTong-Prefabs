@@ -226,7 +226,8 @@ zztong_strip_mall_01,POI,POI,,x,Strip Mall,,Einkaufszentrum,Centro comercial,Cen
 zztong_strip_mall_02,POI,POI,,x,Strip Mall and OFI Mondays,,Einkaufszentrum und montags,Strip Mall y Ofi Lunes,Strip Mall et OFI Mondays,Strip Mall e OFI Mondays,モールとオフィーの月曜日をストリップします,쇼핑몰과 오피 월요일,Strip Mall i Ofi Mondays,Shopping e ofi segundas -feiras,Стрип,Strip Mall ve OFI Pazartesi,带状商业中心与周一特卖场,脫衣舞購物中心
 zztong_survivor_base_ruin_01,POI,POI,,x,Ruined Survivor Base,,Ruinierte Survivor -Basis,Base de sobrevivientes en ruinas,Base de survivants en ruine,Base di sopravvissuti in rovina,破壊されたサバイバーベース,폐허가 된 생존자 기지,Zrujnowana baza ocalałych,Base de sobrevivência em ruínas,Разрушенная база выживших,Yıkık Hayatta Kalan Üs,幸存者基地废墟,毀滅的倖存者基地
 zztong_survivor_site_urban_01,POI,POI,,x,Urban Survivor Site,,Städtische Überlebende,Urban Survivor Site,Site de survivant urbain,Sito di sopravvissuto urbano,都市生存者サイト,도시 생존자 사이트,Witryna ocalałych w mieście,Site de sobrevivência urbana,Городской выживший сайт,Urban Survivor sitesi,城区生存者据点,城市倖存者地點
-zztong_tfp_abandoned_house_06,POI,POI,,x,Aiden's Safehouse,,,,,,,,,,,,,
+zztong_tfp_abandoned_house_06_01,POI,POI,,x,97 Livingston Court,,,,,,,,,,,,,
+zztong_tfp_abandoned_house_06_02,POI,POI,,x,Aiden's Safehouse,,,,,,,,,,,,,
 zztong_tfp_apartment_adobe_01,POI,POI,,x,Adobe Apartments,,Adobe Apartments,Apartamentos de adobe,Appartements en adobe,Adobe Apartments,Adobe Apartments,Adobe 아파트,Apartamenty Adobe,Apartamentos Adobe,Adobe Apartments,Adobe Apartments,土坯公寓楼,Adobe公寓
 zztong_tfp_army_barracks_01,POI,POI,,x,National Guard Base,,Nationalgarde Basis,Base de la Guardia Nacional,Base de la Garde nationale,Base di guardia nazionale,国家警備隊の基地,방위군 기지,Baza Gwardii Narodowej,Base da Guarda Nacional,Национальная гвардия,Ulusal Muhafız Üssü,国民警卫队基地,國民警衛隊基地
 zztong_tfp_cemetery_01,POI,POI,,x,Old Cemetary,,Alter Friedhof,Antiguo cementerio,Vieux cimetière,Vecchio cimitero,古い墓地,오래된 묘지,Stary cmentarz,Cemitério Velho,Старое кладбище,Eski mezarlık,旧墓园区,老公墓
