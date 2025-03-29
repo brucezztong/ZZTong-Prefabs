@@ -11,6 +11,10 @@ V1.3.027 (ZZ027)
     This is now zztong_tfp_police_station1
 * Rescued warehouse_01 from A18 for the heck of it as zztong_tfp_warehouse_01.
 * Added rwg_tile_rural_corner_zztong_07 featuring the Navezgane Gift Shop.
+* Rescued zztong_tfp_house_new_01, zztong_tfp_abandoned_house_04,
+    zztong_tfp_abandoned_house_07, zztong_tfp_abandoned_house_08
+    zztong_tfp_bar_theater_01, zztong_tfp_business_old_06
+    zztong_tfp_cabin_09, zztong_tfp_cabin_13, and zztong_tfp_house_modern_06.
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
