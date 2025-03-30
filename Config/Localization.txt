@@ -232,9 +232,8 @@ zztong_tfp_abandoned_house_06_02,POI,POI,,x,Aiden's Safehouse,,,,,,,,,,,,,
 zztong_tfp_abandoned_house_07,POI,POI,,x,83 Cross Street,,,,,,,,,,,,,
 zztong_tfp_abandoned_house_08,POI,POI,,x,365 Oak Valley Road,,,,,,,,,,,,,
 zztong_tfp_apartment_adobe_01,POI,POI,,x,Adobe Apartments,,Adobe Apartments,Apartamentos de adobe,Appartements en adobe,Adobe Apartments,Adobe Apartments,Adobe 아파트,Apartamenty Adobe,Apartamentos Adobe,Adobe Apartments,Adobe Apartments,土坯公寓楼,Adobe公寓
-zztong_tfp_bar_theater_01,POI,POI,,x,TBD,,,,,,,,,,,,,
+zztong_tfp_bar_theater_01,POI,POI,,x,Whiskey A No-Go,,,,,,,,,,,,,
 zztong_tfp_army_barracks_01,POI,POI,,x,National Guard Base,,Nationalgarde Basis,Base de la Guardia Nacional,Base de la Garde nationale,Base di guardia nazionale,国家警備隊の基地,방위군 기지,Baza Gwardii Narodowej,Base da Guarda Nacional,Национальная гвардия,Ulusal Muhafız Üssü,国民警卫队基地,國民警衛隊基地
-zztong_tfp_business_old_06,POI,POI,,x,TBD,,,,,,,,,,,,,
 zztong_tfp_cabin_09,POI,POI,,x,715 Grant Avenue,,,,,,,,,,,,,
 zztong_tfp_cabin_13,POI,POI,,x,672 Pawnee Lane,,,,,,,,,,,,,
 zztong_tfp_cemetery_01,POI,POI,,x,Old Cemetary,,Alter Friedhof,Antiguo cementerio,Vieux cimetière,Vecchio cimitero,古い墓地,오래된 묘지,Stary cmentarz,Cemitério Velho,Старое кладбище,Eski mezarlık,旧墓园区,老公墓
