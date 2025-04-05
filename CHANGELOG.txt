@@ -15,6 +15,8 @@ V1.3.027 (ZZ027)
     zztong_tfp_abandoned_house_07, zztong_tfp_abandoned_house_08
     zztong_tfp_bar_theater_01, zztong_tfp_cabin_09, zztong_tfp_cabin_13,
     and zztong_tfp_house_modern_06.
+* Fixed bug in Trader Bob variants and zztong_store_xs_05.
+    Who knew that triggers to activate light was such a hassle?
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.

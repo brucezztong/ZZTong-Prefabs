@@ -16,7 +16,8 @@ list for Vanilla content provided with Teragon.
 
     Double click the "Add Source Path" to add the command to the Command Queue.
 
-    Drag and drop the "Add Source Path" step to follow the "Set Game Data" step.
+    Use the Up/Down Arrows in the UI to move the "Add Source Path" step to
+        follow the "Set Game Data" step.
 
     Set the "Directory" path to:
         C:/Users/[username]/AppData/Roaming/7DaysToDie/Mods/ZZTong-Prefabs
