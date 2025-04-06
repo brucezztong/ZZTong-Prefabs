@@ -51,8 +51,23 @@
     </property>
     <property class="challenge_sinks">
       <property name="0" value="29, 12, 23" />
-      <property name="1" value="25, 11, 31" />
-      <property name="2" value="27, 12, 31" />
+      <property name="1" value="25, 7, 26" />
+      <property name="2" value="26, 16, 29" />
+      <property name="3" value="27, 16, 29" />
+      <property name="4" value="29, 16, 29" />
+      <property name="5" value="26, 16, 30" />
+      <property name="6" value="29, 16, 30" />
+      <property name="7" value="29, 17, 30" />
+      <property name="8" value="25, 11, 31" />
+      <property name="9" value="26, 16, 31" />
+      <property name="10" value="27, 12, 31" />
+      <property name="11" value="29, 16, 31" />
+      <property name="12" value="29, 17, 31" />
+      <property name="13" value="26, 16, 32" />
+      <property name="14" value="29, 16, 32" />
+      <property name="15" value="26, 16, 33" />
+      <property name="16" value="23, 6, 34" />
+      <property name="17" value="23, 6, 35" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="21, 5, 40" />
@@ -68,11 +83,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="669040" />
-    <property name="TotalTriangles" value="272532" />
+    <property name="TotalVertices" value="615828" />
+    <property name="TotalTriangles" value="251002" />
     <property class="BlockEntities">
-      <property name="Vertices" value="563540" />
-      <property name="Triangles" value="203156" />
+      <property name="Vertices" value="510314" />
+      <property name="Triangles" value="181598" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="99916" />
@@ -95,8 +110,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="5248" />
-      <property name="Triangles" value="8280" />
+      <property name="Vertices" value="5262" />
+      <property name="Triangles" value="8308" />
     </property>
   </property>
 </prefab>

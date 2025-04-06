@@ -1,6 +1,6 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
-V1.3.027 (ZZ027)
+V2.0.027 (ZZ027)
 * Removed part_terrain_greeble_12W3H from rwg_tile_countrytown_t_zztong_01.
 * Added zztong_sheriff_01 to the "police" theme.
 * Rescued the A16 and A20 versions of abandoned_house_06 for AidenWithAnAxe.
