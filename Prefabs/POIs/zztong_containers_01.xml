@@ -9,38 +9,38 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="42, 13, 42" />
+  <property name="PrefabSize" value="42, 20, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
-  <property name="YOffset" value="-3" />
-  <property name="Tags" value="rural, gateway" />
+  <property name="YOffset" value="-10" />
+  <property name="Tags" value="rural, gateway, cave, entrance" />
   <property name="SleeperVolumeSize" value="19, 6, 8#7, 6, 30#13, 6, 14#8, 6, 37#6, 6, 8#14, 3, 16" />
-  <property name="SleeperVolumeStart" value="12, 3, 33#1, 3, 8#18, 3, 3#32, 3, 4#21, 4, 19#18, 3, 17" />
+  <property name="SleeperVolumeStart" value="12, 10, 33#1, 10, 8#18, 10, 3#32, 10, 4#21, 11, 19#18, 10, 17" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,2,GroupGenericZombie,1,1" />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,4" />
-  <property name="POIMarkerSize" value="5, 2, 11#7, 13, 3#9, 3, 12#5, 1, 1#1, 1, 4#5, 1, 5#2, 1, 2#1, 1, 8#7, 13, 2" />
-  <property name="POIMarkerStart" value="11, 3, 19#9, 2, -3#9, 3, 18#30, 3, 3#1, 3, 5#6, 3, 11#34, 3, 20#17, 3, 10#9, 2, -2" />
-  <property name="POIMarkerGroup" value="bigpart,driveway,bigpart,spikes1,spikes2,fakemines,hay,ibeam,driveway" />
-  <property name="POIMarkerTags" value="#rural#######gateway" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_trailer_bodybags,part_driveway_rural_12,part_campsite_01,part_zztong_spikes_wood5,part_zztong_spikes_wood4,part_zztong_mine_field_fake_01,part_zztong_hay_bale_round_02,part_zztong_ibeam8,part_driveway_gateway_02" />
-  <property name="POIMarkerPartRotations" value="3,2,0,0,1,0,0,1,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.5,1,0.3,0.3,0.3,0.2,0.4,0.5,1" />
+  <property name="POIMarkerSize" value="5, 2, 11#7, 13, 3#9, 3, 12#5, 1, 1#1, 1, 4#5, 1, 5#2, 1, 2#1, 1, 8#7, 13, 2#1, 3, 3" />
+  <property name="POIMarkerStart" value="11, 10, 19#9, 9, -3#9, 10, 18#30, 10, 3#1, 10, 5#6, 10, 11#34, 10, 20#17, 10, 10#9, 9, -2#42, 2, 29" />
+  <property name="POIMarkerGroup" value="bigpart,driveway,bigpart,spikes1,spikes2,fakemines,hay,ibeam,driveway,cave" />
+  <property name="POIMarkerTags" value="#rural#######gateway#cavenode" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,None" />
+  <property name="POIMarkerPartToSpawn" value="part_trailer_bodybags,part_driveway_rural_12,part_campsite_01,part_zztong_spikes_wood5,part_zztong_spikes_wood4,part_zztong_mine_field_fake_01,part_zztong_hay_bale_round_02,part_zztong_ibeam8,part_driveway_gateway_02," />
+  <property name="POIMarkerPartRotations" value="3,2,0,0,1,0,0,1,2,3" />
+  <property name="POIMarkerPartSpawnChance" value="0.5,1,0.3,0.3,0.3,0.2,0.4,0.5,1,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="479260" />
-    <property name="TotalTriangles" value="171988" />
+    <property name="TotalVertices" value="427443" />
+    <property name="TotalTriangles" value="167276" />
     <property class="BlockEntities">
-      <property name="Vertices" value="461040" />
-      <property name="Triangles" value="156822" />
+      <property name="Vertices" value="407335" />
+      <property name="Triangles" value="149094" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="13118" />
-      <property name="Triangles" value="7102" />
+      <property name="Vertices" value="13452" />
+      <property name="Triangles" value="7378" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -59,31 +59,34 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="5094" />
-      <property name="Triangles" value="8060" />
+      <property name="Vertices" value="6648" />
+      <property name="Triangles" value="10800" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood">
-      <property name="0" value="39, 3, 27" />
+      <property name="0" value="39, 10, 27" />
     </property>
     <property class="Rally">
-      <property name="0" value="10, 4, 4" />
+      <property name="0" value="10, 11, 4" />
     </property>
     <property class="challenge_polymers">
-      <property name="0" value="38, 3, 11" />
+      <property name="0" value="38, 10, 11" />
     </property>
     <property class="challenge_cars">
-      <property name="0" value="28, 3, 32" />
+      <property name="0" value="28, 10, 32" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="23, 4, 7" />
+      <property name="0" value="23, 11, 7" />
     </property>
     <property class="challenge_pallet">
-      <property name="0" value="24, 3, 37" />
+      <property name="0" value="24, 10, 37" />
     </property>
     <property class="POILight">
-      <property name="0" value="23, 11, 27" />
+      <property name="0" value="23, 18, 27" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="26, 11, 22" />
     </property>
   </property>
 </prefab>

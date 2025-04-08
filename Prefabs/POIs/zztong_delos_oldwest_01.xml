@@ -13,15 +13,15 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="DuplicateRepeatDistance" value="4000" />
   <property name="Zoning" value="none" />
-  <property name="Tags" value="wilderness, oldwest" />
-  <property name="POIMarkerSize" value="7, 4, 7#3, 6, 3#1, 3, 1#2, 2, 8#3, 0, 5" />
-  <property name="POIMarkerStart" value="34, 13, 25#37, 14, 2#37, 14, 23#7, 14, 7#19, 14, -5" />
-  <property name="POIMarkerGroup" value="coop,clock,hive,wood,roadexit" />
-  <property name="POIMarkerTags" value="####" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,RoadExit" />
-  <property name="POIMarkerPartToSpawn" value="part_chicken_coup_04,part_street_clock,part_zztong_beehive_01,part_zztong_firewood_03," />
-  <property name="POIMarkerPartRotations" value="3,0,0,0,2" />
-  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.4,0.4,1" />
+  <property name="Tags" value="wilderness, oldwest, cave, entrance" />
+  <property name="POIMarkerSize" value="7, 4, 7#3, 6, 3#1, 3, 1#2, 2, 8#3, 0, 5#1, 2, 1" />
+  <property name="POIMarkerStart" value="34, 13, 25#37, 14, 2#37, 14, 23#7, 14, 7#19, 14, -5#42, 2, 8" />
+  <property name="POIMarkerGroup" value="coop,clock,hive,wood,roadexit,cave" />
+  <property name="POIMarkerTags" value="#####cavenode" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,RoadExit,None" />
+  <property name="POIMarkerPartToSpawn" value="part_chicken_coup_04,part_street_clock,part_zztong_beehive_01,part_zztong_firewood_03,," />
+  <property name="POIMarkerPartRotations" value="3,0,0,0,2,3" />
+  <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.4,0.4,1,1" />
   <property name="SleeperVolumeSize" value="22, 3, 14#24, 3, 10#24, 4, 9#7, 4, 9#7, 4, 7#8, 4, 17#13, 4, 17#14, 4, 16#12, 5, 14#19, 3, 15#11, 5, 6#9, 3, 11#13, 3, 10#12, 4, 15" />
   <property name="SleeperVolumeStart" value="9, 20, 6#9, 20, 21#9, 20, 32#25, 15, 32#25, 15, 24#23, 15, 6#9, 15, 6#9, 15, 25#15, 8, 24#11, 8, 8#17, 2, 5#10, 2, 12#19, 2, 12#15, 2, 23" />
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
@@ -33,11 +33,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="Wilderness, oldwest" />
   <property class="Stats">
-    <property name="TotalVertices" value="1053641" />
-    <property name="TotalTriangles" value="435306" />
+    <property name="TotalVertices" value="978172" />
+    <property name="TotalTriangles" value="416137" />
     <property class="BlockEntities">
-      <property name="Vertices" value="904145" />
-      <property name="Triangles" value="343868" />
+      <property name="Vertices" value="828644" />
+      <property name="Triangles" value="324647" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="137444" />
@@ -60,17 +60,25 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="10086" />
-      <property name="Triangles" value="16432" />
+      <property name="Vertices" value="10118" />
+      <property name="Triangles" value="16484" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_stump">
+      <property name="0" value="2, 14, 9" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="36, 14, 36" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="27, 21, 37" />
       <property name="1" value="21, 27, 39" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="27, 2, 37" />
+      <property name="1" value="27, 8, 37" />
+      <property name="2" value="29, 21, 39" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 14, 14" />
@@ -98,10 +106,6 @@
       <property name="0" value="25, 21, 22" />
       <property name="1" value="26, 21, 24" />
       <property name="2" value="29, 21, 24" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="27, 2, 37" />
-      <property name="1" value="27, 8, 37" />
     </property>
     <property class="Rally">
       <property name="0" value="36, 15, 10" />
