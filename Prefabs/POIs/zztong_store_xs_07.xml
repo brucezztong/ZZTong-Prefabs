@@ -20,27 +20,27 @@
   <property name="SleeperIsLootVolume" value="False,False,False,False,False" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
-  <property name="Tags" value="countrytown, commercial, nodiagonal" />
-  <property name="POIMarkerSize" value="6, 13, 2#5, 3, 5#4, 2, 4#3, 1, 1" />
-  <property name="POIMarkerStart" value="9, 7, -2#4, 12, 6#17, 12, 11#11, 8, 11" />
-  <property name="POIMarkerGroup" value="driveway,roof1,roof2,spikes" />
-  <property name="POIMarkerTags" value="countrytown###" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_17,part_greeble_rooftop_01,part_greeble_rooftop_03,part_zztong_spikes_wood3" />
-  <property name="POIMarkerPartRotations" value="2,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.8,0.2" />
+  <property name="Tags" value="countrytown, commercial, cave, entrance, nodiagonal" />
+  <property name="POIMarkerSize" value="6, 13, 2#5, 3, 5#4, 2, 4#3, 1, 1#1, 2, 1" />
+  <property name="POIMarkerStart" value="9, 7, -2#4, 12, 6#17, 12, 11#11, 8, 11#-1, 2, 6" />
+  <property name="POIMarkerGroup" value="driveway,roof1,roof2,spikes,cave" />
+  <property name="POIMarkerTags" value="countrytown####cavenode" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,None" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_17,part_greeble_rooftop_01,part_greeble_rooftop_03,part_zztong_spikes_wood3," />
+  <property name="POIMarkerPartRotations" value="2,0,0,0,1" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.8,0.2,1" />
   <property name="PrefabSize" value="25, 14, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="139659" />
-    <property name="TotalTriangles" value="54785" />
+    <property name="TotalVertices" value="139915" />
+    <property name="TotalTriangles" value="55037" />
     <property class="BlockEntities">
-      <property name="Vertices" value="124358" />
-      <property name="Triangles" value="42577" />
+      <property name="Vertices" value="124486" />
+      <property name="Triangles" value="42689" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="12479" />
-      <property name="Triangles" value="7280" />
+      <property name="Vertices" value="12559" />
+      <property name="Triangles" value="7320" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -59,13 +59,15 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="2726" />
-      <property name="Triangles" value="4880" />
+      <property name="Vertices" value="2774" />
+      <property name="Triangles" value="4980" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
-      <property name="0" value="19, 8, 16" />
+      <property name="0" value="20, 9, 1" />
+      <property name="1" value="16, 8, 11" />
+      <property name="2" value="19, 8, 11" />
     </property>
     <property class="quest_feather">
       <property name="0" value="2, 10, 22" />

@@ -20,17 +20,17 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property name="EditorGroups" value="commercial" />
-  <property name="Tags" value="commercial" />
+  <property name="Tags" value="commercial, cave, entrance" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="YOffset" value="-13" />
-  <property name="POIMarkerSize" value="4, 2, 4#5, 3, 4#6, 1, 1#2, 2, 2#3, 2, 2#1, 3, 1#2, 2, 2#2, 4, 5" />
-  <property name="POIMarkerStart" value="5, 24, 24#8, 24, 8#19, 13, 1#36, 14, 31#20, 13, 38#21, 13, 41#32, 13, 34#38, 14, 20" />
-  <property name="POIMarkerGroup" value="hvac1,hvac2,barrier,delivery,dumpster,ladder,pallets,shelf" />
-  <property name="POIMarkerTags" value="#######" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_greeble_rooftop_05,part_zztong_barrier6_white,part_zztong_delivery_01,part_zztong_dumpster_01,part_zztong_ladder_wood_01,part_zztong_pallets_cement_01,part_zztong_shelf_wooden_01" />
-  <property name="POIMarkerPartRotations" value="0,0,0,0,0,0,0,0" />
-  <property name="POIMarkerPartSpawnChance" value="0.8,0.5,0.2,0.5,0.5,0.5,0.5,0.5" />
+  <property name="POIMarkerSize" value="4, 2, 4#5, 3, 4#6, 1, 1#2, 2, 2#3, 2, 2#1, 3, 1#2, 2, 2#2, 4, 5#1, 3, 3" />
+  <property name="POIMarkerStart" value="5, 24, 24#8, 24, 8#19, 13, 1#36, 14, 31#20, 13, 38#21, 13, 41#32, 13, 34#38, 14, 20#-1, 1, 17" />
+  <property name="POIMarkerGroup" value="hvac1,hvac2,barrier,delivery,dumpster,ladder,pallets,shelf,cave" />
+  <property name="POIMarkerTags" value="########cavenode" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,None" />
+  <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_greeble_rooftop_05,part_zztong_barrier6_white,part_zztong_delivery_01,part_zztong_dumpster_01,part_zztong_ladder_wood_01,part_zztong_pallets_cement_01,part_zztong_shelf_wooden_01," />
+  <property name="POIMarkerPartRotations" value="0,0,0,0,0,0,0,0,1" />
+  <property name="POIMarkerPartSpawnChance" value="0.8,0.5,0.2,0.5,0.5,0.5,0.5,0.5,1" />
   <property class="IndexedBlockOffsets">
     <property class="challenge_polymers">
       <property name="0" value="37, 14, 5" />
@@ -51,9 +51,6 @@
       <property name="12" value="7, 20, 28" />
       <property name="13" value="11, 19, 28" />
       <property name="14" value="13, 16, 28" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="38, 14, 13" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="39, 14, 14" />
@@ -77,6 +74,9 @@
       <property name="10" value="14, 19, 9" />
       <property name="11" value="15, 19, 9" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="38, 14, 13" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="15, 19, 21" />
     </property>
@@ -85,15 +85,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="613282" />
-    <property name="TotalTriangles" value="245512" />
+    <property name="TotalVertices" value="603464" />
+    <property name="TotalTriangles" value="244796" />
     <property class="BlockEntities">
-      <property name="Vertices" value="524156" />
-      <property name="Triangles" value="186101" />
+      <property name="Vertices" value="514244" />
+      <property name="Triangles" value="185165" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="78976" />
-      <property name="Triangles" value="44017" />
+      <property name="Vertices" value="78912" />
+      <property name="Triangles" value="43985" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -112,8 +112,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="8964" />
-      <property name="Triangles" value="14552" />
+      <property name="Vertices" value="9122" />
+      <property name="Triangles" value="14804" />
     </property>
   </property>
 </prefab>
