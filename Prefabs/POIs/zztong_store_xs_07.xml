@@ -10,7 +10,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="EditorGroups" value="commercial" />
+  <property name="EditorGroups" value="commercial, cave" />
   <property name="Zoning" value="Commercial" />
   <property name="YOffset" value="-8" />
   <property name="SleeperVolumeSize" value="10, 3, 15#10, 3, 15#13, 7, 7#23, 5, 14#23, 3, 7" />
@@ -21,26 +21,26 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0" />
   <property name="Tags" value="countrytown, commercial, cave, entrance, nodiagonal" />
-  <property name="POIMarkerSize" value="6, 13, 2#5, 3, 5#4, 2, 4#3, 1, 1#1, 2, 1" />
-  <property name="POIMarkerStart" value="9, 7, -2#4, 12, 6#17, 12, 11#11, 8, 11#-1, 2, 6" />
-  <property name="POIMarkerGroup" value="driveway,roof1,roof2,spikes,cave" />
-  <property name="POIMarkerTags" value="countrytown####cavenode" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,None" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_17,part_greeble_rooftop_01,part_greeble_rooftop_03,part_zztong_spikes_wood3," />
-  <property name="POIMarkerPartRotations" value="2,0,0,0,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.8,0.2,1" />
+  <property name="POIMarkerSize" value="6, 13, 2#5, 3, 5#4, 2, 4#3, 1, 1#1, 2, 2#2, 2, 1#1, 2, 2#3, 2, 1" />
+  <property name="POIMarkerStart" value="9, 7, -2#4, 12, 6#17, 12, 11#11, 8, 11#-1, 2, 6#3, 1, -1#25, 1, 16#15, 1, 25" />
+  <property name="POIMarkerGroup" value="driveway,roof1,roof2,spikes,cave,cave,cave,cave" />
+  <property name="POIMarkerTags" value="countrytown####cavenode#cavenode#cavenode#cavenode" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,None,None,None,None" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_17,part_greeble_rooftop_01,part_greeble_rooftop_03,part_zztong_spikes_wood3,,,," />
+  <property name="POIMarkerPartRotations" value="2,0,0,0,1,2,3,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.8,0.8,0.2,1,1,1,1" />
   <property name="PrefabSize" value="25, 14, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="139915" />
-    <property name="TotalTriangles" value="55037" />
+    <property name="TotalVertices" value="142643" />
+    <property name="TotalTriangles" value="55941" />
     <property class="BlockEntities">
-      <property name="Vertices" value="124486" />
-      <property name="Triangles" value="42689" />
+      <property name="Vertices" value="126900" />
+      <property name="Triangles" value="43121" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="12559" />
-      <property name="Triangles" value="7320" />
+      <property name="Vertices" value="12647" />
+      <property name="Triangles" value="7364" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -59,15 +59,13 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="2774" />
-      <property name="Triangles" value="4980" />
+      <property name="Vertices" value="3000" />
+      <property name="Triangles" value="5408" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="TraderOnOff">
-      <property name="0" value="20, 9, 1" />
-      <property name="1" value="16, 8, 11" />
-      <property name="2" value="19, 8, 11" />
+      <property name="0" value="16, 2, 23" />
     </property>
     <property class="quest_feather">
       <property name="0" value="2, 10, 22" />

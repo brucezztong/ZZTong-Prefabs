@@ -11,7 +11,7 @@
   <property name="YOffset" value="-12" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="Zoning" value="Industrial" />
-  <property name="EditorGroups" value="industrial" />
+  <property name="EditorGroups" value="industrial, cave" />
   <property name="SleeperVolumeStart" value="24, 12, 26#5, 12, 26#20, 12, 4#25, 14, 27#4, 12, 4#31, 12, 4" />
   <property name="SleeperVolumeSize" value="16, 2, 14#18, 10, 12#10, 6, 22#15, 6, 12#15, 5, 20#7, 5, 22" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,4,4,GroupGenericZombie,3,4,GroupGenericZombie,4,5,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,1,1" />
@@ -22,14 +22,14 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="countrytown, cave, entrance, diagonal" />
-  <property name="POIMarkerSize" value="7, 13, 2#5, 5, 8#1, 2, 2#1, 2, 2" />
-  <property name="POIMarkerStart" value="16, 11, 42#9, 12, 10#42, 1, 12#-1, 1, 19" />
-  <property name="POIMarkerGroup" value="driveway,container,cave,cave" />
-  <property name="POIMarkerTags" value="countrytown##cavenode#cavenode" />
-  <property name="POIMarkerType" value="PartSpawn,PartSpawn,None,None" />
-  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_11,part_shipping_container_04,," />
-  <property name="POIMarkerPartRotations" value="0,0,3,1" />
-  <property name="POIMarkerPartSpawnChance" value="1,0.6,1,1" />
+  <property name="POIMarkerSize" value="7, 13, 2#5, 5, 8#1, 2, 2#1, 2, 2#2, 2, 1" />
+  <property name="POIMarkerStart" value="16, 11, 42#9, 12, 10#42, 1, 12#-1, 1, 19#17, 2, -1" />
+  <property name="POIMarkerGroup" value="driveway,container,cave,cave,cave" />
+  <property name="POIMarkerTags" value="countrytown##cavenode#cavenode#cavenode" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,None,None,None" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countrytown_11,part_shipping_container_04,,," />
+  <property name="POIMarkerPartRotations" value="0,0,3,1,2" />
+  <property name="POIMarkerPartSpawnChance" value="1,0.6,1,1,1" />
   <property name="PrefabSize" value="42, 22, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="IndexedBlockOffsets">
@@ -72,15 +72,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="443525" />
-    <property name="TotalTriangles" value="221741" />
+    <property name="TotalVertices" value="454185" />
+    <property name="TotalTriangles" value="229657" />
     <property class="BlockEntities">
-      <property name="Vertices" value="392835" />
-      <property name="Triangles" value="165869" />
+      <property name="Vertices" value="403159" />
+      <property name="Triangles" value="173341" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="42814" />
-      <property name="Triangles" value="43130" />
+      <property name="Vertices" value="42942" />
+      <property name="Triangles" value="43194" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -99,8 +99,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="7748" />
-      <property name="Triangles" value="12640" />
+      <property name="Vertices" value="7956" />
+      <property name="Triangles" value="13020" />
     </property>
   </property>
 </prefab>
