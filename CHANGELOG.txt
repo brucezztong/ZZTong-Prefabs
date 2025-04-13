@@ -18,6 +18,8 @@ V2.0.027 (ZZ027)
 * Fixed bug in Trader Bob variants and zztong_store_xs_05.
     Who knew that triggers to activate light was such a hassle?
 * Added integrations for the The Descent modlet; POIs still work in Vanilla.
+* Converted terrStone blocks to terrStoneHelper blocks; better biome blending.
+    This changed a lot of POIs and Tiles in small ways.
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
