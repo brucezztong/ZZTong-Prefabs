@@ -77,6 +77,7 @@ zztong_cabin_02,POI,POI,,x,Hobart's Cabin,,Hobart's Kabine,Cabina de Hobart,Cabi
 zztong_car_show_01,POI,POI,,x,Car Show,,Auto Show,Show de autos,Salon de l'automobile,Spettacolo automobilistico,カーショー,자동차 쇼,Pokaz samochodowy,Show de carros,Авто шоу,Araba şovu,车展中心,車展
 zztong_car_wash_01,POI,POI,,x,Kwik Kleen Car Wash,,Kwik Kleen Autowaschanlage,Kwik Kleen Car Wash,Kwik Kleen Car Wash,Autolavaggio Kwik Kleen,Kwik Kleen Car Wash,Kwik Kleen Car Wash,Kwik Kleen Wash,Lavagem do carro Kwik Kleen,Kwik Kleen Car Wash,Kwik Kleen Araba Yıkama,快洁洗车行,Kwik Kleen洗車
 zztong_cave_01,POI,POI,,x,Spelunking Adventures,,Abenteuer ausbreiten,Aventuras de espeleología,Aventures de spenking,Avventure spelunking,冒険の冒険,Spelunking 모험,Splunking Adventures,Aventuras de Spelunking,Приключения Spelunking,Spelunking Maceraları,洞穴探险,Spelunking冒險
+zztong_cave_02,POI,POI,,x,Mine Safety Academy,,,,,,,,,,,,,
 zztong_cement_plant_01,POI,POI,,x,Cement Plant,,Zementanlage,Planta de cemento,Ciment,Pianta di cemento,セメント植物,시멘트 공장,Zakład cementowy,Planta de cimento,Цементное растение,Çimento bitkisi,水泥厂,水泥廠
 zztong_cheerdancegym_01,POI,POI,,x,Navezgane Gymnastics,,Navezgane Gymnastik,Gimnasia de Navezgane,Gymnastique de Navezgane,Ginnastica Navezgane,ナベズガンの体操,Navezgane 체조,Navezgane gimnastyka,Ginástica Navezgane,Навзгане гимнастика,Navezgane Jimnastik,纳维加纳体操馆,Navezgane體操
 zztong_containers_01,POI,POI,,x,Containers,,Behälter,Contenedores,Conteneurs,Containers,コンテナ,컨테이너,Pojemniki,Contêineres,Контейнеры,Kaplar,集装箱堆场,容器
