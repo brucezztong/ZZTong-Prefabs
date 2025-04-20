@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="PrefabSize" value="12, 12, 12" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property name="POIMarkerSize" value="4, 4, 1#4, 4, 1" />
+  <property name="POIMarkerStart" value="3, 3, -1#4, 3, 12" />
+  <property name="POIMarkerGroup" value="cave,cave" />
+  <property name="POIMarkerTags" value="cavenode#cavenode" />
+  <property name="POIMarkerType" value="None,None" />
+  <property name="POIMarkerPartToSpawn" value="," />
+  <property name="POIMarkerPartRotations" value="2,0" />
+  <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="EditorGroups" value="cave" />
+  <property name="Tags" value="cave, underground" />
+  <property name="DuplicateRepeatDistance" value="2000" />
+  <property class="Stats">
+    <property name="TotalVertices" value="6117" />
+    <property name="TotalTriangles" value="9572" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="4517" />
+      <property name="Triangles" value="7236" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="184" />
+      <property name="Triangles" value="92" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="1416" />
+      <property name="Triangles" value="2244" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="4, 7, 5" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="6, 6, 4" />
+    </property>
+  </property>
+</prefab>

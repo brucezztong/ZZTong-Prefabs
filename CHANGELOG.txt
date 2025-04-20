@@ -22,6 +22,8 @@ V2.0.027 (ZZ027)
     This changed a lot of POIs and Tiles in small ways.
 * Added zztong_cave_02.
 * Added zztong_underground_01 -- only appears if The Descent is used.
+* Added zztong_underground_02 -- only appears if The Descent is used.
+* Added zztong_underground_03 -- only appears if The Descent is used.
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.

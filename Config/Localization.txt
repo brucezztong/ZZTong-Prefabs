@@ -262,6 +262,14 @@ zztong_trailer_park_03,POI,POI,,x,Verdant Meadows Trailer Park,,Grüner Meadows 
 zztong_trailer_park_04,POI,POI,,x,Happy Hour Trailers,,Happy Hour Trailer,Trailers de la hora feliz,Randers de l'happy hour,Trailer di happy hour,ハッピーアワートレーラー,해피 아워 트레일러,Przyczepy Happy Hour,Reboques de happy hour,Счастливого часа трейлеров,Happy Hour Fragers,欢乐时光拖车区,歡樂時光拖車
 zztong_truck_park_01,POI,POI,,x,Truck Park,,LKW -Park,Parque de camiones,Parc de camions,Truck Park,トラックパーク,트럭 공원,Park Truck,Parque de caminhão,Парк грузовиков,Kamyon parkı,卡车停放场,卡車公園
 zztong_truck_stop_01,POI,POI,,x,Clunky Oil Co. Truck Stop,,Klobiger Oil Co. LKW -Stopp,Corción de camiones de petróleo clunky,Clokyy Oil Co. Truck Stop,Clunky Oil Co. Truck Stop,Clunky Oil Co.トラック停留所,Clunky Oil Co. 트럭 정류장,Clunky Oil Co.,Parada de caminhão de petróleo clunky co.,Clunky Oil Co. остановка грузовика,Clunky Oil Co. Kamyon Durağı,克朗基石油公司卡车驿站,笨拙的石油公司卡車站
+zztong_underground_01,POI,POI,,x,Stairway,,,,,,,,,,,,,
+zztong_underground_02,POI,POI,,x,Cave In,,,,,,,,,,,,,
+zztong_underground_03,POI,POI,,x,Speleologist Station Tartarus,,,,,,,,,,,,,
+zztong_underground_04,POI,POI,,x,Speleologist Station Hades,,,,,,,,,,,,,
+zztong_underground_05,POI,POI,,x,Speleologist Station Charon,,,,,,,,,,,,,
+zztong_underground_06,POI,POI,,x,Speleologist Station Erebus,,,,,,,,,,,,,
+zztong_underground_07,POI,POI,,x,Speleologist Station Lethe,,,,,,,,,,,,,
+zztong_underground_08,POI,POI,,x,Speleologist Station Persephone,,,,,,,,,,,,,
 zztong_vault_k9_01,POI,POI,,x,Pet+Vet Kennels,,Haustier+Tierarzt Kennels,Cierras de veterinaria de mascota+,Chenils pour animaux de compagnie,Piet+cani veterinari,ペット+獣医犬小屋,애완 동물+수의사 개집,PET+Weterynarz,PET+Kennels veterinários,Pet+ветеринарные питомники,Pet+veteriner kulübeleri,宠物诊疗寄养所,寵物+獸醫狗窩
 zztong_warehouse_01,POI,POI,,x,Watchtower Distribution,,Wachtturmverteilung,Distribución de Watchtower,Distribution de la tour de guet,Distribuzione della torre di orologeria,ものみの塔の配布,워치 타워 분포,Dystrybucja strażnika,Distribuição da torre de vigia,Сторожевая распределение,Watchtower Dağıtım,瞭望塔物流中心,守望台分佈
 zztong_warehouse_02,POI,POI,,x,Larsone Inc.,,Larsone Inc.,Larsone Inc.,Larsone Inc.,Larsone Inc.,Larsone Inc.,Larsone Inc.,Larsone Inc.,Larsone Inc.,Larsone Inc.,Larsone Inc.,拉尔森公司,Larsone Inc.
