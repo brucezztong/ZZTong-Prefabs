@@ -32,11 +32,11 @@
   <property name="PrefabSize" value="25, 14, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="142643" />
-    <property name="TotalTriangles" value="55941" />
+    <property name="TotalVertices" value="145411" />
+    <property name="TotalTriangles" value="57069" />
     <property class="BlockEntities">
-      <property name="Vertices" value="126900" />
-      <property name="Triangles" value="43121" />
+      <property name="Vertices" value="129524" />
+      <property name="Triangles" value="44177" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="12647" />
@@ -51,8 +51,8 @@
       <property name="Triangles" value="48" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="144" />
+      <property name="Triangles" value="72" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -83,10 +83,15 @@
     <property class="FetchContainer">
       <property name="0" value="21, 9, 12" />
     </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="16, 1, 21" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="12, 8, 23" />
       <property name="1" value="18, 8, 23" />
       <property name="2" value="21, 8, 23" />
+      <property name="3" value="19, 1, 20" />
+      <property name="4" value="18, 1, 19" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="15, 8, 12" />

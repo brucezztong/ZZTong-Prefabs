@@ -33,11 +33,11 @@
   <property name="PrefabSize" value="81, 24, 81" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="187531" />
-    <property name="TotalTriangles" value="106892" />
+    <property name="TotalVertices" value="206581" />
+    <property name="TotalTriangles" value="117252" />
     <property class="BlockEntities">
-      <property name="Vertices" value="148242" />
-      <property name="Triangles" value="53279" />
+      <property name="Vertices" value="166088" />
+      <property name="Triangles" value="62467" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="9647" />
@@ -52,21 +52,24 @@
       <property name="Triangles" value="292" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="624" />
+      <property name="Triangles" value="312" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="29310" />
-      <property name="Triangles" value="47140" />
+      <property name="Vertices" value="29890" />
+      <property name="Triangles" value="48000" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="78, 19, 15" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="36, 3, 69" />
     </property>
     <property class="quest_stone_boulder">
       <property name="0" value="59, 11, 69" />

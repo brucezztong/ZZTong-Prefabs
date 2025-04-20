@@ -32,11 +32,11 @@
   <property name="Tags" value="rural, cave, entrance" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="234440" />
-    <property name="TotalTriangles" value="105860" />
+    <property name="TotalVertices" value="235612" />
+    <property name="TotalTriangles" value="107252" />
     <property class="BlockEntities">
-      <property name="Vertices" value="193146" />
-      <property name="Triangles" value="78871" />
+      <property name="Vertices" value="194094" />
+      <property name="Triangles" value="80151" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="35381" />
@@ -51,8 +51,8 @@
       <property name="Triangles" value="350" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="312" />
-      <property name="Triangles" value="156" />
+      <property name="Vertices" value="536" />
+      <property name="Triangles" value="268" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -64,6 +64,13 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="14, 14, 6" />
+      <property name="1" value="16, 14, 7" />
+      <property name="2" value="14, 19, 8" />
+      <property name="3" value="16, 14, 9" />
+      <property name="4" value="22, 3, 11" />
+    </property>
     <property class="challenge_sinks">
       <property name="0" value="14, 13, 22" />
     </property>
@@ -85,13 +92,6 @@
     </property>
     <property class="FetchContainer">
       <property name="0" value="5, 19, 9" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="14, 14, 6" />
-      <property name="1" value="16, 14, 7" />
-      <property name="2" value="14, 19, 8" />
-      <property name="3" value="16, 14, 9" />
-      <property name="4" value="22, 3, 11" />
     </property>
     <property class="Rally">
       <property name="0" value="1, 14, 15" />

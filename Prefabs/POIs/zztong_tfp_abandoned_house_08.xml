@@ -72,13 +72,16 @@
     <property class="FetchContainer">
       <property name="0" value="20, 19, 27" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="40, 1, 28" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="346947" />
-    <property name="TotalTriangles" value="195466" />
+    <property name="TotalVertices" value="355057" />
+    <property name="TotalTriangles" value="207818" />
     <property class="BlockEntities">
-      <property name="Vertices" value="238777" />
-      <property name="Triangles" value="126205" />
+      <property name="Vertices" value="246349" />
+      <property name="Triangles" value="138285" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="89883" />
@@ -93,16 +96,16 @@
       <property name="Triangles" value="2198" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="536" />
+      <property name="Triangles" value="268" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="8446" />
-      <property name="Triangles" value="13732" />
+      <property name="Vertices" value="8448" />
+      <property name="Triangles" value="13736" />
     </property>
   </property>
 </prefab>

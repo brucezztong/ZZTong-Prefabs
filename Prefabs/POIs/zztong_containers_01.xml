@@ -32,8 +32,8 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property name="EditorGroups" value="rural, cave" />
   <property class="Stats">
-    <property name="TotalVertices" value="434934" />
-    <property name="TotalTriangles" value="174024" />
+    <property name="TotalVertices" value="435342" />
+    <property name="TotalTriangles" value="174228" />
     <property class="BlockEntities">
       <property name="Vertices" value="409534" />
       <property name="Triangles" value="151982" />
@@ -51,8 +51,8 @@
       <property name="Triangles" value="4" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="408" />
+      <property name="Triangles" value="204" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -66,6 +66,7 @@
   <property class="IndexedBlockOffsets">
     <property class="quest_wood">
       <property name="0" value="39, 10, 27" />
+      <property name="1" value="40, 2, 30" />
     </property>
     <property class="Rally">
       <property name="0" value="10, 11, 4" />

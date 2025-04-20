@@ -34,11 +34,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.5,1,0.5,0.2,0.3,0.2,0.2,1,1,1,1" />
   <property name="YOffset" value="-11" />
   <property class="Stats">
-    <property name="TotalVertices" value="338363" />
-    <property name="TotalTriangles" value="166005" />
+    <property name="TotalVertices" value="339608" />
+    <property name="TotalTriangles" value="167445" />
     <property class="BlockEntities">
-      <property name="Vertices" value="286695" />
-      <property name="Triangles" value="126241" />
+      <property name="Vertices" value="287532" />
+      <property name="Triangles" value="127477" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="42954" />
@@ -53,8 +53,8 @@
       <property name="Triangles" value="208" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="408" />
+      <property name="Triangles" value="204" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
@@ -84,9 +84,16 @@
     <property class="Rally">
       <property name="0" value="21, 12, 2" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="39, 1, 10" />
+      <property name="1" value="38, 1, 7" />
+    </property>
     <property class="POILight">
       <property name="0" value="33, 14, 24" />
       <property name="1" value="36, 14, 24" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="29, 1, 22" />
     </property>
   </property>
 </prefab>

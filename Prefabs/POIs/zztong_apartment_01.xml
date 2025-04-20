@@ -82,11 +82,14 @@
       <property name="1" value="28, 17, 26" />
       <property name="2" value="21, 17, 30" />
     </property>
-    <property class="quest_wood_trees">
-      <property name="0" value="37, 9, 25" />
-    </property>
     <property class="quest_wood">
       <property name="0" value="39, 9, 38" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="19, 1, 40" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="37, 9, 25" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="26, 13, 24" />
@@ -99,11 +102,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="927919" />
-    <property name="TotalTriangles" value="398756" />
+    <property name="TotalVertices" value="928020" />
+    <property name="TotalTriangles" value="398792" />
     <property class="BlockEntities">
-      <property name="Vertices" value="819231" />
-      <property name="Triangles" value="332355" />
+      <property name="Vertices" value="819332" />
+      <property name="Triangles" value="332391" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="99190" />

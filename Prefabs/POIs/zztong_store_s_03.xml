@@ -33,11 +33,7 @@
   <property name="POIMarkerPartSpawnChance" value="0.3,0.1,0.5,0.8,0.5,0.5,0.5,0.8,0.5,1,1,1,1" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood">
-      <property name="0" value="5, 11, 4" />
-      <property name="1" value="6, 11, 4" />
-      <property name="2" value="7, 11, 4" />
-      <property name="3" value="8, 11, 4" />
-      <property name="4" value="9, 11, 4" />
+      <property name="0" value="16, 1, 36" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="7, 11, 11" />
@@ -90,8 +86,8 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="885004" />
-    <property name="TotalTriangles" value="359921" />
+    <property name="TotalVertices" value="885388" />
+    <property name="TotalTriangles" value="360113" />
     <property class="BlockEntities">
       <property name="Vertices" value="760651" />
       <property name="Triangles" value="278439" />
@@ -109,8 +105,8 @@
       <property name="Triangles" value="374" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="384" />
+      <property name="Triangles" value="192" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />

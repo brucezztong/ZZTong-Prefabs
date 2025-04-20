@@ -33,11 +33,11 @@
   <property name="PrefabSize" value="42, 41, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="246124" />
-    <property name="TotalTriangles" value="186554" />
+    <property name="TotalVertices" value="283883" />
+    <property name="TotalTriangles" value="201790" />
     <property class="BlockEntities">
-      <property name="Vertices" value="219796" />
-      <property name="Triangles" value="156938" />
+      <property name="Vertices" value="256301" />
+      <property name="Triangles" value="171550" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="11442" />
@@ -52,21 +52,22 @@
       <property name="Triangles" value="244" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="1256" />
+      <property name="Triangles" value="628" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="14578" />
-      <property name="Triangles" value="23156" />
+      <property name="Vertices" value="14576" />
+      <property name="Triangles" value="23152" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="37, 20, 25" />
+      <property name="1" value="37, 10, 35" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="24, 21, 7" />
@@ -74,6 +75,9 @@
     </property>
     <property class="Rally">
       <property name="0" value="16, 21, 2" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="24, 4, 40" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="37, 4, 33" />
@@ -104,6 +108,9 @@
       <property name="1" value="28, 25, 9" />
       <property name="2" value="28, 25, 13" />
       <property name="3" value="30, 23, 14" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="28, 3, 6" />
     </property>
   </property>
 </prefab>

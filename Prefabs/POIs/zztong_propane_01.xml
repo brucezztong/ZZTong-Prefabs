@@ -67,13 +67,16 @@
     <property class="POILight">
       <property name="0" value="27, 14, 37" />
     </property>
+    <property class="quest_wood">
+      <property name="0" value="38, 2, 12" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="37, 16, 36" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="454185" />
-    <property name="TotalTriangles" value="229657" />
+    <property name="TotalVertices" value="454519" />
+    <property name="TotalTriangles" value="229821" />
     <property class="BlockEntities">
       <property name="Vertices" value="403159" />
       <property name="Triangles" value="173341" />
@@ -91,16 +94,16 @@
       <property name="Triangles" value="102" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="336" />
+      <property name="Triangles" value="168" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="7956" />
-      <property name="Triangles" value="13020" />
+      <property name="Vertices" value="7954" />
+      <property name="Triangles" value="13016" />
     </property>
   </property>
 </prefab>
