@@ -20,7 +20,8 @@ V2.0.027 (ZZ027)
 * Added integrations for the The Descent modlet; POIs still work in Vanilla.
 * Converted terrStone blocks to terrStoneHelper blocks; better biome blending.
     This changed a lot of POIs and Tiles in small ways.
-# Added zztong_cave_02.
+* Added zztong_cave_02.
+* Added zztong_underground_01 -- only appears if The Descent is used.
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
