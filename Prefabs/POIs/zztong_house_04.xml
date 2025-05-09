@@ -31,11 +31,11 @@
   <property name="Tags" value="countryresidential, residential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="265650" />
-    <property name="TotalTriangles" value="139107" />
+    <property name="TotalVertices" value="266348" />
+    <property name="TotalTriangles" value="139301" />
     <property class="BlockEntities">
-      <property name="Vertices" value="207539" />
-      <property name="Triangles" value="102120" />
+      <property name="Vertices" value="208237" />
+      <property name="Triangles" value="102314" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="51865" />
@@ -89,8 +89,11 @@
       <property name="0" value="8, 4, 38" />
       <property name="1" value="9, 4, 38" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="26, 3, 4" />
+    </property>
     <property class="Rally">
-      <property name="0" value="35, 4, 4" />
+      <property name="0" value="36, 3, 2" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="35, 3, 19" />

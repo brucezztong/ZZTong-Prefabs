@@ -68,6 +68,16 @@
     <property class="challenge_polymers">
       <property name="0" value="17, 3, 27" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="17, 4, 15" />
+      <property name="1" value="17, 5, 15" />
+      <property name="2" value="17, 58, 15" />
+      <property name="3" value="17, 59, 15" />
+      <property name="4" value="17, 4, 16" />
+      <property name="5" value="17, 5, 16" />
+      <property name="6" value="17, 58, 16" />
+      <property name="7" value="17, 4, 17" />
+    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="16, 58, 14" />
     </property>
@@ -78,7 +88,7 @@
       <property name="0" value="5, 3, 16" />
     </property>
     <property class="Rally">
-      <property name="0" value="16, 4, 1" />
+      <property name="0" value="15, 3, 1" />
     </property>
     <property class="POILight">
       <property name="0" value="15, 60, 15" />

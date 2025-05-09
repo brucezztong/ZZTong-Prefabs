@@ -25,11 +25,11 @@
   <property name="YOffset" value="-2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="543729" />
-    <property name="TotalTriangles" value="225010" />
+    <property name="TotalVertices" value="520378" />
+    <property name="TotalTriangles" value="219440" />
     <property class="BlockEntities">
-      <property name="Vertices" value="460143" />
-      <property name="Triangles" value="164148" />
+      <property name="Vertices" value="436792" />
+      <property name="Triangles" value="158578" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="73198" />
@@ -78,7 +78,7 @@
       <property name="0" value="35, 2, 30" />
     </property>
     <property class="Rally">
-      <property name="0" value="22, 3, 3" />
+      <property name="0" value="24, 2, 3" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="51, 8, 46" />
@@ -88,23 +88,15 @@
       <property name="4" value="50, 4, 50" />
       <property name="5" value="52, 2, 52" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="54, 3, 49" />
+      <property name="1" value="54, 3, 50" />
+    </property>
     <property class="challenge_steel">
       <property name="0" value="47, 2, 15" />
     </property>
     <property class="quest_feather">
       <property name="0" value="45, 8, 31" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="30, 2, 46" />
-      <property name="1" value="38, 2, 47" />
-      <property name="2" value="35, 3, 48" />
-      <property name="3" value="38, 2, 48" />
-      <property name="4" value="40, 2, 48" />
-      <property name="5" value="43, 3, 48" />
-      <property name="6" value="35, 3, 49" />
-      <property name="7" value="43, 3, 49" />
-      <property name="8" value="38, 2, 50" />
-      <property name="9" value="40, 2, 50" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="30, 3, 49" />

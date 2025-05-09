@@ -33,7 +33,7 @@
   <property name="EditorGroups" value="rural" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="4, 4, 2" />
+      <property name="0" value="3, 3, 2" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="15, 3, 20" />
@@ -51,6 +51,30 @@
     <property class="TraderOnOff">
       <property name="0" value="14, 3, 19" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="12, 5, 12" />
+      <property name="1" value="21, 5, 12" />
+      <property name="2" value="12, 5, 13" />
+      <property name="3" value="16, 5, 13" />
+      <property name="4" value="17, 5, 13" />
+      <property name="5" value="21, 5, 13" />
+      <property name="6" value="12, 5, 14" />
+      <property name="7" value="16, 5, 14" />
+      <property name="8" value="17, 5, 14" />
+      <property name="9" value="21, 5, 14" />
+      <property name="10" value="16, 5, 15" />
+      <property name="11" value="17, 5, 15" />
+      <property name="12" value="21, 5, 15" />
+      <property name="13" value="21, 5, 16" />
+      <property name="14" value="21, 5, 17" />
+      <property name="15" value="13, 3, 18" />
+      <property name="16" value="21, 5, 18" />
+      <property name="17" value="21, 5, 19" />
+      <property name="18" value="12, 3, 20" />
+      <property name="19" value="21, 5, 20" />
+      <property name="20" value="12, 3, 21" />
+      <property name="21" value="15, 3, 21" />
+    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="17, 3, 19" />
     </property>
@@ -60,21 +84,16 @@
     <property class="FetchContainer">
       <property name="0" value="16, 3, 18" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="12, 3, 20" />
-      <property name="1" value="12, 3, 21" />
-      <property name="2" value="15, 3, 21" />
-    </property>
     <property class="quest_feather">
       <property name="0" value="21, 9, 21" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="234869" />
-    <property name="TotalTriangles" value="73701" />
+    <property name="TotalVertices" value="194477" />
+    <property name="TotalTriangles" value="65348" />
     <property class="BlockEntities">
-      <property name="Vertices" value="212980" />
-      <property name="Triangles" value="59871" />
+      <property name="Vertices" value="172588" />
+      <property name="Triangles" value="51518" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="19445" />

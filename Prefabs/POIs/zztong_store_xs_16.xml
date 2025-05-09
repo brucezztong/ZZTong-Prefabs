@@ -57,9 +57,13 @@
       <property name="0" value="17, 4, 15" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="12, 14, 19" />
-      <property name="1" value="13, 14, 19" />
-      <property name="2" value="17, 10, 19" />
+      <property name="0" value="14, 9, 13" />
+      <property name="1" value="15, 9, 13" />
+      <property name="2" value="16, 9, 13" />
+      <property name="3" value="12, 14, 19" />
+      <property name="4" value="13, 14, 19" />
+      <property name="5" value="17, 10, 19" />
+      <property name="6" value="13, 4, 20" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="12, 4, 17" />
@@ -73,15 +77,15 @@
       <property name="0" value="17, 4, 19" />
     </property>
     <property class="Rally">
-      <property name="0" value="23, 9, 17" />
+      <property name="0" value="23, 8, 19" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="238454" />
-    <property name="TotalTriangles" value="94026" />
+    <property name="TotalVertices" value="237043" />
+    <property name="TotalTriangles" value="93604" />
     <property class="BlockEntities">
-      <property name="Vertices" value="201340" />
-      <property name="Triangles" value="69119" />
+      <property name="Vertices" value="199929" />
+      <property name="Triangles" value="68697" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="34056" />

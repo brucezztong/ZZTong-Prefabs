@@ -76,8 +76,13 @@
     <property class="POILight">
       <property name="0" value="8, 2, 17" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 9, 20" />
+      <property name="1" value="23, 9, 20" />
+      <property name="2" value="14, 10, 23" />
+    </property>
     <property class="Rally">
-      <property name="0" value="23, 10, 6" />
+      <property name="0" value="23, 9, 5" />
     </property>
   </property>
 </prefab>

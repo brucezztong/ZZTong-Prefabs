@@ -32,11 +32,11 @@
   <property name="Tags" value="countryresidential, residential" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="427724" />
-    <property name="TotalTriangles" value="134454" />
+    <property name="TotalVertices" value="300005" />
+    <property name="TotalTriangles" value="113235" />
     <property class="BlockEntities">
-      <property name="Vertices" value="390870" />
-      <property name="Triangles" value="112306" />
+      <property name="Vertices" value="263151" />
+      <property name="Triangles" value="91087" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="33410" />
@@ -74,7 +74,7 @@
       <property name="6" value="23, 7, 20" />
     </property>
     <property class="Rally">
-      <property name="0" value="3, 8, 7" />
+      <property name="0" value="2, 7, 2" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="15, 18, 14" />
@@ -113,11 +113,15 @@
       <property name="0" value="12, 13, 13" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="19, 13, 18" />
-      <property name="1" value="18, 14, 19" />
-      <property name="2" value="18, 14, 20" />
-      <property name="3" value="13, 9, 21" />
-      <property name="4" value="14, 9, 21" />
+      <property name="0" value="15, 3, 16" />
+      <property name="1" value="15, 3, 17" />
+      <property name="2" value="14, 8, 18" />
+      <property name="3" value="15, 9, 18" />
+      <property name="4" value="19, 13, 18" />
+      <property name="5" value="18, 14, 19" />
+      <property name="6" value="18, 14, 20" />
+      <property name="7" value="13, 9, 21" />
+      <property name="8" value="14, 9, 21" />
     </property>
   </property>
 </prefab>

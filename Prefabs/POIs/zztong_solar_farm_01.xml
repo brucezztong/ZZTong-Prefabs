@@ -47,6 +47,11 @@
     <property class="FetchContainer">
       <property name="0" value="22, 3, 32" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 3, 27" />
+      <property name="1" value="24, 3, 27" />
+      <property name="2" value="24, 2, 31" />
+    </property>
     <property class="POILight">
       <property name="0" value="21, 4, 33" />
     </property>
@@ -57,19 +62,22 @@
     <property class="challenge_polymers">
       <property name="0" value="22, 2, 34" />
     </property>
-    <property class="Rally">
-      <property name="0" value="19, 3, 39" />
-    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="21, 2, 32" />
     </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="24, 2, 36" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="22, 2, 40" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="218388" />
-    <property name="TotalTriangles" value="90069" />
+    <property name="TotalVertices" value="216334" />
+    <property name="TotalTriangles" value="89355" />
     <property class="BlockEntities">
-      <property name="Vertices" value="140666" />
-      <property name="Triangles" value="46499" />
+      <property name="Vertices" value="138612" />
+      <property name="Triangles" value="45785" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="72658" />

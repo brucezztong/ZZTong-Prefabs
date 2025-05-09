@@ -31,11 +31,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1137096" />
-    <property name="TotalTriangles" value="488567" />
+    <property name="TotalVertices" value="1136621" />
+    <property name="TotalTriangles" value="489537" />
     <property class="BlockEntities">
-      <property name="Vertices" value="930535" />
-      <property name="Triangles" value="367684" />
+      <property name="Vertices" value="930060" />
+      <property name="Triangles" value="368654" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="185081" />
@@ -101,13 +101,13 @@
       <property name="3" value="47, 6, 51" />
       <property name="4" value="53, 6, 51" />
     </property>
+    <property class="FetchContainer">
+      <property name="0" value="25, 11, 46" />
+    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="50, 6, 22" />
       <property name="1" value="54, 12, 22" />
       <property name="2" value="49, 6, 26" />
-    </property>
-    <property class="FetchContainer">
-      <property name="0" value="25, 11, 46" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="22, 11, 14" />
@@ -117,7 +117,7 @@
       <property name="4" value="20, 11, 19" />
     </property>
     <property class="Rally">
-      <property name="0" value="25, 7, 1" />
+      <property name="0" value="31, 6, 1" />
     </property>
     <property class="quest_feather">
       <property name="0" value="39, 11, 42" />

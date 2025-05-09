@@ -31,11 +31,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
-    <property name="TotalVertices" value="173681" />
-    <property name="TotalTriangles" value="74920" />
+    <property name="TotalVertices" value="172586" />
+    <property name="TotalTriangles" value="74547" />
     <property class="BlockEntities">
-      <property name="Vertices" value="142378" />
-      <property name="Triangles" value="50855" />
+      <property name="Vertices" value="141283" />
+      <property name="Triangles" value="50482" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="26209" />
@@ -66,8 +66,15 @@
     <property class="POILight">
       <property name="0" value="39, 11, 39" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="24, 8, 21" />
+      <property name="1" value="31, 8, 21" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="22, 3, 6" />
+    </property>
     <property class="Rally">
-      <property name="0" value="18, 4, 2" />
+      <property name="0" value="12, 3, 1" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="18, 5, 10" />
@@ -75,15 +82,11 @@
       <property name="2" value="18, 3, 16" />
       <property name="3" value="18, 3, 20" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_steel">
       <property name="0" value="27, 3, 10" />
     </property>
     <property class="quest_feather">
       <property name="0" value="33, 9, 19" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="17, 3, 15" />
-      <property name="1" value="19, 4, 15" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="23, 9, 12" />
@@ -91,7 +94,7 @@
     <property class="challenge_cars">
       <property name="0" value="25, 3, 31" />
     </property>
-    <property class="challenge_officechairs">
+    <property class="challenge_mech_parts">
       <property name="0" value="18, 3, 18" />
     </property>
   </property>

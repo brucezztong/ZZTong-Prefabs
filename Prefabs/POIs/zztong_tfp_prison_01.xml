@@ -35,11 +35,11 @@
   <property name="Tags" value="wilderness, oldwest" />
   <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
-    <property name="TotalVertices" value="713514" />
-    <property name="TotalTriangles" value="262660" />
+    <property name="TotalVertices" value="700512" />
+    <property name="TotalTriangles" value="259284" />
     <property class="BlockEntities">
-      <property name="Vertices" value="595671" />
-      <property name="Triangles" value="178597" />
+      <property name="Vertices" value="582669" />
+      <property name="Triangles" value="175221" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="113779" />
@@ -68,7 +68,7 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="2, 2, 1" />
+      <property name="0" value="1, 1, 1" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="37, 5, 36" />
@@ -92,6 +92,7 @@
       <property name="3" value="26, 5, 37" />
       <property name="4" value="29, 1, 37" />
       <property name="5" value="29, 5, 37" />
+      <property name="6" value="33, 2, 40" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="11, 9, 37" />

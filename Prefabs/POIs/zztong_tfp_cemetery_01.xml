@@ -78,22 +78,22 @@
     <property class="FetchContainer">
       <property name="0" value="38, 12, 30" />
     </property>
+    <property class="Rally">
+      <property name="0" value="20, 11, 2" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="30, 11, 7" />
     </property>
-    <property class="Rally">
-      <property name="0" value="21, 12, 2" />
-    </property>
     <property class="quest_wood">
-      <property name="0" value="39, 1, 10" />
-      <property name="1" value="38, 1, 7" />
+      <property name="0" value="38, 1, 7" />
+      <property name="1" value="39, 1, 10" />
+    </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="29, 1, 22" />
     </property>
     <property class="POILight">
       <property name="0" value="33, 14, 24" />
       <property name="1" value="36, 14, 24" />
-    </property>
-    <property class="quest_stone_boulder">
-      <property name="0" value="29, 1, 22" />
     </property>
   </property>
 </prefab>

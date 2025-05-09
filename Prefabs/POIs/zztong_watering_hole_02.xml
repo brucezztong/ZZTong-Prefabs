@@ -25,11 +25,11 @@
   <property name="Tags" value="countrytown, commercial, downtown, nodiagonal, diagonal" />
   <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
-    <property name="TotalVertices" value="306637" />
-    <property name="TotalTriangles" value="129258" />
+    <property name="TotalVertices" value="307535" />
+    <property name="TotalTriangles" value="130138" />
     <property class="BlockEntities">
-      <property name="Vertices" value="242883" />
-      <property name="Triangles" value="88706" />
+      <property name="Vertices" value="243781" />
+      <property name="Triangles" value="89586" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="57778" />
@@ -85,6 +85,9 @@
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="21, 3, 11" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="13, 3, 0" />
     </property>
   </property>
 </prefab>

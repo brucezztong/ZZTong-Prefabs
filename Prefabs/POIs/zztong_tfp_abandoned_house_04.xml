@@ -27,13 +27,13 @@
   <property name="Tags" value="countryresidential" />
   <property name="QuestTags" value="clear, fetch" />
   <property class="IndexedBlockOffsets">
-    <property class="Rally">
-      <property name="0" value="2, 3, 7" />
-    </property>
     <property class="challenge_polymers">
       <property name="0" value="20, 2, 13" />
       <property name="1" value="22, 2, 18" />
       <property name="2" value="18, 3, 21" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="3, 2, 5" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="14, 3, 16" />
@@ -42,7 +42,6 @@
     </property>
     <property class="POILight">
       <property name="0" value="15, 5, 20" />
-      <property name="1" value="11, 4, 21" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="6, 2, 23" />

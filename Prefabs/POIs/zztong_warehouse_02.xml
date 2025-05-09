@@ -34,11 +34,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.8,0.8,0.8,0.8,0.8,0.2,0.4,0.6,0.6,0.4,0.6,1,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1429710" />
-    <property name="TotalTriangles" value="647472" />
+    <property name="TotalVertices" value="1392046" />
+    <property name="TotalTriangles" value="632811" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1125108" />
-      <property name="Triangles" value="474093" />
+      <property name="Vertices" value="1087444" />
+      <property name="Triangles" value="459432" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="294684" />
@@ -69,9 +69,6 @@
     <property class="challenge_polymers">
       <property name="0" value="37, 2, 39" />
     </property>
-    <property class="Rally">
-      <property name="0" value="4, 12, 32" />
-    </property>
     <property class="POILight">
       <property name="0" value="38, 19, 37" />
     </property>
@@ -96,6 +93,10 @@
       <property name="9" value="14, 13, 23" />
       <property name="10" value="15, 12, 23" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="38, 17, 14" />
+      <property name="1" value="38, 17, 16" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="37, 9, 24" />
       <property name="1" value="38, 18, 32" />
@@ -103,12 +104,11 @@
     <property class="TraderOnOff">
       <property name="0" value="35, 17, 37" />
     </property>
+    <property class="Rally">
+      <property name="0" value="5, 11, 30" />
+    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="38, 17, 38" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="38, 17, 14" />
-      <property name="1" value="38, 17, 16" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="34, 17, 39" />

@@ -80,6 +80,26 @@
     <property class="POILight">
       <property name="0" value="38, 14, 25" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="28, 4, 23" />
+      <property name="1" value="28, 9, 23" />
+      <property name="2" value="28, 14, 23" />
+      <property name="3" value="28, 19, 23" />
+      <property name="4" value="32, 4, 24" />
+      <property name="5" value="32, 5, 24" />
+      <property name="6" value="32, 9, 24" />
+      <property name="7" value="32, 10, 24" />
+      <property name="8" value="32, 14, 24" />
+      <property name="9" value="32, 15, 24" />
+      <property name="10" value="32, 19, 24" />
+      <property name="11" value="32, 20, 24" />
+      <property name="12" value="28, 4, 25" />
+      <property name="13" value="28, 9, 25" />
+      <property name="14" value="28, 14, 25" />
+      <property name="15" value="28, 19, 25" />
+      <property name="16" value="22, 25, 32" />
+      <property name="17" value="29, 25, 32" />
+    </property>
     <property class="challenge_leather">
       <property name="0" value="38, 4, 21" />
       <property name="1" value="38, 4, 22" />
@@ -91,20 +111,6 @@
     <property class="challenge_polymers">
       <property name="0" value="38, 4, 29" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="28, 4, 23" />
-      <property name="1" value="28, 9, 23" />
-      <property name="2" value="28, 14, 23" />
-      <property name="3" value="28, 19, 23" />
-      <property name="4" value="32, 5, 24" />
-      <property name="5" value="32, 10, 24" />
-      <property name="6" value="32, 15, 24" />
-      <property name="7" value="32, 20, 24" />
-      <property name="8" value="28, 4, 25" />
-      <property name="9" value="28, 9, 25" />
-      <property name="10" value="28, 14, 25" />
-      <property name="11" value="28, 19, 25" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="21, 24, 29" />
     </property>
@@ -112,15 +118,15 @@
       <property name="0" value="14, 14, 30" />
     </property>
     <property class="Rally">
-      <property name="0" value="11, 4, 40" />
+      <property name="0" value="13, 3, 40" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1488364" />
-    <property name="TotalTriangles" value="481206" />
+    <property name="TotalVertices" value="1198926" />
+    <property name="TotalTriangles" value="432959" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1369964" />
-      <property name="Triangles" value="414946" />
+      <property name="Vertices" value="1080526" />
+      <property name="Triangles" value="366699" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="110636" />

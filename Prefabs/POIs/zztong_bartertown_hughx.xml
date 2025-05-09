@@ -27,14 +27,14 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1779297" />
-    <property name="TotalTriangles" value="689662" />
+    <property name="TotalVertices" value="1070607" />
+    <property name="TotalTriangles" value="417854" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1700435" />
-      <property name="Triangles" value="645159" />
+      <property name="Vertices" value="983357" />
+      <property name="Triangles" value="359099" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="78502" />
+      <property name="Vertices" value="78500" />
       <property name="Triangles" value="44323" />
     </property>
     <property class="ChunkMeshes1">
@@ -42,20 +42,20 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="360" />
       <property name="Triangles" value="180" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="8390" />
+      <property name="Triangles" value="14252" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -76,6 +76,10 @@
       <property name="0" value="56, 10, 57" />
       <property name="1" value="57, 9, 59" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="55, 1, 35" />
+      <property name="1" value="56, 2, 36" />
+    </property>
     <property class="challenge_pallet">
       <property name="0" value="18, 1, 19" />
     </property>
@@ -87,7 +91,7 @@
       <property name="0" value="27, 1, 47" />
     </property>
     <property class="Rally">
-      <property name="0" value="35, 2, 4" />
+      <property name="0" value="37, 1, 2" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="52, 1, 28" />

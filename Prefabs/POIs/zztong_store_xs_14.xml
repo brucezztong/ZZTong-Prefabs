@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="commercial" />
   <property class="Stats">
-    <property name="TotalVertices" value="506568" />
-    <property name="TotalTriangles" value="194456" />
+    <property name="TotalVertices" value="492170" />
+    <property name="TotalTriangles" value="190732" />
     <property class="BlockEntities">
-      <property name="Vertices" value="441004" />
-      <property name="Triangles" value="155330" />
+      <property name="Vertices" value="426606" />
+      <property name="Triangles" value="151606" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="61840" />
@@ -68,7 +68,7 @@
       <property name="0" value="18, 8, 21" />
     </property>
     <property class="Rally">
-      <property name="0" value="5, 9, 0" />
+      <property name="0" value="2, 8, 1" />
     </property>
     <property class="POILight">
       <property name="0" value="17, 22, 13" />
@@ -111,19 +111,16 @@
       <property name="0" value="11, 20, 12" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="3, 2, 14" />
-      <property name="1" value="8, 8, 18" />
-      <property name="2" value="8, 14, 18" />
-      <property name="3" value="8, 20, 18" />
-      <property name="4" value="11, 9, 19" />
-      <property name="5" value="11, 15, 19" />
-      <property name="6" value="11, 21, 19" />
-      <property name="7" value="8, 8, 20" />
-      <property name="8" value="8, 14, 20" />
-      <property name="9" value="8, 20, 20" />
-      <property name="10" value="11, 9, 20" />
-      <property name="11" value="11, 15, 20" />
-      <property name="12" value="11, 21, 20" />
+      <property name="0" value="21, 20, 16" />
+      <property name="1" value="21, 20, 17" />
+      <property name="2" value="21, 21, 17" />
+      <property name="3" value="21, 20, 18" />
+      <property name="4" value="21, 21, 18" />
+      <property name="5" value="21, 20, 19" />
+      <property name="6" value="21, 21, 19" />
+      <property name="7" value="21, 20, 20" />
+      <property name="8" value="21, 21, 20" />
+      <property name="9" value="21, 20, 21" />
     </property>
     <property class="quest_feather">
       <property name="0" value="20, 26, 4" />

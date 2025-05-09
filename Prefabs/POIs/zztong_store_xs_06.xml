@@ -32,11 +32,11 @@
   <property name="PrefabSize" value="25, 17, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="287577" />
-    <property name="TotalTriangles" value="119505" />
+    <property name="TotalVertices" value="283374" />
+    <property name="TotalTriangles" value="119282" />
     <property class="BlockEntities">
-      <property name="Vertices" value="251273" />
-      <property name="Triangles" value="97173" />
+      <property name="Vertices" value="247070" />
+      <property name="Triangles" value="96950" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="34224" />
@@ -65,7 +65,7 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="4, 4, 2" />
+      <property name="0" value="2, 3, 2" />
     </property>
     <property class="POILight">
       <property name="0" value="18, 13, 13" />
@@ -84,13 +84,17 @@
     <property class="challenge_cars">
       <property name="0" value="4, 3, 7" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="14, 16, 12" />
+      <property name="1" value="13, 3, 17" />
+      <property name="2" value="13, 12, 17" />
+      <property name="3" value="13, 3, 18" />
+      <property name="4" value="20, 3, 19" />
+      <property name="5" value="21, 3, 19" />
+      <property name="6" value="21, 4, 21" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="18, 4, 13" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="13, 12, 17" />
-      <property name="1" value="20, 3, 19" />
-      <property name="2" value="21, 3, 19" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="13, 3, 12" />
@@ -101,7 +105,6 @@
       <property name="5" value="15, 11, 18" />
       <property name="6" value="17, 7, 18" />
       <property name="7" value="21, 15, 19" />
-      <property name="8" value="17, 3, 20" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="21, 12, 12" />

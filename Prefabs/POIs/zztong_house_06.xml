@@ -72,8 +72,11 @@
     <property class="challenge_mech_parts">
       <property name="0" value="12, 10, 11" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="13, 3, 2" />
+    </property>
     <property class="Rally">
-      <property name="0" value="18, 4, 1" />
+      <property name="0" value="20, 3, 1" />
     </property>
   </property>
 </prefab>

@@ -84,25 +84,27 @@
       <property name="9" value="27, 4, 33" />
       <property name="10" value="28, 4, 33" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 5, 37" />
+      <property name="1" value="25, 4, 37" />
+      <property name="2" value="23, 4, 39" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="28, 18, 21" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="25, 4, 37" />
-    </property>
     <property class="Rally">
-      <property name="0" value="36, 4, 3" />
+      <property name="0" value="35, 3, 4" />
     </property>
     <property class="quest_feather">
       <property name="0" value="28, 18, 33" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="760484" />
-    <property name="TotalTriangles" value="268039" />
+    <property name="TotalVertices" value="582717" />
+    <property name="TotalTriangles" value="238599" />
     <property class="BlockEntities">
-      <property name="Vertices" value="608714" />
-      <property name="Triangles" value="175163" />
+      <property name="Vertices" value="430947" />
+      <property name="Triangles" value="145723" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="143576" />

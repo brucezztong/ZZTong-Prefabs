@@ -33,11 +33,11 @@
   <property name="PrefabSize" value="42, 13, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="429188" />
-    <property name="TotalTriangles" value="184359" />
+    <property name="TotalVertices" value="421718" />
+    <property name="TotalTriangles" value="181883" />
     <property class="BlockEntities">
-      <property name="Vertices" value="364018" />
-      <property name="Triangles" value="138623" />
+      <property name="Vertices" value="356548" />
+      <property name="Triangles" value="136147" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="57998" />
@@ -65,6 +65,12 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="39, 3, 24" />
+      <property name="1" value="39, 4, 25" />
+      <property name="2" value="39, 4, 30" />
+      <property name="3" value="39, 3, 31" />
+    </property>
     <property class="POILight">
       <property name="0" value="31, 5, 25" />
       <property name="1" value="24, 10, 27" />
@@ -76,11 +82,6 @@
       <property name="2" value="39, 5, 31" />
       <property name="3" value="39, 5, 32" />
       <property name="4" value="37, 5, 34" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="28, 4, 23" />
-      <property name="1" value="27, 5, 25" />
-      <property name="2" value="33, 5, 25" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="30, 4, 5" />
@@ -99,17 +100,20 @@
     <property class="challenge_steel">
       <property name="0" value="29, 4, 34" />
     </property>
-    <property class="Rally">
-      <property name="0" value="20, 4, 40" />
-    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="39, 3, 19" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="40, 3, 38" />
     </property>
+    <property class="Rally">
+      <property name="0" value="22, 3, 40" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="41, 3, 13" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="38, 3, 40" />
     </property>
   </property>
 </prefab>

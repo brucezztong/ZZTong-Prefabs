@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="commercial" />
   <property class="Stats">
-    <property name="TotalVertices" value="851039" />
-    <property name="TotalTriangles" value="325106" />
+    <property name="TotalVertices" value="779782" />
+    <property name="TotalTriangles" value="313798" />
     <property class="BlockEntities">
-      <property name="Vertices" value="699994" />
-      <property name="Triangles" value="229917" />
+      <property name="Vertices" value="628737" />
+      <property name="Triangles" value="218609" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="140589" />
@@ -83,15 +83,6 @@
     <property class="challenge_polymers">
       <property name="0" value="37, 9, 33" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="26, 9, 26" />
-      <property name="1" value="26, 16, 26" />
-      <property name="2" value="26, 23, 26" />
-      <property name="3" value="26, 9, 34" />
-      <property name="4" value="26, 16, 34" />
-      <property name="5" value="26, 23, 34" />
-      <property name="6" value="35, 9, 35" />
-    </property>
     <property class="challenge_gore">
       <property name="0" value="15, 9, 6" />
     </property>
@@ -109,8 +100,17 @@
     <property class="quest_feather">
       <property name="0" value="35, 30, 37" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="26, 9, 26" />
+      <property name="1" value="26, 16, 26" />
+      <property name="2" value="26, 23, 26" />
+      <property name="3" value="26, 9, 34" />
+      <property name="4" value="26, 16, 34" />
+      <property name="5" value="26, 23, 34" />
+      <property name="6" value="35, 9, 35" />
+    </property>
     <property class="Rally">
-      <property name="0" value="28, 10, 2" />
+      <property name="0" value="26, 9, 1" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="21, 9, 16" />
@@ -118,6 +118,8 @@
     </property>
     <property class="challenge_sinks">
       <property name="0" value="38, 24, 24" />
+      <property name="1" value="40, 10, 24" />
+      <property name="2" value="40, 10, 25" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="37, 2, 14" />

@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="178345" />
-    <property name="TotalTriangles" value="62115" />
+    <property name="TotalVertices" value="139822" />
+    <property name="TotalTriangles" value="56081" />
     <property class="BlockEntities">
-      <property name="Vertices" value="165633" />
-      <property name="Triangles" value="52439" />
+      <property name="Vertices" value="127110" />
+      <property name="Triangles" value="46405" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="10892" />
@@ -90,6 +90,7 @@
     <property class="challenge_sinks">
       <property name="0" value="3, 3, 21" />
       <property name="1" value="4, 3, 21" />
+      <property name="2" value="11, 4, 23" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="7, 8, 14" />
@@ -98,7 +99,7 @@
       <property name="0" value="10, 4, 15" />
     </property>
     <property class="Rally">
-      <property name="0" value="19, 4, 2" />
+      <property name="0" value="20, 3, 3" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="23, 3, 22" />

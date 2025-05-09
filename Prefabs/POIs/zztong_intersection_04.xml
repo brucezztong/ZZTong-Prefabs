@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="1264415" />
-    <property name="TotalTriangles" value="537878" />
+    <property name="TotalVertices" value="1243716" />
+    <property name="TotalTriangles" value="532021" />
     <property class="BlockEntities">
-      <property name="Vertices" value="933607" />
-      <property name="Triangles" value="334734" />
+      <property name="Vertices" value="912908" />
+      <property name="Triangles" value="328877" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="310932" />
@@ -64,6 +64,17 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="61, 7, 48" />
+      <property name="1" value="54, 2, 49" />
+      <property name="2" value="54, 8, 55" />
+      <property name="3" value="55, 8, 55" />
+      <property name="4" value="57, 7, 55" />
+      <property name="5" value="59, 7, 55" />
+      <property name="6" value="51, 12, 56" />
+      <property name="7" value="56, 22, 58" />
+      <property name="8" value="57, 12, 59" />
+    </property>
     <property class="challenge_gore">
       <property name="0" value="49, 2, 48" />
       <property name="1" value="54, 22, 48" />
@@ -134,18 +145,11 @@
     <property class="FetchContainer">
       <property name="0" value="55, 17, 55" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="54, 2, 49" />
-      <property name="1" value="54, 8, 55" />
-      <property name="2" value="55, 8, 55" />
-      <property name="3" value="57, 7, 55" />
-      <property name="4" value="59, 7, 55" />
-    </property>
     <property class="challenge_cars">
       <property name="0" value="57, 6, 27" />
     </property>
     <property class="Rally">
-      <property name="0" value="61, 7, 29" />
+      <property name="0" value="62, 6, 30" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="57, 17, 53" />

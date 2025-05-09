@@ -41,6 +41,10 @@
     </property>
     <property class="challenge_sinks">
       <property name="0" value="37, 4, 5" />
+      <property name="1" value="39, 2, 5" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="4, 2, 11" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="31, 3, 34" />
@@ -61,7 +65,7 @@
       <property name="0" value="31, 2, 11" />
     </property>
     <property class="Rally">
-      <property name="0" value="16, 3, 2" />
+      <property name="0" value="16, 2, 1" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="7, 3, 6" />
@@ -79,11 +83,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="464862" />
-    <property name="TotalTriangles" value="191089" />
+    <property name="TotalVertices" value="396734" />
+    <property name="TotalTriangles" value="180337" />
     <property class="BlockEntities">
-      <property name="Vertices" value="409496" />
-      <property name="Triangles" value="149909" />
+      <property name="Vertices" value="341368" />
+      <property name="Triangles" value="139157" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="48256" />

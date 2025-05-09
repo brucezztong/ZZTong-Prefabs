@@ -30,13 +30,12 @@
   <property name="POIMarkerPartRotations" value="1,2,3,0" />
   <property name="POIMarkerPartSpawnChance" value="0.6,1,0.2,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
-  <property name="SVS4" value="" />
   <property class="Stats">
-    <property name="TotalVertices" value="1032665" />
-    <property name="TotalTriangles" value="501977" />
+    <property name="TotalVertices" value="1026254" />
+    <property name="TotalTriangles" value="502171" />
     <property class="BlockEntities">
-      <property name="Vertices" value="983566" />
-      <property name="Triangles" value="464588" />
+      <property name="Vertices" value="977155" />
+      <property name="Triangles" value="464782" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="38495" />
@@ -87,7 +86,7 @@
       <property name="0" value="37, 5, 3" />
     </property>
     <property class="Rally">
-      <property name="0" value="17, 6, 4" />
+      <property name="0" value="15, 5, 3" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="22, 5, 33" />

@@ -32,11 +32,11 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="120039" />
-    <property name="TotalTriangles" value="50508" />
+    <property name="TotalVertices" value="117338" />
+    <property name="TotalTriangles" value="50605" />
     <property class="BlockEntities">
-      <property name="Vertices" value="102401" />
-      <property name="Triangles" value="37718" />
+      <property name="Vertices" value="99700" />
+      <property name="Triangles" value="37815" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="15578" />
@@ -65,7 +65,7 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="7, 4, 2" />
+      <property name="0" value="9, 3, 1" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="19, 4, 5" />

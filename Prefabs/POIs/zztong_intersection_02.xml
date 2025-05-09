@@ -33,11 +33,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="3088671" />
-    <property name="TotalTriangles" value="1235234" />
+    <property name="TotalVertices" value="2991273" />
+    <property name="TotalTriangles" value="1203509" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2619396" />
-      <property name="Triangles" value="924591" />
+      <property name="Vertices" value="2521998" />
+      <property name="Triangles" value="892866" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="447159" />
@@ -68,6 +68,9 @@
     <property class="challenge_cars">
       <property name="0" value="59, 13, 43" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="58, 31, 58" />
+    </property>
     <property class="POILight">
       <property name="0" value="51, 23, 48" />
       <property name="1" value="51, 28, 48" />
@@ -94,6 +97,21 @@
       <property name="22" value="57, 33, 57" />
       <property name="23" value="54, 16, 60" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="51, 31, 48" />
+      <property name="1" value="54, 31, 48" />
+      <property name="2" value="60, 26, 48" />
+      <property name="3" value="49, 21, 49" />
+      <property name="4" value="52, 31, 49" />
+      <property name="5" value="53, 31, 49" />
+      <property name="6" value="58, 21, 52" />
+      <property name="7" value="48, 31, 53" />
+      <property name="8" value="49, 31, 56" />
+      <property name="9" value="48, 21, 60" />
+      <property name="10" value="48, 26, 60" />
+      <property name="11" value="60, 21, 60" />
+      <property name="12" value="60, 26, 60" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="57, 17, 36" />
     </property>
@@ -108,22 +126,14 @@
       <property name="4" value="50, 21, 46" />
       <property name="5" value="56, 31, 47" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="59, 22, 40" />
-      <property name="1" value="59, 22, 46" />
-    </property>
-    <property class="challenge_officechairs">
-      <property name="0" value="60, 21, 18" />
-      <property name="1" value="57, 21, 21" />
-      <property name="2" value="57, 26, 21" />
-      <property name="3" value="59, 21, 21" />
-      <property name="4" value="57, 21, 23" />
-      <property name="5" value="59, 21, 23" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="62, 13, 38" />
+      <property name="1" value="52, 26, 40" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="31, 38, 31" />
     </property>
-    <property class="challenge_booths">
+    <property class="challenge_leather">
       <property name="0" value="32, 26, 7" />
       <property name="1" value="33, 26, 7" />
       <property name="2" value="34, 26, 7" />
@@ -132,15 +142,10 @@
       <property name="5" value="33, 26, 9" />
       <property name="6" value="34, 26, 9" />
       <property name="7" value="35, 26, 9" />
+      <property name="8" value="45, 26, 11" />
     </property>
     <property class="Rally">
-      <property name="0" value="32, 14, 32" />
-    </property>
-    <property class="challenge_barrels">
-      <property name="0" value="54, 31, 4" />
-      <property name="1" value="55, 31, 4" />
-      <property name="2" value="53, 31, 5" />
-      <property name="3" value="55, 31, 5" />
+      <property name="0" value="33, 13, 33" />
     </property>
   </property>
 </prefab>

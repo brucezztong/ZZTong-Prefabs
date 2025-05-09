@@ -31,11 +31,11 @@
   <property name="Tags" value="countryresidential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="217717" />
-    <property name="TotalTriangles" value="72087" />
+    <property name="TotalVertices" value="218407" />
+    <property name="TotalTriangles" value="72280" />
     <property class="BlockEntities">
-      <property name="Vertices" value="209467" />
-      <property name="Triangles" value="65663" />
+      <property name="Vertices" value="210157" />
+      <property name="Triangles" value="65856" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="6304" />
@@ -63,6 +63,10 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="21, 5, 14" />
+      <property name="1" value="20, 4, 15" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="14, 3, 18" />
       <property name="1" value="16, 3, 22" />
@@ -71,13 +75,12 @@
       <property name="0" value="5, 4, 18" />
       <property name="1" value="9, 3, 21" />
     </property>
+    <property class="Rally">
+      <property name="0" value="11, 3, 1" />
+    </property>
     <property class="POILight">
       <property name="0" value="20, 6, 15" />
       <property name="1" value="20, 6, 19" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="21, 5, 14" />
-      <property name="1" value="20, 4, 15" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="19, 4, 13" />
@@ -86,9 +89,6 @@
     </property>
     <property class="FetchContainer">
       <property name="0" value="21, 4, 17" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="13, 4, 1" />
     </property>
   </property>
 </prefab>

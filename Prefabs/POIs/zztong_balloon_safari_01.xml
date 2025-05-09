@@ -32,11 +32,11 @@
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="158563" />
-    <property name="TotalTriangles" value="66093" />
+    <property name="TotalVertices" value="152684" />
+    <property name="TotalTriangles" value="65278" />
     <property class="BlockEntities">
-      <property name="Vertices" value="125449" />
-      <property name="Triangles" value="43341" />
+      <property name="Vertices" value="119570" />
+      <property name="Triangles" value="42526" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="27860" />
@@ -65,7 +65,7 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="challenge_sinks">
-      <property name="0" value="5, 3, 15" />
+      <property name="0" value="13, 4, 22" />
     </property>
     <property class="POILight">
       <property name="0" value="5, 5, 22" />
@@ -99,11 +99,14 @@
     <property class="challenge_gore">
       <property name="0" value="37, 3, 26" />
     </property>
+    <property class="Rally">
+      <property name="0" value="36, 3, 2" />
+    </property>
     <property class="challenge_cars">
       <property name="0" value="25, 3, 18" />
     </property>
-    <property class="Rally">
-      <property name="0" value="37, 4, 3" />
+    <property class="challenge_stump">
+      <property name="0" value="40, 3, 13" />
     </property>
   </property>
 </prefab>

@@ -34,11 +34,11 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SVS23" value="sound landmine_trigger^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^trigger 5" />
   <property class="Stats">
-    <property name="TotalVertices" value="3708274" />
-    <property name="TotalTriangles" value="1207642" />
+    <property name="TotalVertices" value="1947663" />
+    <property name="TotalTriangles" value="915412" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3372395" />
-      <property name="Triangles" value="989041" />
+      <property name="Vertices" value="1611784" />
+      <property name="Triangles" value="696811" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="292101" />
@@ -104,13 +104,7 @@
       <property name="3" value="18, 8, 10" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="65, 16, 47" />
-      <property name="1" value="66, 9, 47" />
-      <property name="2" value="63, 10, 48" />
-      <property name="3" value="63, 17, 48" />
-      <property name="4" value="63, 10, 49" />
-      <property name="5" value="63, 17, 49" />
-      <property name="6" value="60, 4, 56" />
+      <property name="0" value="74, 9, 98" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="104, 14, 22" />
@@ -125,7 +119,7 @@
       <property name="0" value="67, 15, 99" />
     </property>
     <property class="Rally">
-      <property name="0" value="59, 9, 5" />
+      <property name="0" value="60, 8, 3" />
     </property>
     <property class="quest_stone_boulder">
       <property name="0" value="60, 8, 23" />

@@ -34,11 +34,11 @@
   <property name="POIMarkerPartRotations" value="0,0,1,0,0,0,0,2,2,2,1,1,0" />
   <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.5,0.2,0.5,0.5,0.2,0.2,1,1,0.5,0.5,0.6" />
   <property class="Stats">
-    <property name="TotalVertices" value="1058599" />
-    <property name="TotalTriangles" value="362100" />
+    <property name="TotalVertices" value="869674" />
+    <property name="TotalTriangles" value="330595" />
     <property class="BlockEntities">
-      <property name="Vertices" value="939356" />
-      <property name="Triangles" value="287313" />
+      <property name="Vertices" value="750431" />
+      <property name="Triangles" value="255808" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="104125" />
@@ -94,11 +94,14 @@
       <property name="6" value="58, 1, 42" />
       <property name="7" value="58, 1, 44" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="55, 7, 38" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="57, 1, 52" />
     </property>
     <property class="Rally">
-      <property name="0" value="28, 2, 2" />
+      <property name="0" value="26, 1, 1" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="21, 1, 16" />
@@ -116,9 +119,6 @@
     </property>
     <property class="challenge_steel">
       <property name="0" value="49, 2, 26" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="50, 3, 29" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="31, 2, 51" />

@@ -46,11 +46,11 @@
     <property class="challenge_leather">
       <property name="0" value="47, 7, 30" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="49, 2, 32" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="42, 8, 8" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="49, 2, 32" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="52, 2, 40" />
@@ -71,6 +71,9 @@
     <property class="challenge_cars">
       <property name="0" value="48, 2, 36" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="1, 2, 57" />
+    </property>
     <property class="challenge_steel">
       <property name="0" value="15, 2, 30" />
     </property>
@@ -82,18 +85,18 @@
       <property name="4" value="27, 2, 53" />
     </property>
     <property class="Rally">
-      <property name="0" value="32, 3, 1" />
+      <property name="0" value="34, 2, 1" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="46, 2, 11" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1186294" />
-    <property name="TotalTriangles" value="483503" />
+    <property name="TotalVertices" value="1182638" />
+    <property name="TotalTriangles" value="484667" />
     <property class="BlockEntities">
-      <property name="Vertices" value="977874" />
-      <property name="Triangles" value="362792" />
+      <property name="Vertices" value="974218" />
+      <property name="Triangles" value="363956" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="198212" />

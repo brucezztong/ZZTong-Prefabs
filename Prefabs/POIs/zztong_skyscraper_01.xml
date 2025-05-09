@@ -33,11 +33,11 @@
   <property name="POIMarkerPartSpawnChance" value="0.4,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1772940" />
-    <property name="TotalTriangles" value="746848" />
+    <property name="TotalVertices" value="1720768" />
+    <property name="TotalTriangles" value="728612" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1497469" />
-      <property name="Triangles" value="578899" />
+      <property name="Vertices" value="1445297" />
+      <property name="Triangles" value="560663" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="267245" />
@@ -71,14 +71,31 @@
     <property class="challenge_polymers">
       <property name="0" value="39, 3, 19" />
     </property>
-    <property class="Rally">
-      <property name="0" value="20, 4, 1" />
-    </property>
     <property class="POILight">
       <property name="0" value="33, 11, 37" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="32, 4, 33" />
+      <property name="0" value="24, 38, 22" />
+      <property name="1" value="24, 39, 22" />
+      <property name="2" value="22, 39, 24" />
+      <property name="3" value="24, 41, 24" />
+      <property name="4" value="29, 22, 27" />
+      <property name="5" value="30, 22, 27" />
+      <property name="6" value="31, 22, 27" />
+      <property name="7" value="21, 26, 30" />
+      <property name="8" value="25, 26, 30" />
+      <property name="9" value="21, 26, 31" />
+      <property name="10" value="22, 26, 31" />
+      <property name="11" value="22, 27, 31" />
+      <property name="12" value="23, 26, 31" />
+      <property name="13" value="23, 27, 31" />
+      <property name="14" value="24, 26, 31" />
+      <property name="15" value="24, 27, 31" />
+      <property name="16" value="25, 26, 31" />
+      <property name="17" value="32, 4, 33" />
+      <property name="18" value="30, 3, 36" />
+      <property name="19" value="30, 18, 36" />
+      <property name="20" value="34, 3, 36" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="23, 10, 24" />
@@ -133,6 +150,9 @@
       <property name="4" value="27, 22, 26" />
       <property name="5" value="26, 3, 28" />
       <property name="6" value="26, 22, 29" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="22, 3, 1" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="23, 57, 24" />

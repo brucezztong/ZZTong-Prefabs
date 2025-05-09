@@ -37,11 +37,11 @@
     <property class="quest_wood_trees">
       <property name="0" value="40, 11, 40" />
     </property>
-    <property class="TraderOnOff">
-      <property name="0" value="32, 12, 27" />
-    </property>
     <property class="quest_wood">
       <property name="0" value="1, 1, 22" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="32, 12, 27" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="23, 6, 26" />
@@ -63,7 +63,7 @@
       <property name="0" value="20, 12, 25" />
     </property>
     <property class="Rally">
-      <property name="0" value="29, 13, 1" />
+      <property name="0" value="31, 11, 1" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="31, 12, 32" />

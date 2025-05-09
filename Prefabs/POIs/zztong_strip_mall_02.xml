@@ -34,7 +34,8 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # " />
   <property class="IndexedBlockOffsets">
     <property class="challenge_sinks">
-      <property name="0" value="46, 4, 52" />
+      <property name="0" value="50, 3, 50" />
+      <property name="1" value="46, 4, 52" />
     </property>
     <property class="POILight">
       <property name="0" value="50, 5, 47" />
@@ -84,7 +85,7 @@
       <property name="3" value="50, 3, 58" />
     </property>
     <property class="Rally">
-      <property name="0" value="3, 4, 30" />
+      <property name="0" value="2, 3, 28" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="15, 3, 49" />
@@ -99,11 +100,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="719811" />
-    <property name="TotalTriangles" value="269288" />
+    <property name="TotalVertices" value="696130" />
+    <property name="TotalTriangles" value="260530" />
     <property class="BlockEntities">
-      <property name="Vertices" value="619630" />
-      <property name="Triangles" value="205591" />
+      <property name="Vertices" value="595949" />
+      <property name="Triangles" value="196833" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="89919" />

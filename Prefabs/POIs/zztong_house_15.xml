@@ -31,11 +31,11 @@
   <property name="Tags" value="residential" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="216769" />
-    <property name="TotalTriangles" value="117691" />
+    <property name="TotalVertices" value="215898" />
+    <property name="TotalTriangles" value="117788" />
     <property class="BlockEntities">
-      <property name="Vertices" value="180024" />
-      <property name="Triangles" value="92872" />
+      <property name="Vertices" value="179153" />
+      <property name="Triangles" value="92969" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="32310" />
@@ -75,9 +75,6 @@
       <property name="8" value="23, 6, 5" />
       <property name="9" value="23, 6, 6" />
     </property>
-    <property class="Rally">
-      <property name="0" value="10, 7, 1" />
-    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="16, 12, 6" />
     </property>
@@ -106,12 +103,18 @@
     <property class="challenge_cars">
       <property name="0" value="16, 6, 20" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="10, 6, 23" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="16, 2, 13" />
       <property name="1" value="17, 7, 14" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="15, 8, 10" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="12, 6, 1" />
     </property>
   </property>
 </prefab>

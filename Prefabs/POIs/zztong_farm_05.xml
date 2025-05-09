@@ -32,11 +32,11 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property name="EditorGroups" value="rural" />
   <property class="Stats">
-    <property name="TotalVertices" value="1710125" />
-    <property name="TotalTriangles" value="855877" />
+    <property name="TotalVertices" value="1705042" />
+    <property name="TotalTriangles" value="854056" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1661315" />
-      <property name="Triangles" value="819003" />
+      <property name="Vertices" value="1656232" />
+      <property name="Triangles" value="817182" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="39924" />
@@ -65,7 +65,7 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="20, 2, 2" />
+      <property name="0" value="19, 1, 1" />
     </property>
     <property class="POILight">
       <property name="0" value="30, 4, 17" />
@@ -77,13 +77,17 @@
     <property class="challenge_polymers">
       <property name="0" value="38, 1, 12" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="38, 2, 1" />
+      <property name="1" value="35, 2, 4" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="25, 1, 50" />
+    </property>
     <property class="challenge_mech_parts">
       <property name="0" value="37, 1, 4" />
       <property name="1" value="37, 1, 8" />
       <property name="2" value="36, 1, 10" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="35, 2, 4" />
     </property>
     <property class="quest_feather">
       <property name="0" value="37, 5, 4" />

@@ -32,9 +32,6 @@
   <property name="Tags" value="industrial, rural, gateway, zzbartertown" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="IndexedBlockOffsets">
-    <property class="Rally">
-      <property name="0" value="11, 4, 1" />
-    </property>
     <property class="challenge_sinks">
       <property name="0" value="14, 4, 8" />
     </property>
@@ -53,6 +50,9 @@
       <property name="0" value="18, 3, 5" />
       <property name="1" value="22, 3, 6" />
       <property name="2" value="18, 3, 11" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="12, 3, 1" />
     </property>
   </property>
   <property class="Stats">

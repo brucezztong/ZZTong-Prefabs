@@ -71,11 +71,11 @@
     <property class="TraderOnOff">
       <property name="0" value="40, 2, 5" />
     </property>
-    <property class="challenge_cars">
-      <property name="0" value="4, 25, 24" />
-    </property>
     <property class="quest_wood_trees">
       <property name="0" value="4, 2, 23" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="4, 25, 24" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="27, 2, 21" />
@@ -83,7 +83,7 @@
       <property name="2" value="23, 25, 25" />
     </property>
     <property class="Rally">
-      <property name="0" value="16, 26, 6" />
+      <property name="0" value="10, 25, 2" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="32, 26, 21" />

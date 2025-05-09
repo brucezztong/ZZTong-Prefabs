@@ -38,6 +38,16 @@
       <property name="0" value="13, 3, 37" />
       <property name="1" value="14, 3, 39" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="2, 3, 39" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="13, 3, 6" />
+      <property name="1" value="8, 3, 11" />
+      <property name="2" value="11, 3, 11" />
+      <property name="3" value="8, 3, 12" />
+      <property name="4" value="11, 3, 12" />
+    </property>
     <property class="POILight">
       <property name="0" value="14, 5, 7" />
     </property>
@@ -62,12 +72,6 @@
       <property name="1" value="22, 3, 36" />
       <property name="2" value="33, 3, 36" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="8, 3, 11" />
-      <property name="1" value="11, 3, 11" />
-      <property name="2" value="8, 3, 12" />
-      <property name="3" value="11, 3, 12" />
-    </property>
     <property class="quest_wood_trees">
       <property name="0" value="13, 3, 41" />
     </property>
@@ -78,18 +82,18 @@
       <property name="0" value="37, 3, 12" />
     </property>
     <property class="Rally">
-      <property name="0" value="28, 4, 1" />
+      <property name="0" value="29, 3, 1" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="34, 3, 5" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="364297" />
-    <property name="TotalTriangles" value="139492" />
+    <property name="TotalVertices" value="269171" />
+    <property name="TotalTriangles" value="123961" />
     <property class="BlockEntities">
-      <property name="Vertices" value="330624" />
-      <property name="Triangles" value="115879" />
+      <property name="Vertices" value="235498" />
+      <property name="Triangles" value="100348" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="28187" />

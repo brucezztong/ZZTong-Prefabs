@@ -32,11 +32,11 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.5,0.8,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="345395" />
-    <property name="TotalTriangles" value="122173" />
+    <property name="TotalVertices" value="302797" />
+    <property name="TotalTriangles" value="115368" />
     <property class="BlockEntities">
-      <property name="Vertices" value="327183" />
-      <property name="Triangles" value="106081" />
+      <property name="Vertices" value="284585" />
+      <property name="Triangles" value="99276" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="13310" />
@@ -64,6 +64,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_polymers">
+      <property name="0" value="38, 2, 27" />
+    </property>
     <property class="challenge_cars">
       <property name="0" value="4, 2, 11" />
     </property>
@@ -71,8 +74,15 @@
       <property name="0" value="40, 2, 39" />
       <property name="1" value="39, 2, 40" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="2, 2, 39" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="39, 2, 3" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="37, 2, 23" />
+      <property name="1" value="37, 3, 23" />
     </property>
     <property class="POILight">
       <property name="0" value="37, 3, 16" />
@@ -85,10 +95,7 @@
       <property name="1" value="39, 2, 33" />
     </property>
     <property class="Rally">
-      <property name="0" value="26, 3, 5" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="37, 4, 14" />
+      <property name="0" value="27, 2, 2" />
     </property>
   </property>
 </prefab>

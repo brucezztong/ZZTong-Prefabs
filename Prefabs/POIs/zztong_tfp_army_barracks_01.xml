@@ -37,11 +37,11 @@
   <property name="PrefabSize" value="60, 23, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="625555" />
-    <property name="TotalTriangles" value="199772" />
+    <property name="TotalVertices" value="383218" />
+    <property name="TotalTriangles" value="161347" />
     <property class="BlockEntities">
-      <property name="Vertices" value="574948" />
-      <property name="Triangles" value="161424" />
+      <property name="Vertices" value="332611" />
+      <property name="Triangles" value="122999" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="39317" />
@@ -90,7 +90,10 @@
       <property name="0" value="46, 4, 38" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="44, 5, 31" />
+      <property name="0" value="33, 3, 30" />
+      <property name="1" value="44, 5, 31" />
+      <property name="2" value="39, 4, 36" />
+      <property name="3" value="42, 11, 42" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="38, 5, 43" />
@@ -103,7 +106,7 @@
       <property name="0" value="42, 4, 31" />
     </property>
     <property class="Rally">
-      <property name="0" value="42, 4, 2" />
+      <property name="0" value="40, 3, 2" />
     </property>
   </property>
 </prefab>

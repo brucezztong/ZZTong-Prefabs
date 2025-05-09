@@ -46,8 +46,11 @@
       <property name="1" value="50, 15, 47" />
       <property name="2" value="46, 3, 48" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="7, 6, 18" />
+    </property>
     <property class="Rally">
-      <property name="0" value="8, 7, 22" />
+      <property name="0" value="6, 6, 21" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="53, 15, 30" />
@@ -61,7 +64,21 @@
       <property name="2" value="48, 21, 28" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="46, 16, 26" />
+      <property name="0" value="49, 3, 19" />
+      <property name="1" value="49, 5, 19" />
+      <property name="2" value="50, 3, 19" />
+      <property name="3" value="50, 5, 19" />
+      <property name="4" value="49, 3, 20" />
+      <property name="5" value="50, 3, 20" />
+      <property name="6" value="50, 5, 20" />
+      <property name="7" value="49, 4, 21" />
+      <property name="8" value="50, 4, 21" />
+      <property name="9" value="47, 9, 25" />
+      <property name="10" value="48, 9, 25" />
+      <property name="11" value="49, 9, 25" />
+      <property name="12" value="50, 9, 25" />
+      <property name="13" value="46, 15, 26" />
+      <property name="14" value="46, 16, 26" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="46, 3, 14" />
@@ -72,6 +89,9 @@
       <property name="2" value="49, 7, 52" />
       <property name="3" value="49, 13, 52" />
     </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="39, 6, 6" />
+    </property>
     <property class="challenge_leather">
       <property name="0" value="40, 3, 53" />
     </property>
@@ -80,11 +100,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1475302" />
-    <property name="TotalTriangles" value="555868" />
+    <property name="TotalVertices" value="1208022" />
+    <property name="TotalTriangles" value="508761" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1323228" />
-      <property name="Triangles" value="460165" />
+      <property name="Vertices" value="1055948" />
+      <property name="Triangles" value="413058" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="139798" />

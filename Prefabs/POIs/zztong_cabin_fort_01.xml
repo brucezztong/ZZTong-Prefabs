@@ -38,6 +38,9 @@
       <property name="1" value="24, 4, 27" />
       <property name="2" value="27, 3, 32" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="40, 3, 26" />
+    </property>
     <property class="challenge_sinks">
       <property name="0" value="22, 5, 17" />
       <property name="1" value="28, 4, 17" />
@@ -56,19 +59,19 @@
     <property class="FetchContainer">
       <property name="0" value="22, 8, 17" />
     </property>
-    <property class="Rally">
-      <property name="0" value="20, 4, 34" />
-    </property>
     <property class="quest_wood_trees">
       <property name="0" value="39, 3, 2" />
     </property>
+    <property class="Rally">
+      <property name="0" value="20, 3, 38" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="282311" />
-    <property name="TotalTriangles" value="105615" />
+    <property name="TotalVertices" value="278695" />
+    <property name="TotalTriangles" value="105712" />
     <property class="BlockEntities">
-      <property name="Vertices" value="252233" />
-      <property name="Triangles" value="83135" />
+      <property name="Vertices" value="248617" />
+      <property name="Triangles" value="83232" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="24460" />

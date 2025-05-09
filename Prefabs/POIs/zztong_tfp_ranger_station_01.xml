@@ -23,7 +23,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="POIMarkerSize" value="5, 1, 5#6, 1, 1" />
   <property name="POIMarkerStart" value="25, 2, 11#12, 3, 23" />
-  <property name="POIMarkerGroup" value="new,log" />
+  <property name="POIMarkerGroup" value="road,log" />
   <property name="POIMarkerTags" value="#" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn" />
   <property name="POIMarkerPartToSpawn" value=",part_zztong_log6" />
@@ -96,7 +96,7 @@
       <property name="2" value="12, 8, 14" />
     </property>
     <property class="Rally">
-      <property name="0" value="19, 4, 22" />
+      <property name="0" value="21, 3, 22" />
     </property>
   </property>
 </prefab>

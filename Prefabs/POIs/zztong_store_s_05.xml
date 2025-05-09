@@ -66,6 +66,9 @@
     <property class="challenge_mech_parts">
       <property name="0" value="32, 14, 15" />
     </property>
+    <property class="quest_stone_boulder">
+      <property name="0" value="7, 1, 5" />
+    </property>
     <property class="challenge_leather">
       <property name="0" value="13, 19, 5" />
       <property name="1" value="14, 19, 5" />
@@ -84,10 +87,7 @@
       <property name="0" value="15, 19, 21" />
     </property>
     <property class="Rally">
-      <property name="0" value="20, 14, 15" />
-    </property>
-    <property class="quest_stone_boulder">
-      <property name="0" value="7, 1, 5" />
+      <property name="0" value="20, 13, 16" />
     </property>
   </property>
   <property class="Stats">

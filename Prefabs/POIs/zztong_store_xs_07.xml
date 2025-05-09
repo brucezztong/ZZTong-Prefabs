@@ -80,18 +80,18 @@
     <property class="challenge_mech_parts">
       <property name="0" value="20, 8, 13" />
     </property>
-    <property class="FetchContainer">
-      <property name="0" value="21, 9, 12" />
-    </property>
     <property class="quest_stone_boulder">
       <property name="0" value="16, 1, 21" />
     </property>
+    <property class="FetchContainer">
+      <property name="0" value="21, 9, 12" />
+    </property>
     <property class="quest_wood">
-      <property name="0" value="12, 8, 23" />
-      <property name="1" value="18, 8, 23" />
-      <property name="2" value="21, 8, 23" />
-      <property name="3" value="19, 1, 20" />
-      <property name="4" value="18, 1, 19" />
+      <property name="0" value="18, 1, 19" />
+      <property name="1" value="19, 1, 20" />
+      <property name="2" value="12, 8, 23" />
+      <property name="3" value="18, 8, 23" />
+      <property name="4" value="21, 8, 23" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="15, 8, 12" />
@@ -100,7 +100,7 @@
       <property name="3" value="21, 8, 16" />
     </property>
     <property class="Rally">
-      <property name="0" value="12, 9, 2" />
+      <property name="0" value="12, 8, 1" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="15, 8, 19" />

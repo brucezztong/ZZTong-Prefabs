@@ -26,11 +26,11 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1618211" />
-    <property name="TotalTriangles" value="707596" />
+    <property name="TotalVertices" value="1400118" />
+    <property name="TotalTriangles" value="592407" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1538060" />
-      <property name="Triangles" value="663466" />
+      <property name="Vertices" value="1310573" />
+      <property name="Triangles" value="532473" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="78823" />
@@ -41,20 +41,20 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="1328" />
       <property name="Triangles" value="870" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="9394" />
+      <property name="Triangles" value="15804" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -65,7 +65,7 @@
       <property name="0" value="59, 1, 19" />
     </property>
     <property class="Rally">
-      <property name="0" value="4, 2, 25" />
+      <property name="0" value="3, 1, 26" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="51, 1, 16" />
@@ -88,6 +88,10 @@
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="41, 1, 53" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="36, 1, 58" />
+      <property name="1" value="37, 1, 59" />
     </property>
   </property>
 </prefab>

@@ -51,7 +51,7 @@
       <property name="4" value="26, 9, 16" />
     </property>
     <property class="Rally">
-      <property name="0" value="16, 3, 1" />
+      <property name="0" value="15, 2, 1" />
     </property>
     <property class="POILight">
       <property name="0" value="26, 5, 5" />
@@ -70,13 +70,19 @@
     <property class="challenge_leather">
       <property name="0" value="27, 2, 34" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="22, 2, 29" />
+      <property name="1" value="26, 2, 29" />
+      <property name="2" value="28, 2, 29" />
+      <property name="3" value="22, 2, 32" />
+      <property name="4" value="26, 2, 32" />
+      <property name="5" value="22, 2, 36" />
+      <property name="6" value="24, 2, 36" />
+      <property name="7" value="26, 2, 36" />
+      <property name="8" value="28, 2, 36" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="23, 15, 10" />
-    </property>
-    <property class="challenge_sinks">
-      <property name="0" value="21, 10, 12" />
-      <property name="1" value="25, 9, 12" />
-      <property name="2" value="25, 9, 13" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="32, 2, 37" />
@@ -88,13 +94,16 @@
     <property class="quest_feather">
       <property name="0" value="29, 15, 16" />
     </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="22, 2, 19" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="373120" />
-    <property name="TotalTriangles" value="145738" />
+    <property name="TotalVertices" value="328922" />
+    <property name="TotalTriangles" value="138205" />
     <property class="BlockEntities">
-      <property name="Vertices" value="327383" />
-      <property name="Triangles" value="116130" />
+      <property name="Vertices" value="283185" />
+      <property name="Triangles" value="108597" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="40835" />

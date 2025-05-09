@@ -38,7 +38,7 @@
       <property name="1" value="13, 5, 16" />
     </property>
     <property class="Rally">
-      <property name="0" value="2, 6, 2" />
+      <property name="0" value="3, 5, 1" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="19, 9, 13" />
@@ -64,7 +64,6 @@
       <property name="3" value="16, 1, 16" />
       <property name="4" value="14, 10, 17" />
       <property name="5" value="19, 5, 17" />
-      <property name="6" value="19, 5, 22" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="13, 1, 12" />
@@ -103,11 +102,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="507781" />
-    <property name="TotalTriangles" value="189067" />
+    <property name="TotalVertices" value="505275" />
+    <property name="TotalTriangles" value="189358" />
     <property class="BlockEntities">
-      <property name="Vertices" value="461595" />
-      <property name="Triangles" value="160549" />
+      <property name="Vertices" value="459089" />
+      <property name="Triangles" value="160840" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="44226" />

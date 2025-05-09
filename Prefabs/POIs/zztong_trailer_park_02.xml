@@ -86,14 +86,14 @@
       <property name="0" value="54, 9, 49" />
       <property name="1" value="52, 9, 50" />
     </property>
+    <property class="Rally">
+      <property name="0" value="13, 8, 1" />
+    </property>
     <property class="challenge_cars">
       <property name="0" value="54, 8, 39" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="48, 8, 37" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="15, 9, 1" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="37, 9, 52" />

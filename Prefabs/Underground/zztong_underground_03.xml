@@ -30,12 +30,13 @@
   <property name="POIMarkerPartToSpawn" value="," />
   <property name="POIMarkerPartRotations" value="0,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
-    <property name="TotalVertices" value="185101" />
-    <property name="TotalTriangles" value="92155" />
+    <property name="TotalVertices" value="186859" />
+    <property name="TotalTriangles" value="93323" />
     <property class="BlockEntities">
-      <property name="Vertices" value="170143" />
-      <property name="Triangles" value="77161" />
+      <property name="Vertices" value="171901" />
+      <property name="Triangles" value="78329" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="8586" />
@@ -74,6 +75,12 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="17, 3, 14" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="11, 3, 2" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="5, 9, 9" />
     </property>
     <property class="quest_wood">
       <property name="0" value="10, 3, 18" />
