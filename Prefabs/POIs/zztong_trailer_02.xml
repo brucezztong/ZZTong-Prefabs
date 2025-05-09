@@ -31,6 +31,9 @@
   <property name="YOffset" value="-1" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="IndexedBlockOffsets">
+    <property class="challenge_stump">
+      <property name="0" value="4, 1, 8" />
+    </property>
     <property class="POILight">
       <property name="0" value="12, 4, 12" />
       <property name="1" value="19, 3, 14" />
@@ -39,8 +42,10 @@
       <property name="4" value="12, 4, 18" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="13, 2, 17" />
-      <property name="1" value="13, 2, 18" />
+      <property name="0" value="18, 1, 13" />
+      <property name="1" value="19, 2, 15" />
+      <property name="2" value="13, 2, 17" />
+      <property name="3" value="13, 2, 18" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="12, 2, 12" />
@@ -59,11 +64,11 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="90778" />
-    <property name="TotalTriangles" value="39346" />
+    <property name="TotalVertices" value="90418" />
+    <property name="TotalTriangles" value="39882" />
     <property class="BlockEntities">
-      <property name="Vertices" value="70908" />
-      <property name="Triangles" value="27196" />
+      <property name="Vertices" value="70548" />
+      <property name="Triangles" value="27732" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="18226" />

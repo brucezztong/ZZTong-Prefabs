@@ -32,11 +32,11 @@
   <property name="Tags" value="countryresidential, residential" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="300005" />
-    <property name="TotalTriangles" value="113235" />
+    <property name="TotalVertices" value="301421" />
+    <property name="TotalTriangles" value="113818" />
     <property class="BlockEntities">
-      <property name="Vertices" value="263151" />
-      <property name="Triangles" value="91087" />
+      <property name="Vertices" value="264567" />
+      <property name="Triangles" value="91670" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="33410" />
@@ -64,6 +64,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="2, 7, 2" />
+    </property>
     <property class="quest_wood">
       <property name="0" value="23, 7, 12" />
       <property name="1" value="23, 7, 13" />
@@ -72,9 +75,6 @@
       <property name="4" value="23, 7, 18" />
       <property name="5" value="23, 7, 19" />
       <property name="6" value="23, 7, 20" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="2, 7, 2" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="15, 18, 14" />

@@ -13,7 +13,7 @@
   <property name="RotationToFaceNorth" value="2" />
   <property name="Zoning" value="none" />
   <property name="Tags" value="wilderness" />
-  <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="DuplicateRepeatDistance" value="4000" />
   <property name="YOffset" value="-7" />
   <property name="POIMarkerSize" value="5, 1, 5" />
   <property name="POIMarkerStart" value="19, 6, -5" />

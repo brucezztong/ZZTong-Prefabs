@@ -33,6 +33,7 @@
   <property name="EditorGroups" value="rural" />
   <property name="ThemeTags" value="police" />
   <property name="ThemeRepeatDistance" value="500" />
+  <property name="DuplicateRepeatDistance" value="2000" />
   <property class="Stats">
     <property name="TotalVertices" value="785008" />
     <property name="TotalTriangles" value="310471" />

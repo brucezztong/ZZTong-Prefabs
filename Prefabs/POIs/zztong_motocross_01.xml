@@ -13,7 +13,7 @@
   <property name="Zoning" value="Rural, ResidentialOld" />
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="rural" />
-  <property name="SleeperVolumeStart" value="88, 3, 2#93, 3, 26#48, 3, 26#1, 3, 26#7, 3, 16" />
+  <property name="SleeperVolumeStart" value="89, 3, 3#94, 3, 27#49, 3, 27#2, 3, 27#8, 3, 17" />
   <property name="SleeperVolumeSize" value="19, 5, 13#46, 6, 117#44, 6, 117#46, 6, 117#74, 10, 9" />
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,3,GroupGenericZombie,2,3,GroupBikerBar,3,3,GroupGenericZombie,2,3,GroupGenericZombie,3,3" />
   <property name="SleeperVolumeGameStageAdjust" value=",,,," />
@@ -31,52 +31,52 @@
   <property name="POIMarkerPartToSpawn" value=",part_zztong_barrier6_orange,part_zztong_billboard_carshow,part_zztong_campsite_01,part_zztong_delivery_05,part_zztong_traffic_cones8,part_zztong_watchtower_01,part_5m_water_tower,part_electrical_tower_01,part_shed_04" />
   <property name="POIMarkerPartRotations" value="2,1,1,1,0,0,1,0,1,2" />
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.8,0.4,0.6,0.4,0.8,0.4,0.8,0.4" />
-  <property name="PrefabSize" value="148, 23, 148" />
+  <property name="PrefabSize" value="150, 23, 150" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
-      <property name="0" value="145, 3, 119" />
+      <property name="0" value="146, 3, 120" />
     </property>
     <property class="quest_wood">
-      <property name="0" value="144, 3, 144" />
-      <property name="1" value="145, 3, 146" />
+      <property name="0" value="145, 3, 145" />
+      <property name="1" value="146, 3, 147" />
     </property>
     <property class="challenge_polymers">
-      <property name="0" value="141, 3, 144" />
+      <property name="0" value="142, 3, 145" />
     </property>
     <property class="challenge_stump">
-      <property name="0" value="79, 3, 89" />
+      <property name="0" value="80, 3, 90" />
     </property>
     <property class="challenge_gore">
-      <property name="0" value="76, 3, 134" />
+      <property name="0" value="77, 3, 135" />
     </property>
     <property class="quest_stone_boulder">
-      <property name="0" value="111, 3, 49" />
+      <property name="0" value="112, 3, 50" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="115, 3, 5" />
-      <property name="1" value="115, 3, 7" />
+      <property name="0" value="116, 3, 6" />
+      <property name="1" value="116, 3, 8" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="114, 3, 95" />
+      <property name="0" value="115, 3, 96" />
     </property>
     <property class="Rally">
-      <property name="0" value="75, 3, 3" />
+      <property name="0" value="76, 3, 4" />
     </property>
     <property class="challenge_sinks">
-      <property name="0" value="119, 3, 19" />
+      <property name="0" value="120, 3, 20" />
     </property>
     <property class="challenge_mech_parts">
-      <property name="0" value="92, 3, 9" />
-      <property name="1" value="94, 3, 9" />
+      <property name="0" value="93, 3, 10" />
+      <property name="1" value="95, 3, 10" />
     </property>
     <property class="challenge_cars">
-      <property name="0" value="122, 3, 16" />
+      <property name="0" value="123, 3, 17" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1351978" />
-    <property name="TotalTriangles" value="685931" />
+    <property name="TotalVertices" value="1353338" />
+    <property name="TotalTriangles" value="688363" />
     <property class="BlockEntities">
       <property name="Vertices" value="1284498" />
       <property name="Triangles" value="587259" />
@@ -102,8 +102,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="57026" />
-      <property name="Triangles" value="92460" />
+      <property name="Vertices" value="58386" />
+      <property name="Triangles" value="94892" />
     </property>
   </property>
 </prefab>
