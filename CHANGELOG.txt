@@ -24,6 +24,11 @@ V2.0.027 (ZZ027)
 * Added zztong_underground_01 -- only appears if The Descent is used.
 * Added zztong_underground_02 -- only appears if The Descent is used.
 * Added zztong_underground_03 -- only appears if The Descent is used.
+* Added zztong_tfp_remnant_house_19
+* Added zztong_tfp_remnant_house_20
+* Added zztong_tfp_remnant_industrial_04
+* Added zztong_studio_01
+* Added zztong_speleological_society_01
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
