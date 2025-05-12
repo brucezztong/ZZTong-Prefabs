@@ -3,18 +3,22 @@ CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 V2.0.027 (ZZ027)
 * Removed part_terrain_greeble_12W3H from rwg_tile_countrytown_t_zztong_01.
 * Added zztong_sheriff_01 to the "police" theme.
-* Rescued the A16 and A20 versions of abandoned_house_06 for AidenWithAnAxe.
+* Added/Rescued the A16 and A20 versions of abandoned_house_06 for AidenWithAnAxe.
     Now zztong_tfp_abandoned_house_06_01 and zztong_tfp_abandoned_house_06_02.
-* Rescued two A20 junkyards for Vaeliorin.
+* Added/Rescued two A20 junkyards for Vaeliorin.
     These are now zztong_tfp_junkyard_med_01 and zztong_tfp_junkyard_lg_01.
-* Rescued police_station1 from A20 for 4sheetzngeegles.
+* Added/Rescued police_station1 from A20 for 4sheetzngeegles.
     This is now zztong_tfp_police_station1
 * Rescued warehouse_01 from A18 for the heck of it as zztong_tfp_warehouse_01.
 * Added rwg_tile_rural_corner_zztong_07 featuring the Navezgane Gift Shop.
-* Rescued zztong_tfp_house_new_01, zztong_tfp_abandoned_house_04,
-    zztong_tfp_abandoned_house_07, zztong_tfp_abandoned_house_08
-    zztong_tfp_bar_theater_01, zztong_tfp_cabin_09, zztong_tfp_cabin_13,
-    and zztong_tfp_house_modern_06.
+* Added/Rescued zztong_tfp_house_new_01
+* Added/Rescued zztong_tfp_abandoned_house_04
+* Added/Rescued zztong_tfp_abandoned_house_07
+* Added/Rescued zztong_tfp_abandoned_house_08
+* Added/Rescued zztong_tfp_bar_theater_01
+* Added/Rescued zztong_tfp_cabin_09
+* Added/Rescued zztong_tfp_cabin_13
+* Added/Rescued zztong_tfp_house_modern_06
 * Fixed bug in Trader Bob variants and zztong_store_xs_05.
     Who knew that triggers to activate light was such a hassle?
 * Added integrations for the The Descent modlet; POIs still work in Vanilla.
@@ -24,6 +28,11 @@ V2.0.027 (ZZ027)
 * Added zztong_underground_01 -- only appears if The Descent is used.
 * Added zztong_underground_02 -- only appears if The Descent is used.
 * Added zztong_underground_03 -- only appears if The Descent is used.
+* Added zztong_underground_04 -- only appears if The Descent is used.
+* Added zztong_underground_05 -- only appears if The Descent is used.
+* Added zztong_underground_06 -- only appears if The Descent is used.
+* Added zztong_underground_07 -- only appears if The Descent is used.
+* Added zztong_underground_08 -- only appears if The Descent is used.
 * Added zztong_tfp_remnant_house_19
 * Added zztong_tfp_remnant_house_20
 * Added zztong_tfp_remnant_industrial_04
