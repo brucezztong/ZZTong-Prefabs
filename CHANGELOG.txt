@@ -38,6 +38,7 @@ V2.0.027 (ZZ027)
 * Added zztong_tfp_remnant_industrial_04
 * Added zztong_studio_01
 * Added zztong_speleological_society_01
+* Added zztong_tfp_church_sm_01 because somebody wanted a wilderness church.
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
