@@ -29,6 +29,8 @@
 		<decoration type="prefab" name="zztong_tete1805_deco_01" prob=".001" />
         <decoration type="prefab" name="zztong_grave_01" onslopes="true" prob=".001" />
         <decoration type="prefab" name="zztong_grave_02" onslopes="true" prob=".001" />
+        <decoration type="prefab" name="zztong_remains_01" onslopes="true" prob=".001" />
+        <decoration type="prefab" name="zztong_remains_02" onslopes="true" prob=".0002" />
         <decoration type="prefab" name="zztong_rubble_16" onslopes="true" prob=".001" />
         <decoration type="prefab" name="zztong_rubble_17" onslopes="true" prob=".001" />
         <decoration type="prefab" name="zztong_rubble_18" onslopes="true" prob=".001" />
@@ -65,6 +67,9 @@
         <decoration type="prefab" name="zztong_cactus_03" onslopes="true" prob=".007" />
         <decoration type="prefab" name="zztong_cactus_04" onslopes="true" prob=".007" />
         <decoration type="prefab" name="zztong_cactus_05" onslopes="true" prob=".007" />
+        <decoration type="prefab" name="zztong_cactus_06" onslopes="true" prob=".007" />
+        <decoration type="prefab" name="zztong_cactus_07" onslopes="true" prob=".007" />
+        <decoration type="prefab" name="zztong_cactus_08" onslopes="true" prob=".007" />
         <decoration type="prefab" name="zztong_oil_pump_01" prob=".001" />
 		<decoration type="prefab" name="zztong_buried_treasure_01" onslopes="true" prob=".001" />
 	</append>
@@ -94,6 +99,7 @@
 		<decoration type="prefab" name="zztong_rubble_29" onslopes="true" prob=".02" />
 		<decoration type="prefab" name="zztong_rubble_30" onslopes="true" prob=".01" />
 		<decoration type="prefab" name="zztong_rubble_31" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_32" onslopes="true" prob=".01" />
 		<decoration type="prefab" name="zztong_buried_treasure_01" onslopes="true" prob=".001" />
 	</append>
 

@@ -41,6 +41,7 @@ V2.0.027 (ZZ027)
 * Added zztong_tfp_church_sm_01 because somebody wanted a wilderness church.
 * Added zztong_store_xs_19.
 * Added zztong_trailer_04.
+* Added Deco: cactus_06, cactus_07, cactus_08, rubble_32, remains_01, remains_02.
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.
