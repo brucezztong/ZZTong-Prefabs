@@ -191,7 +191,9 @@
         <prefab_spawn_adjust partial_name="zztong_gyroport_01" biomeTags="desert"/>
         <prefab_spawn_adjust partial_name="zztong_motocross_01" biomeTags="forest"/>
         <prefab_spawn_adjust partial_name="zztong_revival_01" biomeTags="forest,desert"/>
+        <prefab_spawn_adjust partial_name="zztong_studio_01" biomeTags="forest,burntforest,desert"/>
         <prefab_spawn_adjust partial_name="zztong_survivor_base_ruin_01" biomeTags="snow,wasteland"/>
+        <prefab_spawn_adjust partial_name="zztong_wilderness_filler_03" biomeTags="forest,snow"/>
 	</append>
 
     <!-- **************************************************************
