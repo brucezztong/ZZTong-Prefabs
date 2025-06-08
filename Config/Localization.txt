@@ -189,6 +189,8 @@ zztong_rural_filler_01,POI,POI,,x,Wayward Refugees,,Eigenwillige Flüchtlinge,Wa
 zztong_rural_filler_02,POI,POI,,x,Hay Field,,Heufeld,Campo de heno,Champ de foin,Campo di fieno,干し草畑,건초장,Pole siana,Campo de feno,Сено поле,Saman alanı,干草田,乾草場
 zztong_rural_filler_03,POI,POI,,x,Pole Barn,,Stabschlecken,Establo,Grange à perche,Pole Barn,ポールバーン,극 헛간,Stodoła słupa,Pole Barn,Полюс сарай,Direk,杆仓,桿穀倉
 zztong_rural_filler_04,POI,POI,,x,Greenhouse,,Gewächshaus,Invernadero,Serre,Serra,温室,온실,Szklarnia,Estufa,Теплица,Sera,温室,溫室
+zztong_rural_filler_05,POI,POI,,x,Gallows Grove,,Gallows Grove,Grove de la horca,Gallows Grove,Gallows Grove,Gallows Grove,교수대 그 로브,Gallows Grove,Gallows Grove,Висел роща,Gallow Grove,绞刑架,絞刑架
+zztong_rural_filler_06,POI,POI,,x,Park and Ride,,Park und Fahrt,Parque y viaje,Se garer et rouler,Parcheggiare e cavalcare,公園と乗り心地,주차하고 타십시오,Parkować i jeździć,Estacionar e andar,Парк и ездить,Park ve Bine,公园和骑行,公園和騎行
 zztong_scout_lodge_01,POI,POI,,x,Nature Scout Lodge,,Nature Scout Lodge,Nature Scout Lodge,Lodge Scout Nature,Nature Scout Lodge,ネイチャースカウトロッジ,자연 스카우트 롯지,Nature Scout Lodge,Nature Scout Lodge,Природная скаутская ложа,Nature Scout Lodge,自然侦察兵小屋,大自然童子軍小屋
 zztong_shelter_01,POI,POI,,x,Homeless Shelter,,Obdachlosenheim,Refugio para personas sin hogar,Refuge pour sans-abri,Riparo per senzatetto,ホームレスシェルター,노숙자 대피소,Schronisko dla bezdomnych,Abrigo para sem -teto,Приют для бездомных,Evsiz barınak,流浪者收容所,無家可歸的庇護所
 zztong_sheriff_01,POI,POI,,x,County Sheriff,,County Sheriff,Alguacil del condado,Shérif de comté,Sceriffo della contea,郡保安官,카운티 보안관,Szeryf hrabstwa,Xerife do condado,Округ шериф,İlçe Şerif,县警长办公室,縣警長
@@ -286,5 +288,7 @@ zztong_warehouse_04,POI,POI,,x,Far East Exports,,Fernen Ostenexporte,Exportacion
 zztong_warehouse_05,POI,POI,,x,Quonset Warehouses,,Quonset Lagern,Almacenes de quonset,Entrepôts de quonset,Magazzini quonset,Quonset Warehouses,Quonset 창고,Magazyny Quonset,Questões Questões,Склады Quonset,Quonet depoları,拱形仓库区,Quonset倉庫
 zztong_watering_hole_01,POI,POI,,x,Watering Hole,,Wasserloch,Abrevadero,Trou d'arrosage,Buco di annaffiatura,散水穴,급수 구멍,Wodopój,Brilho de rega,Водопоя,Sulama deliği,水源补给点,澆水孔
 zztong_watering_hole_02,POI,POI,,x,Mega Dew Collector,,Mega Dew -Sammler,Coleccionista de mega rocío,Méga collectionneur,Mega Dew Collector,メガデューコレクター,메가 듀 수집가,Mega Collector,Mega Dew Collector,Mega Dew Collector,Mega Dew Toplayıcı,巨型露水收集器,巨型露水收集器
+zztong_wilderness_filler_01,POI,POI,,x,Stoneveil Copse,,Stoneveil Copse,StoneVeil Copse,Stoneveil Copse,Stoneveil Copse,Stoneveil Copse,스톤 브럼 코스,Stoneveil Copse,Stoneveil Copse,Стоунвейл Копс,StoneLeil Copse,Stoneveil Copse,Stoneveil Copse
+zztong_wilderness_filler_02,POI,POI,,x,Whispering Copse,,Flüstern,Copina de susurro,Chuchotement,Sussurrando copse,ささやき声,속삭이는 경찰,Szepczący copse,Sussurrando bosques,Шепот Копсе,Fısıldayan Copse,窃窃私语,竊竊私語
 zztong_wind_turbine_01,POI,POI,,x,Wind Turbine,,Windkraftanlage,Turbina eólica,Éolienne,Turbina eolica,風力タービン,풍력 터빈,Turbina wiatrowa,Turbina eólica,Ветряная турбина,Rüzgar türbini,风力发电机,風力渦輪機
 zztong_wind_turbine_02,POI,POI,,x,Wind Turbine Remnant,,Windkraftanlagenreste,Remanente de la turbina eólica,Éolienne reste,Residuo della turbina eolica,風力タービン残骸,풍력 터빈 잔해,Pozostałość turbiny wiatrowej,Remanescente da turbina eólica,Остаток ветряной турбины,Rüzgar türbini kalıntısı,风力发电机残骸,風力渦輪機殘留
