@@ -45,6 +45,8 @@ V2.0.027 (ZZ027)
 * Added zztong_wilderness_filler_01, zztong_wilderness_filler_02.
 * Added zztong_wilderness_filler_03.
 * Added zztong_rural_filler_05, zztong_rural_filler_06.
+* Added zzttong_desert_filler_01 (wilderness filler only for desert)
+* Adjusted zztong_stone_quarry_01 to match Navezgane lore. (Correa)
 
 V1.3.026 (ZZ026)
 * Added translations to Localization.txt.

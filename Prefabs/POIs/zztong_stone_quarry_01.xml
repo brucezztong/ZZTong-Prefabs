@@ -33,11 +33,11 @@
   <property name="PrefabSize" value="81, 24, 81" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="TotalVertices" value="206581" />
-    <property name="TotalTriangles" value="117252" />
+    <property name="TotalVertices" value="213667" />
+    <property name="TotalTriangles" value="119421" />
     <property class="BlockEntities">
-      <property name="Vertices" value="166088" />
-      <property name="Triangles" value="62467" />
+      <property name="Vertices" value="173304" />
+      <property name="Triangles" value="64828" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="9647" />
@@ -52,16 +52,16 @@
       <property name="Triangles" value="292" />
     </property>
     <property class="ChunkMeshes3">
-      <property name="Vertices" value="624" />
-      <property name="Triangles" value="312" />
+      <property name="Vertices" value="584" />
+      <property name="Triangles" value="292" />
     </property>
     <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="29890" />
-      <property name="Triangles" value="48000" />
+      <property name="Vertices" value="29800" />
+      <property name="Triangles" value="47828" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -75,7 +75,7 @@
       <property name="0" value="59, 11, 69" />
     </property>
     <property class="FetchContainer">
-      <property name="0" value="40, 6, 53" />
+      <property name="0" value="48, 6, 57" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="67, 19, 9" />

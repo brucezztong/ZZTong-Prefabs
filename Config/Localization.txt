@@ -84,6 +84,7 @@ zztong_containers_01,POI,POI,,x,Containers,,Behälter,Contenedores,Conteneurs,Co
 zztong_crater_01,POI,POI,,x,Crater,,Krater,Cráter,Cratère,Cratere,クレーター,분화구,Krater,Cratera,Кратер,Krater,陨石坑,火山口
 zztong_cryptominer_01,POI,POI,,x,Cryptominer,,Kryptominer,Criptominero,Cryptominer,Criptominer,CryptoMiner,크립토 미너,Kryptominer,Cryptominer,Криптоминер,Kriptominer,加密矿场,隱秘者
 zztong_delos_oldwest_01,POI,POI,,x,Delos Hotel,,Delos Hotel,Hotel Delos,Hôtel Delos,Delos Hotel,デロスホテル,델로스 호텔,Hotel Delos,Delos Hotel,Delos Hotel,Delos Hotel,迪洛斯酒店,德洛斯酒店
+zztong_desert_filler_01,POI,POI,,x,Oasis,,Oase,Oasis,Oasis,Oasi,オアシス,오아시스,Oaza,Oásis,Оазис,Vaha,绿洲,綠洲
 zztong_dog_park_01,POI,POI,,x,Dog Park,,Hundepark,Parque para perros,Parc de chiens,Parco per cani,ドッグパーク,개 공원,Park dla psów,Parque de cachorro,Собачий парк,Köpek parkı,狗狗公园,狗公園
 zztong_drive_in_movie_01,POI,POI,,x,Starlight Drive-In,,Starlight Drive-In,Starlight Drive-in,Starlight Drive-in,Starlight Drive-in,スターライトドライブイン,스타 라이트 드라이브 인,Starlight Drive-in,Starlight Drive-In,Starlight Drive-In,Starlight Drive-In,星光汽车影院,星光開車
 zztong_drive_thru_01,POI,POI,,x,Drive-Thru,,Autorestaurant,Auto-servicio,Drive-thru,Percorribile in auto,ドライブスルー,드라이브 스루,Przejazd,Drive thru,Автокафе,Arabaya servis,得来速,得來速
@@ -199,7 +200,7 @@ zztong_slabhouse_01,POI,POI,,x,Slabhouse,,Slabhouse,Buhondeo,Dalle,Lastra,スラ
 zztong_solar_farm_01,POI,POI,,x,Solar Farm,,Sonnenfarm,Granja solar,Ferme solaire,Fattoria solare,ソーラーファーム,태양열 농장,Farma słoneczna,Fazenda Solar,Солнечная ферма,Güneş çiftliği,太阳能农场,太陽能農場
 zztong_solar_farm_02,POI,POI,,x,Solar Farm,,Sonnenfarm,Granja solar,Ferme solaire,Fattoria solare,ソーラーファーム,태양열 농장,Farma słoneczna,Fazenda Solar,Солнечная ферма,Güneş çiftliği,太阳能农场,太陽能農場
 zztong_speleological_society_01,POI,POI,,x,Speleological Society,,Speleologische Gesellschaft,Sociedad espeleológica,Société spécifique,Società speleologica,洞窟学会,경련 학회,Speleologiczne społeczeństwo,Sociedade Espeleológica,Спелелогическое общество,Speleoloji Topluluğu,史密斯学会,史密斯學會
-zztong_stone_quarry_01,POI,POI,,x,Stone Quarry,,Steinsteinbruch,Cantera de piedra,Carrière de pierre,Cava di pietra,石の採石場,석조 채석장,Kamień kamienny,Pedreira de pedra,Каменный карьер,Taş ocağından,采石场,石採石場
+zztong_stone_quarry_01,POI,POI,,x,Correa Lime & Stone,,Correa Lime & Stone,Correa lima y piedra,Correa Lime & Stone,Correa Lime & Stone,Correa Lime＆Stone,코레아 라임 & 스톤,Correa Lime & Stone,Correa Lime & Stone,Корреа -лайм и камень,Correa Lime & Stone,Corre Lime＆Stone,Corre Lime＆Stone
 zztong_store_s_01,POI,POI,,x,Peddler Packer and Bella Vino,,Händler Packer und Bella Vino,PELAJER DE PEDDLER Y BELLA Vino,Packer Packer et Bella Vino,PEDDLER PACKER E BELLA VINO,Peddler PackerとBella Vino,Peddler Packer와 Bella Vino,Peddler Packer i Bella Vino,PACKER PETDLER E BELLA VINO,Peddler Packer и Bella Vino,Peddler Packer ve Bella Vino,小贩包装工与贝拉红酒,小販包裝工和貝拉維諾
 zztong_store_s_02,POI,POI,,x,Fred E. Fromage,,Fred E. Fromage,Fred E. Fromage,Fred E. Fromage,Fred E. Fromage,フレッド・E・フロマージュ,Fred E. Fromage,Fred E. Fromage,Fred E. Fromage,Фред Э. Формаж,Fred E. Farnage,弗雷德奶酪店,弗雷德·E
 zztong_store_s_03,POI,POI,,x,Valmont Buildings,,Valmont Gebäude,Edificios de Valmont,Bâtiments Valmont,Edifici Valmont,バルモントの建物,발 몬트 건물,Budynki Valmont,Edifícios de Valmont,Вальмонт здания,Valmont Binaları,瓦尔蒙大厦,瓦爾蒙特建築
