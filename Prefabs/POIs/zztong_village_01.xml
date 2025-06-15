@@ -6,7 +6,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="AllowTopSoilDecorations" value="False" />
   <property name="DifficultyTier" value="5" />
-  <property name="ShowQuestClearCount" value="1" />
+  <property name="ShowQuestClearCount" value="5" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="150, 35, 150" />
   <property name="RotationToFaceNorth" value="2" />
@@ -15,33 +15,33 @@
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="4000" />
   <property name="QuestTags" value="clear, fetch, infested" />
-  <property name="SleeperVolumeSize" value="20, 5, 18#15, 8, 17#21, 5, 28#29, 6, 35#18, 8, 23#15, 6, 15#15, 6, 13#7, 7, 7#11, 4, 15#11, 6, 15#10, 5, 7#10, 5, 7#8, 8, 14#9, 3, 13#9, 9, 6#9, 9, 7#16, 3, 14#10, 6, 14" />
-  <property name="SleeperVolumeStart" value="47, 9, 96#11, 9, 114#26, 9, 101#26, 8, 56#29, 6, 21#127, 6, 5#42, 6, 135#108, 5, 63#112, 9, 91#112, 13, 91#60, 10, 31#71, 10, 31#95, 9, 81#91, 10, 103#91, 13, 110#91, 13, 103#59, 10, 50#59, 4, 50" />
-  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,3,3,GroupGenericZombie,3,3,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,2,GroupGenericZombie,4,5,GroupGenericZombie,4,4,GroupGenericZombie,2,3,GroupGenericZombie,2,2,GroupGenericZombie,4,4,GroupGenericZombie,4,4,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,3,4,GroupGenericZombie,3,3" />
-  <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
-  <property name="SleeperVolumeFlags" value="0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0" />
-  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # " />
+  <property name="SleeperVolumeSize" value="20, 5, 18#15, 8, 17#21, 5, 28#29, 6, 35#26, 8, 29#15, 6, 15#15, 6, 13#7, 7, 7#11, 4, 15#11, 6, 15#10, 5, 7#10, 5, 7#8, 8, 14#9, 3, 13#9, 9, 6#9, 9, 7#16, 7, 14#10, 6, 14#13, 15, 9#13, 3, 9#15, 11, 9#9, 3, 12#7, 3, 12#15, 6, 12#3, 3, 12#7, 3, 5#14, 3, 9#16, 3, 13#8, 5, 8#8, 5, 15#8, 4, 7#15, 6, 15#111, 21, 111" />
+  <property name="SleeperVolumeStart" value="47, 9, 96#11, 9, 114#26, 9, 101#26, 8, 56#29, 6, 21#127, 6, 5#42, 6, 135#108, 5, 63#112, 9, 91#112, 13, 91#60, 10, 31#71, 10, 31#95, 9, 81#91, 10, 103#91, 13, 110#91, 13, 103#59, 10, 50#59, 4, 50#79, 9, 51#92, 10, 51#92, 13, 51#89, 10, 63#98, 10, 63#90, 13, 63#87, 15, 63#69, 9, 100#60, 10, 82#60, 10, 69#60, 13, 69#68, 13, 69#60, 14, 77#61, 18, 69#16, 9, 22" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,3,3,GroupGenericZombie,3,3,GroupGenericZombie,2,2,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,1,2,GroupGenericZombie,4,5,GroupGenericZombie,4,4,GroupGenericZombie,2,3,GroupGenericZombie,2,2,GroupGenericZombie,4,4,GroupGenericZombie,4,4,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,3,4,GroupGenericZombie,3,3,GroupGenericZombie,5,6,GroupGenericZombie,2,2,GroupGenericZombie,3,4,GroupGenericZombie,3,3,GroupGenericZombie,2,3,GroupGenericZombie,6,7,GroupGenericZombie,1,1,GroupGenericZombie,1,1,GroupGenericZombie,4,4,GroupGenericZombie,5,6,GroupGenericZombie,2,2,GroupGenericZombie,5,5,GroupGenericZombie,2,2,GroupGenericZombie,4,4,GroupGenericZombie,8,8" />
+  <property name="SleeperIsLootVolume" value="True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="YOffset" value="-9" />
   <property class="Stats">
-    <property name="TotalVertices" value="3047308" />
-    <property name="TotalTriangles" value="2030519" />
+    <property name="TotalVertices" value="3525208" />
+    <property name="TotalTriangles" value="2214015" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2724944" />
-      <property name="Triangles" value="1764112" />
+      <property name="Vertices" value="3177446" />
+      <property name="Triangles" value="1932936" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="209210" />
-      <property name="Triangles" value="124215" />
+      <property name="Vertices" value="232946" />
+      <property name="Triangles" value="137617" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="35968" />
       <property name="Triangles" value="17984" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="2276" />
-      <property name="Triangles" value="1712" />
+      <property name="Vertices" value="3938" />
+      <property name="Triangles" value="2982" />
     </property>
     <property class="ChunkMeshes3">
       <property name="Vertices" value="264" />
@@ -83,7 +83,7 @@
       <property name="1" value="116, 9, 106" />
     </property>
     <property class="challenge_steel">
-      <property name="0" value="91, 9, 90" />
+      <property name="0" value="96, 9, 94" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="92, 15, 114" />

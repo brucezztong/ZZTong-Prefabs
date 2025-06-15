@@ -195,6 +195,7 @@
         <prefab_spawn_adjust partial_name="zztong_stone_quarry_01" biomeTags="forest"/>
         <prefab_spawn_adjust partial_name="zztong_survivor_base_ruin_01" biomeTags="snow,wasteland"/>
         <prefab_spawn_adjust partial_name="zztong_survivor_base_ruin_01" biomeTags="snow,wasteland"/>
+        <prefab_spawn_adjust partial_name="zztong_village_01" biomeTags="forest,snow"/>
         <prefab_spawn_adjust partial_name="zztong_wilderness_filler_03" biomeTags="forest,snow"/>
 	</append>
 
