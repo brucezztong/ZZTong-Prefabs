@@ -26,14 +26,22 @@
   <property name="PrefabSize" value="25, 21, 25" />
   <property name="Tags" value="countryresidential" />
   <property name="QuestTags" value="clear, fetch" />
+  <property name="POIMarkerSize" value="1, 13, 5" />
+  <property name="POIMarkerStart" value="-1, 0, 1" />
+  <property name="POIMarkerGroup" value="driveway" />
+  <property name="POIMarkerTags" value="countryresidential" />
+  <property name="POIMarkerType" value="PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_driveway_countryresidential_07" />
+  <property name="POIMarkerPartRotations" value="3" />
+  <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="3, 2, 5" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="20, 2, 13" />
       <property name="1" value="22, 2, 18" />
       <property name="2" value="18, 3, 21" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="3, 2, 5" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="14, 3, 16" />
@@ -55,14 +63,14 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="123614" />
-    <property name="TotalTriangles" value="66740" />
+    <property name="TotalVertices" value="137321" />
+    <property name="TotalTriangles" value="72974" />
     <property class="BlockEntities">
-      <property name="Vertices" value="59756" />
-      <property name="Triangles" value="31404" />
+      <property name="Vertices" value="73164" />
+      <property name="Triangles" value="37638" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="59534" />
+      <property name="Vertices" value="59637" />
       <property name="Triangles" value="30408" />
     </property>
     <property class="ChunkMeshes1">
@@ -70,7 +78,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="2668" />
+      <property name="Vertices" value="2864" />
       <property name="Triangles" value="2048" />
     </property>
     <property class="ChunkMeshes3">

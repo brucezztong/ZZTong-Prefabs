@@ -9,7 +9,7 @@
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="24, 14, 25#7, 7, 7" />
   <property name="SleeperVolumeStart" value="1, 4, 0#18, 8, 18" />
-  <property name="SleeperVolumeGroup" value="GroupGenericZombie,5,6,GroupGenericZombie,3,3" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,3,3,GroupGenericZombie,2,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",hard" />
   <property name="SleeperIsLootVolume" value="False,True" />
   <property name="DistantPOIYOffset" value="0" />
@@ -27,14 +27,14 @@
   <property name="YOffset" value="-3" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property class="Stats">
-    <property name="TotalVertices" value="49072" />
-    <property name="TotalTriangles" value="27529" />
+    <property name="TotalVertices" value="49717" />
+    <property name="TotalTriangles" value="27712" />
     <property class="BlockEntities">
-      <property name="Vertices" value="19973" />
-      <property name="Triangles" value="6559" />
+      <property name="Vertices" value="20645" />
+      <property name="Triangles" value="6742" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25765" />
+      <property name="Vertices" value="25738" />
       <property name="Triangles" value="15926" />
     </property>
     <property class="ChunkMeshes1">

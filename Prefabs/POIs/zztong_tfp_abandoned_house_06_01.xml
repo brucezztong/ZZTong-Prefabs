@@ -35,14 +35,14 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="YOffset" value="-1" />
   <property class="Stats">
-    <property name="TotalVertices" value="259072" />
-    <property name="TotalTriangles" value="157071" />
+    <property name="TotalVertices" value="281651" />
+    <property name="TotalTriangles" value="169144" />
     <property class="BlockEntities">
-      <property name="Vertices" value="187991" />
-      <property name="Triangles" value="113581" />
+      <property name="Vertices" value="210280" />
+      <property name="Triangles" value="125654" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="62745" />
+      <property name="Vertices" value="62791" />
       <property name="Triangles" value="33214" />
     </property>
     <property class="ChunkMeshes1">
@@ -50,7 +50,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="3506" />
+      <property name="Vertices" value="3750" />
       <property name="Triangles" value="2680" />
     </property>
     <property class="ChunkMeshes3">
