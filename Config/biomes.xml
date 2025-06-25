@@ -4,7 +4,7 @@
         SNOW BIOME
     *************************************************************** -->
 
-	<append xpath="/worldgeneration/biome[@name='snow']/decorations">
+	<append xpath="/worldgeneration/biomes/biome[@name='snow']/decorations">
 		<decoration type="prefab" name="zztong_hunters_trap_01" onslopes="true" prob=".001" />
 		<decoration type="prefab" name="zztong_hunters_trap_02" onslopes="true" prob=".001" />
 		<decoration type="prefab" name="zztong_tent_02" onslopes="true" prob=".0001" />
@@ -43,7 +43,7 @@
         DESERT
     *************************************************************** -->
 
-	<append xpath="/worldgeneration/biome[@name='desert']/decorations">
+	<append xpath="/worldgeneration/biomes/biome[@name='desert']/decorations">
 		<decoration type="prefab" name="zztong_hunters_trap_01" onslopes="true" prob=".001" />
 		<decoration type="prefab" name="zztong_hunters_trap_02" onslopes="true" prob=".001" />
 		<decoration type="prefab" name="zztong_tent_01" onslopes="true" prob=".001" />
@@ -78,7 +78,7 @@
         WASTELAND
     *************************************************************** -->
 
-	<append xpath="/worldgeneration/biome[@name='wasteland']/decorations">
+	<append xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations">
 		<decoration type="prefab" name="zztong_rubble_01" onslopes="true" prob=".01" />
 		<decoration type="prefab" name="zztong_rubble_02" onslopes="true" prob=".01" />
 		<decoration type="prefab" name="zztong_rubble_03" onslopes="true" prob=".01" />

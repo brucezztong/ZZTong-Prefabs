@@ -1,5 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+V2.0.028 (ZZ028)
+* Adjusted biomes.xml in response to b292 changes.
+
 V2.0.027 (ZZ027)
 * Removed part_terrain_greeble_12W3H from rwg_tile_countrytown_t_zztong_01.
 * Added zztong_sheriff_01 to the "police" theme.
