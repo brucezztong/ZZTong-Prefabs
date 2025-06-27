@@ -28,7 +28,9 @@
   <property name="SleeperIsQuestExclude" value="False,False" />
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
+  <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="1467432" />
     <property name="TotalTriangles" value="1104244" />
     <property class="BlockEntities">

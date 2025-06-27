@@ -2,6 +2,8 @@ CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 V2.0.028 (ZZ028)
 * Adjusted biomes.xml in response to b292 changes.
+* Fixed tag problems with rwg_tile_gateway_straight_zztong_07.
+* Fixed tag problems with rwg_tile_gateway_straight_zztong_08.
 
 V2.0.027 (ZZ027)
 * Removed part_terrain_greeble_12W3H from rwg_tile_countrytown_t_zztong_01.

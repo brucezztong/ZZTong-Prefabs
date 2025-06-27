@@ -28,12 +28,14 @@
   <property name="SleeperIsQuestExclude" value="False" />
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
+  <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="569842" />
-    <property name="TotalTriangles" value="608992" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="586166" />
+    <property name="TotalTriangles" value="501528" />
     <property class="BlockEntities">
-      <property name="Vertices" value="506144" />
-      <property name="Triangles" value="511504" />
+      <property name="Vertices" value="522468" />
+      <property name="Triangles" value="404040" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="5372" />
