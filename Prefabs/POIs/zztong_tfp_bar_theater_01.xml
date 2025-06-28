@@ -4,7 +4,6 @@
   <property name="AllowTopSoilDecorations" value="False" />
   <property name="Zoning" value="Commercial, downtown" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="AllowedTownships" value="city,town" />
   <property name="MaxPerHub" value="1" />
   <property name="PrefabSize" value="60, 21, 60" />
   <property name="TraderArea" value="False" />

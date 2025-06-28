@@ -5,7 +5,6 @@
   <property name="Tags" value="commercial" />
   <property name="RotationToFaceNorth" value="1" />
   <property name="Zoning" value="downtown" />
-  <property name="AllowedTownships" value="city,town" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="9, 4, 10#26, 4, 18#20, 4, 8#25, 4, 8#9, 4, 7#9, 3, 17#15, 4, 12#10, 4, 12#14, 4, 10#27, 8, 36" />

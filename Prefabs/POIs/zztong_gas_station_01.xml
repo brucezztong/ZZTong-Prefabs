@@ -15,7 +15,6 @@
   <property name="SleeperVolumeGroup" value="GroupGenericZombie,2,3,GroupGenericZombie,2,2,GroupGenericZombie,2,2,GroupGenericZombie,2,2" />
   <property name="SleeperIsBossVolume" value="False,False,False" />
   <property name="Zoning" value="Commercial" />
-  <property name="AllowedTownships" value="city,rural,town" />
   <property name="YOffset" value="-3" />
   <property name="EditorGroups" value="rural" />
   <property name="SleeperIsQuestExclude" value="False,False,False,False" />

@@ -4,7 +4,6 @@
   <property name="AllowTopSoilDecorations" value="True" />
   <property name="Zoning" value="ResidentialOld" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="AllowedTownships" value="city,town,rural,wilderness" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="15, 4, 9#15, 2, 5#8, 10, 11#6, 2, 4#15, 2, 5#15, 3, 8#15, 5, 32#49, 5, 17#4, 5, 27" />

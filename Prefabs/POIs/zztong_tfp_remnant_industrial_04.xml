@@ -4,7 +4,6 @@
   <property name="AllowTopSoilDecorations" value="False" />
   <property name="RotationToFaceNorth" value="3" />
   <property name="Zoning" value="downtown, commercial, industrial" />
-  <property name="AllowedTownships" value="city,town" />
   <property name="TraderArea" value="False" />
   <property name="ExcludeDistantPOIMesh" value="False" />
   <property name="SleeperVolumeSize" value="24, 14, 25#7, 7, 7" />
