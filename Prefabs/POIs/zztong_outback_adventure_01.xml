@@ -23,8 +23,8 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="Tags" value="wilderness" />
   <property name="QuestTags" value="clear, fetch, infested" />
-  <property name="POIMarkerSize" value="6, 0, 6#1, 2, 1#4, 1, 1#2, 3, 2" />
-  <property name="POIMarkerStart" value="83, 3, -6#88, 3, 31#89, 3, 31#71, 3, 2" />
+  <property name="POIMarkerSize" value="6, 1, 4#1, 2, 1#4, 1, 1#2, 3, 2" />
+  <property name="POIMarkerStart" value="83, 2, -1#88, 3, 31#89, 3, 31#71, 3, 2" />
   <property name="POIMarkerGroup" value="road,atm,barbwire,ev" />
   <property name="POIMarkerTags" value="###" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
@@ -84,14 +84,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1789081" />
-    <property name="TotalTriangles" value="825613" />
+    <property name="LightsVolume" value="5127.08" />
+    <property name="TotalVertices" value="1906515" />
+    <property name="TotalTriangles" value="838913" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1648838" />
-      <property name="Triangles" value="721874" />
+      <property name="Vertices" value="1766265" />
+      <property name="Triangles" value="735174" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="103723" />
+      <property name="Vertices" value="103730" />
       <property name="Triangles" value="55489" />
     </property>
     <property class="ChunkMeshes1">

@@ -22,8 +22,8 @@
   <property name="Tags" value="wilderness, rural, gateway, zzbartertown" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
-  <property name="POIMarkerSize" value="3, 1, 5" />
-  <property name="POIMarkerStart" value="11, 2, -5" />
+  <property name="POIMarkerSize" value="3, 1, 2" />
+  <property name="POIMarkerStart" value="11, 2, -1" />
   <property name="POIMarkerGroup" value="Road" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
@@ -31,15 +31,16 @@
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property class="Stats">
-    <property name="TotalVertices" value="43982" />
-    <property name="TotalTriangles" value="20336" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="43996" />
+    <property name="TotalTriangles" value="20288" />
     <property class="BlockEntities">
       <property name="Vertices" value="35260" />
       <property name="Triangles" value="12494" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="6950" />
-      <property name="Triangles" value="4746" />
+      <property name="Vertices" value="6964" />
+      <property name="Triangles" value="4698" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,6 +69,9 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="12, 3, 1" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="12, 3, 6" />
     </property>
   </property>
 </prefab>

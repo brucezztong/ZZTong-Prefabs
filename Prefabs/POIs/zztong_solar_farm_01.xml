@@ -24,7 +24,7 @@
   <property name="Tags" value="wilderness, gateway" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="5, 1, 5#4, 2, 3#5, 11, 2#5, 13, 2" />
-  <property name="POIMarkerStart" value="18, 1, 42#26, 2, 37#12, 2, 38#18, 1, 42" />
+  <property name="POIMarkerStart" value="18, 1, 38#26, 2, 37#12, 2, 38#18, 1, 42" />
   <property name="POIMarkerGroup" value="road,box,pole,new" />
   <property name="POIMarkerTags" value="###" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
@@ -69,10 +69,11 @@
       <property name="0" value="24, 2, 36" />
     </property>
     <property class="Rally">
-      <property name="0" value="22, 2, 40" />
+      <property name="0" value="24, 2, 39" />
     </property>
   </property>
   <property class="Stats">
+    <property name="LightsVolume" value="4456.873" />
     <property name="TotalVertices" value="229085" />
     <property name="TotalTriangles" value="93516" />
     <property class="BlockEntities">

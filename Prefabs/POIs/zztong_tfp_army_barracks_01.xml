@@ -27,7 +27,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False" />
   <property name="Tags" value="wilderness" />
   <property name="POIMarkerSize" value="5, 1, 5#1, 1, 3#5, 1, 1#5, 1, 1" />
-  <property name="POIMarkerStart" value="39, 2, -5#39, 3, 32#39, 3, 10#16, 3, 10" />
+  <property name="POIMarkerStart" value="39, 2, -1#39, 3, 32#39, 3, 10#16, 3, 10" />
   <property name="POIMarkerGroup" value="road,spikes2,spikes1,spikes3" />
   <property name="POIMarkerTags" value="###" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
@@ -37,14 +37,15 @@
   <property name="PrefabSize" value="60, 23, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="383218" />
-    <property name="TotalTriangles" value="161347" />
+    <property name="LightsVolume" value="4407.935" />
+    <property name="TotalVertices" value="713152" />
+    <property name="TotalTriangles" value="248076" />
     <property class="BlockEntities">
-      <property name="Vertices" value="332611" />
-      <property name="Triangles" value="122999" />
+      <property name="Vertices" value="662222" />
+      <property name="Triangles" value="209728" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="39317" />
+      <property name="Vertices" value="39416" />
       <property name="Triangles" value="20952" />
     </property>
     <property class="ChunkMeshes1">
@@ -52,7 +53,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1876" />
+      <property name="Vertices" value="2100" />
       <property name="Triangles" value="1560" />
     </property>
     <property class="ChunkMeshes3">
@@ -106,7 +107,7 @@
       <property name="0" value="42, 4, 31" />
     </property>
     <property class="Rally">
-      <property name="0" value="40, 3, 2" />
+      <property name="0" value="40, 3, 5" />
     </property>
   </property>
 </prefab>

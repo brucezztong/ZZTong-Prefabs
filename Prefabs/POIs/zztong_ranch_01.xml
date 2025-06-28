@@ -14,7 +14,7 @@
   <property name="Zoning" value="none" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="POIMarkerSize" value="6, 1, 5#3, 4, 4#7, 18, 7#7, 18, 7#7, 18, 7#7, 4, 7#7, 7, 7#5, 1, 5#5, 1, 5#4, 4, 9#5, 5, 11" />
-  <property name="POIMarkerStart" value="57, 7, -5#94, 8, 8#108, 7, 27#108, 7, 36#108, 7, 45#7, 7, 49#7, 4, 58#57, 8, 27#56, 8, 65#50, 8, 84#82, 8, 41" />
+  <property name="POIMarkerStart" value="57, 7, -1#94, 8, 8#108, 7, 27#108, 7, 36#108, 7, 45#7, 7, 49#7, 4, 58#57, 8, 27#56, 8, 65#50, 8, 84#82, 8, 41" />
   <property name="POIMarkerGroup" value="road,gas1,silo1,silo2,silo3,coop,storm,mines1,mines2,horses,camper" />
   <property name="POIMarkerTags" value="##########" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
@@ -34,15 +34,16 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="SVS23" value="sound landmine_trigger^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^trigger 5" />
   <property class="Stats">
-    <property name="TotalVertices" value="1947663" />
-    <property name="TotalTriangles" value="915412" />
+    <property name="LightsVolume" value="4456.873" />
+    <property name="TotalVertices" value="3730943" />
+    <property name="TotalTriangles" value="1189588" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1611784" />
-      <property name="Triangles" value="696811" />
+      <property name="Vertices" value="3394753" />
+      <property name="Triangles" value="970855" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="292101" />
-      <property name="Triangles" value="150535" />
+      <property name="Vertices" value="292412" />
+      <property name="Triangles" value="150667" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -119,7 +120,7 @@
       <property name="0" value="67, 15, 99" />
     </property>
     <property class="Rally">
-      <property name="0" value="60, 8, 3" />
+      <property name="0" value="60, 8, 7" />
     </property>
     <property class="quest_stone_boulder">
       <property name="0" value="60, 8, 23" />

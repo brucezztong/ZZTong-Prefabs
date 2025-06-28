@@ -22,8 +22,8 @@
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
-  <property name="POIMarkerSize" value="5, 1, 5" />
-  <property name="POIMarkerStart" value="13, 2, -5" />
+  <property name="POIMarkerSize" value="5, 1, 3" />
+  <property name="POIMarkerStart" value="13, 2, -1" />
   <property name="POIMarkerGroup" value="road" />
   <property name="POIMarkerTags" value="" />
   <property name="POIMarkerType" value="RoadExit" />
@@ -33,14 +33,15 @@
   <property name="PrefabSize" value="31, 69, 31" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="372014" />
-    <property name="TotalTriangles" value="149615" />
+    <property name="LightsVolume" value="4188.791" />
+    <property name="TotalVertices" value="382024" />
+    <property name="TotalTriangles" value="152680" />
     <property class="BlockEntities">
-      <property name="Vertices" value="322077" />
-      <property name="Triangles" value="113083" />
+      <property name="Vertices" value="332127" />
+      <property name="Triangles" value="116148" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="47373" />
+      <property name="Vertices" value="47333" />
       <property name="Triangles" value="31948" />
     </property>
     <property class="ChunkMeshes1">
@@ -88,7 +89,7 @@
       <property name="0" value="5, 3, 16" />
     </property>
     <property class="Rally">
-      <property name="0" value="15, 3, 1" />
+      <property name="0" value="20, 3, 1" />
     </property>
     <property class="POILight">
       <property name="0" value="15, 60, 15" />

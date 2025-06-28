@@ -24,7 +24,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="wilderness" />
   <property name="POIMarkerSize" value="7, 1, 5#1, 1, 6#6, 15, 13#5, 1, 5#1, 2, 1#8, 1, 1#5, 9, 5#7, 16, 8#4, 12, 6#5, 4, 5" />
-  <property name="POIMarkerStart" value="81, 2, -5#42, 3, 2#6, 3, 2#10, 3, 130#95, 3, 2#80, 3, 1#91, 3, 15#113, 3, 11#142, 3, 2#71, 3, 129" />
+  <property name="POIMarkerStart" value="81, 2, -1#42, 3, 2#6, 3, 2#10, 3, 130#95, 3, 2#80, 3, 5#91, 3, 15#113, 3, 11#142, 3, 2#71, 3, 129" />
   <property name="POIMarkerGroup" value="road,barrier,billboard,campsite,delivery,cones,tower,water,electric,shed" />
   <property name="POIMarkerTags" value="#########" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
@@ -75,11 +75,12 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1353338" />
-    <property name="TotalTriangles" value="688363" />
+    <property name="LightsVolume" value="4188.791" />
+    <property name="TotalVertices" value="1955736" />
+    <property name="TotalTriangles" value="756215" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1284498" />
-      <property name="Triangles" value="587259" />
+      <property name="Vertices" value="1886896" />
+      <property name="Triangles" value="655111" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="10070" />

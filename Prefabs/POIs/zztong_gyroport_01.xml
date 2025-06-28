@@ -22,7 +22,7 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property name="POIMarkerSize" value="5, 1, 5#5, 1, 1#5, 1, 1#5, 5, 11#8, 2, 1#1, 1, 8#2, 2, 2#2, 2, 5#1, 1, 8#6, 12, 4" />
-  <property name="POIMarkerStart" value="5, 2, -5#6, 3, 36#42, 3, 36#48, 3, 18#19, 3, 16#52, 3, 38#22, 3, 38#16, 3, 47#56, 3, 46#33, 3, 1" />
+  <property name="POIMarkerStart" value="5, 2, -1#6, 3, 36#42, 3, 36#48, 3, 18#19, 3, 16#52, 3, 38#22, 3, 38#16, 3, 47#56, 3, 46#33, 3, 1" />
   <property name="POIMarkerGroup" value="road,barbwire1,barbwire2,camper,firewood,log,pallets,targets,cones,electric" />
   <property name="POIMarkerTags" value="#########" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
@@ -33,11 +33,12 @@
   <property name="Tags" value="wilderness" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
-    <property name="TotalVertices" value="364442" />
-    <property name="TotalTriangles" value="177078" />
+    <property name="LightsVolume" value="4201.357" />
+    <property name="TotalVertices" value="400887" />
+    <property name="TotalTriangles" value="176944" />
     <property class="BlockEntities">
-      <property name="Vertices" value="320309" />
-      <property name="Triangles" value="142871" />
+      <property name="Vertices" value="356754" />
+      <property name="Triangles" value="142737" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="34483" />
@@ -66,7 +67,7 @@
   </property>
   <property class="IndexedBlockOffsets">
     <property class="Rally">
-      <property name="0" value="5, 3, 2" />
+      <property name="0" value="5, 3, 5" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="36, 3, 36" />

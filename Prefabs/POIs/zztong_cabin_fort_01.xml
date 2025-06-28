@@ -23,7 +23,7 @@
   <property name="Tags" value="wilderness, rural, gateway" />
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="POIMarkerSize" value="3, 1, 5#1, 4, 5#7, 13, 2#7, 13, 3" />
-  <property name="POIMarkerStart" value="19, 2, 42#12, 3, 23#17, 2, 42#17, 2, 42" />
+  <property name="POIMarkerStart" value="19, 2, 38#12, 3, 23#17, 2, 42#17, 2, 42" />
   <property name="POIMarkerGroup" value="road,gas,driveway,driveway" />
   <property name="POIMarkerTags" value="##gateway#rural" />
   <property name="POIMarkerType" value="RoadExit,PartSpawn,PartSpawn,PartSpawn" />
@@ -59,22 +59,23 @@
     <property class="FetchContainer">
       <property name="0" value="22, 8, 17" />
     </property>
+    <property class="Rally">
+      <property name="0" value="17, 3, 39" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="39, 3, 2" />
     </property>
-    <property class="Rally">
-      <property name="0" value="20, 3, 38" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="278695" />
-    <property name="TotalTriangles" value="105712" />
+    <property name="LightsVolume" value="4589.131" />
+    <property name="TotalVertices" value="300357" />
+    <property name="TotalTriangles" value="113826" />
     <property class="BlockEntities">
-      <property name="Vertices" value="248617" />
-      <property name="Triangles" value="83232" />
+      <property name="Vertices" value="270313" />
+      <property name="Triangles" value="91346" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="24460" />
+      <property name="Vertices" value="24426" />
       <property name="Triangles" value="13452" />
     </property>
     <property class="ChunkMeshes1">
