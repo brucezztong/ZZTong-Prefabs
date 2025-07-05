@@ -2,6 +2,8 @@ CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 V2.0.029 (ZZ029)
 * Adjusted wilderness road exits and some quest marker locations.
+* Turned off AllowTopSoilDecorations for the Hunter's Trap decorations.
+* Added rwg_tile_industrial_t_zztong_01 to support more 100x100 POIs.
 
 V2.0.028 (ZZ028)
 * Adjusted biomes.xml in response to b292 changes.

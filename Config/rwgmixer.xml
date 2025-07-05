@@ -75,6 +75,21 @@
 	</append>
 
     <!-- **************************************************************
+        This Tile was added to give RWG another option for allowing
+        100x100 industrial POIs to be placed. Some maps were only
+        getting one industrial cap tile so some Tier 5 factories
+        were not always getting placed.
+    ****************************************************************-->
+
+	<append xpath="/rwgmixer">
+        <streettile name="rwg_tile_industrial_t_zztong_01">
+            <property name="mintiles" value="1"/>
+            <property name="maxtiles" value="2"/>
+            <property name="maxdensity" value="150"/>
+        </streettile>
+	</append>
+
+    <!-- **************************************************************
         These Tiles do not offer any places for a Trader, so they
         should only appear once max, otherwise small maps might
         not get all of their traders.
