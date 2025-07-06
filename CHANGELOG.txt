@@ -9,6 +9,7 @@ V2.1.029 (ZZ029)
 * Small change: zztong_strip_mall_02
 * Small change: zztong_tfp_ranger_station_01
 * Small change: zztong_tfp_army_barracks_01
+* Small change: rwg_tile_rural_corner_06
 
 V2.0.028 (ZZ028)
 * Adjusted biomes.xml in response to b292 changes.

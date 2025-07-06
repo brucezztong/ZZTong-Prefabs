@@ -11,25 +11,26 @@
   <property name="YOffset" value="-4" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="25, 0, 25#60, 0, 60#60, 0, 60#42, 0, 42#3, 2, 1#1, 1, 6#13, 15, 6#13, 18, 6#13, 15, 6#13, 18, 6#13, 15, 6#13, 16, 6#13, 17, 6#13, 16, 11#13, 17, 6#13, 16, 6#11, 5, 5#5, 1, 5#7, 1, 6#23, 3, 9#7, 4, 5#1, 1, 8#2, 1, 2#11, 5, 5#1, 1, 5#13, 16, 5#13, 16, 5#13, 16, 5#13, 17, 5#13, 17, 4#13, 15, 5#19, 5, 5#8, 5, 5" />
-  <property name="POIMarkerStart" value="82, 4, 82#82, 4, 8#8, 4, 8#107, 4, 82#75, 4, 4#6, 4, 72#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#6, 4, 118#87, 4, 128#71, 4, 72#12, 2, 80#10, 4, 72#6, 4, 71#63, 4, 80#12, 4, 73#145, 4, 73#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#47, 4, 2#13, 4, 2" />
+  <property name="POIMarkerSize" value="25, 0, 25#60, 0, 60#60, 0, 60#42, 0, 42#3, 2, 1#1, 1, 6#13, 15, 6#13, 18, 6#13, 15, 6#13, 18, 6#13, 15, 6#13, 16, 6#13, 17, 6#13, 17, 6#13, 17, 6#13, 16, 6#11, 5, 5#5, 1, 5#7, 1, 6#23, 3, 9#7, 4, 5#1, 1, 8#2, 1, 2#11, 5, 5#1, 1, 5#13, 16, 5#13, 16, 5#13, 16, 5#13, 17, 5#13, 17, 4#13, 15, 5#19, 5, 5#8, 5, 5" />
+  <property name="POIMarkerStart" value="82, 4, 82#82, 4, 8#8, 4, 8#107, 4, 82#75, 4, 4#6, 4, 72#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 79#68, 4, 80#68, 4, 80#6, 4, 118#87, 4, 128#71, 4, 72#12, 2, 80#10, 4, 72#6, 4, 71#63, 4, 80#12, 4, 73#145, 4, 73#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#68, 4, 80#47, 4, 2#13, 4, 2" />
   <property name="POIMarkerGroup" value="xs1,m2,m1,s1,barricade,barrier,billboard,billboard,billboard,billboard,billboard,billboard,billboard,billboard,billboard,billboard,camper,campsite,new,new,end,barrier,hay,end,cones,billboard,billboard,billboard,billboard,new,new,truck,new" />
   <property name="POIMarkerTags" value="################################" />
   <property name="POIMarkerType" value="POISpawn,POISpawn,POISpawn,POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value=",,,,part_zztong_barricade_01,part_zztong_barrier6,part_zztong_billboard_988,part_zztong_billboard_balloon,part_zztong_billboard_carshow,part_zztong_billboard_caves,part_zztong_billboard_delos,part_zztong_billboard_digby,part_zztong_billboard_ham_radio,part_zztong_billboard_kzmb,part_zztong_billboard_kztv,part_zztong_billboard_rumble_creek,part_zztong_camper_01,part_zztong_campsite_01,part_zztong_checkpoint_03,part_zztong_culvert_01,part_zztong_excavator_01,part_zztong_guard_rail8,part_zztong_hay_bale_round_02,part_zztong_tfp_trailer_tanker_02,part_zztong_traffic_cones5,part_billboard_luigi,part_billboard_mammapizza,part_billboard_meltdowns,part_billboard_mycell,part_billboard_pills,part_billboard_umove,part_semi_truck,part_shipping_container_04" />
+  <property name="POIMarkerPartToSpawn" value=",,,,part_zztong_barricade_01,part_zztong_barrier6,part_zztong_billboard_988,part_zztong_billboard_balloon,part_zztong_billboard_carshow,part_zztong_billboard_caves,part_zztong_billboard_delos,part_zztong_billboard_digby,part_zztong_billboard_ham_radio,part_zztong_billboard_kztv,part_zztong_billboard_kztv,part_zztong_billboard_rumble_creek,part_zztong_camper_01,part_zztong_campsite_01,part_zztong_checkpoint_03,part_zztong_culvert_01,part_zztong_excavator_01,part_zztong_guard_rail8,part_zztong_hay_bale_round_02,part_zztong_tfp_trailer_tanker_02,part_zztong_traffic_cones5,part_billboard_luigi,part_billboard_mammapizza,part_billboard_meltdowns,part_billboard_mycell,part_billboard_pills,part_billboard_umove,part_semi_truck,part_shipping_container_04" />
   <property name="POIMarkerPartRotations" value="2,1,3,2,3,1,2,2,2,2,2,2,2,2,2,2,3,0,2,1,0,3,0,3,1,2,2,2,2,2,2,1,1" />
   <property name="POIMarkerPartSpawnChance" value="1,1,1,1,0.1,0.4,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.1,0.5,0.2,0.4,0.5,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" />
   <property name="PrefabSize" value="150, 27, 150" />
   <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="516200" />
-    <property name="TotalTriangles" value="657194" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="675975" />
+    <property name="TotalTriangles" value="658814" />
     <property class="BlockEntities">
-      <property name="Vertices" value="447992" />
-      <property name="Triangles" value="553090" />
+      <property name="Vertices" value="607687" />
+      <property name="Triangles" value="554710" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="7310" />
+      <property name="Vertices" value="7390" />
       <property name="Triangles" value="4748" />
     </property>
     <property class="ChunkMeshes1">
