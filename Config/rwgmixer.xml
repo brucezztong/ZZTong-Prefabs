@@ -1,8 +1,4 @@
 ﻿<rwgmixer>
-    <!-- **************************************************************
-        These are Tiles that should be considered unique.
-        A maxdensity of 120 means 12 million vertices of POI budget.
-    ****************************************************************-->
 
     <!-- **************************************************************
         A mundane tile that adds 25x25 commercial POI support.
