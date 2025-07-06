@@ -12,7 +12,7 @@
   <property name="DistantPOIYOffset" value="0" />
   <property name="EditorGroups" value="commercial" />
   <property name="SleeperVolumeStart" value="5, 3, 40#18, 3, 40#30, 3, 40#42, 3, 40#11, 3, 2#2, 8, 2#29, 3, 19#2, 3, 2#2, 3, 13" />
-  <property name="SleeperVolumeSize" value="12, 9, 19#11, 9, 19#11, 9, 19#11, 9, 19#17, 5, 23#26, 6, 24#20, 6, 15#9, 5, 11#9, 5, 12" />
+  <property name="SleeperVolumeSize" value="12, 9, 19#11, 9, 19#11, 9, 19#11, 9, 19#14, 5, 23#26, 6, 24#20, 6, 15#9, 5, 11#9, 5, 12" />
   <property name="SleeperVolumeGroup" value="ZomUtilityWorker,4,4,GroupGenericZombie,5,5,GroupGenericZombie,7,8,GroupGenericZombie,4,4,GroupGenericZombie,5,6,GroupGenericZombie,3,3,GroupBikerBar,2,3,GroupGenericZombie,1,1,GroupGenericZombie,2,2" />
   <property name="SleeperVolumeGameStageAdjust" value=",,," />
   <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False" />
@@ -100,15 +100,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="696130" />
-    <property name="TotalTriangles" value="260530" />
+    <property name="LightsVolume" value="6576.402" />
+    <property name="TotalVertices" value="765304" />
+    <property name="TotalTriangles" value="282552" />
     <property class="BlockEntities">
-      <property name="Vertices" value="595949" />
-      <property name="Triangles" value="196833" />
+      <property name="Vertices" value="664867" />
+      <property name="Triangles" value="218738" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="89919" />
-      <property name="Triangles" value="47165" />
+      <property name="Vertices" value="90175" />
+      <property name="Triangles" value="47282" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

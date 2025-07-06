@@ -37,7 +37,7 @@
   <property name="PrefabSize" value="60, 23, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
   <property class="Stats">
-    <property name="LightsVolume" value="4407.935" />
+    <property name="LightsVolume" value="4407.934" />
     <property name="TotalVertices" value="713152" />
     <property name="TotalTriangles" value="248076" />
     <property class="BlockEntities">
