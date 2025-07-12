@@ -29,9 +29,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3" />
   <property name="YOffset" value="-8" />
-  <property name="Tags" value="wilderness" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # #4" />
-  <property name="EditorGroups" value="Wilderness" />
   <property name="SVS23" value="sound landmine_trigger^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^sound charge_beep^sleep 1^trigger 5" />
   <property class="Stats">
     <property name="LightsVolume" value="4456.873" />

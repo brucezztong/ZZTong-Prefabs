@@ -1,6 +1,61 @@
 ﻿<rwgmixer>
 
     <!-- **************************************************************
+        Ravenswood Settlement (A Single Tile Village)
+    ****************************************************************-->
+
+    <append xpath="/rwgmixer/world[@name='tiny']">
+        <property class="ravenswood">
+            <property name="count" value="1, 1, 1"/>
+            <property name="tiles" value="1, 1"/>
+            <property name="distance" value="1"/>
+        </property>
+    </append>
+
+    <append xpath="/rwgmixer/world[@name='small']">
+        <property class="ravenswood">
+            <property name="count" value="1, 1, 1"/>
+            <property name="tiles" value="1, 1"/>
+            <property name="distance" value="1"/>
+        </property>
+    </append>
+
+    <append xpath="/rwgmixer/world[@name='medium']">
+        <property class="ravenswood">
+            <property name="count" value="1, 1, 1"/>
+            <property name="tiles" value="1, 1"/>
+            <property name="distance" value="1"/>
+        </property>
+    </append>
+
+    <append xpath="/rwgmixer/world[@name='large']">
+        <property class="ravenswood">
+            <property name="count" value="1, 1, 1"/>
+            <property name="tiles" value="1, 1"/>
+            <property name="distance" value="1"/>
+        </property>
+    </append>
+
+    <append xpath="/rwgmixer">
+        <township name="ravenswood">
+            <property name="spawn_trader" value="false"/>
+            <property name="spawn_gateway" value="false"/>
+            <property name="biomes" value="forest,burntforest"/>
+        </township>
+
+        <district name="ravenswood">
+            <property name="spawn_weight" value="1"/>
+            <property name="required_township" value="ravenswood"/>
+            <property name="preview_color" value="0.1,0.5,0.5"/>
+        </district>
+
+        <streettile name="rwg_tile_ravenswood_cap_zztong_01">
+            <property name="maxdensity" value="150"/>
+        </streettile>
+
+    </append>
+
+    <!-- **************************************************************
         A mundane tile that adds 25x25 commercial POI support.
         It is okay to have a number of these. It only appears here
         because Commercial maxdensity has been an issue...

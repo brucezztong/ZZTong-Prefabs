@@ -27,6 +27,7 @@ rwg_tile_gateway_straight_zztong_07,POI,POIName,,x,Gateway,,Tor,Puerta,Porte,Gat
 rwg_tile_gateway_straight_zztong_08,POI,POIName,,x,Gateway,,Tor,Puerta,Porte,Gateway,ゲートウェイ,게이트웨이,Wejście,Portal,Ворота,Geçit,交通枢纽,網關
 rwg_tile_gateway_t_zztong_01,POI,POIName,,x,Gateway,,Tor,Puerta,Porte,Gateway,ゲートウェイ,게이트웨이,Wejście,Portal,Ворота,Geçit,交通枢纽,網關
 rwg_tile_gateway_t_zztong_02,POI,POIName,,x,Gateway Reservoir,,Gateway Reservoir,Depósito de puerta de enlace,Réservoir de passerelle,Gateway Reservoir,ゲートウェイ貯水池,게이트웨이 저수지,Zbiornik bramy,Reservatório de gateway,Воротный водохранилище,Ağ geçidi rezervuarı,枢纽水库,網關水庫
+rwg_tile_ravenswood_cap_zztong_01,POI,POIName,,x,Ravenswood Village,,Ravenswood Village,Pueblo de Ravenswood,Village de Ravenswood,Ravenswood Village,レイヴンズウッドビレッジ,Ravenswood Village,Ravenswood Village,Vila de Ravenswood,Равенсвуд деревня,Ravenswood köyü,拉文斯伍德村,拉文斯伍德村
 rwg_tile_residential_cap_zztong_01,POI,POIName,,x,Residential,,Wohnen,Residencial,Residential,Residenziale,居住の,주거,Mieszkaniowy,residencial,Жилой,yerleşim,住宅区,住宅
 rwg_tile_residential_corner_zztong_01,POI,POIName,,x,Residential,,Wohnen,Residencial,Residential,Residenziale,居住の,주거,Mieszkaniowy,residencial,Жилой,yerleşim,住宅区,住宅
 rwg_tile_residential_intersection_zztong_01,POI,POIName,Residential,x,,,,,,,,,,,,,住宅区,
@@ -163,6 +164,7 @@ zztong_masonry_01,POI,POI,,x,Southwest Masonry,,Südwestmauerwerk,Mampostería d
 zztong_mass_grave_01,POI,POI,,x,Mass Grave,,Massengrab,Fosa común,Tombe de masse,Grave di massa,大量の墓,대량 무덤,Masowy grób,Sepultura em massa,Массовая могила,Toplu mezar,乱葬岗,大眾墳墓
 zztong_mass_grave_02,POI,POI,,x,Mass Grave,,Massengrab,Fosa común,Tombe de masse,Grave di massa,大量の墓,대량 무덤,Masowy grób,Sepultura em massa,Массовая могила,Toplu mezar,乱葬岗,大眾墳墓
 zztong_motocross_01,POI,POI,,x,Rumble Creek Motocross,,Rumble Creek Motocross,Rumble Creek Motocross,Rumble Creek Motocross,Rumble Creek Motocross,ランブルクリークモトクロス,럼블 크릭 모토 크로스,Rumble Creek Motocross,Rumble Creek Motocross,Rumble Creek Motocross,Rumble Creek Motocross,隆隆溪越野摩托场,Rumble Creek越野摩托車
+zztong_motocross_01new,POI,POI,,x,Rumble Creek Motocross,,Rumble Creek Motocross,Rumble Creek Motocross,Rumble Creek Motocross,Rumble Creek Motocross,ランブルクリークモトクロス,럼블 크릭 모토 크로스,Rumble Creek Motocross,Rumble Creek Motocross,Rumble Creek Motocross,Rumble Creek Motocross,隆隆溪越野摩托场,Rumble Creek越野摩托車
 zztong_ntt_hq_01,POI,POI,,x,Navezgane Telephone HQ,,Navezgane Telefon HQ,Návezgane Telephone HQ,Navezgane Téléphone HQ,HQ di Navezgane Telefono,ナベズガン電話HQ,Navezgane Telephone HQ,HAQ na telefonicznie Navezgane,QG do telefone Navezgane,Navezgane Thone HQ,Navezgane Telefon Hq,纳维加纳电话总局,Navezgane電話總部
 zztong_ntt_hub_01,POI,POI,,x,Navezgane Telephone Hub,,Navezgane Telefon Hub,Hub telefónico de Navezgane,Navezgane Téléphone Hub,Hub telefonico Navezgane,ナベズガン電話ハブ,Navezgane 전화 허브,Hub telefoniczny Navezgane,Hub telefônico Navezgane,Navezgane Thone Hub,Navezgane telefon merkezi,纳维加纳电话枢纽,Navezgane電話中心
 zztong_office_building_01,POI,POI,,x,RGB Software,,RGB -Software,Software RGB,Logiciel RVB,Software RGB,RGBソフトウェア,RGB 소프트웨어,Oprogramowanie RGB,Software RGB,Программное обеспечение RGB,RGB yazılımı,RGB软件大厦,RGB軟件
@@ -176,6 +178,7 @@ zztong_presidio_museum_01,POI,POI,,x,Presidio Museum,,Presidio Museum,Museo Pres
 zztong_propane_01,POI,POI,,x,Kaboom LPG,,Kaboom LPG,LPG KABOOM,KABOOM LPG,Kaboom GPL,Kaboom LPG,Kaboom LPG,Kaboom LPG,KABOOM LPG,Kaboom LPG,Kaboom LPG,卡轰液化气,Kaboom LPG
 zztong_pump_substation_01,POI,POI,,x,Pump Substation,,Umspannwerk Pumpe,Subestación de bomba,Sous-station,Sottostazione della pompa,ポンプ置換,펌프 변전소,Podstacja pompy,Subestação da bomba,Насосная подстанция,Pompa trafo merkezi,泵站,泵變電站
 zztong_ranch_01,POI,POI,,x,Bar Z Ranch,,Bar Z Ranch,Bar Z Ranch,Bar z ranch,Bar Z Ranch,バーZ牧場,바 Z 목장,Bar Z ranczo,Bar Z Ranch,Бар Z Ранчо,Bar Z Ranch,Z字牧场,Bar Z Ranch
+zztong_ranch_01new,POI,POI,,x,Bar Z Ranch,,Bar Z Ranch,Bar Z Ranch,Bar z ranch,Bar Z Ranch,バーZ牧場,바 Z 목장,Bar Z ranczo,Bar Z Ranch,Бар Z Ранчо,Bar Z Ranch,Z字牧场,Bar Z Ranch
 zztong_ranger_hq_01,POI,POI,,x,Ranger HQ,,Ranger HQ,Guardabosques,HQ Ranger,HQ Ranger,レンジャーHQ,레인저 본사,HQ Ranger,Hq Ranger,Ranger HQ,Ranger Genel Merkezi,护林员总部,遊俠總部
 zztong_rebirth_01,POI,POI,,x,Fallen Trader,,Gefallener Händler,Comerciante caído,Commerçant tombé,Trader caduto,倒れたトレーダー,타락한 상인,Fallen Trader,Trader caído,Падший торговец,Düşmüş tüccar,殒落商人,墮落的商人
 zztong_red_rocket_01,POI,POI,,x,Red Rocket Gas Station,,Rote Raketenstation,Estación de servicio de cohete rojo,Station de gaz à fusée rouge,Stazione di servizio a razzo rosso,赤いロケットガソリンスタンド,레드 로켓 주유소,Red Rocket Station,Posto de gasolina de foguete vermelho,Красная ракетная заправочная станция,Kırmızı roket benzin istasyonu,红色火箭加油站,紅火箭加油站

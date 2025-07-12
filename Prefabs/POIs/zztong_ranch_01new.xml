@@ -10,7 +10,7 @@
   <property name="ShowQuestClearCount" value="3" />
   <property name="TraderArea" value="False" />
   <property name="PrefabSize" value="100, 30, 100" />
-  <property name="DuplicateRepeatDistance" value="4000" />
+  <property name="DuplicateRepeatDistance" value="6000" />
   <property name="Zoning" value="none" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="POIMarkerSize" value="6, 1, 5#3, 4, 4#7, 18, 7#7, 18, 7#7, 4, 7#7, 7, 7#5, 1, 5#5, 1, 5#4, 4, 9#5, 1, 5#11, 5, 5" />
@@ -31,6 +31,7 @@
   <property name="YOffset" value="-8" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="Wilderness" />
+  <property name="Tags" value="wilderness" />
   <property class="Stats">
     <property name="LightsVolume" value="4456.873" />
     <property name="TotalVertices" value="2074638" />
