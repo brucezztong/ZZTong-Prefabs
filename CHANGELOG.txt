@@ -1,5 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+V2.2.030 (ZZ030)
+* Canyon stamps converted to sizes appropriate for 2.0 versions.
+
 V2.1.029 (ZZ029)
 * Adjusted wilderness road exits and some quest marker locations.
 * Turned off AllowTopSoilDecorations for the Hunter's Trap decorations.
