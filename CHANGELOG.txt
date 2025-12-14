@@ -1,5 +1,9 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+V2.5.031 (ZZ031)
+* Converted rwg_tile_ravenswood_cap_01 to rwg_tile_ravenswood_intersection_01
+  to cope with RWG changes.
+
 V2.2.030 (ZZ030)
 * Canyon stamps converted to sizes appropriate for 2.0 versions.
 * CopyAirBlocks bug fixed in zztong_warehouse_02.
