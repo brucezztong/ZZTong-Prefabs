@@ -40,7 +40,7 @@
         <township name="ravenswood">
             <property name="spawn_trader" value="false"/>
             <property name="spawn_gateway" value="false"/>
-            <property name="biomes" value="forest,burntforest"/>
+            <property name="biomes" value="forest"/>
         </township>
 
         <district name="ravenswood">
