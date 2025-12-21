@@ -32,15 +32,16 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
   <property name="Tags" value="navonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="113747" />
-    <property name="TotalTriangles" value="71600" />
+    <property name="LightsVolume" value="4188.791" />
+    <property name="TotalVertices" value="1758739" />
+    <property name="TotalTriangles" value="727057" />
     <property class="BlockEntities">
-      <property name="Vertices" value="5212" />
-      <property name="Triangles" value="2462" />
+      <property name="Vertices" value="1649405" />
+      <property name="Triangles" value="657955" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="99479" />
-      <property name="Triangles" value="54158" />
+      <property name="Vertices" value="100278" />
+      <property name="Triangles" value="54122" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -64,8 +65,8 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="challenge_barrels">
-      <property name="0" value="45, 4, 3" />
+    <property class="challenge_polymers">
+      <property name="0" value="57, 5, 12" />
     </property>
     <property class="quest_wood_trees">
       <property name="0" value="45, 1, 31" />
@@ -82,16 +83,27 @@
     <property class="challenge_cars">
       <property name="0" value="21, 1, 48" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_sinks">
+      <property name="0" value="19, 2, 35" />
+      <property name="1" value="19, 3, 35" />
+      <property name="2" value="24, 2, 36" />
+    </property>
+    <property class="challenge_steel">
       <property name="0" value="17, 6, 26" />
       <property name="1" value="17, 6, 27" />
+    </property>
+    <property class="challenge_elec_parts">
+      <property name="0" value="14, 1, 27" />
+    </property>
+    <property class="challenge_leather">
+      <property name="0" value="23, 6, 31" />
+      <property name="1" value="23, 2, 32" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="18, 6, 32" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="19, 3, 35" />
-      <property name="1" value="24, 2, 36" />
+    <property class="challenge_mech_parts">
+      <property name="0" value="18, 6, 37" />
     </property>
     <property class="challenge_pallet">
       <property name="0" value="26, 1, 41" />
