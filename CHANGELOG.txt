@@ -1,5 +1,8 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
+V2.5.032 (ZZ032)
+* Fixed problem with gateway intersection tile tags.
+
 V2.5.031 (ZZ031)
 * Converted rwg_tile_ravenswood_cap_01 to rwg_tile_ravenswood_intersection_01
   to cope with RWG changes.
