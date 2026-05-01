@@ -111,8 +111,8 @@ I also decided to continue to use the CompoPack Tier definitions as they work
 fine and they are the only guidance available.
 
 ZOMBIES    TIER
- 0- 4      0
- 5-15      1
+ 0- 5      0
+ 6-15      1
 16-30      2
 31-45      3
 46-60      4
