@@ -189,6 +189,8 @@ zztong_restaurant_02,POI,POI,,x,Waffle House,,Waffelhaus,Casa de gofres,Waffle H
 zztong_restaurant_03,POI,POI,,x,White Castle,,Weißes Schloss,Castillo blanco,Château blanc,Castello bianco,ホワイトキャッスル,흰색 성,Biały zamek,Castelo branco,Белый замок,Beyaz kale,白色城堡,白城堡
 zztong_revival_01,POI,POI,,x,Tent Revivial,,Zeltbelebung,Avivamiento de la tienda,Revival de tente,Revival della tenda,テントリバイバル,텐트 부흥,Odrodzenie namiotu,Renascimento da tenda,Возрождение палатки,Çadır canlanması,帐篷复兴会,帳篷復興
 zztong_roadside_rest_01,POI,POI,,x,Roadside Rest,,Pension am Straßenrand,Descanso en la carretera,Repos en bordure de route,Riposo lungo la strada,道端の休憩,길가의 휴식,Przydrożność,Descanso na estrada,Придорожный отдых,Yol kenarındaki dinlenme,路边休息站,路邊休息
+zztong_rubble_filler_01,POI,POI,,x,Desperation Den,,,,,,,,,,,,,
+zztong_rubble_filler_02,POI,POI,,x,Crew Culvert,,,,,,,,,,,,,
 zztong_rural_filler_01,POI,POI,,x,Wayward Refugees,,Eigenwillige Flüchtlinge,Wayward Refugees,Réfugiés capricieux,Rifugiati ribelli,気まぐれな難民,길들인 난민,Niepośrednio uchodźcy,Refugiados rebeldes,СВОЙСТВЕННЫЕ БЕЖЕНИЯ,Wayward Mülteciler,迷途难民,任性難民
 zztong_rural_filler_02,POI,POI,,x,Hay Field,,Heufeld,Campo de heno,Champ de foin,Campo di fieno,干し草畑,건초장,Pole siana,Campo de feno,Сено поле,Saman alanı,干草田,乾草場
 zztong_rural_filler_03,POI,POI,,x,Pole Barn,,Stabschlecken,Establo,Grange à perche,Pole Barn,ポールバーン,극 헛간,Stodoła słupa,Pole Barn,Полюс сарай,Direk,杆仓,桿穀倉

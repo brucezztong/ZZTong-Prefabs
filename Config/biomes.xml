@@ -37,6 +37,8 @@
         <decoration type="prefab" name="zztong_rubble_19" onslopes="true" prob=".001" />
         <decoration type="prefab" name="zztong_rubble_20" onslopes="true" prob=".001" />
 		<decoration type="prefab" name="zztong_buried_treasure_01" onslopes="true" prob=".0001" />
+		<decoration type="prefab" name="zztong_gallows_01" onslopes="false" prob=".002" />
+
 	</append>
 
     <!-- **************************************************************
@@ -101,6 +103,33 @@
 		<decoration type="prefab" name="zztong_rubble_31" onslopes="true" prob=".01" />
 		<decoration type="prefab" name="zztong_rubble_32" onslopes="true" prob=".01" />
 		<decoration type="prefab" name="zztong_buried_treasure_01" onslopes="true" prob=".001" />
+		<decoration type="prefab" name="zztong_rubble_33" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_34" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_35" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_36" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_37" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_38" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_39" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_40" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_41" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_42" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_43" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_44" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_45" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_46" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_47" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_48" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_49" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_50" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_51" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_52" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_53" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_54" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_55" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_56" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_57" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_58" onslopes="true" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_59" onslopes="true" prob=".01" />
 	</append>
 
 </worldgeneration>

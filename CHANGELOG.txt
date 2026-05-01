@@ -1,7 +1,40 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
-V2.5.032 (ZZ032)
+V2.6.032 (ZZ032)
 * Fixed problem with gateway intersection tile tags.
+* Tried to fix weird error with resourceRock01, resourceRock02, and
+    cntCollapsedCampfire in some decorations. No obvious problem found but
+    the save files were "refreshed."
+* Added zztong_rubble_33 decoration for wasteland
+* Added zztong_rubble_34 decoration for wasteland
+* Added zztong_rubble_35 decoration for wasteland
+* Added zztong_rubble_36 decoration for wasteland
+* Added zztong_rubble_37 decoration for wasteland
+* Added zztong_rubble_38 decoration for wasteland
+* Added zztong_rubble_39 decoration for wasteland
+* Added zztong_rubble_40 decoration for wasteland
+* Added zztong_rubble_41 decoration for wasteland
+* Added zztong_rubble_42 decoration for wasteland
+* Added zztong_rubble_43 decoration for wasteland
+* Added zztong_rubble_44 decoration for wasteland
+* Added zztong_rubble_45 decoration for wasteland
+* Added zztong_rubble_46 decoration for wasteland
+* Added zztong_rubble_47 decoration for wasteland
+* Added zztong_rubble_48 decoration for wasteland
+* Added zztong_rubble_49 decoration for wasteland
+* Added zztong_rubble_50 decoration for wasteland
+* Added zztong_rubble_51 decoration for wasteland
+* Added zztong_rubble_52 decoration for wasteland
+* Added zztong_rubble_53 decoration for wasteland
+* Added zztong_rubble_54 decoration for wasteland
+* Added zztong_rubble_55 decoration for wasteland
+* Added zztong_rubble_56 decoration for wasteland
+* Added zztong_rubble_57 decoration for wasteland
+* Added zztong_rubble_58 decoration for wasteland
+* Added zztong_rubble_59 decoration for wasteland
+* Added zztong_gallows_01 decoration for forest
+* Added zztong_rubble_filler_01 POI
+* Added zztong_rubble_filler_02 POI
 
 V2.5.031 (ZZ031)
 * Converted rwg_tile_ravenswood_cap_01 to rwg_tile_ravenswood_intersection_01
