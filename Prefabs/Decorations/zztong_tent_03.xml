@@ -14,6 +14,7 @@
   <property name="EditorGroups" value="world/deco/biome" />
   <property name="Tags" value="biomeonly, devonly" />
   <property class="Stats">
+    <property name="LightsVolume" value="0" />
     <property name="TotalVertices" value="5619" />
     <property name="TotalTriangles" value="2906" />
     <property class="BlockEntities">
