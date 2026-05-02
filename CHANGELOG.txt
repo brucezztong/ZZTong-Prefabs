@@ -35,6 +35,7 @@ V2.6.032 (ZZ032)
 * Added zztong_gallows_01 decoration for forest
 * Added zztong_rubble_filler_01 POI
 * Added zztong_rubble_filler_02 POI
+* Added zztong_restaurant_04 POI
 
 V2.5.031 (ZZ031)
 * Converted rwg_tile_ravenswood_cap_01 to rwg_tile_ravenswood_intersection_01

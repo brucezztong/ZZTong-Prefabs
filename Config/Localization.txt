@@ -187,6 +187,7 @@ zztong_remnant_house_02,POI,POI,,x,58 Watson Drive,,58 Watson Drive,58 Watson Dr
 zztong_restaurant_01,POI,POI,,x,Spicy Brains Restaurant,,Spicy Brains Restaurant,Restaurante de cerebros picantes,Restaurant de cerveaux épicés,Restauranti di cervelli piccanti,スパイシーブレインレストラン,매운 두뇌 식당,Restauracja pikantna,Restaurante Spicy Brains,Острый мозг ресторан,Baharatlı beyin restoranı,辣脑餐馆,辛辣的大腦餐廳
 zztong_restaurant_02,POI,POI,,x,Waffle House,,Waffelhaus,Casa de gofres,Waffle House,Waffle House,ワッフルハウス,와플 하우스,Waffle House,Waffle House,Вафельный дом,Waffle House,华夫屋,華夫餅屋
 zztong_restaurant_03,POI,POI,,x,White Castle,,Weißes Schloss,Castillo blanco,Château blanc,Castello bianco,ホワイトキャッスル,흰색 성,Biały zamek,Castelo branco,Белый замок,Beyaz kale,白色城堡,白城堡
+zztong_restaurant_04,POI,POI,,x,Dairy Queen,,,,,,,,,,,,,
 zztong_revival_01,POI,POI,,x,Tent Revivial,,Zeltbelebung,Avivamiento de la tienda,Revival de tente,Revival della tenda,テントリバイバル,텐트 부흥,Odrodzenie namiotu,Renascimento da tenda,Возрождение палатки,Çadır canlanması,帐篷复兴会,帳篷復興
 zztong_roadside_rest_01,POI,POI,,x,Roadside Rest,,Pension am Straßenrand,Descanso en la carretera,Repos en bordure de route,Riposo lungo la strada,道端の休憩,길가의 휴식,Przydrożność,Descanso na estrada,Придорожный отдых,Yol kenarındaki dinlenme,路边休息站,路邊休息
 zztong_rubble_filler_01,POI,POI,,x,Desperation Den,,,,,,,,,,,,,

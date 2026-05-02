@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="1" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-1" />
+  <property name="PrefabSize" value="42, 15, 42" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="SleeperVolumeSize" value="14, 4, 38#12, 4, 8#12, 5, 9#9, 6, 18" />
+  <property name="SleeperVolumeStart" value="21, 1, 1#7, 1, 8#7, 1, 16#9, 5, 9" />
+  <property name="SleeperVolumeGroupId" value="0,0,0,0" />
+  <property name="SleeperVolumeGroup" value="GroupGenericZombie,1,1,GroupGenericZombie,2,3,GroupGenericZombie,2,3,GroupGenericZombie,1,2" />
+  <property name="SleeperIsLootVolume" value="False,False,False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False,False,False" />
+  <property name="SleeperVolumeFlags" value="4,0,0,0" />
+  <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="EditorGroups" value="rural" />
+  <property name="POIMarkerSize" value="1, 2, 1#3, 1, 1#13, 17, 6#2, 1, 1#3, 1, 1#3, 1, 1#1, 1, 1#3, 1, 1#3, 1, 7#7, 13, 2#7, 13, 2#7, 13, 3#7, 13, 3#5, 3, 5" />
+  <property name="POIMarkerStart" value="8, 1, 7#3, 1, 2#28, 1, 36#10, 1, 27#8, 1, 33#22, 1, 33#13, 1, 36#10, 7, 21#36, 1, 8#34, 0, -2#1, 0, -2#34, 0, -3#1, 0, -3#11, 7, 15" />
+  <property name="POIMarkerGroup" value="atm,barrier,billboard,delivery,sandbags1,sandbags2,cart,spikes,delivtruck,drive1,drive2,drive3,drive4,new" />
+  <property name="POIMarkerTags" value="#########countrytown#countrytown#rural#rural#" />
+  <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_atm_01,part_zztong_barrier3,part_zztong_billboard_kztv,part_zztong_delivery_04,part_zztong_sandbags3,part_zztong_sandbags3,part_zztong_shopping_cart_01,part_zztong_spikes_wood3,part_delivery_truck,part_driveway_countrytown_02,part_driveway_countrytown_02,part_driveway_rural_08,part_driveway_rural_08,part_greeble_rooftop_01" />
+  <property name="POIMarkerPartRotations" value="1,0,2,0,1,1,0,0,0,2,2,2,2,0" />
+  <property name="POIMarkerPartSpawnChance" value="0.2,0.3,0.3,0.5,0.5,0.5,0.1,0.2,0.2,1,1,1,1,0.8" />
+  <property name="Tags" value="countrytown, rural, nodiagonal" />
+  <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="QuestTags" value="clear, fetch, infested" />
+  <property name="Zoning" value="none" />
+  <property class="IndexedBlockOffsets">
+    <property class="quest_wood">
+      <property name="0" value="40, 1, 38" />
+      <property name="1" value="39, 1, 39" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="38, 1, 10" />
+    </property>
+    <property class="FetchContainer">
+      <property name="0" value="11, 3, 21" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="9, 3, 21" />
+      <property name="1" value="13, 4, 23" />
+      <property name="2" value="9, 3, 24" />
+      <property name="3" value="9, 4, 24" />
+      <property name="4" value="17, 4, 24" />
+      <property name="5" value="9, 3, 26" />
+      <property name="6" value="13, 3, 26" />
+      <property name="7" value="17, 3, 26" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="13, 1, 26" />
+      <property name="1" value="17, 1, 26" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="13, 1, 24" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="8, 2, 21" />
+      <property name="1" value="12, 1, 23" />
+      <property name="2" value="13, 2, 23" />
+      <property name="3" value="14, 1, 23" />
+      <property name="4" value="16, 1, 23" />
+      <property name="5" value="17, 2, 23" />
+      <property name="6" value="18, 1, 23" />
+      <property name="7" value="10, 1, 24" />
+      <property name="8" value="12, 1, 24" />
+      <property name="9" value="15, 2, 26" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="11, 1, 17" />
+      <property name="1" value="17, 1, 18" />
+      <property name="2" value="18, 1, 20" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="31, 1, 30" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="37, 1, 3" />
+    </property>
+  </property>
+  <property class="Stats">
+    <property name="LightsVolume" value="4335.398" />
+    <property name="TotalVertices" value="403649" />
+    <property name="TotalTriangles" value="114254" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="379570" />
+      <property name="Triangles" value="95678" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="19233" />
+      <property name="Triangles" value="11120" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="136" />
+      <property name="Triangles" value="68" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="4710" />
+      <property name="Triangles" value="7388" />
+    </property>
+  </property>
+</prefab>
