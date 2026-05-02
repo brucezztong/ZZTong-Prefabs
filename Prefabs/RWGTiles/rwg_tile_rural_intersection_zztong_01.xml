@@ -22,15 +22,16 @@
   <property name="PrefabSize" value="150, 26, 150" />
   <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="455400" />
-    <property name="TotalTriangles" value="422781" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="550624" />
+    <property name="TotalTriangles" value="435066" />
     <property class="BlockEntities">
-      <property name="Vertices" value="371753" />
-      <property name="Triangles" value="308757" />
+      <property name="Vertices" value="466836" />
+      <property name="Triangles" value="322554" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="23669" />
-      <property name="Triangles" value="16696" />
+      <property name="Vertices" value="23810" />
+      <property name="Triangles" value="15184" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,6 +69,9 @@
     </property>
     <property class="POILight">
       <property name="0" value="81, 13, 81" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="109, 4, 5" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="143, 4, 54" />
