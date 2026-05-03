@@ -73,6 +73,7 @@ allowed_names = [
 "rwg_tile_commercial_straight",
 "rwg_tile_commercial_t",
 "rwg_tile_commercial_t_zztong_01",
+"rwg_tile_commercial_t_zztong_02",
 "rwg_tile_countryresidential_cap",
 "rwg_tile_countryresidential_cap_zztong_01",
 "rwg_tile_countryresidential_corner",
