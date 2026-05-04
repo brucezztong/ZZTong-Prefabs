@@ -15,15 +15,15 @@
   <property name="Zoning" value="none" />
   <property class="Stats">
     <property name="LightsVolume" value="0" />
-    <property name="TotalVertices" value="7238" />
-    <property name="TotalTriangles" value="5188" />
+    <property name="TotalVertices" value="7910" />
+    <property name="TotalTriangles" value="5524" />
     <property class="BlockEntities">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="7238" />
-      <property name="Triangles" value="5188" />
+      <property name="Vertices" value="7910" />
+      <property name="Triangles" value="5524" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

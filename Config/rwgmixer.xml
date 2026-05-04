@@ -64,7 +64,7 @@
 	<append xpath="/rwgmixer">
         <streettile name="rwg_tile_commercial_cap_zztong_01">
             <property name="mintiles" value="1"/>
-            <property name="maxtiles" value="4"/>
+            <property name="maxtiles" value="2"/>
             <property name="maxdensity" value="250"/>
         </streettile>
 
@@ -89,7 +89,7 @@
         <streettile name="rwg_tile_commercial_t_zztong_03">
             <property name="mintiles" value="1"/>
             <property name="maxtiles" value="6"/>
-            <property name="maxdensity" value="250"/>
+            <property name="maxdensity" value="350"/>
         </streettile>
 	</append>
 
