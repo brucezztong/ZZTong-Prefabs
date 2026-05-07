@@ -38,6 +38,7 @@ V2.6.032 (ZZ032)
 * Added zztong_restaurant_04 POI
 * Added rwg_tile_commercial_t_zztong_02
 * Added rwg_tile_commercial_t_zztong_03
+* Added zztong_campground_01
 
 V2.5.031 (ZZ031)
 * Converted rwg_tile_ravenswood_cap_01 to rwg_tile_ravenswood_intersection_01

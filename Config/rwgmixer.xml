@@ -263,6 +263,7 @@
         <prefab_spawn_adjust partial_name="zztong_cabin_01" biomeTags="forest,burntforest,desert,snow"/>
         <prefab_spawn_adjust partial_name="zztong_cabin_02" biomeTags="forest,burntforest,desert,snow"/>
         <prefab_spawn_adjust partial_name="zztong_cabin_fort_01" biomeTags="forest,burntforest,desert,snow"/>
+        <prefab_spawn_adjust partial_name="zztong_campground_01" biomeTags="forest"/>
         <prefab_spawn_adjust partial_name="zztong_cave_01" biomeTags="forest,burntforest,desert"/>
         <prefab_spawn_adjust partial_name="zztong_desert_filler_01" biomeTags="desert"/>
         <prefab_spawn_adjust partial_name="zztong_farmers_market_01" biomeTags="forest"/>

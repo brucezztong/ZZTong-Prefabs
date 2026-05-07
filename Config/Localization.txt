@@ -77,6 +77,7 @@ zztong_buried_treasure_02,POI,POI,,x,Magnetic Anomaly,,Magnetische Anomalie,Anom
 zztong_cabin_fort_01,POI,POI,,x,Cabin Fort,,Kabine Fort,Fuerte de la cabina,Fort de cabine,Forte della cabina,キャビンフォート,오두막 요새,Fort kabiny,Fort da cabine,Каюта Форт,Kabin kalesi,木屋堡垒,小屋堡
 zztong_cabin_01,POI,POI,,x,Darin's Cabin,,Darins Kabine,Cabina de Darin,Cabine de Darin,La cabina di Darin,ダリンのキャビン,DARIN의 오두막,Kabina Darina,Cabine de Darin,Кабина Дарина,Darin'in Kabini,达林小屋,達林的小屋
 zztong_cabin_02,POI,POI,,x,Hobart's Cabin,,Hobart's Kabine,Cabina de Hobart,Cabine de Hobart,La cabina di Hobart,ホバートのキャビン,호바트의 오두막,Kabina Hobarta,Cabine de Hobart,Каюта Хобарта,Hobart'ın Kabini,霍巴特小屋,霍巴特的小屋
+zztong_campground_01,POI,POI,,x,Rekt's Cabin Retreat,,,,,,,,,,,,,
 zztong_car_show_01,POI,POI,,x,Car Show,,Auto Show,Show de autos,Salon de l'automobile,Spettacolo automobilistico,カーショー,자동차 쇼,Pokaz samochodowy,Show de carros,Авто шоу,Araba şovu,车展中心,車展
 zztong_car_wash_01,POI,POI,,x,Kwik Kleen Car Wash,,Kwik Kleen Autowaschanlage,Kwik Kleen Car Wash,Kwik Kleen Car Wash,Autolavaggio Kwik Kleen,Kwik Kleen Car Wash,Kwik Kleen Car Wash,Kwik Kleen Wash,Lavagem do carro Kwik Kleen,Kwik Kleen Car Wash,Kwik Kleen Araba Yıkama,快洁洗车行,Kwik Kleen洗車
 zztong_cave_01,POI,POI,,x,Spelunking Adventures,,Abenteuer ausbreiten,Aventuras de espeleología,Aventures de spenking,Avventure spelunking,冒険の冒険,Spelunking 모험,Splunking Adventures,Aventuras de Spelunking,Приключения Spelunking,Spelunking Maceraları,洞穴探险,Spelunking冒險
