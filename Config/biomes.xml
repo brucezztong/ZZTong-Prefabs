@@ -135,6 +135,17 @@
 		<decoration type="prefab" name="zztong_rubble_62" onslopes="true" prob=".01" />
 		<decoration type="prefab" name="zztong_rubble_63" onslopes="true" prob=".01" />
 		<decoration type="prefab" name="zztong_rubble_64" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_65" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_66" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_67" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_68" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_69" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_70" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_71" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_72" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_73" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_74" onslopes="false" prob=".01" />
+		<decoration type="prefab" name="zztong_rubble_75" onslopes="false" prob=".01" />
 	</append>
 
 </worldgeneration>

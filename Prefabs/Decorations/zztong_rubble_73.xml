@@ -8,22 +8,28 @@
   <property name="DifficultyTier" value="0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
-  <property name="PrefabSize" value="2, 3, 2" />
+  <property name="YOffset" value="-1" />
+  <property name="PrefabSize" value="9, 5, 5" />
   <property name="RotationToFaceNorth" value="2" />
-  <property name="Tags" value="part, hideui" />
+  <property name="EditorGroups" value="world/deco/biome" />
+  <property name="Tags" value="biomeonly, devonly" />
   <property name="Zoning" value="none" />
-  <property name="EditorGroups" value="parts" />
+  <property class="IndexedBlockOffsets">
+    <property class="challenge_sinks">
+      <property name="0" value="3, 2, 1" />
+    </property>
+  </property>
   <property class="Stats">
     <property name="LightsVolume" value="0" />
-    <property name="TotalVertices" value="1402" />
-    <property name="TotalTriangles" value="568" />
+    <property name="TotalVertices" value="9312" />
+    <property name="TotalTriangles" value="3785" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1130" />
-      <property name="Triangles" value="356" />
+      <property name="Vertices" value="7027" />
+      <property name="Triangles" value="2266" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="272" />
-      <property name="Triangles" value="212" />
+      <property name="Vertices" value="2105" />
+      <property name="Triangles" value="1287" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -42,13 +48,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-  </property>
-  <property class="IndexedBlockOffsets">
-    <property class="challenge_sinks">
-      <property name="0" value="1, 2, 0" />
+      <property name="Vertices" value="180" />
+      <property name="Triangles" value="232" />
     </property>
   </property>
 </prefab>
