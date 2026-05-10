@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowTopSoilDecorations" value="False" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-1" />
+  <property name="PrefabSize" value="9, 23, 7" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="EditorGroups" value="world/deco/biome" />
+  <property name="Tags" value="biomeonly, devonly" />
+  <property name="Zoning" value="none" />
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="4, 11, 2" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="5, 11, 4" />
+    </property>
+  </property>
+  <property class="Stats">
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="16363" />
+    <property name="TotalTriangles" value="9650" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="5151" />
+      <property name="Triangles" value="1992" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="10984" />
+      <property name="Triangles" value="7346" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="228" />
+      <property name="Triangles" value="312" />
+    </property>
+  </property>
+</prefab>

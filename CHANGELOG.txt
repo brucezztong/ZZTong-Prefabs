@@ -48,6 +48,11 @@ V2.6.032 (ZZ032)
 * Added zztong_rubble_73 decoration for wasteland
 * Added zztong_rubble_74 decoration for wasteland
 * Added zztong_rubble_75 decoration for wasteland
+* Added zztong_rubble_76 decoration for wasteland
+* Added zztong_rubble_77 decoration for wasteland
+* Added zztong_rubble_78 decoration for wasteland
+* Added zztong_rubble_79 decoration for wasteland
+* Added zztong_rubble_80 decoration for wasteland
 * Added zztong_gallows_01 decoration for forest
 * Added zztong_rubble_filler_01 POI
 * Added zztong_rubble_filler_02 POI
