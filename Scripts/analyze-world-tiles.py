@@ -3,6 +3,19 @@ import os
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 
+def build_allowed_names():
+    tile_dirs = [
+        "/mnt/c/Program Files (x86)/Steam/steamapps/common/7 Days To Die/Data/Prefabs/RWGTiles",
+        "/mnt/c/Users/zzton/AppData/Roaming/7DaysToDie/Mods/ZZTong-Prefabs/Prefabs/RWGTiles",
+    ]
+    names = set()
+    for d in tile_dirs:
+        if os.path.isdir(d):
+            for f in os.listdir(d):
+                if f.lower().endswith('.xml'):
+                    names.add(os.path.splitext(f)[0])
+    return sorted(names)
+
 def process_directory(xml_file, allowed_names):
     # Initialize counts for each name in the allowed list to zero
     unique_counts = defaultdict(int, {name: 0 for name in allowed_names})
@@ -63,116 +76,9 @@ def count_unique_prefabs(base_path, allowed_names):
 # Define the path to the directory containing the worlds
 base_path = '~/7d2d/GeneratedWorlds'
 
-# List of allowed names to check
-allowed_names = [
-"rwg_tile_commercial_cap",
-"rwg_tile_commercial_cap_zztong_01",
-"rwg_tile_commercial_corner",
-"rwg_tile_commercial_intersection",
-"rwg_tile_commercial_intersection_zztong_01",
-"rwg_tile_commercial_straight",
-"rwg_tile_commercial_t",
-"rwg_tile_commercial_t_zztong_01",
-"rwg_tile_commercial_t_zztong_02",
-"rwg_tile_countryresidential_cap",
-"rwg_tile_countryresidential_cap_zztong_01",
-"rwg_tile_countryresidential_corner",
-"rwg_tile_countryresidential_corner_zztong_01",
-"rwg_tile_countryresidential_corner_zztong_02",
-"rwg_tile_countryresidential_intersection",
-"rwg_tile_countryresidential_straight",
-"rwg_tile_countryresidential_straight_03",
-"rwg_tile_countryresidential_straight_zztong_01",
-"rwg_tile_countryresidential_t",
-"rwg_tile_countryresidential_t_zztong_01",
-"rwg_tile_countrytown_cap",
-"rwg_tile_countrytown_corner",
-"rwg_tile_countrytown_intersection",
-"rwg_tile_countrytown_straight",
-"rwg_tile_countrytown_t",
-"rwg_tile_countrytown_t_zztong_01",
-"rwg_tile_downtown_cap",
-"rwg_tile_downtown_corner",
-"rwg_tile_downtown_intersection",
-"rwg_tile_downtown_intersection_02",
-"rwg_tile_downtown_intersection_zztong_01",
-"rwg_tile_downtown_intersection_zztong_02",
-"rwg_tile_downtown_intersection_zztong_03",
-"rwg_tile_downtown_intersection_zztong_04",
-"rwg_tile_downtown_straight",
-"rwg_tile_downtown_t",
-"rwg_tile_gateway_intersection",
-"rwg_tile_gateway_intersection2",
-"rwg_tile_gateway_intersection_zztong_01",
-"rwg_tile_gateway_intersection_zztong_02",
-"rwg_tile_gateway_intersection_zztong_03",
-"rwg_tile_gateway_straight",
-"rwg_tile_gateway_straight2",
-"rwg_tile_gateway_straight3",
-"rwg_tile_gateway_straight3a",
-"rwg_tile_gateway_straight3b",
-"rwg_tile_gateway_straight4",
-"rwg_tile_gateway_straight_zztong_01",
-"rwg_tile_gateway_straight_zztong_02",
-"rwg_tile_gateway_straight_zztong_03",
-"rwg_tile_gateway_straight_zztong_04",
-"rwg_tile_gateway_straight_zztong_05",
-"rwg_tile_gateway_straight_zztong_06",
-"rwg_tile_gateway_straight_zztong_07",
-"rwg_tile_gateway_straight_zztong_08",
-"rwg_tile_gateway_t",
-"rwg_tile_gateway_t_zztong_01",
-"rwg_tile_gateway_t_zztong_02",
-"rwg_tile_industrial_cap",
-"rwg_tile_industrial_corner",
-"rwg_tile_industrial_intersection",
-"rwg_tile_industrial_straight",
-"rwg_tile_industrial_t",
-"rwg_tile_oldwest_cap",
-"rwg_tile_oldwest_corner",
-"rwg_tile_oldwest_intersection",
-"rwg_tile_oldwest_straight",
-"rwg_tile_oldwest_t",
-"rwg_tile_residential_cap",
-"rwg_tile_residential_cap_zztong_01",
-"rwg_tile_residential_corner",
-"rwg_tile_residential_corner_zztong_01",
-"rwg_tile_residential_intersection",
-"rwg_tile_residential_intersection_zztong_01",
-"rwg_tile_residential_straight",
-"rwg_tile_residential_straight_zztong_01",
-"rwg_tile_residential_straight_zztong_02",
-"rwg_tile_residential_t",
-"rwg_tile_residential_t_zztong_01",
-"rwg_tile_residential_t_zztong_02",
-"rwg_tile_rural_cap",
-"rwg_tile_rural_cap_zztong_01",
-"rwg_tile_rural_cap_zztong_02",
-"rwg_tile_rural_cap_zztong_03",
-"rwg_tile_rural_corner",
-"rwg_tile_rural_corner_02",
-"rwg_tile_rural_corner_03",
-"rwg_tile_rural_corner_zztong_01",
-"rwg_tile_rural_corner_zztong_02",
-"rwg_tile_rural_corner_zztong_03",
-"rwg_tile_rural_corner_zztong_04",
-"rwg_tile_rural_corner_zztong_05",
-"rwg_tile_rural_corner_zztong_06",
-"rwg_tile_rural_intersection",
-"rwg_tile_rural_intersection_zztong_01",
-"rwg_tile_rural_straight",
-"rwg_tile_rural_straight_zztong_01",
-"rwg_tile_rural_t",
-"rwg_tile_rural_t_02",
-"rwg_tile_rural_t_03",
-"rwg_tile_rural_t_04",
-"rwg_tile_rural_t_zztong_01",
-"rwg_tile_rural_t_zztong_02",
-"rwg_tile_rural_t_zztong_03",
-"rwg_tile_rural_t_zztong_04",
-"rwg_tile_rural_t_zztong_05",
-"rwg_tile_rural_t_zztong_06",
-]
+# Build the allowed names list dynamically from the tile prefab directories
+allowed_names = build_allowed_names()
+print( "ZZ:", allowed_names )
 
 # Count the unique prefab names
 count_unique_prefabs(base_path, allowed_names)
