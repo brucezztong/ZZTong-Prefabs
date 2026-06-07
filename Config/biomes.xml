@@ -13,6 +13,16 @@
         <decoration type="prefab" name="zztong_rubble_11" onslopes="true" prob=".002" />
         <decoration type="prefab" name="zztong_rubble_12" onslopes="true" prob=".002" />
 		<decoration type="prefab" name="zztong_buried_treasure_01" onslopes="true" prob=".001" />
+		<decoration type="prefab" name="zztong_snow_01" onslopes="true" prob=".005" />
+		<decoration type="prefab" name="zztong_snow_02" onslopes="true" prob=".005" />
+		<decoration type="prefab" name="zztong_snow_03" onslopes="true" prob=".005" />
+		<decoration type="prefab" name="zztong_snow_04" onslopes="true" prob=".005" />
+		<decoration type="prefab" name="zztong_snow_05" onslopes="true" prob=".005" />
+		<decoration type="prefab" name="zztong_snow_06" onslopes="true" prob=".002" />
+		<decoration type="prefab" name="zztong_snow_07" onslopes="true" prob=".002" />
+		<decoration type="prefab" name="zztong_snow_08" onslopes="true" prob=".004" />
+		<decoration type="prefab" name="zztong_snow_09" onslopes="true" prob=".005" />
+		<decoration type="prefab" name="zztong_snow_10" onslopes="true" prob=".004" />
 	</append>
 
     <!-- **************************************************************

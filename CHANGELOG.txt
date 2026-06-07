@@ -5,6 +5,16 @@ V2.6.032 (ZZ032)
 * Tried to fix weird error with resourceRock01, resourceRock02, and
     cntCollapsedCampfire in some decorations. No obvious problem found but
     the save files were "refreshed."
+* Added zztong_snow_01 decoration for snow
+* Added zztong_snow_02 decoration for snow
+* Added zztong_snow_03 decoration for snow
+* Added zztong_snow_04 decoration for snow
+* Added zztong_snow_05 decoration for snow
+* Added zztong_snow_06 decoration for snow
+* Added zztong_snow_07 decoration for snow
+* Added zztong_snow_08 decoration for snow
+* Added zztong_snow_09 decoration for snow
+* Added zztong_snow_10 decoration for snow
 * Added zztong_rubble_33 decoration for wasteland
 * Added zztong_rubble_34 decoration for wasteland
 * Added zztong_rubble_35 decoration for wasteland
