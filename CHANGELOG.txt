@@ -1,6 +1,7 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 V3.0.032 (ZZ032)
+* Numerous bug fixes that I didn't record. Whoops.
 * Fixed problem with gateway intersection tile tags.
 * Tried to fix weird error with resourceRock01, resourceRock02, and
     cntCollapsedCampfire in some decorations. No obvious problem found but
