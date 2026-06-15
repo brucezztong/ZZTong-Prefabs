@@ -3,8 +3,8 @@ import time
 from googletrans import Translator
 
 # Define input and output file paths
-INPUT_FILE = "../Config/Localization.txt"
-OUTPUT_FILE = "Localization-Trans.txt"
+INPUT_FILE = "../Config/Localization.csv"
+OUTPUT_FILE = "Localization-Trans.csv"
 
 # Define language columns (ISO 639-1 codes for Google Translate)
 LANGUAGE_MAP = {
