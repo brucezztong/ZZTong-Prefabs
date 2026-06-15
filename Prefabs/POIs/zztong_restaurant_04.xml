@@ -25,7 +25,7 @@
   <property name="POIMarkerGroup" value="atm,barrier,billboard,delivery,sandbags1,sandbags2,cart,spikes,delivtruck,drive1,drive2,drive3,drive4,new" />
   <property name="POIMarkerTags" value="#########countrytown#countrytown#rural#rural#" />
   <property name="POIMarkerType" value="PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
-  <property name="POIMarkerPartToSpawn" value="part_zztong_atm_01,part_zztong_barrier3,part_zztong_billboard_kztv,part_zztong_delivery_04,part_zztong_sandbags3,part_zztong_sandbags3,part_zztong_shopping_cart_01,part_zztong_spikes_wood3,part_delivery_truck,part_driveway_countrytown_02,part_driveway_countrytown_02,part_driveway_rural_08,part_driveway_rural_08,part_greeble_rooftop_01" />
+  <property name="POIMarkerPartToSpawn" value="part_zztong_atm_01,part_zztong_barrier3,part_zztong_billboard_kztv,part_zztong_delivery_04,part_zztong_sandbags3,part_zztong_sandbags3,part_zztong_shopping_cart_01,part_zztong_spikes_wood3,part_zztong_delivery_truck_01,part_driveway_countrytown_02,part_driveway_countrytown_02,part_driveway_rural_08,part_driveway_rural_08,part_greeble_rooftop_01" />
   <property name="POIMarkerPartRotations" value="1,0,2,0,1,1,0,0,0,2,2,2,2,0" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.3,0.3,0.5,0.5,0.5,0.1,0.2,0.2,1,1,1,1,0.8" />
   <property name="Tags" value="countrytown, rural, nodiagonal" />
