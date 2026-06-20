@@ -32,15 +32,16 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property name="EditorGroups" value="government" />
   <property class="Stats">
-    <property name="TotalVertices" value="417857" />
-    <property name="TotalTriangles" value="138928" />
+    <property name="LightsVolume" value="4201.354" />
+    <property name="TotalVertices" value="438640" />
+    <property name="TotalTriangles" value="144730" />
     <property class="BlockEntities">
-      <property name="Vertices" value="390319" />
-      <property name="Triangles" value="119582" />
+      <property name="Vertices" value="411252" />
+      <property name="Triangles" value="125554" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="22236" />
-      <property name="Triangles" value="11334" />
+      <property name="Vertices" value="22086" />
+      <property name="Triangles" value="11164" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -94,16 +95,19 @@
     <property class="POILight">
       <property name="0" value="25, 6, 21" />
       <property name="1" value="32, 6, 21" />
-      <property name="2" value="28, 3, 23" />
-      <property name="3" value="32, 4, 23" />
-      <property name="4" value="27, 4, 25" />
-      <property name="5" value="32, 6, 27" />
-      <property name="6" value="24, 6, 29" />
-      <property name="7" value="30, 5, 29" />
-      <property name="8" value="32, 6, 31" />
-      <property name="9" value="23, 6, 33" />
-      <property name="10" value="26, 3, 34" />
-      <property name="11" value="27, 4, 34" />
+      <property name="2" value="27, 3, 23" />
+      <property name="3" value="28, 3, 23" />
+      <property name="4" value="32, 4, 23" />
+      <property name="5" value="27, 4, 25" />
+      <property name="6" value="33, 3, 26" />
+      <property name="7" value="32, 6, 27" />
+      <property name="8" value="24, 6, 29" />
+      <property name="9" value="30, 5, 29" />
+      <property name="10" value="32, 6, 31" />
+      <property name="11" value="23, 6, 33" />
+      <property name="12" value="26, 3, 34" />
+      <property name="13" value="27, 3, 34" />
+      <property name="14" value="27, 4, 34" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="23, 2, 17" />

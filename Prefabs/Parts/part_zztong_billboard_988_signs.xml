@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="ca46dedf-3c31-4c54-b55c-a56c43e7c97e" name="Billboard-988" modified="2026-06-20 11:19:19Z" next_poly_id="4" next_text_id="7" next_noise_id="2" next_group_id="3">
+    <layer name="Group 01" type="GroupSignLayer" pos="1.043081E-07, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Poly 01" type="PolygonSignLayer" pos="-0.4999999, 0" rot="0" scale="0.5, 0.5454546" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="Poly 02" type="PolygonSignLayer" pos="0.4999999, 0" rot="0" scale="0.5, 0.5454546" color="#303143FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="Poly 03" type="PolygonSignLayer" pos="0.4999999, 0" rot="0" scale="0.46, 0.5018" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="Poly 04" type="PolygonSignLayer" pos="0.4999999, 0" rot="0" scale="0.43, 0.469" color="#303143FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    </layer>
+    <layer name="Group 03" type="GroupSignLayer" pos="-0.6049999, 0.02000001" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="-0.09500009, 0.31" rot="0" scale="0.25, 0.25" color="#303143FF" mode="ColorOnly" font="LiberationSans" text="Just" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 02" type="TextSignLayer" pos="0.03500003, 0.04999998" rot="0" scale="0.25, 0.25" color="#303143FF" mode="ColorOnly" font="LiberationSans" text="breath" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 03" type="TextSignLayer" pos="0.09500009, -0.31" rot="0" scale="0.14, 0.14" color="#303143FF" mode="ColorOnly" font="LiberationSans" text="988lifeline.org" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="Group 02" type="GroupSignLayer" pos="0.5, -0.02999996" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 04" type="TextSignLayer" pos="0, 0.28" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="988" direction="0" spacing="1.05" softness="0" dilate="0.3" />
+      <layer name="Text 05" type="TextSignLayer" pos="0, 0.02999996" rot="0" scale="0.16, 0.16" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Suicide" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 06" type="TextSignLayer" pos="0, -0.12" rot="0" scale="0.16, 0.16" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="&amp; Crisis" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="988-Billboard" type="TextSignLayer" pos="0, -0.28" rot="0" scale="0.16, 0.16" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="LIFELINE" direction="0" spacing="1.05" softness="0" dilate="0.4" />
+    </layer>
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.01, 0.8" color="#666666FF" mode="ColorOnly" seed="0" detail="4" softness="0.1044777" dilate="-0.2508882" fade="0.3816632" />
+    <layer name="Noise 02" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.1, 0.1" color="#FFFFFFFF" mode="ColorOnly" seed="53" detail="2" softness="0" dilate="-0.3477468" fade="0" />
+    <layer name="Noise 02" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.1, 0.1" color="#53370EFF" mode="ColorOnly" seed="53" detail="2" softness="0" dilate="-0.3477468" fade="0" />
+  </sign>
+</signs>
