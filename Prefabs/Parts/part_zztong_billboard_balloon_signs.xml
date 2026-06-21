@@ -33,4 +33,39 @@
     <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" seed="78" detail="4" softness="0.1542289" dilate="-0.2935321" fade="0" />
     <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#542D05FF" mode="ColorOnly" seed="78" detail="4" softness="0.1542289" dilate="-0.2935321" fade="0" />
   </sign>
+  <sign guid="f3828df9-819d-4d95-9b48-0be362f99e66" name="Billboard-Balloon-Safari Long" modified="2026-06-21 13:27:37Z" next_poly_id="5" next_text_id="3" next_noise_id="2" next_group_id="12">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.5454546" color="#6796ADFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 05" type="GroupSignLayer" pos="-0.005844533, 0.8379413" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Poly 02" type="PolygonSignLayer" pos="-0.6922472, -0.06301093" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0.8223171" starify="0" softness="0.8081024" dilate="0.2039803" frequency="5" shapeMode="Normal" />
+      <layer name="Poly 02" type="PolygonSignLayer" pos="0.6922472, 0.03946865" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0.8223171" starify="0" softness="0.8081024" dilate="0.2039803" frequency="5" shapeMode="Normal" />
+      <layer name="Poly 02" type="PolygonSignLayer" pos="0.008297488, 0.06301093" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0.8223171" starify="0" softness="0.8081024" dilate="0.2039803" frequency="5" shapeMode="Normal" />
+    </layer>
+    <layer name="Group 12" type="GroupSignLayer" pos="0.005, 0.8649999" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="0.005, -0.004999936" rot="0" scale="0.45, 0.6" color="#CCCCCCFF" mode="ColorOnly" font="LiberationSans" text="NAVEZGANE" direction="0" spacing="1" softness="0" dilate="0.2">
+        <warp type="BulgeWarp" offset="-3.469447E-18, -3" amount="1.200974" />
+      </layer>
+      <layer name="Text 01" type="TextSignLayer" pos="-0.005, 0.004999936" rot="0" scale="0.45, 0.6" color="#282828FF" mode="ColorOnly" font="LiberationSans" text="NAVEZGANE" direction="0" spacing="1" softness="0" dilate="0.2">
+        <warp type="BulgeWarp" offset="-3.469447E-18, -3" amount="1.200974" />
+      </layer>
+    </layer>
+    <layer name="Group 03" type="GroupSignLayer" pos="-0.3399999, -0.04999997" rot="0" scale="0.8, 0.8" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 02" type="TextSignLayer" pos="0.01, -0.01000001" rot="0" scale="0.4, 0.4" color="#282828FF" mode="ColorOnly" font="Sedwick Ave Display" text="Balloon" direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+      <layer name="Text 02" type="TextSignLayer" pos="-0.01, 0.01000001" rot="0" scale="0.4, 0.4" color="#D5D535FF" mode="ColorOnly" font="Sedwick Ave Display" text="Balloon" direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+    </layer>
+    <layer name="Group 02" type="GroupSignLayer" pos="-0.3399999, -0.3500002" rot="0" scale="0.8, 0.8" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 03" type="TextSignLayer" pos="0.01, -0.00999999" rot="0" scale="0.4, 0.4" color="#282828FF" mode="ColorOnly" font="Sedwick Ave Display" text="Safari" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 03" type="TextSignLayer" pos="-0.01, 0.00999999" rot="0" scale="0.4, 0.4" color="#D5D535FF" mode="ColorOnly" font="Sedwick Ave Display" text="Safari" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="Poly 05" type="PolygonSignLayer" pos="0.62, -0.26" rot="0" scale="0.31, 0.2" color="#C81E1EFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 10" type="GroupSignLayer" pos="0.6099999, -0.2600001" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0.27" rot="0" scale="0.75, 0.5" color="#CCCCCCFF" mode="ColorOnly" font="LiberationSans" text="Next" direction="-5" spacing="1" softness="0" dilate="0.3" />
+      <layer name="Text 01" type="TextSignLayer" pos="-0.02, 0.29" rot="0" scale="0.75, 0.5" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Next" direction="-5" spacing="1" softness="0" dilate="0.3" />
+      <layer name="Text 02" type="TextSignLayer" pos="0.02, -0.29" rot="0" scale="0.75, 0.5" color="#CCCCCCFF" mode="ColorOnly" font="LiberationSans" text="Right" direction="-5" spacing="1" softness="0" dilate="0.3" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, -0.27" rot="0" scale="0.75, 0.5" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Right" direction="-5" spacing="1" softness="0" dilate="0.3" />
+    </layer>
+    <layer name="Group 06" type="GroupSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" seed="25" detail="4" softness="0.1186923" dilate="-0.3219614" fade="0" />
+      <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#542D05FF" mode="ColorOnly" seed="25" detail="4" softness="0.1186923" dilate="-0.3219614" fade="0" />
+    </layer>
+  </sign>
 </signs>

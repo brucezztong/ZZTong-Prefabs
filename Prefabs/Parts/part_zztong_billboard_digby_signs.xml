@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="07004a8e-4ea7-4c1a-a064-98e6e5a4f0a0" name="Captain Digby's" modified="2026-06-21 16:15:10Z" next_poly_id="1" next_text_id="4" next_noise_id="2" next_group_id="5">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.5454546" color="#F09225FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#D2B48CFF" mode="ColorOnly" seed="11" detail="4" softness="0" dilate="0.02" fade="0.1044777" />
+    <layer name="Group 01" type="GroupSignLayer" pos="0.005, 0.4049999" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="-0.005, 0.004999995" rot="0" scale="0.28, 0.28" color="#FFFFFFFF" mode="ColorOnly" font="Dancing Script" text="Captain Digby's" direction="0" spacing="1.05" softness="0" dilate="0.1" />
+      <layer name="Text 01" type="TextSignLayer" pos="0.005, -0.004999995" rot="0" scale="0.28, 0.28" color="#222222FF" mode="ColorOnly" font="Dancing Script" text="Captain Digby's" direction="0" spacing="1.05" softness="0" dilate="0.1" />
+    </layer>
+    <layer name="Group 02" type="GroupSignLayer" pos="0.005, 0.125" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 02" type="TextSignLayer" pos="-0.005, 0.004999995" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Permanent Marker" text="Arizona" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 02" type="TextSignLayer" pos="0.005, -0.005000003" rot="0" scale="0.3, 0.3" color="#222222FF" mode="ColorOnly" font="Permanent Marker" text="Arizona" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="Group 03" type="GroupSignLayer" pos="0.005, -0.175" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 03" type="TextSignLayer" pos="-0.005, 0.004999995" rot="0" scale="0.21, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Sedwick Ave Display" text="Outback Adventure" direction="0" spacing="1" softness="0" dilate="0.1" />
+      <layer name="Text 03" type="TextSignLayer" pos="0.005, -0.00500001" rot="0" scale="0.21, 0.3" color="#222222FF" mode="ColorOnly" font="Sedwick Ave Display" text="Outback Adventure" direction="0" spacing="1" softness="0" dilate="0.1" />
+    </layer>
+    <layer name="Group 04" type="GroupSignLayer" pos="0, -0.4199999" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 04" type="TextSignLayer" pos="0, 0" rot="0" scale="0.28, 0.175" color="#FFFF00FF" mode="ColorOnly" font="LiberationSans" text="1 Mile Ahead" direction="0" spacing="1" softness="0" dilate="0.28" />
+      <layer name="Text 04" type="TextSignLayer" pos="0, 0" rot="0" scale="0.28, 0.175" color="#222222FF" mode="ColorOnly" font="LiberationSans" text="1 Mile Ahead" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="Group 05" type="GroupSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Noise 02" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#222222FF" mode="ColorOnly" seed="0" detail="4" softness="0.04" dilate="-0.26" fade="0" />
+      <layer name="Noise 02" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#AAAAAAFF" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.28" fade="0" />
+    </layer>
+  </sign>
+</signs>

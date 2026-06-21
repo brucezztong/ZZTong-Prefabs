@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="dbcb42bd-3e3c-4ac1-9d6d-9af885a9f2b4" name="Spelunking Adventures" modified="2026-06-21 13:52:15Z" next_poly_id="1" next_text_id="3" next_noise_id="1" next_group_id="6">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.5454546" color="#222222FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 04" type="GroupSignLayer" pos="-0.03, 0.17" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.25, 0.4" color="#F3CD00FF" mode="ColorOnly" font="Permanent Marker" text="SPELUNKING" direction="0" spacing="1" softness="0" dilate="0.12">
+        <warp type="SkewWarp" amount="0, 0.15" rotation="-2.775558E-17" />
+      </layer>
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.25, 0.4" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="SPELUNKING" direction="0" spacing="1" softness="0" dilate="0">
+        <warp type="SkewWarp" amount="0, 0.15" rotation="-2.775558E-17" />
+      </layer>
+    </layer>
+    <layer name="Group 05" type="GroupSignLayer" pos="0.16, -0.08999997" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.25, 0.4" color="#F3CD00FF" mode="ColorOnly" font="Permanent Marker" text="Adventures" direction="0" spacing="1" softness="0" dilate="0.12">
+        <warp type="SkewWarp" amount="0, 0.15" rotation="-2.775558E-17" />
+      </layer>
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.25, 0.4" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Adventures" direction="0" spacing="1" softness="0" dilate="0">
+        <warp type="SkewWarp" amount="0, 0.15" rotation="-2.775558E-17" />
+      </layer>
+    </layer>
+    <layer name="Group 03" type="GroupSignLayer" pos="-0.6899998, 0.42" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 02" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2, 0.2" color="#BBBBBBFF" mode="ColorOnly" font="Permanent Marker" text="Caves" direction="0" spacing="1" softness="0" dilate="0.12" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2, 0.2" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Caves" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="Text 03" type="TextSignLayer" pos="0.49, -0.45" rot="0" scale="0.15, 0.15" color="#BBBBBBFF" mode="ColorOnly" font="Permanent Marker" text="1 Mile Ahead" direction="0" spacing="1" softness="0" dilate="0.12" />
+    <layer name="Text 03" type="TextSignLayer" pos="0.49, -0.45" rot="0" scale="0.15, 0.15" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="1 Mile Ahead" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Group 06" type="GroupSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <warp type="SkewWarp" amount="0, 0.6545849" rotation="0" />
+      <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#888888FF" mode="ColorOnly" seed="21" detail="4" softness="0" dilate="-0.3" fade="0" />
+      <layer name="Noise 01" type="NoiseSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#571E0AFF" mode="ColorOnly" seed="21" detail="4" softness="0" dilate="-0.3" fade="0" />
+    </layer>
+  </sign>
+</signs>
