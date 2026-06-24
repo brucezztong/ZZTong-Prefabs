@@ -14,15 +14,16 @@
   <property name="Tags" value="part" />
   <property name="Zoning" value="none" />
   <property class="Stats">
-    <property name="TotalVertices" value="628" />
-    <property name="TotalTriangles" value="476" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="284" />
+    <property name="TotalTriangles" value="146" />
     <property class="BlockEntities">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
+      <property name="Vertices" value="4" />
+      <property name="Triangles" value="2" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="628" />
-      <property name="Triangles" value="476" />
+      <property name="Vertices" value="280" />
+      <property name="Triangles" value="144" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="fe9adfbc-7083-4d6e-ad08-b6fda7a99995" name="Rage" modified="2026-06-24 15:11:41Z" next_poly_id="4" next_text_id="3" next_noise_id="0" next_group_id="4">
+    <layer name="Poly 04" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.5454546" color="#555555FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 01" type="GroupSignLayer" pos="-0.1198636, 0.3522063" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="0.009999998, -0.00999999" rot="0" scale="0.25, 0.3" color="#222222FF" mode="ColorOnly" font="Permanent Marker" text="Road Rage?" direction="0" spacing="1" softness="0" dilate="0">
+        <warp type="SkewWarp" amount="0, 0.1" rotation="0" />
+        <warp type="PerspectiveWarp" rotation="0, 15.02028, 0" strength="0.1" />
+      </layer>
+      <layer name="Text 01" type="TextSignLayer" pos="-0.01000001, 0.00999999" rot="0" scale="0.25, 0.3" color="#FF0000FF" mode="ColorOnly" font="Permanent Marker" text="Road Rage?" direction="0" spacing="1" softness="0" dilate="0">
+        <warp type="SkewWarp" amount="0, 0.1" rotation="0" />
+        <warp type="PerspectiveWarp" rotation="0, 15.02028, 0" strength="0.1" />
+      </layer>
+    </layer>
+    <layer name="Group 03" type="GroupSignLayer" pos="0.37, -0.145" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 02" type="TextSignLayer" pos="-0.00999999, 0.195" rot="0" scale="0.2, 0.3" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="Cool Off" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, 0.185" rot="0" scale="0.2, 0.3" color="#3E91CBFF" mode="ColorOnly" font="Sedwick Ave Display" text="Cool Off" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 02" type="TextSignLayer" pos="-0.00999999, -0.00500001" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="at the" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, -0.01500002" rot="0" scale="0.1, 0.1" color="#3E91CBFF" mode="ColorOnly" font="Sedwick Ave Display" text="at the" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, -0.185" rot="0" scale="0.2, 0.3" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="Hoot-n-Holler" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 02" type="TextSignLayer" pos="0.00999999, -0.195" rot="0" scale="0.2, 0.3" color="#3E91CBFF" mode="ColorOnly" font="Sedwick Ave Display" text="Hoot-n-Holler" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="Group 04" type="GroupSignLayer" pos="-0.605, -0.225" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 03" type="TextSignLayer" pos="-0.004999995, 0.135" rot="0" scale="0.15, 0.15" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="Beer" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 03" type="TextSignLayer" pos="0.004999995, 0.125" rot="0" scale="0.15, 0.15" color="#EDC32FFF" mode="ColorOnly" font="Sedwick Ave Display" text="Beer" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 03" type="TextSignLayer" pos="-0.004999995, 0.01499994" rot="0" scale="0.15, 0.15" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="&amp;" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 03" type="TextSignLayer" pos="0.004999995, 0.004999936" rot="0" scale="0.15, 0.15" color="#EDC32FFF" mode="ColorOnly" font="Sedwick Ave Display" text="&amp;" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 03" type="TextSignLayer" pos="-0.004999995, -0.125" rot="0" scale="0.15, 0.15" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="Billiards" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 03" type="TextSignLayer" pos="0.004999995, -0.135" rot="0" scale="0.15, 0.15" color="#EDC32FFF" mode="ColorOnly" font="Sedwick Ave Display" text="Billiards" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="" type="GroupSignLayer" pos="-1.324737, 0.3973676" rot="0" scale="0.8145, 0.6" color="#FFFFFFFF" mode="ColorOnly" softnessOffset="-0.1" dilateOffset="-0.18">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="b54a76c2-97fc-4b8a-b0a3-8a92d59e1953" name="KZTV Van" modified="2026-06-24 16:54:13Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.125" color="#FCF3B7FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#806043FF" mode="ColorOnly" font="LiberationSans" text="KZTV 7 NEWS" direction="0" spacing="0.98" softness="0" dilate="0.1" />
+  </sign>
+</signs>
