@@ -21,7 +21,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="YOffset" value="-9" />
-  <property name="POIMarkerSize" value="3, 9, 2#5, 3, 5#5, 3, 5#4, 7, 10#4, 7, 10#3, 7, 4#2, 2, 2#2, 2, 2#2, 2, 2" />
+  <property name="POIMarkerSize" value="3, 9, 2#5, 3, 5#5, 3, 5#4, 8, 13#4, 8, 13#3, 7, 4#2, 2, 2#2, 2, 2#2, 2, 2" />
   <property name="POIMarkerStart" value="37, 9, 5#11, 30, 28#27, 30, 28#0, 30, 26#38, 30, 26#20, 30, 29#21, 23, 22#14, 23, 23#30, 23, 28" />
   <property name="POIMarkerGroup" value="pole,roof1,roof2,billboard1,billboard2,new,delivery1,delivery2,delivery3" />
   <property name="POIMarkerTags" value="########" />
@@ -32,15 +32,16 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="commercial" />
   <property class="Stats">
-    <property name="TotalVertices" value="779782" />
-    <property name="TotalTriangles" value="313798" />
+    <property name="LightsVolume" value="4188.791" />
+    <property name="TotalVertices" value="862933" />
+    <property name="TotalTriangles" value="329711" />
     <property class="BlockEntities">
-      <property name="Vertices" value="628737" />
-      <property name="Triangles" value="218609" />
+      <property name="Vertices" value="711167" />
+      <property name="Triangles" value="234582" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="140589" />
-      <property name="Triangles" value="80813" />
+      <property name="Vertices" value="141310" />
+      <property name="Triangles" value="80753" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -80,12 +81,6 @@
       <property name="5" value="34, 9, 33" />
       <property name="6" value="23, 16, 36" />
     </property>
-    <property class="challenge_polymers">
-      <property name="0" value="37, 9, 33" />
-    </property>
-    <property class="challenge_gore">
-      <property name="0" value="15, 9, 6" />
-    </property>
     <property class="POILight">
       <property name="0" value="24, 12, 37" />
       <property name="1" value="24, 19, 37" />
@@ -94,20 +89,20 @@
       <property name="4" value="36, 11, 38" />
       <property name="5" value="36, 11, 40" />
     </property>
+    <property class="challenge_polymers">
+      <property name="0" value="37, 9, 33" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="36, 9, 39" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="15, 9, 6" />
+    </property>
     <property class="FetchContainer">
       <property name="0" value="11, 17, 33" />
     </property>
     <property class="quest_feather">
       <property name="0" value="35, 30, 37" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="26, 9, 26" />
-      <property name="1" value="26, 16, 26" />
-      <property name="2" value="26, 23, 26" />
-      <property name="3" value="26, 9, 34" />
-      <property name="4" value="26, 16, 34" />
-      <property name="5" value="26, 23, 34" />
-      <property name="6" value="35, 9, 35" />
     </property>
     <property class="Rally">
       <property name="0" value="26, 9, 1" />

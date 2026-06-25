@@ -11,8 +11,8 @@
   <property name="YOffset" value="-8" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="100, 0, 100#10, 11, 14#1, 1, 1#4, 7, 11#4, 7, 10#4, 7, 10#3, 2, 5#4, 7, 10" />
-  <property name="POIMarkerStart" value="3, 8, 39#124, 8, 68#135, 18, 29#110, 19, 53#110, 19, 54#110, 19, 86#116, 18, 21#111, 19, 86" />
+  <property name="POIMarkerSize" value="100, 0, 100#10, 11, 14#1, 1, 1#4, 8, 13#4, 8, 13#4, 8, 13#3, 2, 5#4, 6, 10" />
+  <property name="POIMarkerStart" value="3, 8, 39#124, 8, 68#135, 18, 29#110, 19, 52#110, 19, 53#110, 19, 86#116, 18, 21#111, 19, 86" />
   <property name="POIMarkerGroup" value="L1,bridge,burn,billboardS,billboardS,billboardN,targets,billboardN" />
   <property name="POIMarkerTags" value="#######" />
   <property name="POIMarkerType" value="POISpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn,PartSpawn" />
@@ -31,14 +31,14 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
     <property name="LightsVolume" value="1172.861" />
-    <property name="TotalVertices" value="1762227" />
-    <property name="TotalTriangles" value="988068" />
+    <property name="TotalVertices" value="1761060" />
+    <property name="TotalTriangles" value="987557" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1420832" />
-      <property name="Triangles" value="722699" />
+      <property name="Vertices" value="1419539" />
+      <property name="Triangles" value="722188" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="275393" />
+      <property name="Vertices" value="275519" />
       <property name="Triangles" value="157937" />
     </property>
     <property class="ChunkMeshes1">
@@ -69,6 +69,9 @@
     <property class="challenge_polymers">
       <property name="0" value="140, 8, 103" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="130, 8, 110" />
+    </property>
     <property class="challenge_sinks">
       <property name="0" value="142, 6, 127" />
     </property>
@@ -77,9 +80,6 @@
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="125, 8, 108" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="130, 8, 110" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="141, 18, 116" />
