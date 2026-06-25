@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="bc1317ae-e4ee-43b6-b61a-8c544f407e8d" name="Ray's Junk" modified="2026-06-25 17:40:25Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, 0.14" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Ray's Salvage" direction="0" spacing="1" softness="0" dilate="-0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.3, 0.3" color="#362312FF" mode="ColorOnly" font="Permanent Marker" text="Ray's Salvage" direction="0" spacing="1" softness="0" dilate="-0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.15" rot="0" scale="0.2, 0.2" color="#362312FF" mode="ColorOnly" font="Permanent Marker" text="Git Yer Own!" direction="0" spacing="1" softness="0" dilate="-0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212522, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#444444FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="c9dd1d33-e8ca-4518-9af1-5705b5c24c08" name="Beware of Dog" modified="2026-06-25 17:30:01Z" next_poly_id="3" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.5" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="1.490116E-09" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.97, 0.47" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="-4.470348E-10" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.95, 0.45" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="1.490116E-09" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 03" type="PolygonSignLayer" pos="0, 0.05" rot="0" scale="0.7, 0.01" color="#E12522FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.25" rot="0" scale="0.3, 0.4" color="#E12522FF" mode="ColorOnly" font="LiberationSans" text="BEWARE" direction="0" spacing="1.05" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0.2, 1.490116E-09" rotation="2.775558E-17" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.2" rot="0" scale="0.3, 0.4" color="#E12522FF" mode="ColorOnly" font="LiberationSans" text="of DOG" direction="0" spacing="1.05" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212522, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#444444FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="17444e6e-8975-4419-b3fa-26841a5cb91b" name="Rekt Graffiti" modified="2026-06-25 17:40:38Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.1726437, -0.1595634" rot="180" scale="0.31, 0.2" color="#E64944FF" mode="ColorOnly" sides="3" smoothness="0.2750534" starify="0.2" softness="0" dilate="0.004975319" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.07585844, 0.1674113" rot="25" scale="0.3, 0.35" color="#E64944FF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.4237585, 0.1674113" rot="-25" scale="0.3, 0.35" color="#E64944FF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.2641954, 0.39237" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Permanent Marker" text="Rekt" direction="-5" spacing="1" softness="0.2" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.07585766, 0.09940041" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Permanent Marker" text="Loves" direction="-5" spacing="1" softness="0.2" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.3714423, -0.2040323" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Permanent Marker" text="Jenn" direction="-5" spacing="1" softness="0.2" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212522, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#444444FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

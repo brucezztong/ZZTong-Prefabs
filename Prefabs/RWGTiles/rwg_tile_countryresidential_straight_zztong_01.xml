@@ -30,15 +30,16 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="1025325" />
-    <property name="TotalTriangles" value="612340" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="1085618" />
+    <property name="TotalTriangles" value="583504" />
     <property class="BlockEntities">
-      <property name="Vertices" value="881471" />
-      <property name="Triangles" value="468783" />
+      <property name="Vertices" value="941948" />
+      <property name="Triangles" value="440220" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="73486" />
-      <property name="Triangles" value="41681" />
+      <property name="Vertices" value="73302" />
+      <property name="Triangles" value="41408" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="11136" />
@@ -62,6 +63,9 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="challenge_mech_parts">
+      <property name="0" value="142, 5, 120" />
+    </property>
     <property class="quest_wood_trees">
       <property name="0" value="143, 4, 94" />
     </property>
@@ -71,21 +75,31 @@
     <property class="POILight">
       <property name="0" value="141, 6, 127" />
     </property>
-    <property class="challenge_barrels">
-      <property name="0" value="68, 4, 103" />
+    <property class="challenge_polymers">
+      <property name="0" value="147, 4, 129" />
     </property>
     <property class="quest_stone_boulder">
       <property name="0" value="143, 4, 57" />
       <property name="1" value="146, 4, 57" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="136, 4, 67" />
+    </property>
     <property class="challenge_sinks">
-      <property name="0" value="142, 4, 125" />
+      <property name="0" value="142, 4, 123" />
+      <property name="1" value="140, 5, 125" />
+      <property name="2" value="142, 4, 125" />
+      <property name="3" value="140, 5, 127" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="139, 4, 123" />
       <property name="1" value="141, 4, 126" />
     </property>
-    <property class="challenge_vending">
+    <property class="challenge_leather">
+      <property name="0" value="137, 4, 114" />
+      <property name="1" value="138, 4, 114" />
+    </property>
+    <property class="challenge_steel">
       <property name="0" value="143, 4, 109" />
     </property>
   </property>

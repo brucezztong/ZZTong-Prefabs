@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="55c215e8-e81f-455e-9bfe-a5ef2219338e" name="Pet+Vet Graffiti" modified="2026-06-25 16:28:55Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="-0.3505172, 0.3531328" rot="0" scale="0.3, 0.3" color="#1446FFFF" mode="ColorOnly" font="Permanent Marker" text="Refuge" direction="0" spacing="1" softness="0.2" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.15" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="-0.1255584, 0.1255583" rot="0" scale="0.3, 0.3" color="#1446FFFF" mode="ColorOnly" font="Permanent Marker" text="Under" direction="0" spacing="1" softness="0.2" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.15" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0.2589641, -0.08108984" rot="0" scale="0.3, 0.3" color="#1446FFFF" mode="ColorOnly" font="Permanent Marker" text="Pet+Vet" direction="0" spacing="1" softness="0.2" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.15" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0.326975, -0.3557491" rot="0" scale="0.3, 0.3" color="#1446FFFF" mode="ColorOnly" font="Permanent Marker" text="Too" direction="0" spacing="1" softness="0.2" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.15" rotation="0" />
+    </layer>
+  </sign>
+</signs>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="e1f319aa-e21f-4070-bbfe-2ea957212f76" name="Location Graffiti" modified="2026-06-25 16:42:51Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="-0.1674113, 0.3897542" rot="0" scale="0.3, 0.3" color="#AAAAAAFF" mode="ColorOnly" font="Permanent Marker" text="Max," direction="0" spacing="1" softness="0.2963754" dilate="-0.4">
+      <warp type="SkewWarp" amount="0, -0.15" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0.01046383, 0.04185304" rot="0" scale="0.3, 0.3" color="#AAAAAAFF" mode="ColorOnly" font="Permanent Marker" text="We're at the" direction="0" spacing="1" softness="0.3034827" dilate="-0.4046054">
+      <warp type="SkewWarp" amount="0, -0.15" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="-0.01046193, -0.2485007" rot="0" scale="0.3, 0.3" color="#AAAAAAFF" mode="ColorOnly" font="Permanent Marker" text="Lumber Yard" direction="0" spacing="1" softness="0.2963754" dilate="-0.39882">
+      <warp type="SkewWarp" amount="0, -0.15" rotation="0" />
+    </layer>
+  </sign>
+</signs>
