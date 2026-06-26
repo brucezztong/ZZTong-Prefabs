@@ -30,35 +30,36 @@
   <property name="SleeperVolumeFlags" value="0" />
   <property name="SleeperVolumeTriggeredBy" value=" " />
   <property class="Stats">
-    <property name="TotalVertices" value="491095" />
-    <property name="TotalTriangles" value="224162" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="527690" />
+    <property name="TotalTriangles" value="304268" />
     <property class="BlockEntities">
-      <property name="Vertices" value="415914" />
-      <property name="Triangles" value="184525" />
+      <property name="Vertices" value="387883" />
+      <property name="Triangles" value="158267" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="75037" />
-      <property name="Triangles" value="39565" />
+      <property name="Vertices" value="74577" />
+      <property name="Triangles" value="39069" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="0" />
-      <property name="Triangles" value="0" />
-    </property>
-    <property class="ChunkMeshes3">
       <property name="Vertices" value="80" />
       <property name="Triangles" value="40" />
     </property>
-    <property class="ChunkMeshes4">
-      <property name="Vertices" value="64" />
-      <property name="Triangles" value="32" />
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="96" />
+      <property name="Triangles" value="48" />
     </property>
-    <property class="ChunkMeshes5">
+    <property class="ChunkMeshes4">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="65054" />
+      <property name="Triangles" value="106844" />
     </property>
   </property>
   <property class="IndexedBlockOffsets">
@@ -68,8 +69,28 @@
     <property class="POILight">
       <property name="0" value="129, 13, 79" />
     </property>
+    <property class="challenge_cars">
+      <property name="0" value="143, 13, 120" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="35, 13, 107" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="146, 13, 113" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="30, 13, 94" />
+      <property name="1" value="31, 13, 94" />
+      <property name="2" value="32, 13, 94" />
+      <property name="3" value="37, 13, 95" />
+      <property name="4" value="38, 13, 95" />
+      <property name="5" value="39, 13, 95" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="114, 13, 69" />
+    </property>
+    <property class="challenge_gore">
+      <property name="0" value="110, 13, 72" />
     </property>
   </property>
 </prefab>

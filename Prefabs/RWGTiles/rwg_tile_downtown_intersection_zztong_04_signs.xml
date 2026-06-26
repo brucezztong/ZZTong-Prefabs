@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="49979169-8ce2-4ac8-87fa-eddf65dc7de7" name="ZZTong Prefabs Noise" modified="2026-06-26 14:50:45Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="-0.3060489, 0.2485009" rot="12" scale="0.21, 0.21" color="#781428FF" mode="ColorOnly" font="Permanent Marker" text="Indecision" direction="0" spacing="1" softness="0.6019902" dilate="1" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.3060489, 0.2485009" rot="11" scale="0.2, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="Permanent Marker" text="Indecision" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.01830992, 0.03923702" rot="8" scale="0.21, 0.21" color="#781428FF" mode="ColorOnly" font="Permanent Marker" text="May or May Not" direction="0" spacing="1" softness="0.6019902" dilate="1" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.01830992, 0.03923702" rot="9" scale="0.2, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="Permanent Marker" text="May or May Not" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.2040324, -0.1726426" rot="6" scale="0.21, 0.21" color="#781428FF" mode="ColorOnly" font="Permanent Marker" text="Be My Problem" direction="0" spacing="1" softness="0.6019902" dilate="1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.2040324, -0.1726426" rot="5" scale="0.2, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="Permanent Marker" text="Be My Problem" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="1.02801, -6.236071" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="0.573561" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.644129, 2.357663" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.365763, -1.914768" rot="-7.450581E-08" scale="0.3, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.5877755" dilate="0.8720684" fade="1" />
+  </sign>
+</signs>

@@ -23,14 +23,14 @@
   <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
     <property name="LightsVolume" value="0" />
-    <property name="TotalVertices" value="1342498" />
-    <property name="TotalTriangles" value="1543998" />
+    <property name="TotalVertices" value="1878519" />
+    <property name="TotalTriangles" value="1527103" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1242030" />
-      <property name="Triangles" value="1413858" />
+      <property name="Vertices" value="1777207" />
+      <property name="Triangles" value="1396963" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="32360" />
+      <property name="Vertices" value="33204" />
       <property name="Triangles" value="18188" />
     </property>
     <property class="ChunkMeshes1">
@@ -63,6 +63,9 @@
     </property>
     <property class="quest_wood">
       <property name="0" value="143, 4, 59" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="121, 10, 118" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="85, 10, 119" />

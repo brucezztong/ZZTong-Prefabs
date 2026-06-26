@@ -30,15 +30,15 @@
   <property name="SleeperVolumeFlags" value="0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
-    <property name="LightsVolume" value="7619.41" />
-    <property name="TotalVertices" value="924605" />
-    <property name="TotalTriangles" value="781720" />
+    <property name="LightsVolume" value="7887.492" />
+    <property name="TotalVertices" value="928993" />
+    <property name="TotalTriangles" value="782372" />
     <property class="BlockEntities">
-      <property name="Vertices" value="738843" />
-      <property name="Triangles" value="595124" />
+      <property name="Vertices" value="741463" />
+      <property name="Triangles" value="595776" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="108934" />
+      <property name="Vertices" value="110702" />
       <property name="Triangles" value="65060" />
     </property>
     <property class="ChunkMeshes1">
@@ -66,11 +66,11 @@
     <property class="quest_wood_trees">
       <property name="0" value="141, 6, 143" />
     </property>
-    <property class="challenge_stump">
-      <property name="0" value="27, 13, 61" />
-    </property>
     <property class="challenge_polymers">
       <property name="0" value="124, 16, 108" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="27, 13, 61" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="107, 6, 54" />
@@ -79,7 +79,10 @@
       <property name="0" value="123, 26, 27" />
       <property name="1" value="123, 26, 28" />
       <property name="2" value="127, 82, 28" />
-      <property name="3" value="129, 84, 35" />
+      <property name="3" value="130, 82, 34" />
+      <property name="4" value="129, 84, 35" />
+      <property name="5" value="128, 82, 36" />
+      <property name="6" value="123, 30, 33" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="128, 80, 27" />

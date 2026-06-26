@@ -11,7 +11,7 @@
   <property name="YOffset" value="-4" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#1, 1, 1#1, 2, 3#42, 0, 42#3, 1, 1#13, 18, 6#13, 15, 6#5, 1, 5#12, 3, 3#1, 1, 1#1, 1, 1#5, 9, 5#4, 3, 4#13, 16, 5#13, 15, 5#6, 12, 4#4, 9, 5#5, 5, 19#5, 15, 6" />
+  <property name="POIMarkerSize" value="60, 0, 60#42, 0, 42#1, 1, 1#1, 2, 3#42, 0, 42#3, 1, 1#13, 18, 6#13, 15, 6#5, 1, 5#12, 3, 3#1, 1, 1#1, 1, 1#5, 9, 5#4, 3, 4#13, 15, 5#13, 15, 5#6, 12, 4#4, 9, 5#5, 5, 17#5, 15, 6" />
   <property name="POIMarkerStart" value="82, 4, 1#26, 4, 1#63, 4, 54#141, 4, 75#107, 4, 82#113, 4, 68#74, 4, 79#74, 4, 79#144, 4, 9#91, 4, 80#67, 4, 45#66, 4, 73#25, 10, 74#81, 4, 63#74, 4, 79#74, 4, 79#65, 4, 63#145, 4, 10#72, 4, 43#144, 4, 9" />
   <property name="POIMarkerGroup" value="M1,S1,barrel,barricade,S2,barrier,billboard,billboard,alley,pipe,cart,stump,watchtower,appliances,billboard,billboard,electric,alley,semi,alley" />
   <property name="POIMarkerTags" value="###################" />
@@ -22,15 +22,16 @@
   <property name="PrefabSize" value="150, 31, 150" />
   <property name="Tags" value="streettile, rwgonly" />
   <property class="Stats">
-    <property name="TotalVertices" value="504544" />
-    <property name="TotalTriangles" value="596472" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="617697" />
+    <property name="TotalTriangles" value="565327" />
     <property class="BlockEntities">
-      <property name="Vertices" value="417025" />
-      <property name="Triangles" value="476160" />
+      <property name="Vertices" value="530113" />
+      <property name="Triangles" value="446095" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="7289" />
-      <property name="Triangles" value="6276" />
+      <property name="Vertices" value="7354" />
+      <property name="Triangles" value="5196" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="15488" />

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="3cf47f97-0cca-453a-8589-75e888aa2d6f" name="Bartertown" modified="2026-06-26 15:05:24Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.35, 0.2" color="#BEBEBEFF" mode="ColorOnly" font="Stardos Stencil" text="Barter Town" direction="0" spacing="0.95" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

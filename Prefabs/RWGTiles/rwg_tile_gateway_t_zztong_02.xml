@@ -12,7 +12,7 @@
   <property name="Zoning" value="none" />
   <property name="Tags" value="streettile, rwgonly" />
   <property name="PrefabSize" value="150, 29, 150" />
-  <property name="POIMarkerSize" value="32, 0, 32#1, 2, 3#6, 1, 1#6, 1, 1#13, 18, 6#13, 17, 6#5, 1, 5#14, 90, 14#12, 3, 3#9, 1, 2#9, 1, 2#5, 1, 1#8, 4, 9#8, 1, 1#13, 3, 5#13, 16, 5#5, 4, 5#5, 5, 19#42, 2, 8#9, 4, 7#8, 2, 18#16, 0, 16#18, 2, 8#16, 0, 16#8, 2, 18#16, 0, 16" />
+  <property name="POIMarkerSize" value="32, 0, 32#1, 2, 3#6, 1, 1#6, 1, 1#13, 18, 6#13, 15, 6#5, 1, 5#14, 90, 14#12, 3, 3#9, 1, 2#9, 1, 2#5, 1, 1#8, 4, 9#8, 1, 1#13, 3, 5#13, 16, 4#5, 4, 5#5, 5, 17#42, 2, 8#9, 4, 7#8, 2, 18#16, 0, 16#18, 2, 8#16, 0, 16#8, 2, 18#16, 0, 16" />
   <property name="POIMarkerStart" value="59, 9, 31#85, 9, 14#76, 9, 20#68, 9, 20#131, 9, 84#131, 9, 84#137, 9, 3#3, 8, 126#133, 9, 116#105, 10, 37#105, 10, 37#6, 9, 85#12, 9, 94#47, 9, 30#23, 9, 30#131, 9, 84#96, 9, 6#131, 9, 31#10, 8, 5#23, 9, 36#142, 8, 66#142, 9, 66#66, 8, 0#67, 9, -8#0, 8, 66#-8, 9, 67" />
   <property name="POIMarkerGroup" value="D1,barricade,barrier1,barrier2,billboard,billboard,camp,celltower,pipe,resname,resname,spikes,tent,cones,army,billboard,shed,semi,shoulder,fruit,highwayE,roadE,highwayS,roadS,highwayW,roadW" />
   <property name="POIMarkerTags" value="zzdocks#########################" />
@@ -22,14 +22,15 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.1,0.3,0.3,0.3,0.4,0.5,0.2,0.5,0.5,0.5,0.5,0.5,0.2,0.1,0.5,0.5,0.1,1,0.1,0,1,0,1,0,1" />
   <property name="YOffset" value="-9" />
   <property class="Stats">
-    <property name="TotalVertices" value="1113624" />
-    <property name="TotalTriangles" value="817932" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="1183236" />
+    <property name="TotalTriangles" value="785272" />
     <property class="BlockEntities">
-      <property name="Vertices" value="315594" />
-      <property name="Triangles" value="344248" />
+      <property name="Vertices" value="385174" />
+      <property name="Triangles" value="311588" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19132" />
+      <property name="Vertices" value="19164" />
       <property name="Triangles" value="10696" />
     </property>
     <property class="ChunkMeshes1">

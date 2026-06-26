@@ -11,7 +11,7 @@
   <property name="YOffset" value="-5" />
   <property name="RotationToFaceNorth" value="0" />
   <property name="Zoning" value="none" />
-  <property name="POIMarkerSize" value="100, 0, 100#25, 0, 25#25, 0, 25#5, 1, 1#1, 1, 1#1, 1, 1#1, 2, 3#6, 1, 1#7, 1, 6#3, 3, 12#3, 2, 2#1, 1, 1#5, 1, 5#2, 2, 2#1, 1, 1#9, 4, 8#5, 4, 11#1, 1, 5#5, 3, 8#3, 1, 7#11, 5, 7#3, 4, 6#5, 5, 19#8, 18, 8" />
+  <property name="POIMarkerSize" value="100, 0, 100#25, 0, 25#25, 0, 25#5, 1, 1#1, 1, 1#1, 1, 1#1, 2, 3#6, 1, 1#7, 1, 6#3, 3, 12#3, 2, 2#1, 1, 1#5, 1, 5#2, 2, 2#1, 1, 1#9, 4, 8#5, 4, 11#1, 1, 5#5, 3, 8#3, 1, 7#11, 5, 7#3, 4, 6#5, 5, 17#8, 18, 8" />
   <property name="POIMarkerStart" value="11, 5, 38#45, 5, 3#94, 5, 3#20, 5, 27#81, 5, 21#81, 5, 25#138, 5, 75#72, 5, 145#72, 5, 30#89, 5, 2#123, 5, 64#118, 5, 77#114, 5, 73#126, 5, 64#124, 5, 81#130, 5, 137#133, 5, 8#122, 5, 58#132, 5, 107#113, 5, 57#82, 5, 20#6, 5, 42#3, 5, 114#83, 5, 20" />
   <property name="POIMarkerGroup" value="L1,XS1,XS2,barbw,barrel,burnb,barricade,barrier,checkpt,pipe,dumpster,fake,fake,cobble,cart,tent,trailer,cones,ambula,deliver,spot1,lift,semi,spot1" />
   <property name="POIMarkerTags" value="#######################" />
@@ -31,14 +31,14 @@
   <property name="SleeperVolumeTriggeredBy" value=" # " />
   <property class="Stats">
     <property name="LightsVolume" value="523.5988" />
-    <property name="TotalVertices" value="585228" />
-    <property name="TotalTriangles" value="314111" />
+    <property name="TotalVertices" value="587276" />
+    <property name="TotalTriangles" value="314155" />
     <property class="BlockEntities">
-      <property name="Vertices" value="392735" />
-      <property name="Triangles" value="133883" />
+      <property name="Vertices" value="392906" />
+      <property name="Triangles" value="133927" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="132741" />
+      <property name="Vertices" value="134618" />
       <property name="Triangles" value="83676" />
     </property>
     <property class="ChunkMeshes1">

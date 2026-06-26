@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="7d94feba-0db8-4568-a64d-7e231fe2df33" name="Navezgane Sky View" modified="2026-06-26 17:01:28Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.5" color="#87CEFAFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, 0.3400001" rot="0" scale="0.45, 0.3" color="#B29459FF" mode="ColorOnly" font="LiberationSans" text="Navezgane" direction="0" spacing="1.05" softness="0" dilate="0.3">
+      <warp type="ArcWarp" rotation="0" radius="4.125801" width="0.0304713" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.3500001" rot="0" scale="0.45, 0.3" color="#383838FF" mode="ColorOnly" font="LiberationSans" text="Navezgane" direction="0" spacing="1.05" softness="0" dilate="0.3">
+      <warp type="ArcWarp" rotation="0" radius="4.125801" width="0.0304713" />
+    </layer>
+    <layer name="Text 02" type="TextSignLayer" pos="0.01, -0.16" rot="0" scale="0.3, 0.3" color="#B29459FF" mode="ColorOnly" font="LiberationSans" text="Sky View" direction="0" spacing="1" softness="0" dilate="0.3092681" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.15" rot="0" scale="0.3, 0.3" color="#383838FF" mode="ColorOnly" font="LiberationSans" text="Sky View" direction="0" spacing="1" softness="0" dilate="0.3092681" />
+    <layer name="" type="GroupSignLayer" pos="2.018252, -3.335379" rot="0" scale="2, 1.2" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="-1.21373, -7.054815" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>
