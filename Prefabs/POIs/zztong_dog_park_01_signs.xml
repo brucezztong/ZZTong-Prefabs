@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="bdbf853b-0b0b-4562-895e-d2a7f59f3640" name="Bark Park" modified="2026-06-27 15:28:47Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="3">
+    <layer name="Group 03" type="GroupSignLayer" pos="-0.5, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="BARK" direction="0" spacing="1" softness="0" dilate="0.1" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.3, 0.3" color="#333333FF" mode="ColorOnly" font="Stardos Stencil" text="BARK" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, -0.15" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="PARK" direction="0" spacing="1" softness="0" dilate="0.1" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, -0.15" rot="0" scale="0.3, 0.3" color="#333333FF" mode="ColorOnly" font="Stardos Stencil" text="PARK" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="Group 02" type="GroupSignLayer" pos="0.5, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, 0.22" rot="0" scale="0.075, 0.075" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Dog Park Rules" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, 0.11" rot="0" scale="0.04, 0.04" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Use Park at your own risk." direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, 0.05999999" rot="0" scale="0.04, 0.04" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Clean up dog waste." direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.04, 0.04" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="No aggressive dogs." direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, -0.04" rot="0" scale="0.04, 0.04" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Owners must be present." direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, -0.08999999" rot="0" scale="0.04, 0.04" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Agility components are for dogs." direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, -0.14" rot="0" scale="0.04, 0.04" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="No dogs in heat." direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, -0.22" rot="-10" scale="0.08, 0.06" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="No Wolves!" direction="0" spacing="1" softness="0" dilate="-6.938894E-18" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.3792915, -6.217762" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.575027, -2.278366" rot="-7.450581E-08" scale="0.3, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

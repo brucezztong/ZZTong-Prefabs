@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="d606f910-4604-4680-9a94-de42c347c1b8" name="Car Wash" modified="2026-06-27 12:28:22Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#C34538FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.08999999" rot="0" scale="0.35, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Kwik Klean" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.08999999" rot="0" scale="0.35, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Kwik Klean" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.08999999" rot="0" scale="0.35, 0.2" color="#FBDB19FF" mode="ColorOnly" font="LiberationSans" text="Kwik Klean" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.09" rot="0" scale="0.35, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Car Wash" direction="0" spacing="1" softness="0" dilate="0.3">
+      <warp type="SkewWarp" amount="0.1, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.09" rot="0" scale="0.35, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Car Wash" direction="0" spacing="1" softness="0" dilate="0.1">
+      <warp type="SkewWarp" amount="0.1, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.09" rot="0" scale="0.35, 0.2" color="#A6CDE5FF" mode="ColorOnly" font="LiberationSans" text="Car Wash" direction="0" spacing="1" softness="0" dilate="0">
+      <warp type="SkewWarp" amount="0.1, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="" type="GroupSignLayer" pos="-1.319507, 0.7321901" rot="0" scale="0.8145062, 0.698337" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

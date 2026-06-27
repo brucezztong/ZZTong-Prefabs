@@ -61,8 +61,9 @@
       <property name="1" value="23, 19, 25" />
       <property name="2" value="27, 15, 27" />
       <property name="3" value="27, 19, 27" />
-      <property name="4" value="26, 13, 33" />
-      <property name="5" value="26, 11, 34" />
+      <property name="4" value="27, 18, 30" />
+      <property name="5" value="26, 13, 33" />
+      <property name="6" value="26, 11, 34" />
     </property>
     <property class="quest_feather">
       <property name="0" value="21, 21, 32" />
@@ -102,15 +103,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="928020" />
-    <property name="TotalTriangles" value="398792" />
+    <property name="LightsVolume" value="5210.319" />
+    <property name="TotalVertices" value="988910" />
+    <property name="TotalTriangles" value="415869" />
     <property class="BlockEntities">
-      <property name="Vertices" value="819332" />
-      <property name="Triangles" value="332391" />
+      <property name="Vertices" value="880498" />
+      <property name="Triangles" value="350072" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="99190" />
-      <property name="Triangles" value="53525" />
+      <property name="Vertices" value="98908" />
+      <property name="Triangles" value="52909" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -129,8 +131,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="7358" />
-      <property name="Triangles" value="11756" />
+      <property name="Vertices" value="7364" />
+      <property name="Triangles" value="11768" />
     </property>
   </property>
 </prefab>

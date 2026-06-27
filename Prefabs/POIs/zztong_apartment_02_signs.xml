@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="04c54f02-5d62-416f-9e01-b09fc9d3eb10" name="Be-Fit" modified="2026-06-27 10:45:27Z" next_poly_id="2" next_text_id="3" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.25, 0" rot="0" scale="0.75, 0.25" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.75, 0" rot="0" scale="0.25, 0.25" color="#222222FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.25, 0.06999999" rot="0" scale="0.4, 0.35" color="#049CF0FF" mode="ColorOnly" font="LiberationSans" text="BE-FIT" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.25, -0.15" rot="0" scale="0.17, 0.1" color="#049CF0FF" mode="ColorOnly" font="LiberationSans" text="Wellness Center" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 03" type="TextSignLayer" pos="0.75, 0.1" rot="0" scale="0.15, 0.15" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Open" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 03" type="TextSignLayer" pos="0.75, -0.1" rot="0" scale="0.15, 0.15" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Daily" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="GroupSignLayer" pos="-1.327351, 2.497852" rot="0" scale="2, 2" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="bc54bd6b-63ed-4b1a-baff-4759306acb6b" name="ZZTong Prefabs Noise" modified="2026-06-27 10:34:55Z" next_poly_id="2" next_text_id="3" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.25" color="#2B595DFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1.1, 0.22" color="#F3DB90FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0.02" frequency="5" shapeMode="Line" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.02, 0.13" rot="0" scale="0.2, 0.15" color="#000000FF" mode="ColorOnly" font="Montserrat" text="ANTIQUES" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="ArcWarp" rotation="-0.004442596" radius="12.00493" width="0.02017066" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, 0.14" rot="0" scale="0.2, 0.15" color="#D13A34FF" mode="ColorOnly" font="Montserrat" text="ANTIQUES" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="ArcWarp" rotation="-0.004442596" radius="12.00493" width="0.02017066" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.2, 0.15" color="#F3DB90FF" mode="ColorOnly" font="Montserrat" text="ANTIQUES" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="ArcWarp" rotation="-0.004442596" radius="12.00493" width="0.02017066" />
+    </layer>
+    <layer name="Text 02" type="TextSignLayer" pos="-0.6799996, -0.11" rot="0" scale="0.075, 0.075" color="#98BE96FF" mode="ColorOnly" font="Montserrat" text="AND" direction="-20" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 03" type="TextSignLayer" pos="0.135, -0.125" rot="0" scale="0.16, 0.16" color="#F3DB90FF" mode="ColorOnly" font="Montserrat" text="COLLECTABLES" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 03" type="TextSignLayer" pos="0.13, -0.12" rot="0" scale="0.16, 0.16" color="#98BE96FF" mode="ColorOnly" font="Montserrat" text="COLLECTABLES" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="GroupSignLayer" pos="-1.319507, 0.7321901" rot="0" scale="0.8145062, 0.698337" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="3a24b6f9-8b1b-4936-88a0-d59d6a5dffe2" name="Great Wall" modified="2026-06-27 10:21:43Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.07692308" color="#AE9789FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.0025, -0.0025" rot="45" scale="0.025, 0.025" color="#222222FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0.2" frequency="5" shapeMode="Line">
+      <warp type="GridWarp" mode="1" offset="0, 0" rotation="0" scale="1.996362" aspect="1" shift="0" />
+    </layer>
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="45" scale="0.025, 0.025" color="#B1443BFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0.2" frequency="5" shapeMode="Line">
+      <warp type="GridWarp" mode="1" offset="0, 0" rotation="0" scale="1.996362" aspect="1" shift="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.15, 0.15" color="#999999FF" mode="ColorOnly" font="LiberationSans" text="Great Wall Chinese Buffet" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.15, 0.15" color="#222222FF" mode="ColorOnly" font="LiberationSans" text="Great Wall Chinese Buffet" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="" type="GroupSignLayer" pos="-0.4824522, 2.327825" rot="0" scale="0.8145062, 0.698337" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

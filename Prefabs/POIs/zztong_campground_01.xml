@@ -34,15 +34,15 @@
   <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
     <property name="LightsVolume" value="4245.239" />
-    <property name="TotalVertices" value="408903" />
-    <property name="TotalTriangles" value="221628" />
+    <property name="TotalVertices" value="408215" />
+    <property name="TotalTriangles" value="221084" />
     <property class="BlockEntities">
-      <property name="Vertices" value="340993" />
-      <property name="Triangles" value="172662" />
+      <property name="Vertices" value="340871" />
+      <property name="Triangles" value="172708" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="57952" />
-      <property name="Triangles" value="32362" />
+      <property name="Vertices" value="57386" />
+      <property name="Triangles" value="31772" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

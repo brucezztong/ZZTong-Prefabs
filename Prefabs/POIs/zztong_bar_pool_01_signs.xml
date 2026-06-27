@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="3e2ef481-7eaa-4634-8860-eefe4e3fa788" name="Hoot-n-Holler" modified="2026-06-27 11:30:44Z" next_poly_id="1" next_text_id="3" next_noise_id="0" next_group_id="1">
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, 0" rot="0" scale="0.2, 0.16" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Hoot-n-Holler" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.2, 0.16" color="#4A4339FF" mode="ColorOnly" font="Permanent Marker" text="Hoot-n-Holler" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.89, 0" rot="0" scale="0.085, 0.06" color="#848484FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.89, 0" rot="0" scale="0.085, 0.06" color="#222222FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0.02" frequency="5" shapeMode="Line" />
+    <layer name="Text 03" type="TextSignLayer" pos="0.89, 0" rot="0" scale="0.04, 0.09" color="#222222FF" mode="ColorOnly" font="LiberationSans" text="Billiards" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0.1, 0.1" rotation="0" />
+    </layer>
+    <layer name="Group 01" type="GroupSignLayer" pos="-0.89, 0.005" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Poly 01" type="PolygonSignLayer" pos="0, -0.005" rot="0" scale="0.085, 0.06" color="#06478EFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="Poly 01" type="PolygonSignLayer" pos="0, -0.005" rot="0" scale="0.085, 0.06" color="#008DD4FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0.02" frequency="5" shapeMode="Line" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, 0.025" rot="0" scale="0.05, 0.04" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="BUD" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 02" type="TextSignLayer" pos="0, -0.025" rot="0" scale="0.05, 0.04" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="LIGHT" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="" type="GroupSignLayer" pos="-1.335202, 0.8629802" rot="0" scale="0.8145062, 0.698337" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="-0.0392361, -5.950948" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.943092, 2.650632" rot="15" scale="0.1, 0.1" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="4d3f547d-9352-4394-b341-c1aea6cc0bf8" name="Band" modified="2026-06-27 11:40:29Z" next_poly_id="2" next_text_id="3" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#C6C6C6FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="15" scale="0.9, 0.5" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.7" rot="0" scale="0.275, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="One Night Only" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.25" rot="15" scale="0.2, 0.2" color="#960000FF" mode="ColorOnly" font="Permanent Marker" text="THE" direction="0" spacing="1" softness="0.1" dilate="0.3955511" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.25" rot="15" scale="0.2, 0.2" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="THE" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.03" rot="15" scale="0.25, 0.4" color="#960000FF" mode="ColorOnly" font="Permanent Marker" text="ABRACADAVERS" direction="0" spacing="1" softness="0.1" dilate="0.4" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.03" rot="15" scale="0.25, 0.4" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="ABRACADAVERS" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 03" type="TextSignLayer" pos="0, -0.75" rot="0" scale="0.22, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Show Starts at 9PM" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

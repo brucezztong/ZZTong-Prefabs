@@ -33,15 +33,16 @@
   <property name="YOffset" value="-25" />
   <property name="Zoning" value="none" />
   <property class="Stats">
-    <property name="TotalVertices" value="396738" />
-    <property name="TotalTriangles" value="191191" />
+    <property name="LightsVolume" value="5378.407" />
+    <property name="TotalVertices" value="422153" />
+    <property name="TotalTriangles" value="198669" />
     <property class="BlockEntities">
-      <property name="Vertices" value="351501" />
-      <property name="Triangles" value="151519" />
+      <property name="Vertices" value="377086" />
+      <property name="Triangles" value="159291" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="30761" />
-      <property name="Triangles" value="17120" />
+      <property name="Vertices" value="30591" />
+      <property name="Triangles" value="16826" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -77,13 +78,13 @@
     <property class="challenge_cars">
       <property name="0" value="4, 25, 24" />
     </property>
+    <property class="Rally">
+      <property name="0" value="10, 25, 2" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="27, 2, 21" />
       <property name="1" value="30, 11, 22" />
-      <property name="2" value="23, 25, 25" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="10, 25, 2" />
+      <property name="2" value="22, 25, 26" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="32, 26, 21" />

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="4e8bec2a-c151-48ee-9fa6-a83359458960" name="Cheer Dance Gymnastics" modified="2026-06-27 13:50:32Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2727273" color="#00B2A9FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.13" rot="0" scale="0.3, 0.2" color="#BEC2CBFF" mode="ColorOnly" font="LiberationSans" text="NAVIZGANE" direction="0" spacing="1" softness="0.2" dilate="0.7">
+      <warp type="SkewWarp" amount="0.3, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.13" rot="0" scale="0.3, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="NAVIZGANE" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0.3, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.13" rot="0" scale="0.12, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CHEER - GYMNASTICS - DANCE" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0.3, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="" type="GroupSignLayer" pos="-2.695419, 1.399219" rot="0" scale="1.2, 1.2" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="-1.320978, -5.553348" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-2.615034, 4.806047" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="815d2d47-0ebc-4f4b-8d95-289e88486f75" name="New Sign" modified="2026-06-27 14:05:01Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.4, 0.4" color="#BEC2CBFF" mode="ColorOnly" sides="5" smoothness="0" starify="0.5" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.6390452, 0.1476286" rot="0" scale="0.4, 0.8" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="A" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.6490452, 0.1576286" rot="0" scale="0.4, 0.8" color="#00B2A9FF" mode="ColorOnly" font="LiberationSans" text="A" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.05877379, 0.1502447" rot="0" scale="0.4, 0.8" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="S" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.04877379, 0.1602447" rot="0" scale="0.4, 0.8" color="#00B2A9FF" mode="ColorOnly" font="LiberationSans" text="S" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.17, 0.08000018" rot="0" scale="0.3, 0.6" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="LL    TAR" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.16, 0.09000018" rot="0" scale="0.3, 0.6" color="#00B2A9FF" mode="ColorOnly" font="LiberationSans" text="LL    TAR" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, -0.3600001" rot="0" scale="0.2, 0.3" color="#BEC2CBFF" mode="ColorOnly" font="LiberationSans" text="CHEER and DANCE" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.3500001" rot="0" scale="0.2, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CHEER and DANCE" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="4e7cea11-7f76-46e7-8376-de0de46da148" name="New Sign" modified="2026-06-27 14:16:46Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="-0.79, 0.28" rot="0" scale="0.25, 0.3" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="N" direction="0" spacing="1" softness="0" dilate="0.5" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.28" rot="0" scale="0.25, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="AVEZGANE" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.835366, 0" rot="0" scale="0.25, 0.3" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="G" direction="0" spacing="1" softness="0" dilate="0.4976974" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.25, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="YMNASTICS" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.8662928, -0.28" rot="0" scale="0.25, 0.3" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="A" direction="0" spacing="1" softness="0" dilate="0.5024878" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.28" rot="0" scale="0.25, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="SSOCIATION" direction="0" spacing="1" softness="0" dilate="0.1" />
+  </sign>
+  <sign guid="964816c7-6e29-4431-a5f3-624f350812a7" name="Inspire" modified="2026-06-27 14:20:03Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#222222FF" mode="ColorOnly" font="Permanent Marker" text="Inspire" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#00B2A9FF" mode="ColorOnly" font="Permanent Marker" text="Inspire" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="e1bc02be-c044-4382-b58b-121c37d56c60" name="Encourage" modified="2026-06-27 14:20:40Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#222222FF" mode="ColorOnly" font="Permanent Marker" text="Encourage" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#00B2A9FF" mode="ColorOnly" font="Permanent Marker" text="Encourage" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="9c886e2a-724e-4466-bad6-7fefb9ef391b" name="Motivate" modified="2026-06-27 14:21:09Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#222222FF" mode="ColorOnly" font="Permanent Marker" text="Motivate" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#00B2A9FF" mode="ColorOnly" font="Permanent Marker" text="Motivate" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="de592890-1a2f-418b-b727-0082f5942ebc" name="Believe" modified="2026-06-27 14:21:46Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#222222FF" mode="ColorOnly" font="Permanent Marker" text="Believe" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#00B2A9FF" mode="ColorOnly" font="Permanent Marker" text="Believe" direction="0" spacing="1" softness="0" dilate="0" />
+  </sign>
+  <sign guid="d4416e18-987f-49df-b726-a52e5fed419c" name="Cheer Dance Gymnastics Indoor" modified="2026-06-27 14:24:34Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2727273" color="#00B2A9FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.13" rot="0" scale="0.3, 0.2" color="#BEC2CBFF" mode="ColorOnly" font="LiberationSans" text="NAVIZGANE" direction="0" spacing="1" softness="0.2" dilate="0.7">
+      <warp type="SkewWarp" amount="0.3, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.13" rot="0" scale="0.3, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="NAVIZGANE" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0.3, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.13" rot="0" scale="0.12, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CHEER - GYMNASTICS - DANCE" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0.3, 1.490116E-09" rotation="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="-1.498852, -6.199449" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.674426, -1.933078" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="b108c00f-eb3b-45ef-8674-94f5010bc28e" name="Delos Hotel" modified="2026-06-27 14:43:36Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.2" color="#CCCCCCFF" mode="ColorOnly" font="Stardos Stencil" text="Delos Hotel" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0.88, 0" rot="0" scale="0.07, 0.07" color="#CCCCCCFF" mode="ColorOnly" sides="5" smoothness="0" starify="0.4953803" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 01" type="PolygonSignLayer" pos="-0.88, 0" rot="0" scale="0.07, 0.07" color="#CCCCCCFF" mode="ColorOnly" sides="5" smoothness="0" starify="0.4953803" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.447944, 2.470142" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="a6c4c7c0-cbb0-47a8-a8d6-4d08499131cf" name="Guest Notice" modified="2026-06-27 15:01:12Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.8" rot="0" scale="0.2, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Delos Guest Notice" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.4099999" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Friendly androids provide services." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.3" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Please do not shoot them." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.11" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Other guests are not androids." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Your guns will not fire at other guests." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.19" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Knives work, however." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.3" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Please do not stab the other guests." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.5099998" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="If you are injured," direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.6099997" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="please come to the infirmary." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="-5.317913, -2.218201" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="7554a173-575d-4403-9581-c365a34b687b" name="Westworld Control" modified="2026-06-27 15:05:23Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="WESTWORLD" direction="0" spacing="1" softness="0" dilate="0.03999999" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="WESTWORLD" direction="0" spacing="1" softness="0" dilate="1.192093E-08" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="CONTROL" direction="0" spacing="1" softness="0" dilate="0.04" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CONTROL" direction="0" spacing="1" softness="0" dilate="1.192093E-08" />
+    <layer name="" type="NoiseSignLayer" pos="-5.317913, -2.218201" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

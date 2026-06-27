@@ -32,15 +32,16 @@
   <property name="EditorGroups" value="rural" />
   <property name="ThemeRepeatDistance" value="0" />
   <property class="Stats">
-    <property name="TotalVertices" value="77571" />
-    <property name="TotalTriangles" value="33991" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="79336" />
+    <property name="TotalTriangles" value="32208" />
     <property class="BlockEntities">
-      <property name="Vertices" value="72477" />
-      <property name="Triangles" value="28485" />
+      <property name="Vertices" value="74612" />
+      <property name="Triangles" value="27100" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="2978" />
-      <property name="Triangles" value="2202" />
+      <property name="Vertices" value="2608" />
+      <property name="Triangles" value="1804" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="320" />
@@ -86,6 +87,9 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="20, 3, 4" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="19, 3, 8" />
     </property>
   </property>
 </prefab>

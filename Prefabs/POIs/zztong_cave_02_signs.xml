@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="5e3c9ab0-0e5f-442b-8bbb-b83768c5e00d" name="Mine Safety Academy" modified="2026-06-27 12:49:09Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2727273" color="#353535FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.12" rot="0" scale="0.3, 0.24" color="#F19021FF" mode="ColorOnly" font="Stardos Stencil" text="Mine Safety" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.12" rot="0" scale="0.3, 0.24" color="#F19021FF" mode="ColorOnly" font="Stardos Stencil" text="Academy" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="GroupSignLayer" pos="-1.983921, 0.1776398" rot="0" scale="2, 2" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-6.114971, 3.864364" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="2dc8f0cd-7b63-4323-8081-7694ef535d26" name="ZZTong Prefabs Noise" modified="2026-06-27 12:57:41Z" next_poly_id="4" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 03" type="PolygonSignLayer" pos="0, 0.78" rot="0" scale="1, 0.2" color="#F19021FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0.02" frequency="5" shapeMode="Line" />
+    <layer name="Poly 04" type="PolygonSignLayer" pos="-0.72, 0.75" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" sides="3" smoothness="0.2" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.17, 0.78" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="WARNING" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.72, 0.78" rot="0" scale="0.3, 0.3" color="#F19021FF" mode="ColorOnly" font="LiberationSans" text="!" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.09999999" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="MINE SITE" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.25" rot="0" scale="0.15, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="AUTHORIZED" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.4799998" rot="0" scale="0.15, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="ACCESS ONLY" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="" type="GroupSignLayer" pos="-1.813894, -0.4396881" rot="0" scale="4, 4" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.7350408, -6.094818" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-6.232681, 2.64017" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="03343ae4-9887-4f92-8bad-5ad3f5a087bc" name="MSHA" modified="2026-06-27 13:09:16Z" next_poly_id="2" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.62" color="#C40041FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0.1" frequency="5" shapeMode="Line" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.4" rot="0" scale="0.15, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="U.S. Department of Labor" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.4" rot="0" scale="0.1, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Mine Safety &amp; Health Administration" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.01, -0.01" rot="0" scale="0.6, 0.5" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="MSHA" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0" rot="0" scale="0.6, 0.5" color="#076193FF" mode="ColorOnly" font="LiberationSans" text="MSHA" direction="0" spacing="1" softness="0" dilate="0.2" />
+  </sign>
+</signs>

@@ -1,4 +1,4 @@
-ZZTONG-PREFABS READ-ME for V3.0.ZZ032
+ZZTONG-PREFABS READ-ME for V3.1.ZZ033
 
 GOAL:
 
@@ -43,11 +43,12 @@ IS THE MODLET SERVER-SIDE OR CLIENT-SIDE?
 
 Both. You want the modlet on both the server and all the clients. Anyone who
 tells you POIs can be server-side only is conveying information without
-enough nuance. Going Server-side only mostly works. (Keyword "mostly.")
+enough nuance. Going Server-side only partially works. (Keyword "partially.")
 
 While a server-side only installation will convey the blocks of a POI, it does
-not convey the Localization information and the details of triggers linked to
-keyracks and similar blocks. These quirks are NOT bugs in the modlet or POIs.
+not convey the Localization information, signs, details of triggers linked to
+keyracks or similar blocks, and sometimes makes it so quests cannot be
+completed. These quirks are NOT bugs in the modlet or POIs.
 
 Perhaps someday TFP will allow the server to send the additional information
 necessary, but for now that is not the case.
@@ -60,14 +61,7 @@ course, it is up the the RWG to determine if, when, and where to place things.
 
 TERAGON:
 
-Support for Teragon is current as of the release date, but since Teragon is
-undergoing active development you may find that my support becomes out-of-date.
-Please let me know if that happens.
-
-You should refer to notes and configuration files found in the Teragon folder
-within this modlet. As I write this I am aware of bugs in Teragon, but also
-excited to see that the Teragon teams takes these issue seriously and works to
-resolve them.
+You should find this modlet compatible with Teragon.
 
 COMPOPACK:
 
@@ -133,12 +127,6 @@ own notes available related to how I configure things for my little in-house
 test server. You can find those notes here:
 
 https://drive.google.com/drive/folders/1Hq8d-k37kOFs7xgft7P2IeZesasGuI5s?usp=sharing
-
-POI NOTES:
-
-If you'd like extra information about each POI, check out the ABOUT.txt file
-also located in this directory. I decided to put all the 'behind the scenes'
-stuff there.
 
 DECORATIONS
 
