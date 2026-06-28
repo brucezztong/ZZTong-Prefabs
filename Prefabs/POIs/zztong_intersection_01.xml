@@ -33,15 +33,16 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="2825823" />
-    <property name="TotalTriangles" value="1146873" />
+    <property name="LightsVolume" value="5994.16" />
+    <property name="TotalVertices" value="2930444" />
+    <property name="TotalTriangles" value="1177583" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2291677" />
-      <property name="Triangles" value="813828" />
+      <property name="Vertices" value="2398021" />
+      <property name="Triangles" value="849530" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="502090" />
-      <property name="Triangles" value="292465" />
+      <property name="Vertices" value="500367" />
+      <property name="Triangles" value="287473" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -72,31 +73,51 @@
       <property name="3" value="53, 18, 48" />
       <property name="4" value="52, 12, 49" />
       <property name="5" value="49, 18, 50" />
-      <property name="6" value="50, 24, 51" />
-      <property name="7" value="50, 30, 51" />
-      <property name="8" value="51, 12, 52" />
-      <property name="9" value="56, 21, 52" />
-      <property name="10" value="57, 27, 52" />
-      <property name="11" value="48, 12, 53" />
-      <property name="12" value="49, 18, 54" />
-      <property name="13" value="50, 24, 54" />
-      <property name="14" value="50, 30, 54" />
-      <property name="15" value="55, 18, 54" />
-      <property name="16" value="56, 11, 54" />
-      <property name="17" value="57, 24, 54" />
-      <property name="18" value="57, 30, 54" />
-      <property name="19" value="58, 24, 56" />
-      <property name="20" value="50, 24, 57" />
-      <property name="21" value="50, 30, 57" />
-      <property name="22" value="55, 18, 57" />
-      <property name="23" value="56, 11, 57" />
-      <property name="24" value="57, 24, 57" />
-      <property name="25" value="57, 30, 57" />
-      <property name="26" value="59, 27, 57" />
-      <property name="27" value="50, 12, 58" />
-      <property name="28" value="52, 27, 58" />
-      <property name="29" value="49, 15, 59" />
-      <property name="30" value="59, 26, 59" />
+      <property name="6" value="48, 16, 51" />
+      <property name="7" value="49, 16, 51" />
+      <property name="8" value="50, 24, 51" />
+      <property name="9" value="50, 30, 51" />
+      <property name="10" value="51, 12, 52" />
+      <property name="11" value="55, 15, 52" />
+      <property name="12" value="55, 22, 52" />
+      <property name="13" value="56, 21, 52" />
+      <property name="14" value="57, 21, 52" />
+      <property name="15" value="57, 27, 52" />
+      <property name="16" value="58, 15, 52" />
+      <property name="17" value="58, 22, 52" />
+      <property name="18" value="58, 27, 52" />
+      <property name="19" value="48, 12, 53" />
+      <property name="20" value="48, 16, 53" />
+      <property name="21" value="49, 16, 53" />
+      <property name="22" value="50, 15, 53" />
+      <property name="23" value="49, 18, 54" />
+      <property name="24" value="50, 24, 54" />
+      <property name="25" value="50, 30, 54" />
+      <property name="26" value="55, 18, 54" />
+      <property name="27" value="56, 11, 54" />
+      <property name="28" value="57, 24, 54" />
+      <property name="29" value="57, 30, 54" />
+      <property name="30" value="54, 27, 55" />
+      <property name="31" value="58, 24, 56" />
+      <property name="32" value="59, 27, 56" />
+      <property name="33" value="50, 24, 57" />
+      <property name="34" value="50, 30, 57" />
+      <property name="35" value="52, 27, 57" />
+      <property name="36" value="54, 27, 57" />
+      <property name="37" value="55, 18, 57" />
+      <property name="38" value="56, 11, 57" />
+      <property name="39" value="57, 24, 57" />
+      <property name="40" value="57, 30, 57" />
+      <property name="41" value="59, 27, 57" />
+      <property name="42" value="49, 15, 58" />
+      <property name="43" value="50, 12, 58" />
+      <property name="44" value="52, 21, 58" />
+      <property name="45" value="52, 27, 58" />
+      <property name="46" value="49, 15, 59" />
+      <property name="47" value="54, 15, 59" />
+      <property name="48" value="55, 27, 59" />
+      <property name="49" value="57, 15, 59" />
+      <property name="50" value="59, 26, 59" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="48, 26, 48" />

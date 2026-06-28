@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="abf16b2d-bee1-4c8c-838c-33a71f2e8739" name="Gallaria" modified="2026-06-28 12:52:44Z" next_poly_id="0" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, -0.01" rot="0" scale="0.3, 0.3" color="#242424FF" mode="ColorOnly" font="LiberationSans" text="GALLARIA" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#C83F31FF" mode="ColorOnly" font="LiberationSans" text="GALLARIA" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.78, 0.03" rot="25" scale="0.2, 0.2" color="#242424FF" mode="ColorOnly" font="Dancing Script" text="The" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.09940124, -6.832473" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.282055, -2.59749" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="0c9b2835-f09f-4d13-b703-81c0561d6dab" name="Welcome" modified="2026-06-28 12:58:49Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, -0.01" rot="0" scale="0.2, 0.25" color="#242424FF" mode="ColorOnly" font="LiberationSans" text="WELCOME" direction="90.4478" spacing="0.8" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2, 0.25" color="#C83F31FF" mode="ColorOnly" font="LiberationSans" text="WELCOME" direction="90.4478" spacing="0.8" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="6c40f831-94ce-4e45-9090-d3c5e8e9b3db" name="Bath &amp; Body Works" modified="2026-06-28 13:07:38Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#005298FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.22, 0.22" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Bath &amp; Body" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.22, 0.22" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Works" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-6.570122, 1.980987" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="31583007-9f8e-4304-b578-7cca77e55a6a" name="Victoria's Secret" modified="2026-06-28 13:12:07Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.1666667" color="#E6ACC5FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.18, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="VICTORIA'S SECRET" direction="0" spacing="1.04" softness="0.1" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.18, 0.3" color="#212121FF" mode="ColorOnly" font="LiberationSans" text="VICTORIA'S SECRET" direction="0" spacing="1.04" softness="0" dilate="0.04" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="7024512a-f240-4d96-9d08-2331d1392f24" name="Yarn Barn" modified="2026-06-28 13:22:11Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#555555FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.45, 0" rot="0" scale="0.4, 0.4" color="#E4C18FFF" mode="ColorOnly" font="LiberationSans" text="Yarn" direction="0" spacing="1" softness="0.5024877" dilate="0.19919" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.45, 0" rot="0" scale="0.4, 0.4" color="#A4773AFF" mode="ColorOnly" font="LiberationSans" text="Yarn" direction="0" spacing="1" softness="0" dilate="-0.0008100391" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.45, 0" rot="0" scale="0.4, 0.4" color="#A4773AFF" mode="ColorOnly" font="LiberationSans" text="Barn" direction="0" spacing="1" softness="0.5024877" dilate="0.19919" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.45, 0" rot="0" scale="0.4, 0.4" color="#E4C18FFF" mode="ColorOnly" font="LiberationSans" text="Barn" direction="0" spacing="1" softness="0" dilate="0.004975319" />
+    <layer name="" type="NoiseSignLayer" pos="0.4446864, -6.7043" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.336988, -2.223435" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="cc65c370-71c6-4859-ab0e-18bbd0142a38" name="Gallaria Cafe" modified="2026-06-28 13:26:49Z" next_poly_id="0" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, -0.01" rot="0" scale="0.3, 0.22" color="#242424FF" mode="ColorOnly" font="LiberationSans" text="GALLARIA" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.22" color="#C83F31FF" mode="ColorOnly" font="LiberationSans" text="GALLARIA" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.78, 0.03" rot="25" scale="0.12, 0.12" color="#242424FF" mode="ColorOnly" font="Dancing Script" text="The" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.78, 0.01" rot="25" scale="0.12, 0.12" color="#242424FF" mode="ColorOnly" font="Dancing Script" text="Cafe" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.09940124, -6.832473" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.282055, -2.59749" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="bb53d66d-4952-41af-a8c7-7183f6ec04a6" name="Radio Shack" modified="2026-06-28 13:32:01Z" next_poly_id="2" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.15, 0" rot="0" scale="0.28, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="RadioShack" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.84, 0" rot="0" scale="0.3, 0.3" color="#C41D20FF" mode="ColorOnly" font="LiberationSans" text="R" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.8, 0" rot="0" scale="0.175, 0.175" color="#C41D20FF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0.02" frequency="5" shapeMode="Line" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.833228, 0.6260028" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="7d9adadb-3870-456b-9474-3004fd1c3cb9" name="Old Navy" modified="2026-06-28 13:36:27Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.25" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.25" color="#003560FF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="OLD NAVY" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="fe6cdb5f-00db-4197-b9f5-8856e60ff487" name="Hobby Lobby" modified="2026-06-28 13:43:23Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.2" color="#05509FFF" mode="ColorOnly" font="LiberationSans" text="HOBBY" direction="0" spacing="1" softness="0" dilate="0.9" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="HOBBY" direction="0" spacing="1" softness="0" dilate="0.5" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.2" color="#E66B1DFF" mode="ColorOnly" font="LiberationSans" text="HOBBY" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.2" color="#05509FFF" mode="ColorOnly" font="LiberationSans" text="LOBBY" direction="0" spacing="1" softness="0" dilate="0.9" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="LOBBY" direction="0" spacing="1" softness="0" dilate="0.5" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.2" color="#E66B1DFF" mode="ColorOnly" font="LiberationSans" text="LOBBY" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="" type="NoiseSignLayer" pos="0.5990191, -6.434871" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.354534, 0.6024599" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="57fea1d7-5087-415f-99cd-50dfb044feef" name="Florist" modified="2026-06-28 13:47:47Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#E42079FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.4, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="Montserrat" text="FLORIST" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.4, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Nice Day" direction="0" spacing="1" softness="0" dilate="-0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="cf8a55d4-0a1f-40b2-96ac-2a17912dabfc" name="Ski's T's" modified="2026-06-28 13:54:55Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.35, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="SKI's T's" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0, 0.1" rotation="0" />
+    </layer>
+    <layer name="Text 02" type="TextSignLayer" pos="0.55, -0.12" rot="0" scale="0.1, 0.1" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Custom T-Shirts" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.5911719, -6.544737" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.415461, -2.469318" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="f87a70da-d66a-44ed-8af6-b35afc698f4c" name="Musicland" modified="2026-06-28 13:58:45Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#0C1829FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.25, 0" rot="0" scale="0.3, 0.3" color="#FFFFDCFF" mode="ColorOnly" font="LiberationSans" text="musicland" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.25, 0" rot="0" scale="0.3, 0.3" color="#E2DA7AFF" mode="ColorOnly" font="LiberationSans" text="musicland" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="d4fc5dd2-bc75-4b72-b187-52a4987c1c80" name="Barber" modified="2026-06-28 15:14:01Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="30" scale="1, 0.05" color="#FF0000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="GridWarp" mode="1" offset="0, 1.490116E-09" rotation="0" scale="5" aspect="1" shift="0" />
+    </layer>
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.03961961, -0.120327" rot="30" scale="1, 0.05" color="#0000FFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="GridWarp" mode="1" offset="0, 1.490116E-09" rotation="0" scale="5" aspect="1" shift="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="BARBER" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="Stardos Stencil" text="BARBER" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="" type="GroupSignLayer" pos="-1.319507, 0.7321901" rot="0" scale="0.8145062, 0.698337" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.806331" color="#5F372AFF" mode="ColorOnly" seed="0" detail="6" softness="0.1516418" dilate="0.02985072" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="0, 0" rot="10" scale="2.586608, 1.80633" color="#63473EFF" mode="ColorOnly" seed="0" detail="6" softness="0.02" dilate="0.00985072" fade="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="8cc906e0-3ae8-46c0-a809-a066f6c2cf56" name="Tesla" modified="2026-06-28 15:21:24Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#555555FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="TESLH" direction="0" spacing="1.1" softness="0" dilate="0" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.2889642, 0.04708471" rot="0" scale="0.04, 0.032" color="#555555FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.4460759, 0.08893768" rot="0" scale="0.08, 0.015" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.4408437, 0.04446908" rot="0" scale="0.09, 0.03" color="#555555FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.2863484, -0.0444681" rot="0" scale="0.04, 0.034" color="#555555FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="NoiseSignLayer" pos="0.4054501, -6.032039" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-6.441946, 3.728344" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="cc690e57-5452-4025-bfc8-e161270a70f9" name="Toys R Us" modified="2026-06-28 15:30:49Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="1">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.1666667" color="#80BBD0FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 01" type="GroupSignLayer" pos="0.00999999, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="-0.81, 0" rot="0" scale="0.35, 0.3" color="#800B12FF" mode="ColorOnly" font="Permanent Marker" text="T" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 01" type="TextSignLayer" pos="-0.58, 0" rot="0" scale="0.35, 0.3" color="#DE7C0AFF" mode="ColorOnly" font="Permanent Marker" text="O" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 01" type="TextSignLayer" pos="-0.33, 0" rot="0" scale="0.35, 0.3" color="#002E11FF" mode="ColorOnly" font="Permanent Marker" text="Y" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 01" type="TextSignLayer" pos="-0.09999999, 0" rot="0" scale="0.35, 0.3" color="#950921FF" mode="ColorOnly" font="Permanent Marker" text="S" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 01" type="TextSignLayer" pos="0.21, 0" rot="0" scale="-0.35, 0.3" color="#031464FF" mode="ColorOnly" font="Permanent Marker" text="R" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 01" type="TextSignLayer" pos="0.54, 0" rot="0" scale="0.35, 0.3" color="#042B15FF" mode="ColorOnly" font="Permanent Marker" text="U" direction="0" spacing="1" softness="0" dilate="0.2" />
+      <layer name="Text 01" type="TextSignLayer" pos="0.81, 0" rot="0" scale="0.35, 0.3" color="#7F0B12FF" mode="ColorOnly" font="Permanent Marker" text="S" direction="0" spacing="1" softness="0" dilate="0.2" />
+    </layer>
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.2118797, 0.02092655" rot="-10" scale="0.04, 0.04" color="#CDB500FF" mode="ColorOnly" sides="5" smoothness="0" starify="0.5024877" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="d2611d1a-8550-4ec0-bd95-6ef4a69fd5ae" name="Foot Locker" modified="2026-06-28 15:34:35Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.1666667" color="#181818FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#DD2733FF" mode="ColorOnly" font="Montserrat" text="Foot Locker" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.5964038, -6.44272" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-3.917704, 1.457827" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="bf12c4fb-30fa-4d42-abe5-73908fca1d19" name="Nail Salon" modified="2026-06-28 15:37:41Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#BBBBBBFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.5, 0" rot="0" scale="0.4, 0.35" color="#DE076AFF" mode="ColorOnly" font="Stardos Stencil" text="Nail" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.4100001, 0" rot="0" scale="0.4, 0.35" color="#000000FF" mode="ColorOnly" font="Stardos Stencil" text="Salon" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="ba3d131d-bc2e-4e61-b6fb-39579c3a294b" name="MyCell" modified="2026-06-28 15:41:51Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="1">
+    <layer name="" type="PolygonSignLayer" pos="-4.994217E-08, -5.029142E-08" rot="0" scale="1, 0.2" color="#E3DFD4FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 01" type="GroupSignLayer" pos="-0.63, -0.08999999" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="TextSignLayer" pos="-0.2276088, -0.01097676" rot="0" scale="0.162108, 0.1540027" color="#676767FF" mode="ColorOnly" font="Montserrat" text="M" direction="0" spacing="1" softness="0" dilate="0.1" />
+      <layer name="" type="TextSignLayer" pos="-0.1028277, -0.01097676" rot="7.450581E-08" scale="0.1796211, 0.1540027" color="#676767FF" mode="ColorOnly" font="Montserrat" text="Y" direction="0" spacing="1" softness="0" dilate="0.08" />
+      <layer name="" type="TextSignLayer" pos="-0.002529144, 0.01097676" rot="0" scale="0.2205276, 0.2205276" color="#676767FF" mode="ColorOnly" font="Montserrat" text="c" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="" type="TextSignLayer" pos="0.1112754, 0.01097676" rot="0" scale="0.2205276, 0.2205276" color="#676767FF" mode="ColorOnly" font="Montserrat" text="e" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="" type="TextSignLayer" pos="0.184616, 0.01097676" rot="0" scale="0.2205276, 0.2205276" color="#676767FF" mode="ColorOnly" font="Montserrat" text="l" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="" type="TextSignLayer" pos="0.2276088, 0.01097676" rot="0" scale="0.2205276, 0.2205276" color="#676767FF" mode="ColorOnly" font="Montserrat" text="l" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-3.786912, 1.805729" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="441e92b4-85dd-4374-b845-c348c7a8c69a" name="macy's" modified="2026-06-28 15:46:46Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#99998DFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.16, 0.04" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="Montserrat" text="macy's" direction="0" spacing="0.86" softness="0" dilate="0" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.6, 0" rot="0" scale="0.15, 0.15" color="#A72131FF" mode="ColorOnly" sides="5" smoothness="0" starify="0.4953803" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="4d1f03a7-b251-4b9d-87e7-c1277c7b18c1" name="Waldenbooks" modified="2026-06-28 15:50:21Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#E7D1B8FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Waldenbooks" direction="0" spacing="1" softness="0" dilate="0.6" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#960A0AFF" mode="ColorOnly" font="LiberationSans" text="Waldenbooks" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Waldenbooks" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="58b9ecbb-60ee-474f-abb8-3e6d3bce0130" name="Empty" modified="2026-06-28 15:51:19Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="" type="NoiseSignLayer" pos="0.7167298, -6.306696" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-3.85492, 1.457827" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="48f80db7-92c4-4778-a584-34e03207e639" name="Hallmark" modified="2026-06-28 15:57:58Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.1666667" color="#7061B2FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="GroupSignLayer" pos="-0.75, -0.05" rot="-10" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="0, -0.0004055649" rot="10" scale="1.052632, 1.108033" color="#313131FF" mode="ColorOnly">
+        <layer name="" type="PolygonSignLayer" pos="-0.05554856, 0.02644917" rot="20" scale="0.02692344, 0.03855363" color="#85671CFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        <layer name="" type="PolygonSignLayer" pos="0.05554856, 0.02644917" rot="-20" scale="0.02692344, 0.03855363" color="#85671CFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        <layer name="" type="GroupSignLayer" pos="-0.001329903, -0.02644917" rot="-7.450581E-08" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="PolygonSignLayer" pos="-0.00115602, -0.05081286" rot="-7.450581E-08" scale="0.1540026, 0.04982499" color="#FFFFFFFF" mode="PunchOut" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="PolygonSignLayer" pos="-0.2456948, 0.007205561" rot="20" scale="0.1254361, 0.1890748" color="#212121FF" mode="PunchOut" sides="3" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="PolygonSignLayer" pos="0.2456948, 0.007205561" rot="-20" scale="0.1254361, 0.1890748" color="#212121FF" mode="PunchOut" sides="3" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="GroupSignLayer" pos="-0.0008626559, 0.05081287" rot="-7.450581E-08" scale="0.6634203, 0.513342" color="#CC9D26FF" mode="ColorOnly">
+            <layer name="" type="PolygonSignLayer" pos="0.005210854, 0.01600222" rot="0" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            <layer name="" type="PolygonSignLayer" pos="-0.1422228, -0.01324826" rot="40" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            <layer name="" type="PolygonSignLayer" pos="0.1422228, -0.01600222" rot="-40" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          </layer>
+        </layer>
+      </layer>
+      <layer name="" type="GroupSignLayer" pos="0, 0.0004055724" rot="10" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="PolygonSignLayer" pos="-0.05554856, 0.02644917" rot="20" scale="0.02692344, 0.03855363" color="#85671CFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        <layer name="" type="PolygonSignLayer" pos="0.05554856, 0.02644917" rot="-20" scale="0.02692344, 0.03855363" color="#85671CFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        <layer name="" type="GroupSignLayer" pos="-0.001329903, -0.02644917" rot="-7.450581E-08" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="PolygonSignLayer" pos="-0.00115602, -0.05081286" rot="-7.450581E-08" scale="0.1540026, 0.04982499" color="#FFFFFFFF" mode="PunchOut" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="PolygonSignLayer" pos="-0.2456948, 0.007205561" rot="20" scale="0.1254361, 0.1890748" color="#212121FF" mode="PunchOut" sides="3" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="PolygonSignLayer" pos="0.2456948, 0.007205561" rot="-20" scale="0.1254361, 0.1890748" color="#212121FF" mode="PunchOut" sides="3" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="GroupSignLayer" pos="-0.0008626559, 0.05081287" rot="-7.450581E-08" scale="0.6634203, 0.513342" color="#CC9D26FF" mode="ColorOnly">
+            <layer name="" type="PolygonSignLayer" pos="0.005210854, 0.01600222" rot="0" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            <layer name="" type="PolygonSignLayer" pos="-0.1422228, -0.01324826" rot="40" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            <layer name="" type="PolygonSignLayer" pos="0.1422228, -0.01600222" rot="-40" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          </layer>
+        </layer>
+      </layer>
+    </layer>
+    <layer name="" type="GroupSignLayer" pos="0.75, -0.05" rot="-10" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="GroupSignLayer" pos="0, -0.0004055649" rot="10" scale="1.052632, 1.108033" color="#313131FF" mode="ColorOnly">
+        <layer name="" type="PolygonSignLayer" pos="-0.05554856, 0.02644917" rot="20" scale="0.02692344, 0.03855363" color="#85671CFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        <layer name="" type="PolygonSignLayer" pos="0.05554856, 0.02644917" rot="-20" scale="0.02692344, 0.03855363" color="#85671CFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        <layer name="" type="GroupSignLayer" pos="-0.001329903, -0.02644917" rot="-7.450581E-08" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="PolygonSignLayer" pos="-0.00115602, -0.05081286" rot="-7.450581E-08" scale="0.1540026, 0.04982499" color="#FFFFFFFF" mode="PunchOut" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="PolygonSignLayer" pos="-0.2456948, 0.007205561" rot="20" scale="0.1254361, 0.1890748" color="#212121FF" mode="PunchOut" sides="3" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="PolygonSignLayer" pos="0.2456948, 0.007205561" rot="-20" scale="0.1254361, 0.1890748" color="#212121FF" mode="PunchOut" sides="3" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="GroupSignLayer" pos="-0.0008626559, 0.05081287" rot="-7.450581E-08" scale="0.6634203, 0.513342" color="#CC9D26FF" mode="ColorOnly">
+            <layer name="" type="PolygonSignLayer" pos="0.005210854, 0.01600222" rot="0" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            <layer name="" type="PolygonSignLayer" pos="-0.1422228, -0.01324826" rot="40" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            <layer name="" type="PolygonSignLayer" pos="0.1422228, -0.01600222" rot="-40" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          </layer>
+        </layer>
+      </layer>
+      <layer name="" type="GroupSignLayer" pos="0, 0.0004055724" rot="10" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="PolygonSignLayer" pos="-0.05554856, 0.02644917" rot="20" scale="0.02692344, 0.03855363" color="#85671CFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        <layer name="" type="PolygonSignLayer" pos="0.05554856, 0.02644917" rot="-20" scale="0.02692344, 0.03855363" color="#85671CFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+        <layer name="" type="GroupSignLayer" pos="-0.001329903, -0.02644917" rot="-7.450581E-08" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+          <layer name="" type="PolygonSignLayer" pos="-0.00115602, -0.05081286" rot="-7.450581E-08" scale="0.1540026, 0.04982499" color="#FFFFFFFF" mode="PunchOut" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="PolygonSignLayer" pos="-0.2456948, 0.007205561" rot="20" scale="0.1254361, 0.1890748" color="#212121FF" mode="PunchOut" sides="3" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="PolygonSignLayer" pos="0.2456948, 0.007205561" rot="-20" scale="0.1254361, 0.1890748" color="#212121FF" mode="PunchOut" sides="3" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          <layer name="" type="GroupSignLayer" pos="-0.0008626559, 0.05081287" rot="-7.450581E-08" scale="0.6634203, 0.513342" color="#CC9D26FF" mode="ColorOnly">
+            <layer name="" type="PolygonSignLayer" pos="0.005210854, 0.01600222" rot="0" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            <layer name="" type="PolygonSignLayer" pos="-0.1422228, -0.01324826" rot="40" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+            <layer name="" type="PolygonSignLayer" pos="0.1422228, -0.01600222" rot="-40" scale="0.06778064, 0.1191643" color="#FFFFFFFF" mode="ColorOnly" sides="3" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+          </layer>
+        </layer>
+      </layer>
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="Hallmark" direction="0" spacing="1" softness="0.1" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#B78D21FF" mode="ColorOnly" font="Dancing Script" text="Hallmark" direction="0" spacing="1" softness="0" dilate="0.14" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="30bf6c1a-d4a9-4570-9333-a6d89ab8b81c" name="Yankee Candle" modified="2026-06-28 16:12:10Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#EDE6D5FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.12" rot="0" scale="0.3, 0.12" color="#000000FF" mode="ColorOnly" font="Stardos Stencil" text="YANKEE" direction="0" spacing="1.05" softness="0" dilate="0.24" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.12" color="#000000FF" mode="ColorOnly" font="Stardos Stencil" text="CANDLE" direction="0" spacing="1.05" softness="0" dilate="0.24" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.11" rot="0" scale="0.3, 0.12" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="Company" direction="0" spacing="1.05" softness="0" dilate="0.09999999" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="603abf04-8fd8-4494-b85f-6482bebd053f" name="Cold Stone" modified="2026-06-28 16:08:19Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#6D0100FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.05" rot="0" scale="0.3, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="OLD STON" direction="0" spacing="1" softness="0" dilate="0.7983513" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.05" rot="0" scale="0.3, 0.2" color="#A00300FF" mode="ColorOnly" font="Stardos Stencil" text="OLD STON" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.8200001, -0.005" rot="0" scale="0.3, 0.35" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="C" direction="0" spacing="1" softness="0" dilate="0.7983513" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.8200001, -0.005" rot="0" scale="0.3, 0.35" color="#A00300FF" mode="ColorOnly" font="Stardos Stencil" text="C" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.82, -0.005" rot="0" scale="0.3, 0.35" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="E" direction="0" spacing="1" softness="0" dilate="0.7957074" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.82, -0.005" rot="0" scale="0.3, 0.35" color="#A00300FF" mode="ColorOnly" font="Stardos Stencil" text="E" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, -0.11" rot="0" scale="0.7, 0.055" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.11" rot="0" scale="0.15, 0.05" color="#A00300FF" mode="ColorOnly" font="Stardos Stencil" text="CREAMERY" direction="0" spacing="1.3" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

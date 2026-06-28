@@ -34,15 +34,15 @@
   <property name="QuestTags" value="clear, fetch, infested" />
   <property class="Stats">
     <property name="LightsVolume" value="4201.357" />
-    <property name="TotalVertices" value="400887" />
-    <property name="TotalTriangles" value="176944" />
+    <property name="TotalVertices" value="405193" />
+    <property name="TotalTriangles" value="177482" />
     <property class="BlockEntities">
-      <property name="Vertices" value="356754" />
-      <property name="Triangles" value="142737" />
+      <property name="Vertices" value="361568" />
+      <property name="Triangles" value="144171" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="34483" />
-      <property name="Triangles" value="18107" />
+      <property name="Vertices" value="33975" />
+      <property name="Triangles" value="17211" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -66,11 +66,11 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
-    <property class="Rally">
-      <property name="0" value="5, 3, 5" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="36, 3, 36" />
+    </property>
+    <property class="Rally">
+      <property name="0" value="5, 3, 5" />
     </property>
     <property class="POILight">
       <property name="0" value="58, 3, 47" />

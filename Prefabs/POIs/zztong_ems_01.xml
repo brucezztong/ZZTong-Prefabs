@@ -22,7 +22,7 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="1" />
   <property name="Tags" value="commercial" />
-  <property name="POIMarkerSize" value="4, 3, 9#5, 2, 11#7, 11, 2#6, 3, 4" />
+  <property name="POIMarkerSize" value="5, 3, 8#5, 2, 11#7, 11, 2#6, 3, 4" />
   <property name="POIMarkerStart" value="35, 2, 18#35, 2, 29#2, 2, 19#24, 2, 20" />
   <property name="POIMarkerGroup" value="ambulance,bodies,scafolding,generator" />
   <property name="POIMarkerTags" value="###" />
@@ -99,15 +99,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="483596" />
-    <property name="TotalTriangles" value="175964" />
+    <property name="LightsVolume" value="4188.791" />
+    <property name="TotalVertices" value="484305" />
+    <property name="TotalTriangles" value="175660" />
     <property class="BlockEntities">
-      <property name="Vertices" value="437817" />
-      <property name="Triangles" value="146335" />
+      <property name="Vertices" value="438277" />
+      <property name="Triangles" value="146181" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="40877" />
-      <property name="Triangles" value="21905" />
+      <property name="Vertices" value="41126" />
+      <property name="Triangles" value="21755" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

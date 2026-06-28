@@ -33,15 +33,16 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
   <property class="Stats">
-    <property name="TotalVertices" value="2991273" />
-    <property name="TotalTriangles" value="1203509" />
+    <property name="LightsVolume" value="5685.428" />
+    <property name="TotalVertices" value="3290887" />
+    <property name="TotalTriangles" value="1297075" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2521998" />
-      <property name="Triangles" value="892866" />
+      <property name="Vertices" value="2832728" />
+      <property name="Triangles" value="998660" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="447159" />
-      <property name="Triangles" value="278883" />
+      <property name="Vertices" value="436043" />
+      <property name="Triangles" value="266655" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -124,7 +125,8 @@
       <property name="2" value="54, 21, 43" />
       <property name="3" value="54, 26, 43" />
       <property name="4" value="50, 21, 46" />
-      <property name="5" value="56, 31, 47" />
+      <property name="5" value="50, 26, 46" />
+      <property name="6" value="56, 31, 47" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="62, 13, 38" />

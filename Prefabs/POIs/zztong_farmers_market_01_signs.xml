@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="2cf9b9f2-2ddc-4455-bb3f-427dce6adb9f" name="Farmer's Market" modified="2026-06-28 09:00:13Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.5" color="#BBBBBBFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.275" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Farmer's" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.275" rot="0" scale="0.3, 0.3" color="#009B48FF" mode="ColorOnly" font="Permanent Marker" text="Farmer's" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Market" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#009B48FF" mode="ColorOnly" font="Permanent Marker" text="Market" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.275" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Today" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.275" rot="0" scale="0.3, 0.3" color="#009B48FF" mode="ColorOnly" font="Permanent Marker" text="Today" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="-0.2432687, -5.903864" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.10865, -2.346375" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

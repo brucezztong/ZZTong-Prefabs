@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="887dd547-18ff-45dc-b7cc-568374151bce" name="Birchfield Farm" modified="2026-06-28 09:17:03Z" next_poly_id="2" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.35, 0.2" color="#242424FF" mode="ColorOnly" font="Stardos Stencil" text="Birchfield" direction="0" spacing="1.05" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.35, 0.2" color="#242424FF" mode="ColorOnly" font="Stardos Stencil" text="Farm" direction="0" spacing="1.05" softness="0" dilate="0.2" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.75, -0.1" rot="0" scale="0.2, 0.08" color="#AF0000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.75, -0.07000001" rot="0" scale="0.05, 0.05" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="FARM BUREAU" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.75, -0.13" rot="0" scale="0.05, 0.05" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="MEMBER" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>
