@@ -78,7 +78,7 @@ def main():
     #######################################################################################
 
     for fileName in os.listdir( dirName ):
-        if ( fileName.endswith( ".xml" ) ):
+        if ( fileName.endswith( ".xml" ) and not fileName.endswith( "_signs.xml" ) ):
             print( "File: " + fileName )
 
             poiName = dirName + "/" + fileName.rsplit( "." )[0]
