@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="9a039f12-46ca-4e77-8aa8-25f046997b1f" name="ZZTong Prefabs Noise" modified="2026-07-01 15:05:15Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="1">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2222222" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 01" type="GroupSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.3, 0.15" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Russell" direction="0" spacing="1" softness="0" dilate="0.4" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.3, 0.15" color="#727664FF" mode="ColorOnly" font="LiberationSans" text="Russell" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.15" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Vending" direction="0" spacing="1" softness="0" dilate="0.4029853" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.3, 0.15" color="#727664FF" mode="ColorOnly" font="LiberationSans" text="Vending" direction="0" spacing="1" softness="0" dilate="0" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, -0.15" rot="0" scale="0.3, 0.15" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Service" direction="0" spacing="1" softness="0" dilate="0.4029853" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, -0.15" rot="0" scale="0.3, 0.15" color="#727664FF" mode="ColorOnly" font="LiberationSans" text="Service" direction="0" spacing="1" softness="0" dilate="0" />
+    </layer>
+    <layer name="Text 02" type="TextSignLayer" pos="-0.75, 0" rot="0" scale="0.15, 0.15" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="RSV" direction="45" spacing="0.9" softness="0" dilate="0.5" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.75, 0" rot="0" scale="0.15, 0.15" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="RSV" direction="45" spacing="0.9" softness="0" dilate="0.5" />
+    <layer name="" type="NoiseSignLayer" pos="0.8344405, -6.060813" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-6.044345, 0.9372829" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

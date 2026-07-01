@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="a2abacf6-05fc-417c-b057-cf14cdd6c2f3" name="Billboard" modified="2026-07-01 16:08:25Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.5454546" color="#0000C8FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 01" type="GroupSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Text 01" type="TextSignLayer" pos="-0.5, 0" rot="0" scale="0.3, 0.45" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="PET" direction="0" spacing="1.05" softness="0" dilate="0.2039803" />
+      <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.5, 0.5" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="+" direction="0" spacing="1" softness="0" dilate="0.5" />
+      <layer name="Text 01" type="TextSignLayer" pos="0.5, 0" rot="0" scale="0.3, 0.45" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="VET" direction="0" spacing="1.05" softness="0" dilate="0.2013364" />
+    </layer>
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.35" rot="0" scale="0.15, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Small Animal Hospital" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.35" rot="0" scale="0.15, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="555-PAW-SOME" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="-0.02354169, -6.039886" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.625818, 1.970524" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.930776, -2.212969" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="90f48372-8532-4bec-80c8-eb330b83cfb7" name="Pet+Vet Kennels" modified="2026-07-01 16:07:50Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2857143" color="#0000C8FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.5, 0.09999999" rot="0" scale="0.3, 0.4" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="PET" direction="0" spacing="1.05" softness="0" dilate="0.2039803" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.09999999" rot="0" scale="0.5, 0.45" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="+" direction="0" spacing="1" softness="0" dilate="0.5" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.5, 0.09999999" rot="0" scale="0.3, 0.4" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="VET" direction="0" spacing="1.05" softness="0" dilate="0.2013364" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.17" rot="0" scale="0.3, 0.22" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="KENNELS" direction="0" spacing="1.05" softness="0" dilate="0.2013364" />
+    <layer name="" type="NoiseSignLayer" pos="0.02615844, -5.762611" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.850777, 2.35243" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.930776, -2.212969" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

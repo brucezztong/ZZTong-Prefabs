@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="c7f0e326-5140-4b0a-abd9-591a3c8644f1" name="Larsone Inc" modified="2026-07-01 15:15:12Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.1428571" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.01, 0.04" rot="0" scale="0.25, 0.2" color="#848496FF" mode="ColorOnly" font="LiberationSans" text="LARSONE INC." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.05" rot="0" scale="0.25, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="LARSONE INC." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.07999999" rot="0" scale="0.15, 0.1" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Commercial Distribution" direction="0" spacing="1.05" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.5597823, -6.461029" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.775683, 2.532921" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-5.409468, -2.495476" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

@@ -25,15 +25,16 @@
   <property name="YOffset" value="-2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # " />
   <property class="Stats">
-    <property name="TotalVertices" value="520378" />
-    <property name="TotalTriangles" value="219440" />
+    <property name="LightsVolume" value="5906.194" />
+    <property name="TotalVertices" value="566843" />
+    <property name="TotalTriangles" value="231051" />
     <property class="BlockEntities">
-      <property name="Vertices" value="436792" />
-      <property name="Triangles" value="158578" />
+      <property name="Vertices" value="483599" />
+      <property name="Triangles" value="171641" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="73198" />
-      <property name="Triangles" value="44558" />
+      <property name="Vertices" value="72856" />
+      <property name="Triangles" value="43106" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -69,10 +70,7 @@
       <property name="0" value="19, 2, 39" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="47, 2, 31" />
-      <property name="1" value="48, 2, 44" />
-      <property name="2" value="51, 2, 44" />
-      <property name="3" value="52, 8, 45" />
+      <property name="0" value="46, 2, 52" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="35, 2, 30" />

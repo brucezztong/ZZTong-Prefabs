@@ -25,15 +25,16 @@
   <property name="Tags" value="countrytown, commercial, downtown, nodiagonal, diagonal" />
   <property name="QuestTags" value="clear, fetch" />
   <property class="Stats">
-    <property name="TotalVertices" value="307535" />
-    <property name="TotalTriangles" value="130138" />
+    <property name="LightsVolume" value="4188.791" />
+    <property name="TotalVertices" value="343763" />
+    <property name="TotalTriangles" value="142368" />
     <property class="BlockEntities">
-      <property name="Vertices" value="243781" />
-      <property name="Triangles" value="89586" />
+      <property name="Vertices" value="280068" />
+      <property name="Triangles" value="101808" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="57778" />
-      <property name="Triangles" value="34680" />
+      <property name="Vertices" value="57719" />
+      <property name="Triangles" value="34688" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,6 +68,7 @@
     <property class="TraderOnOff">
       <property name="0" value="16, 3, 14" />
       <property name="1" value="15, 3, 17" />
+      <property name="2" value="12, 3, 23" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="14, 3, 13" />
@@ -77,6 +79,9 @@
       <property name="1" value="18, 3, 13" />
       <property name="2" value="20, 3, 13" />
     </property>
+    <property class="Rally">
+      <property name="0" value="13, 3, 0" />
+    </property>
     <property class="quest_feather">
       <property name="0" value="15, 12, 22" />
     </property>
@@ -85,9 +90,6 @@
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="21, 3, 11" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="13, 3, 0" />
     </property>
   </property>
 </prefab>
