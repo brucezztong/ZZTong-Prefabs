@@ -33,16 +33,18 @@
   <property name="POIMarkerPartRotations" value="0,0,1,0,0,1,3,0,0,0,3,0" />
   <property name="POIMarkerPartSpawnChance" value="1,1,0.5,0.5,0.8,0.5,0.5,0.5,0.5,0.5,0.8,0.5" />
   <property name="YOffset" value="-3" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="556697" />
-    <property name="TotalTriangles" value="248930" />
+    <property name="LightsVolume" value="4275.18" />
+    <property name="TotalVertices" value="603622" />
+    <property name="TotalTriangles" value="264786" />
     <property class="BlockEntities">
-      <property name="Vertices" value="462962" />
-      <property name="Triangles" value="180042" />
+      <property name="Vertices" value="509834" />
+      <property name="Triangles" value="196584" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="81385" />
-      <property name="Triangles" value="49744" />
+      <property name="Vertices" value="81438" />
+      <property name="Triangles" value="49058" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -70,11 +72,13 @@
       <property name="0" value="47, 3, 2" />
     </property>
     <property class="POILight">
-      <property name="0" value="34, 5, 15" />
-      <property name="1" value="39, 5, 15" />
-      <property name="2" value="37, 3, 17" />
-      <property name="3" value="32, 5, 20" />
-      <property name="4" value="32, 5, 22" />
+      <property name="0" value="33, 4, 14" />
+      <property name="1" value="34, 5, 15" />
+      <property name="2" value="39, 5, 15" />
+      <property name="3" value="37, 3, 17" />
+      <property name="4" value="32, 5, 20" />
+      <property name="5" value="38, 4, 20" />
+      <property name="6" value="32, 5, 22" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="51, 3, 31" />
@@ -93,11 +97,11 @@
     <property class="challenge_steel">
       <property name="0" value="27, 3, 21" />
     </property>
-    <property class="challenge_cars">
-      <property name="0" value="15, 3, 12" />
-    </property>
     <property class="FetchContainer">
       <property name="0" value="24, 4, 11" />
+    </property>
+    <property class="challenge_cars">
+      <property name="0" value="15, 3, 12" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="35, 3, 14" />

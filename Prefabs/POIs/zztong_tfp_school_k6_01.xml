@@ -33,16 +33,18 @@
   <property name="POIMarkerPartToSpawn" value="part_zztong_barbwire4,part_zztong_delivery_03,part_zztong_ladder_iron_01,part_zztong_mine_field_fake_01,part_zztong_pallets_cobble_01,part_zztong_pallets_cobble_01,part_zztong_tfp_scaffolding_01,part_zztong_tfp_trailer_box_empty_01,part_driveway_rural_14,part_driveway_rural_15,part_streetlight_broken,part_streetlight_broken,part_greeble_rooftop_01" />
   <property name="POIMarkerPartRotations" value="0,0,1,0,0,0,0,2,2,2,1,1,0" />
   <property name="POIMarkerPartSpawnChance" value="0.4,0.4,0.5,0.2,0.5,0.5,0.2,0.2,1,1,0.5,0.5,0.6" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="869674" />
-    <property name="TotalTriangles" value="330595" />
+    <property name="LightsVolume" value="4437.5" />
+    <property name="TotalVertices" value="1111782" />
+    <property name="TotalTriangles" value="372171" />
     <property class="BlockEntities">
-      <property name="Vertices" value="750431" />
-      <property name="Triangles" value="255808" />
+      <property name="Vertices" value="993973" />
+      <property name="Triangles" value="298792" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="104125" />
-      <property name="Triangles" value="54825" />
+      <property name="Vertices" value="102691" />
+      <property name="Triangles" value="53417" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -78,11 +80,14 @@
       <property name="5" value="53, 2, 37" />
       <property name="6" value="51, 5, 39" />
       <property name="7" value="54, 5, 39" />
-      <property name="8" value="55, 3, 41" />
-      <property name="9" value="51, 5, 42" />
-      <property name="10" value="54, 5, 42" />
-      <property name="11" value="49, 2, 44" />
-      <property name="12" value="56, 2, 44" />
+      <property name="8" value="53, 3, 41" />
+      <property name="9" value="55, 3, 41" />
+      <property name="10" value="51, 5, 42" />
+      <property name="11" value="53, 3, 42" />
+      <property name="12" value="54, 5, 42" />
+      <property name="13" value="53, 3, 43" />
+      <property name="14" value="49, 2, 44" />
+      <property name="15" value="56, 2, 44" />
     </property>
     <property class="quest_wood">
       <property name="0" value="58, 1, 30" />

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="3bb93747-b3d4-43ba-b2bd-44599d5d19e7" name="Condemned" modified="2026-08-22 13:48:05Z" next_poly_id="3" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0.7" rot="0" scale="1, 0.3" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 03" type="PolygonSignLayer" pos="0, 0.7" rot="0" scale="0.98, 0.28" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 03" type="PolygonSignLayer" pos="0, 0.7" rot="0" scale="0.96, 0.26" color="#FF0000FF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.7" rot="0" scale="0.4, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="DANGER" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0" rot="0" scale="0.28, 0.5" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CONDEMNED" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.5" rot="0" scale="0.25, 0.5" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="DO NOT ENTER" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="" type="NoiseSignLayer" pos="0.2563493, -6.264845" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.84031, 2.344586" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-3.83214, -2.524249" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

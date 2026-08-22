@@ -34,17 +34,18 @@
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="PrefabSize" value="25, 15, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
     <property name="LightsVolume" value="4254.24" />
-    <property name="TotalVertices" value="218959" />
-    <property name="TotalTriangles" value="89986" />
+    <property name="TotalVertices" value="214443" />
+    <property name="TotalTriangles" value="87885" />
     <property class="BlockEntities">
-      <property name="Vertices" value="177968" />
-      <property name="Triangles" value="65970" />
+      <property name="Vertices" value="173278" />
+      <property name="Triangles" value="63769" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="35757" />
-      <property name="Triangles" value="18492" />
+      <property name="Vertices" value="35931" />
+      <property name="Triangles" value="18592" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -85,8 +86,7 @@
       <property name="0" value="20, 3, 9" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="13, 4, 8" />
-      <property name="1" value="15, 8, 10" />
+      <property name="0" value="15, 4, 13" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="18, 4, 4" />

@@ -35,23 +35,25 @@
   <property name="POIMarkerPartRotations" value="1,1,0,1,0,0,3,1" />
   <property name="POIMarkerPartSpawnChance" value="0.1,0.2,0.2,0.2,0.5,0.5,0.2,0.3" />
   <property name="YOffset" value="-1" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="421244" />
-    <property name="TotalTriangles" value="171705" />
+    <property name="LightsVolume" value="4414.985" />
+    <property name="TotalVertices" value="449473" />
+    <property name="TotalTriangles" value="178264" />
     <property class="BlockEntities">
-      <property name="Vertices" value="348033" />
-      <property name="Triangles" value="124306" />
+      <property name="Vertices" value="377468" />
+      <property name="Triangles" value="132393" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="63576" />
-      <property name="Triangles" value="36067" />
+      <property name="Vertices" value="61912" />
+      <property name="Triangles" value="34539" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="4925" />
+      <property name="Vertices" value="5383" />
       <property name="Triangles" value="3944" />
     </property>
     <property class="ChunkMeshes3">
@@ -78,7 +80,11 @@
       <property name="3" value="23, 10, 28" />
       <property name="4" value="30, 12, 31" />
       <property name="5" value="23, 5, 32" />
-      <property name="6" value="23, 10, 34" />
+      <property name="6" value="22, 10, 34" />
+      <property name="7" value="23, 10, 34" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="24, 7, 31" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="25, 7, 23" />
@@ -86,10 +92,6 @@
     </property>
     <property class="challenge_polymers">
       <property name="0" value="37, 1, 28" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="24, 7, 11" />
-      <property name="1" value="21, 3, 20" />
     </property>
     <property class="challenge_leather">
       <property name="0" value="20, 3, 22" />

@@ -33,16 +33,18 @@
   <property name="POIMarkerPartRotations" value="0,0,0,1,0,0,3,0,0,0,0,0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.5,0.2,0.2,0.8,0.5,0.2,0.5,0.1,1,0.5,0.5,0.8,0.3" />
   <property name="YOffset" value="-3" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="863459" />
-    <property name="TotalTriangles" value="472704" />
+    <property name="LightsVolume" value="4716.578" />
+    <property name="TotalVertices" value="911855" />
+    <property name="TotalTriangles" value="469425" />
     <property class="BlockEntities">
-      <property name="Vertices" value="733667" />
-      <property name="Triangles" value="365306" />
+      <property name="Vertices" value="780547" />
+      <property name="Triangles" value="362999" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="97886" />
-      <property name="Triangles" value="57798" />
+      <property name="Vertices" value="99402" />
+      <property name="Triangles" value="56826" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -75,11 +77,11 @@
     <property class="challenge_sinks">
       <property name="0" value="85, 3, 77" />
     </property>
-    <property class="POILight">
-      <property name="0" value="67, 5, 38" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="81, 3, 90" />
+    </property>
+    <property class="POILight">
+      <property name="0" value="67, 5, 38" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="55, 3, 41" />

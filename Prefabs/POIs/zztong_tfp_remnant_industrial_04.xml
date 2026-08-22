@@ -25,15 +25,17 @@
   <property name="Tags" value="rural" />
   <property name="YOffset" value="-3" />
   <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="49717" />
-    <property name="TotalTriangles" value="27712" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="50099" />
+    <property name="TotalTriangles" value="27758" />
     <property class="BlockEntities">
-      <property name="Vertices" value="20645" />
-      <property name="Triangles" value="6742" />
+      <property name="Vertices" value="20721" />
+      <property name="Triangles" value="6788" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25738" />
+      <property name="Vertices" value="26044" />
       <property name="Triangles" value="15926" />
     </property>
     <property class="ChunkMeshes1">

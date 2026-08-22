@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="2300f4d4-70d1-4111-a5a9-9a6039ac456e" name="New Sign" modified="2026-08-22 13:53:46Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="" type="PolygonSignLayer" pos="-0.007972956, 0.03337717" rot="0" scale="1.027437, 0.6475418" color="#473C2EFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="GroupSignLayer" pos="-0.09937704, -0.3816888" rot="0" scale="1, 1.507342" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="PolygonSignLayer" pos="0.01356721, 0.3365679" rot="0" scale="1.138434, 0.0449671" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="PolygonSignLayer" pos="-0.02963512, 0.240689" rot="0" scale="1.138434, 0.04058281" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="PolygonSignLayer" pos="-0.03792283, 0.1488598" rot="0" scale="1.138434, 0.04058281" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="PolygonSignLayer" pos="-0.03201514, 0.05108015" rot="0" scale="1.138434, 0.0449671" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="PolygonSignLayer" pos="0.03792283, -0.05108015" rot="0" scale="1.138434, 0.0449671" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="PolygonSignLayer" pos="-0.0052795, -0.1469591" rot="0" scale="1.138434, 0.04058281" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="PolygonSignLayer" pos="-0.01356721, -0.2387883" rot="0" scale="1.138434, 0.04058281" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="PolygonSignLayer" pos="-0.007659517, -0.3365679" rot="0" scale="1.138434, 0.0449671" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.2631629, -0.45314" rot="-7.450581E-08" scale="0.1890752, 0.2321349" color="#332C2586" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.3283582">
+      <warp type="StretchWarp" offset="-1.432836, -0.1343284" rotation="90.02986" distance="5" width="0.09701493" exponent="1" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.01633501, -0.820462" rot="0" scale="0.2572128, 0.31579" color="#4C342371" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0" fade="0.3283582">
+      <warp type="StretchWarp" offset="0, -0.4925373" rotation="89.9567" distance="3.5" width="0.1044776" exponent="1" />
+    </layer>
+    <layer name="" type="GroupSignLayer" pos="0.009620905, 0.522722" rot="0" scale="0.95, 0.95" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="TextSignLayer" pos="0.0003094189, -0.0007635951" rot="0" scale="0.17064, 0.1890748" color="#4C4943FF" mode="ColorOnly" font="Montserrat" text="RANGER STATION" direction="0" spacing="1" softness="0" dilate="0.5337314" />
+      <layer name="" type="TextSignLayer" pos="-0.0003094189, 0.0007635951" rot="0" scale="0.17064, 0.1890748" color="#E9CA6CFF" mode="ColorOnly" font="Montserrat" text="RANGER STATION" direction="0" spacing="1" softness="0" dilate="0.1940298" />
+    </layer>
+    <layer name="" type="TextSignLayer" pos="0.003803968, 0.329355" rot="0" scale="0.1706399, 0.1890748" color="#4C4943FF" mode="ColorOnly" font="Montserrat" text="BETA" direction="0" spacing="1" softness="0" dilate="0.5223881" />
+    <layer name="" type="TextSignLayer" pos="0.003803968, 0.329355" rot="0" scale="0.1706399, 0.1890748" color="#E9CA6CFF" mode="ColorOnly" font="Montserrat" text="ZETA" direction="0" spacing="1" softness="0" dilate="0.119403" />
+    <layer name="" type="TextSignLayer" pos="0.01133585, 0.04265118" rot="0" scale="0.162108, 0.1796211" color="#4C4943FF" mode="ColorOnly" font="Montserrat" text="NAVEZGANE" direction="0" spacing="1" softness="0" dilate="0.4626865" />
+    <layer name="" type="TextSignLayer" pos="0.01133585, 0.04265118" rot="0" scale="0.162108, 0.1796211" color="#E9CA6CFF" mode="ColorOnly" font="Montserrat" text="NAVEZGANE" direction="0" spacing="1" softness="0" dilate="0.119403" />
+    <layer name="" type="PolygonSignLayer" pos="-0.005412102, -0.164676" rot="0" scale="0.079056, 0.079056" color="#4C4943FF" mode="ColorOnly" sides="5" smoothness="0" starify="0.4850746" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="PolygonSignLayer" pos="-0.005572081, -0.164676" rot="0" scale="0.06439161, 0.06439161" color="#E9CA6CFF" mode="ColorOnly" sides="5" smoothness="0" starify="0.4850746" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="" type="TextSignLayer" pos="-0.003126144, -0.3622429" rot="0" scale="0.2205275, 0.1990261" color="#4C4943FF" mode="ColorOnly" font="Dancing Script" text="National Forest" direction="0" spacing="1.02" softness="0" dilate="0.5522388" />
+    <layer name="" type="TextSignLayer" pos="-0.003126144, -0.3622429" rot="0" scale="0.2205275, 0.1990261" color="#E9CA6CFF" mode="ColorOnly" font="Dancing Script" text="National Forest" direction="0" spacing="1.02" softness="0" dilate="0.2238806" />
+    <layer name="" type="GroupSignLayer" pos="0.003953934, -0.5987499" rot="0" scale="0.8145062, 0.7737809" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="TextSignLayer" pos="0, 0" rot="0" scale="0.09220704, 0.1021685" color="#4C4943FF" mode="ColorOnly" font="Montserrat" text="U.S. DEPARTMENT OF AGRICULTURE" direction="0" spacing="1" softness="0" dilate="0.5820895" />
+      <layer name="" type="TextSignLayer" pos="0, 0" rot="0" scale="0.09220704, 0.1021685" color="#E9CA6CFF" mode="ColorOnly" font="Montserrat" text="U.S. DEPARTMENT OF AGRICULTURE" direction="0" spacing="1" softness="0" dilate="0.1343284" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.3897541, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.51748, -2.550407" rot="90" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

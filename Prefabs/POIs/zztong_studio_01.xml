@@ -22,23 +22,25 @@
   <property name="EditorGroups" value="rural" />
   <property name="Tags" value="rural" />
   <property name="Zoning" value="none" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="120858" />
-    <property name="TotalTriangles" value="50396" />
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="133180" />
+    <property name="TotalTriangles" value="54576" />
     <property class="BlockEntities">
-      <property name="Vertices" value="94735" />
-      <property name="Triangles" value="34148" />
+      <property name="Vertices" value="107519" />
+      <property name="Triangles" value="38824" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="23291" />
-      <property name="Triangles" value="12362" />
+      <property name="Vertices" value="22759" />
+      <property name="Triangles" value="11866" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1060" />
+      <property name="Vertices" value="1130" />
       <property name="Triangles" value="790" />
     </property>
     <property class="ChunkMeshes3">

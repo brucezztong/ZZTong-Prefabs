@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="6ed640f7-ff25-41e5-99d0-b32e46ba1a79" name="Whiskey a No Go" modified="2026-08-22 15:07:03Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2222222" color="#434746FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.02" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="Whiskey a No Go" direction="0" spacing="1" softness="0" dilate="0.5" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.02" rot="0" scale="0.3, 0.3" color="#DDDDDDFF" mode="ColorOnly" font="Dancing Script" text="Whiskey a No Go" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.429633, 2.00453" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="7a4a7b99-0a99-4af8-910b-65c4be9d457e" name="Whiskey a No Go (1)" modified="2026-08-22 15:12:26Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2" color="#434746FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.02" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="Whiskey a No Go" direction="0" spacing="1" softness="0" dilate="0.5" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.02" rot="0" scale="0.3, 0.3" color="#DDDDDDFF" mode="ColorOnly" font="Dancing Script" text="Whiskey a No Go" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.429633, 2.00453" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="303e074d-afbd-442c-bfe3-7391d9c258e5" name="Tonight's Show" modified="2026-08-22 15:19:51Z" next_poly_id="1" next_text_id="3" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.3" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.01, 0.16" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="ROB ZOMBIE" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.3, 0.3" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="ROB ZOMBIE" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.3018512, 0.01310597" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="with" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0, 0.25" rotation="0" />
+    </layer>
+    <layer name="Text 03" type="TextSignLayer" pos="-0.25, -0.15" rot="0" scale="0.14, 0.25" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="The Living Deadbeats" direction="0" spacing="1" softness="0" dilate="0.14" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.7235423, -0.1683106" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="Tonight Only!" direction="0" spacing="1" softness="0" dilate="0.2">
+      <warp type="SkewWarp" amount="0, 0.25" rotation="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-3.046642, 3.239186" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.705816, -2.537328" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

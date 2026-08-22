@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="d1672f6c-c4a2-40c2-bed1-e8900dca5233" name="ZZTong Prefabs Noise" modified="2026-08-22 14:30:09Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.3" color="#BDBDBDFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.14" rot="0" scale="0.4, 0.3" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="HARVEY'S" direction="0" spacing="1" softness="0" dilate="0.24" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.14" rot="0" scale="0.4, 0.3" color="#B45050FF" mode="ColorOnly" font="Permanent Marker" text="HARVEY'S" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.14" rot="0" scale="0.4, 0.3" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Haulin'" direction="0" spacing="1" softness="0" dilate="0.24" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.14" rot="0" scale="0.4, 0.3" color="#B45050FF" mode="ColorOnly" font="Permanent Marker" text="Haulin'" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.163587, 1.863278" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.671812, -2.51117" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="e8490df4-00a7-40e3-b8ef-4321f7080269" name="ZZTong Prefabs Noise (1)" modified="2026-08-22 14:33:58Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.1428571" color="#BDBDBDFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.45, 0" rot="0" scale="0.2, 0.2" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="HARVEY'S" direction="0" spacing="1" softness="0" dilate="0.24" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.45, 0" rot="0" scale="0.2, 0.2" color="#B45050FF" mode="ColorOnly" font="Permanent Marker" text="HARVEY'S" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.4999999, 0" rot="0" scale="0.2, 0.2" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="HAULIN'" direction="0" spacing="1" softness="0" dilate="0.24" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.4999999, 0" rot="0" scale="0.2, 0.2" color="#B45050FF" mode="ColorOnly" font="Permanent Marker" text="HAULIN'" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.163587, 1.863278" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.671812, -2.51117" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

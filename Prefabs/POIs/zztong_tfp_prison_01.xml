@@ -34,17 +34,18 @@
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
   <property name="Tags" value="wilderness, oldwest" />
   <property name="QuestTags" value="clear, fetch" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
     <property name="LightsVolume" value="4188.791" />
-    <property name="TotalVertices" value="783306" />
-    <property name="TotalTriangles" value="281269" />
+    <property name="TotalVertices" value="782222" />
+    <property name="TotalTriangles" value="280271" />
     <property class="BlockEntities">
-      <property name="Vertices" value="663327" />
-      <property name="Triangles" value="197206" />
+      <property name="Vertices" value="663403" />
+      <property name="Triangles" value="197252" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="115915" />
-      <property name="Triangles" value="77787" />
+      <property name="Vertices" value="114755" />
+      <property name="Triangles" value="76743" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
