@@ -1,6 +1,7 @@
 CHANGE LOG / RELEASE NOTES: (Newest to Oldest)
 
 V3.1.033 (ZZ033)
+* Removed AllowTopSoilDecorations from XML to go with the game's v3.2 release.
 * Widespread support for the new Sign Tech. (This was a lot of work.)
 * Numerous small adjustments to POIs and bug fixes.
 
