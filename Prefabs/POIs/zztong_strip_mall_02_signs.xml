@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="b45fba8d-cb49-4339-848b-e0b30bad3bf0" name="OFI Mondays" modified="2026-08-23 12:29:35Z" next_poly_id="3" next_text_id="2" next_noise_id="0" next_group_id="1">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2857143" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 01" type="GroupSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="Poly 02" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.1, 0.3" color="#D2003BFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+        <warp type="SkewWarp" amount="-0.2962255, -2.001407" rotation="49.96827" />
+      </layer>
+      <layer name="Poly 02" type="PolygonSignLayer" pos="0.6, 0" rot="0" scale="0.1, 0.3" color="#D2003BFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+        <warp type="SkewWarp" amount="-0.2962255, -2.001407" rotation="49.96827" />
+      </layer>
+      <layer name="Poly 02" type="PolygonSignLayer" pos="1.2, 0" rot="0" scale="0.1, 0.3" color="#D2003BFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+        <warp type="SkewWarp" amount="-0.2962255, -2.001407" rotation="49.96827" />
+      </layer>
+      <layer name="Poly 02" type="PolygonSignLayer" pos="-0.6, 0" rot="0" scale="0.1, 0.3" color="#D2003BFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+        <warp type="SkewWarp" amount="-0.2962255, -2.001407" rotation="49.96827" />
+      </layer>
+      <layer name="Poly 02" type="PolygonSignLayer" pos="-1.2, 0" rot="0" scale="0.1, 0.3" color="#D2003BFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+        <warp type="SkewWarp" amount="-0.2962255, -2.001407" rotation="49.96827" />
+      </layer>
+    </layer>
+    <layer name="Poly 03" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.8, 0.15" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.1, 0" rot="0" scale="0.25, 0.25" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="MONDAYS" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 02" type="TextSignLayer" pos="-0.65, 0" rot="90" scale="0.13, 0.2" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="OFI" direction="0.3369231" spacing="1" softness="0" dilate="0.3" />
+    <layer name="" type="NoiseSignLayer" pos="-0.007846504, -6.372091" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.735681, 2.747416" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.185273, -2.485012" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="7efd69ed-c9b2-4c25-b8e1-31694b65c7c2" name="VitaWorld Protein" modified="2026-08-23 12:38:06Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.2" color="#000000FF" mode="ColorOnly" font="Montserrat" text="VitaWorld" direction="0" spacing="1" softness="0" dilate="1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.2" color="#9D9EB3FF" mode="ColorOnly" font="Montserrat" text="VitaWorld" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.2" color="#000000FF" mode="ColorOnly" font="Montserrat" text="Protein" direction="0" spacing="1.1" softness="0" dilate="1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.2" color="#7F809FFF" mode="ColorOnly" font="Montserrat" text="Protein" direction="0" spacing="1.1" softness="0" dilate="0.4" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.047726, 2.297498" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="b149fe1d-face-4de9-9aa2-138dc26d1594" name="ZZTong Prefabs Noise" modified="2026-08-23 12:41:55Z" next_poly_id="0" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="-0.12, 0" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CELLULAR" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.8, 0" rot="0" scale="0.3, 0.4" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="7" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.204674, 1.949598" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="5093b310-b2fc-4dd9-8bc0-26a59797dd7b" name="ZZTong Prefabs Noise (1)" modified="2026-08-23 12:45:51Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2222222" color="#6D0100FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.05" rot="0" scale="0.3, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="OLD STON" direction="0" spacing="1" softness="0" dilate="0.7983513" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.05" rot="0" scale="0.3, 0.2" color="#A00300FF" mode="ColorOnly" font="Stardos Stencil" text="OLD STON" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.8200001, -0.005000001" rot="0" scale="0.3, 0.35" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="C" direction="0" spacing="1" softness="0" dilate="0.7983513" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.8200001, -0.005000001" rot="0" scale="0.3, 0.35" color="#A00300FF" mode="ColorOnly" font="Stardos Stencil" text="C" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.82, -0.005000001" rot="0" scale="0.3, 0.35" color="#FFFFFFFF" mode="ColorOnly" font="Stardos Stencil" text="E" direction="0" spacing="1" softness="0" dilate="0.7957074" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.82, -0.005000001" rot="0" scale="0.3, 0.35" color="#A00300FF" mode="ColorOnly" font="Stardos Stencil" text="E" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0, -0.11" rot="0" scale="0.7, 0.055" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.11" rot="0" scale="0.15, 0.05" color="#A00300FF" mode="ColorOnly" font="Stardos Stencil" text="CREAMERY" direction="0" spacing="1.3" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>
