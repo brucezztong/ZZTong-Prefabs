@@ -30,6 +30,7 @@
   <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_01,part_driveway_countrytown_08,part_driveway_countrytown_08,part_zztong_spikes_wood3,part_zztong_delivery_04,part_zztong_barrier6_white,part_zztong_barrier6_white" />
   <property name="POIMarkerPartRotations" value="0,1,1,1,0,1,1" />
   <property name="POIMarkerPartSpawnChance" value="0.5,1,1,0.5,0.5,0.2,0.2" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="21, 4, 37" />
@@ -59,23 +60,22 @@
       <property name="0" value="25, 3, 5" />
     </property>
     <property class="quest_wood">
-      <property name="0" value="39, 3, 21" />
-      <property name="1" value="39, 3, 23" />
-      <property name="2" value="39, 3, 25" />
-      <property name="3" value="39, 3, 27" />
-      <property name="4" value="39, 3, 29" />
+      <property name="0" value="39, 3, 25" />
+      <property name="1" value="39, 3, 27" />
+      <property name="2" value="39, 3, 29" />
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="220413" />
-    <property name="TotalTriangles" value="100708" />
+    <property name="LightsVolume" value="6069.557" />
+    <property name="TotalVertices" value="304856" />
+    <property name="TotalTriangles" value="126483" />
     <property class="BlockEntities">
-      <property name="Vertices" value="169143" />
-      <property name="Triangles" value="64126" />
+      <property name="Vertices" value="252969" />
+      <property name="Triangles" value="89666" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="44064" />
-      <property name="Triangles" value="27466" />
+      <property name="Vertices" value="44681" />
+      <property name="Triangles" value="27701" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

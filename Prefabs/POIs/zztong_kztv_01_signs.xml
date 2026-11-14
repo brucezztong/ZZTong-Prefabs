@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="6a919c0f-85cc-49b6-92be-10a9895b602e" name="KZTV" modified="2026-11-14 13:08:09Z" next_poly_id="0" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.3499999" rot="0" scale="1.5, 1.5" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="7" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.3499999" rot="0" scale="1.5, 1.5" color="#B40000FF" mode="ColorOnly" font="LiberationSans" text="7" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.6" rot="0" scale="0.7, 0.7" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="KZTV" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="1.19019, -5.642285" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-6.614593, 5.070247" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-2.979388, -1.522399" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="bfe9940b-4541-4810-84cb-6b4b6f2870c6" name="News" modified="2026-11-14 13:12:00Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.24" rot="0" scale="0.65, 0.5" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="KZTV" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.24" rot="0" scale="0.6, 0.5" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="NEWS" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="4f7241e4-75bd-4a6f-b660-9bac8284e054" name="Weather" modified="2026-11-14 13:13:09Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.38, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="WEATHER" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="ebf1fc83-9a20-42d0-ac2d-1b04a2e3e009" name="ZZTong Prefabs Noise" modified="2026-11-14 13:17:58Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2857143" color="#E87742FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.8135138, 0.1255586" rot="0" scale="0.3, 0.3" color="#FFF2BDFF" mode="ColorOnly" sides="4" smoothness="1" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.22, 0.13" rot="0" scale="0.22, 0.28" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Good Morning" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.22, -0.11" rot="0" scale="0.3, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Navezgane" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.1621804, -6.162828" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-3.599334, -2.275748" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

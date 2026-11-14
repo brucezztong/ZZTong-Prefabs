@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="cf1614d4-feda-4b87-ba81-7ea58a7aa528" name="ZZTong Prefabs Noise" modified="2026-11-14 14:06:32Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.3333333" color="#646464FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.12" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Montserrat" text="Southwest" direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.12" rot="0" scale="0.3, 0.3" color="#A13D2DFF" mode="ColorOnly" font="Montserrat" text="Southwest" direction="0" spacing="1" softness="0" dilate="0.08" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.12" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Montserrat" text="Masonry, Inc." direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.12" rot="0" scale="0.3, 0.3" color="#A13D2DFF" mode="ColorOnly" font="Montserrat" text="Masonry, Inc." direction="0" spacing="1" softness="0" dilate="0.08" />
+    <layer name="" type="NoiseSignLayer" pos="0.7821249, -5.909097" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.905708, 2.151014" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.044021, -1.82583" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

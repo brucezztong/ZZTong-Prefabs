@@ -30,6 +30,7 @@
   <property name="POIMarkerPartSpawnChance" value="0.5,0.1,0.5,0.5,1" />
   <property name="Zoning" value="none" />
   <property name="YOffset" value="-3" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood">
       <property name="0" value="37, 3, 38" />
@@ -92,14 +93,15 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="701641" />
-    <property name="TotalTriangles" value="286699" />
+    <property name="LightsVolume" value="4251.253" />
+    <property name="TotalVertices" value="980436" />
+    <property name="TotalTriangles" value="341299" />
     <property class="BlockEntities">
-      <property name="Vertices" value="621204" />
-      <property name="Triangles" value="238244" />
+      <property name="Vertices" value="899888" />
+      <property name="Triangles" value="292844" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="65148" />
+      <property name="Vertices" value="65174" />
       <property name="Triangles" value="33503" />
     </property>
     <property class="ChunkMeshes1">
@@ -107,7 +109,7 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="9167" />
+      <property name="Vertices" value="9252" />
       <property name="Triangles" value="6300" />
     </property>
     <property class="ChunkMeshes3">

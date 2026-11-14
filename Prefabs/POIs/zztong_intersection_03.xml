@@ -14,7 +14,7 @@
   <property name="Zoning" value="none" />
   <property name="Tags" value="downtown, zzintersection" />
   <property name="YOffset" value="-13" />
-  <property name="POIMarkerSize" value="5, 3, 5#5, 3, 5#5, 3, 5#5, 3, 5#3, 8, 6#11, 2, 5#11, 5, 5" />
+  <property name="POIMarkerSize" value="5, 3, 5#5, 3, 5#5, 3, 5#5, 3, 5#3, 8, 6#11, 2, 5#11, 6, 5" />
   <property name="POIMarkerStart" value="45, 41, 45#45, 41, 14#14, 41, 14#14, 41, 45#14, 13, 29#26, 13, 31#50, 13, 29" />
   <property name="POIMarkerGroup" value="roofgreeb4,roofgreeb3,roofgreeb2,roofgreeb1,lift,trailer,kztv-van" />
   <property name="POIMarkerTags" value="######" />
@@ -31,16 +31,18 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="downtown" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="3080335" />
-    <property name="TotalTriangles" value="1299537" />
+    <property name="LightsVolume" value="5617.168" />
+    <property name="TotalVertices" value="3333567" />
+    <property name="TotalTriangles" value="1391421" />
     <property class="BlockEntities">
-      <property name="Vertices" value="2147034" />
-      <property name="Triangles" value="772616" />
+      <property name="Vertices" value="2411198" />
+      <property name="Triangles" value="879322" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="869607" />
-      <property name="Triangles" value="471197" />
+      <property name="Vertices" value="858675" />
+      <property name="Triangles" value="456375" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="19840" />
@@ -94,6 +96,38 @@
       <property name="26" value="58, 14, 62" />
       <property name="27" value="59, 14, 62" />
     </property>
+    <property class="POILight">
+      <property name="0" value="55, 32, 49" />
+      <property name="1" value="56, 27, 49" />
+      <property name="2" value="57, 27, 49" />
+      <property name="3" value="58, 25, 49" />
+      <property name="4" value="59, 27, 49" />
+      <property name="5" value="55, 26, 51" />
+      <property name="6" value="58, 17, 51" />
+      <property name="7" value="58, 23, 51" />
+      <property name="8" value="58, 29, 51" />
+      <property name="9" value="58, 35, 51" />
+      <property name="10" value="56, 26, 53" />
+      <property name="11" value="57, 19, 53" />
+      <property name="12" value="57, 26, 53" />
+      <property name="13" value="49, 26, 55" />
+      <property name="14" value="51, 20, 55" />
+      <property name="15" value="51, 32, 55" />
+      <property name="16" value="60, 7, 55" />
+      <property name="17" value="53, 32, 56" />
+      <property name="18" value="57, 11, 56" />
+      <property name="19" value="50, 29, 57" />
+      <property name="20" value="54, 29, 57" />
+      <property name="21" value="58, 17, 57" />
+      <property name="22" value="58, 23, 57" />
+      <property name="23" value="58, 29, 57" />
+      <property name="24" value="58, 35, 57" />
+      <property name="25" value="51, 17, 58" />
+      <property name="26" value="51, 23, 58" />
+      <property name="27" value="51, 35, 58" />
+      <property name="28" value="51, 20, 59" />
+      <property name="29" value="55, 7, 60" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="57, 13, 49" />
       <property name="1" value="60, 19, 49" />
@@ -101,25 +135,6 @@
       <property name="3" value="51, 13, 57" />
       <property name="4" value="60, 7, 59" />
       <property name="5" value="49, 25, 60" />
-    </property>
-    <property class="POILight">
-      <property name="0" value="58, 17, 51" />
-      <property name="1" value="58, 23, 51" />
-      <property name="2" value="58, 29, 51" />
-      <property name="3" value="58, 35, 51" />
-      <property name="4" value="57, 19, 53" />
-      <property name="5" value="60, 7, 55" />
-      <property name="6" value="57, 11, 56" />
-      <property name="7" value="50, 29, 57" />
-      <property name="8" value="54, 29, 57" />
-      <property name="9" value="58, 17, 57" />
-      <property name="10" value="58, 23, 57" />
-      <property name="11" value="58, 29, 57" />
-      <property name="12" value="58, 35, 57" />
-      <property name="13" value="51, 17, 58" />
-      <property name="14" value="51, 23, 58" />
-      <property name="15" value="51, 35, 58" />
-      <property name="16" value="55, 7, 60" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="55, 25, 49" />

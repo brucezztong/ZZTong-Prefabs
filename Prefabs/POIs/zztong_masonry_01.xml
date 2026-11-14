@@ -20,7 +20,7 @@
   <property name="SleeperIsQuestExclude" value="False,False,False" />
   <property name="SleeperVolumeFlags" value="0,0,0" />
   <property name="Tags" value="countrytown, diagonal" />
-  <property name="POIMarkerSize" value="7, 13, 2#11, 8, 5#11, 4, 5#2, 2, 2" />
+  <property name="POIMarkerSize" value="7, 13, 2#7, 4, 5#11, 4, 5#2, 2, 2" />
   <property name="POIMarkerStart" value="13, 2, -2#19, 3, 23#6, 3, 23#4, 3, 11" />
   <property name="POIMarkerGroup" value="driveway,excavator,trailer,cobble" />
   <property name="POIMarkerTags" value="###" />
@@ -30,15 +30,17 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.4,0.4" />
   <property name="PrefabSize" value="42, 12, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="390710" />
-    <property name="TotalTriangles" value="125444" />
+    <property name="LightsVolume" value="4197.168" />
+    <property name="TotalVertices" value="420013" />
+    <property name="TotalTriangles" value="137418" />
     <property class="BlockEntities">
-      <property name="Vertices" value="364367" />
-      <property name="Triangles" value="105693" />
+      <property name="Vertices" value="393647" />
+      <property name="Triangles" value="117667" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="20709" />
+      <property name="Vertices" value="20732" />
       <property name="Triangles" value="10939" />
     </property>
     <property class="ChunkMeshes1">
@@ -113,12 +115,15 @@
       <property name="5" value="33, 7, 13" />
       <property name="6" value="31, 4, 16" />
       <property name="7" value="35, 4, 16" />
+      <property name="8" value="33, 4, 19" />
     </property>
     <property class="POILight">
-      <property name="0" value="38, 5, 10" />
-      <property name="1" value="37, 6, 12" />
-      <property name="2" value="37, 6, 17" />
-      <property name="3" value="37, 7, 20" />
+      <property name="0" value="37, 5, 10" />
+      <property name="1" value="38, 5, 10" />
+      <property name="2" value="37, 6, 12" />
+      <property name="3" value="37, 5, 17" />
+      <property name="4" value="37, 6, 17" />
+      <property name="5" value="37, 7, 20" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="38, 4, 11" />

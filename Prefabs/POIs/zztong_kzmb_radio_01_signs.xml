@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="5c0a7fb5-c1dd-4442-bc3e-67aa16fa4e44" name="Rock" modified="2026-11-14 12:20:35Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.25" color="#333333FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Sedwick Ave Display" text="Rock &amp; Roll" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.13" rot="0" scale="0.3, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="Sedwick Ave Display" text="will never die!" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="7d794d9b-73e9-416f-95b8-7d58e1be776f" name="106.5 FM" modified="2026-11-14 12:26:19Z" next_poly_id="1" next_text_id="3" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.4" color="#780000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.5" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="106.5 FM" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.8265936, -5.728607" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-3.7189, 0.1577751" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-3.680423, -2.042941" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="309866f1-b575-4f7d-bc79-7c19136aa452" name="1340 AM" modified="2026-11-14 12:27:34Z" next_poly_id="1" next_text_id="3" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.4" color="#000078FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.5" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="1340 AM" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.8265936, -5.728607" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-3.7189, 0.1577751" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-3.680423, -2.042941" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="8819b76e-0025-449b-b154-2d029ec367bb" name="News" modified="2026-11-14 12:30:07Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.25" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.6499999, 0.12" rot="0" scale="0.2, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="News" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Weather" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.6499999, -0.12" rot="0" scale="0.2, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Sports" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="4c3582e7-fee6-4e73-a00a-c75f512a71b1" name="Poo Crew" modified="2026-11-14 12:38:19Z" next_poly_id="1" next_text_id="3" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.4285714" color="#7A5901FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.25" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Rick, Dick &amp;" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.01" rot="0" scale="0.22, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="the Morning Shtick" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 03" type="TextSignLayer" pos="0, -0.27" rot="0" scale="0.09, 0.15" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Three idiots, two microphones, one brain cell." direction="0" spacing="1" softness="0" dilate="0.6" />
+    <layer name="Text 03" type="TextSignLayer" pos="0, -0.27" rot="0" scale="0.09, 0.15" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Three idiots, two microphones, one brain cell." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="23f21276-bda7-4e56-825d-b732040beea1" name="News Cast" modified="2026-11-14 12:55:59Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.4285714" color="#EDE8DCFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.25" rot="0" scale="0.24, 0.3" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="All News. All Day." direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.25" rot="0" scale="0.24, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="All News. All Day." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.24, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="All Business." direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.25" rot="0" scale="0.24, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="No Fun. Ever." direction="0" spacing="1" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="95bd2837-7c1e-4337-86b8-80ebdf0ef3dd" name="Mega-Party" modified="2026-11-14 13:02:07Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2727273" color="#101010FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.17" rot="0" scale="0.2, 0.15" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="Pending Apocalypse" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.01" rot="0" scale="0.3, 0.2" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="MEGA-PARTY" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.01" rot="0" scale="0.3, 0.2" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="MEGA-PARTY" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.17" rot="0" scale="0.2, 0.15" color="#FF0000FF" mode="ColorOnly" font="LiberationSans" text="Sunday, 10 PM" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.7899721, -5.880322" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-6.334697, 3.31766" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.347451, -1.519782" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>
