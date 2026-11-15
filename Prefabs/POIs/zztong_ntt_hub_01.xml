@@ -30,6 +30,7 @@
   <property name="Tags" value="rural, gateway, zzbartertown" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
   <property name="EditorGroups" value="rural" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="Rally">
       <property name="0" value="3, 3, 2" />
@@ -49,6 +50,7 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="14, 3, 19" />
+      <property name="1" value="20, 3, 22" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="12, 5, 12" />
@@ -88,15 +90,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="194477" />
-    <property name="TotalTriangles" value="65348" />
+    <property name="LightsVolume" value="4192.979" />
+    <property name="TotalVertices" value="246233" />
+    <property name="TotalTriangles" value="77756" />
     <property class="BlockEntities">
-      <property name="Vertices" value="172588" />
-      <property name="Triangles" value="51518" />
+      <property name="Vertices" value="224598" />
+      <property name="Triangles" value="64160" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19445" />
-      <property name="Triangles" value="10398" />
+      <property name="Vertices" value="19191" />
+      <property name="Triangles" value="10164" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
