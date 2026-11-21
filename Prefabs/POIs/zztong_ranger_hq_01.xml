@@ -30,6 +30,7 @@
   <property name="POIMarkerPartSpawnChance" value="1,1,0.6,0.5,0.3,0.5,0.6" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
   <property name="EditorGroups" value="rural" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood">
       <property name="0" value="39, 2, 23" />
@@ -57,7 +58,8 @@
       <property name="6" value="29, 5, 32" />
       <property name="7" value="33, 5, 32" />
       <property name="8" value="29, 3, 35" />
-      <property name="9" value="36, 3, 35" />
+      <property name="9" value="32, 4, 35" />
+      <property name="10" value="36, 3, 35" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="31, 3, 29" />
@@ -84,30 +86,31 @@
       <property name="1" value="22, 3, 30" />
       <property name="2" value="22, 3, 35" />
     </property>
-    <property class="challenge_stump">
-      <property name="0" value="34, 2, 4" />
-    </property>
     <property class="Rally">
       <property name="0" value="21, 2, 1" />
     </property>
+    <property class="challenge_stump">
+      <property name="0" value="34, 2, 4" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="399878" />
-    <property name="TotalTriangles" value="167139" />
+    <property name="LightsVolume" value="4555.834" />
+    <property name="TotalVertices" value="504766" />
+    <property name="TotalTriangles" value="183737" />
     <property class="BlockEntities">
-      <property name="Vertices" value="302968" />
-      <property name="Triangles" value="106119" />
+      <property name="Vertices" value="406306" />
+      <property name="Triangles" value="122617" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="89404" />
-      <property name="Triangles" value="51462" />
+      <property name="Vertices" value="90856" />
+      <property name="Triangles" value="51562" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="2604" />
+      <property name="Vertices" value="2702" />
       <property name="Triangles" value="1834" />
     </property>
     <property class="ChunkMeshes3">

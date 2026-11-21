@@ -31,9 +31,13 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.6,0.2,0.3,0.8,0.3,0.2" />
   <property name="PrefabSize" value="42, 22, 42" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="39, 3, 39" />
+    </property>
+    <property class="challenge_stump">
+      <property name="0" value="4, 3, 38" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="37, 3, 5" />
@@ -49,8 +53,12 @@
     <property class="TraderOnOff">
       <property name="0" value="32, 3, 24" />
       <property name="1" value="30, 3, 26" />
-      <property name="2" value="24, 3, 32" />
-      <property name="3" value="28, 3, 32" />
+      <property name="2" value="36, 3, 27" />
+      <property name="3" value="24, 3, 32" />
+      <property name="4" value="28, 3, 32" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="37, 4, 16" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="11, 3, 34" />
@@ -65,25 +73,18 @@
     <property class="challenge_steel">
       <property name="0" value="22, 3, 13" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="29, 3, 33" />
-      <property name="1" value="21, 4, 34" />
-      <property name="2" value="23, 4, 34" />
-      <property name="3" value="25, 3, 34" />
-      <property name="4" value="27, 4, 34" />
-      <property name="5" value="29, 3, 34" />
-    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="706742" />
-    <property name="TotalTriangles" value="210288" />
+    <property name="LightsVolume" value="4665.241" />
+    <property name="TotalVertices" value="727205" />
+    <property name="TotalTriangles" value="220056" />
     <property class="BlockEntities">
-      <property name="Vertices" value="669149" />
-      <property name="Triangles" value="184232" />
+      <property name="Vertices" value="689862" />
+      <property name="Triangles" value="194656" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="32267" />
-      <property name="Triangles" value="17740" />
+      <property name="Vertices" value="32017" />
+      <property name="Triangles" value="17084" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

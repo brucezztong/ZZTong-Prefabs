@@ -31,6 +31,7 @@
   <property name="DuplicateRepeatDistance" value="4000" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="YOffset" value="-28" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="1, 28, 2" />
@@ -125,15 +126,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="431395" />
-    <property name="TotalTriangles" value="191376" />
+    <property name="LightsVolume" value="7076.438" />
+    <property name="TotalVertices" value="560505" />
+    <property name="TotalTriangles" value="216444" />
     <property class="BlockEntities">
-      <property name="Vertices" value="362367" />
-      <property name="Triangles" value="144324" />
+      <property name="Vertices" value="491467" />
+      <property name="Triangles" value="169636" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="60422" />
-      <property name="Triangles" value="33932" />
+      <property name="Vertices" value="60432" />
+      <property name="Triangles" value="33688" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

@@ -33,17 +33,18 @@
   <property name="ThemeTags" value="police" />
   <property name="ThemeRepeatDistance" value="500" />
   <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
     <property name="LightsVolume" value="4222.301" />
-    <property name="TotalVertices" value="912192" />
-    <property name="TotalTriangles" value="339461" />
+    <property name="TotalVertices" value="896121" />
+    <property name="TotalTriangles" value="331808" />
     <property class="BlockEntities">
-      <property name="Vertices" value="783309" />
-      <property name="Triangles" value="256674" />
+      <property name="Vertices" value="766986" />
+      <property name="Triangles" value="249541" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="121237" />
-      <property name="Triangles" value="71047" />
+      <property name="Vertices" value="121489" />
+      <property name="Triangles" value="70527" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -92,14 +93,7 @@
       <property name="0" value="9, 8, 7" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="21, 9, 22" />
-      <property name="1" value="31, 15, 22" />
-      <property name="2" value="24, 3, 25" />
-      <property name="3" value="21, 9, 26" />
-      <property name="4" value="24, 9, 28" />
-      <property name="5" value="28, 3, 33" />
-      <property name="6" value="33, 9, 33" />
-      <property name="7" value="31, 9, 36" />
+      <property name="0" value="23, 9, 39" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="38, 12, 31" />

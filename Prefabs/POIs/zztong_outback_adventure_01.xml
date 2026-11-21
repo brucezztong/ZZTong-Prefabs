@@ -31,6 +31,7 @@
   <property name="POIMarkerPartRotations" value="2,1,0,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.5,0.5,0.5" />
   <property name="DuplicateRepeatDistance" value="4000" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="51, 3, 66" />
@@ -67,7 +68,7 @@
       <property name="1" value="53, 3, 90" />
     </property>
     <property class="challenge_mech_parts">
-      <property name="0" value="79, 3, 2" />
+      <property name="0" value="82, 3, 2" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="43, 14, 39" />
@@ -83,16 +84,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="LightsVolume" value="5127.08" />
-    <property name="TotalVertices" value="1906515" />
-    <property name="TotalTriangles" value="838913" />
+    <property name="LightsVolume" value="5127.081" />
+    <property name="TotalVertices" value="1899528" />
+    <property name="TotalTriangles" value="832688" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1766265" />
-      <property name="Triangles" value="735174" />
+      <property name="Vertices" value="1764964" />
+      <property name="Triangles" value="734235" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="103730" />
-      <property name="Triangles" value="55489" />
+      <property name="Vertices" value="98044" />
+      <property name="Triangles" value="50203" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="5440" />

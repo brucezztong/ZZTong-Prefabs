@@ -29,12 +29,14 @@
   <property name="POIMarkerPartToSpawn" value="part_zztong_driveway_gateway_07,part_zztong_driveway_gateway_07" />
   <property name="POIMarkerPartRotations" value="2,2" />
   <property name="POIMarkerPartSpawnChance" value="1,1" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="215543" />
-    <property name="TotalTriangles" value="93201" />
+    <property name="LightsVolume" value="4310.265" />
+    <property name="TotalVertices" value="436430" />
+    <property name="TotalTriangles" value="140465" />
     <property class="BlockEntities">
-      <property name="Vertices" value="185323" />
-      <property name="Triangles" value="72383" />
+      <property name="Vertices" value="406210" />
+      <property name="Triangles" value="119647" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="24788" />
@@ -88,9 +90,7 @@
       <property name="1" value="12, 8, 39" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="9, 3, 23" />
-      <property name="1" value="12, 3, 23" />
-      <property name="2" value="15, 3, 23" />
+      <property name="0" value="12, 3, 37" />
     </property>
     <property class="POILight">
       <property name="0" value="28, 7, 36" />

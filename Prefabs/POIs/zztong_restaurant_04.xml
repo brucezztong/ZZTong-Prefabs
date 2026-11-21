@@ -8,7 +8,7 @@
   <property name="ShowQuestClearCount" value="1" />
   <property name="TraderArea" value="False" />
   <property name="YOffset" value="-1" />
-  <property name="PrefabSize" value="42, 15, 42" />
+  <property name="PrefabSize" value="42, 13, 42" />
   <property name="RotationToFaceNorth" value="2" />
   <property name="SleeperVolumeSize" value="14, 4, 38#12, 4, 8#12, 5, 9#9, 6, 18" />
   <property name="SleeperVolumeStart" value="21, 1, 1#7, 1, 8#7, 1, 16#9, 5, 9" />
@@ -19,7 +19,7 @@
   <property name="SleeperVolumeFlags" value="4,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
   <property name="EditorGroups" value="rural" />
-  <property name="POIMarkerSize" value="1, 2, 1#3, 1, 1#13, 17, 6#2, 1, 1#3, 1, 1#3, 1, 1#1, 1, 1#3, 1, 1#3, 1, 7#7, 13, 2#7, 13, 2#7, 13, 3#7, 13, 3#5, 3, 5" />
+  <property name="POIMarkerSize" value="1, 2, 1#3, 1, 1#13, 15, 6#2, 1, 1#3, 1, 1#3, 1, 1#1, 1, 1#3, 1, 1#3, 1, 7#7, 13, 2#7, 13, 2#7, 13, 3#7, 13, 3#5, 3, 5" />
   <property name="POIMarkerStart" value="8, 1, 7#3, 1, 2#28, 1, 36#10, 1, 27#8, 1, 33#22, 1, 33#13, 1, 36#10, 7, 21#36, 1, 8#34, 0, -2#1, 0, -2#34, 0, -3#1, 0, -3#11, 7, 15" />
   <property name="POIMarkerGroup" value="atm,barrier,billboard,delivery,sandbags1,sandbags2,cart,spikes,delivtruck,drive1,drive2,drive3,drive4,new" />
   <property name="POIMarkerTags" value="#########countrytown#countrytown#rural#rural#" />
@@ -31,6 +31,7 @@
   <property name="DuplicateRepeatDistance" value="2000" />
   <property name="QuestTags" value="clear, fetch, infested" />
   <property name="Zoning" value="none" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood">
       <property name="0" value="40, 1, 38" />
@@ -53,8 +54,9 @@
       <property name="7" value="17, 3, 26" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="13, 1, 26" />
-      <property name="1" value="17, 1, 26" />
+      <property name="0" value="9, 1, 26" />
+      <property name="1" value="13, 1, 26" />
+      <property name="2" value="17, 1, 26" />
     </property>
     <property class="challenge_gore">
       <property name="0" value="13, 1, 24" />
@@ -85,15 +87,15 @@
   </property>
   <property class="Stats">
     <property name="LightsVolume" value="4335.398" />
-    <property name="TotalVertices" value="403649" />
-    <property name="TotalTriangles" value="114254" />
+    <property name="TotalVertices" value="400948" />
+    <property name="TotalTriangles" value="112380" />
     <property class="BlockEntities">
-      <property name="Vertices" value="379570" />
-      <property name="Triangles" value="95678" />
+      <property name="Vertices" value="378619" />
+      <property name="Triangles" value="95430" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19233" />
-      <property name="Triangles" value="11120" />
+      <property name="Vertices" value="17483" />
+      <property name="Triangles" value="9494" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

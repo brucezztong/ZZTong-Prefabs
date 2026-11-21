@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="1a4189ef-68af-4254-8e5e-9117fcd4614c" name="ZZTong Prefabs Noise" modified="2026-11-21 15:27:51Z" next_poly_id="2" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.9" rot="0" scale="0.15, 0.15" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="SCAVAGING LIST" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.2668119, -0.7410059" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Bullets. Always Bullets." direction="0" spacing="1" softness="0" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.04" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.61" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="Cans of Beans and Chili (Luv me the Chili)" direction="0" spacing="1" softness="0" dilate="-0.2">
+      <warp type="SkewWarp" amount="0, 0.1" rotation="0" />
+    </layer>
+    <layer name="Poly 02" type="PolygonSignLayer" pos="-0.4368386, 0.5702996" rot="0" scale="1.6, 0.01" color="#000000FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal">
+      <warp type="SkewWarp" amount="0, 3" rotation="0" />
+      <warp type="PerspectiveWarp" rotation="0, -71.19403, 0" strength="0.1" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.4900001" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="Dancing Script" text="NO MORE BEANS! (by order of Tina)" direction="0" spacing="1" softness="0" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.06" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="-0.1177107, 0.1884471" rot="0" scale="0.2, 0.2" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="Toilet Paper !!!" direction="0" spacing="1" softness="0" dilate="0.16">
+      <warp type="SkewWarp" amount="0.08, 1.490116E-09" rotation="0" />
+      <warp type="SkewWarp" amount="0.1791043, 0.04477608" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0.5310068, -0.5050128" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Duct Tape, Jars" direction="0" spacing="1" softness="0" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.1791043" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.12" rot="0" scale="0.2, 0.2" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Dry. Socks." direction="0" spacing="1" softness="0" dilate="0">
+      <warp type="SkewWarp" amount="0, -0.08955216" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0.60425, -0.3873018" rot="0" scale="0.1, 0.1" color="#000000FF" mode="ColorOnly" font="Permanent Marker" text="Batteries" direction="0" spacing="1" softness="0" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.1" rotation="0" />
+    </layer>
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0.09155355, -0.8555299" rot="0" scale="0.1, 0.1" color="#AAAAAAFF" mode="ColorOnly" font="Permanent Marker" text="Another dry" direction="0" spacing="1" softness="0" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.1" rotation="0" />
+    </layer>
+    <layer name="Text 01" type="TextSignLayer" pos="0.3792918, -0.894767" rot="0" scale="0.1, 0.1" color="#DDDDDDFF" mode="ColorOnly" font="Permanent Marker" text="erase marker" direction="0" spacing="1" softness="0" dilate="0">
+      <warp type="SkewWarp" amount="0, 0.1" rotation="0" />
+    </layer>
+  </sign>
+</signs>

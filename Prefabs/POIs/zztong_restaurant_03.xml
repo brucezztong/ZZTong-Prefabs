@@ -30,16 +30,18 @@
   <property name="POIMarkerPartRotations" value="2,0,0,2,1,0,0,2,1,0" />
   <property name="POIMarkerPartSpawnChance" value="1,0.5,0.5,0.5,0.5,0.2,0.2,0.5,0.2,0.2" />
   <property name="YOffset" value="-1" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="351777" />
-    <property name="TotalTriangles" value="138866" />
+    <property name="LightsVolume" value="4266.807" />
+    <property name="TotalVertices" value="367569" />
+    <property name="TotalTriangles" value="143233" />
     <property class="BlockEntities">
-      <property name="Vertices" value="314746" />
-      <property name="Triangles" value="114245" />
+      <property name="Vertices" value="331194" />
+      <property name="Triangles" value="119227" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="31857" />
-      <property name="Triangles" value="17001" />
+      <property name="Vertices" value="31201" />
+      <property name="Triangles" value="16386" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,7 +73,8 @@
     </property>
     <property class="TraderOnOff">
       <property name="0" value="26, 1, 21" />
-      <property name="1" value="26, 1, 25" />
+      <property name="1" value="33, 1, 24" />
+      <property name="2" value="26, 1, 25" />
     </property>
     <property class="POILight">
       <property name="0" value="24, 6, 21" />

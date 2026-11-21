@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <signs version="2">
-  <sign guid="2300f4d4-70d1-4111-a5a9-9a6039ac456e" name="New Sign" modified="2026-08-22 13:53:46Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+  <sign guid="2300f4d4-70d1-4111-a5a9-9a6039ac456e" name="New Sign" modified="2026-11-21 10:52:24Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
     <layer name="" type="PolygonSignLayer" pos="-0.007972956, 0.03337717" rot="0" scale="1.027437, 0.6475418" color="#473C2EFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
     <layer name="" type="GroupSignLayer" pos="-0.09937704, -0.3816888" rot="0" scale="1, 1.507342" color="#FFFFFFFF" mode="ColorOnly">
       <layer name="" type="PolygonSignLayer" pos="0.01356721, 0.3365679" rot="0" scale="1.138434, 0.0449671" color="#7C6C57FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
@@ -22,7 +22,7 @@
       <layer name="" type="TextSignLayer" pos="0.0003094189, -0.0007635951" rot="0" scale="0.17064, 0.1890748" color="#4C4943FF" mode="ColorOnly" font="Montserrat" text="RANGER STATION" direction="0" spacing="1" softness="0" dilate="0.5337314" />
       <layer name="" type="TextSignLayer" pos="-0.0003094189, 0.0007635951" rot="0" scale="0.17064, 0.1890748" color="#E9CA6CFF" mode="ColorOnly" font="Montserrat" text="RANGER STATION" direction="0" spacing="1" softness="0" dilate="0.1940298" />
     </layer>
-    <layer name="" type="TextSignLayer" pos="0.003803968, 0.329355" rot="0" scale="0.1706399, 0.1890748" color="#4C4943FF" mode="ColorOnly" font="Montserrat" text="BETA" direction="0" spacing="1" softness="0" dilate="0.5223881" />
+    <layer name="" type="TextSignLayer" pos="0.003803968, 0.329355" rot="0" scale="0.1706399, 0.1890748" color="#4C4943FF" mode="ColorOnly" font="Montserrat" text="ZETA" direction="0" spacing="1" softness="0" dilate="0.5223881" />
     <layer name="" type="TextSignLayer" pos="0.003803968, 0.329355" rot="0" scale="0.1706399, 0.1890748" color="#E9CA6CFF" mode="ColorOnly" font="Montserrat" text="ZETA" direction="0" spacing="1" softness="0" dilate="0.119403" />
     <layer name="" type="TextSignLayer" pos="0.01133585, 0.04265118" rot="0" scale="0.162108, 0.1796211" color="#4C4943FF" mode="ColorOnly" font="Montserrat" text="NAVEZGANE" direction="0" spacing="1" softness="0" dilate="0.4626865" />
     <layer name="" type="TextSignLayer" pos="0.01133585, 0.04265118" rot="0" scale="0.162108, 0.1796211" color="#E9CA6CFF" mode="ColorOnly" font="Montserrat" text="NAVEZGANE" direction="0" spacing="1" softness="0" dilate="0.119403" />

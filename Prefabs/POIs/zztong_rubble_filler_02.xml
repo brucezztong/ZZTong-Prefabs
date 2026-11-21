@@ -22,16 +22,17 @@
   <property name="EditorGroups" value="Wilderness" />
   <property name="Tags" value="wilderness" />
   <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
     <property name="LightsVolume" value="669.3494" />
-    <property name="TotalVertices" value="121871" />
-    <property name="TotalTriangles" value="55735" />
+    <property name="TotalVertices" value="123439" />
+    <property name="TotalTriangles" value="56137" />
     <property class="BlockEntities">
-      <property name="Vertices" value="109683" />
-      <property name="Triangles" value="44891" />
+      <property name="Vertices" value="111243" />
+      <property name="Triangles" value="45293" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="9100" />
+      <property name="Vertices" value="9108" />
       <property name="Triangles" value="5420" />
     </property>
     <property class="ChunkMeshes1">

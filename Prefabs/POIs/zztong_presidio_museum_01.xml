@@ -32,6 +32,7 @@
   <property name="POIMarkerPartRotations" value="0,0,0,0,2" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.2,0.6,0.5,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood">
       <property name="0" value="13, 3, 37" />
@@ -49,14 +50,16 @@
     </property>
     <property class="POILight">
       <property name="0" value="14, 5, 7" />
+      <property name="1" value="10, 4, 8" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="35, 7, 21" />
       <property name="1" value="22, 3, 23" />
-      <property name="2" value="22, 3, 28" />
-      <property name="3" value="33, 3, 28" />
-      <property name="4" value="22, 3, 33" />
-      <property name="5" value="33, 3, 33" />
+      <property name="2" value="33, 3, 23" />
+      <property name="3" value="22, 3, 28" />
+      <property name="4" value="33, 3, 28" />
+      <property name="5" value="22, 3, 33" />
+      <property name="6" value="33, 3, 33" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="9, 3, 8" />
@@ -89,15 +92,15 @@
   </property>
   <property class="Stats">
     <property name="LightsVolume" value="4192.979" />
-    <property name="TotalVertices" value="387239" />
-    <property name="TotalTriangles" value="139517" />
+    <property name="TotalVertices" value="385262" />
+    <property name="TotalTriangles" value="138312" />
     <property class="BlockEntities">
-      <property name="Vertices" value="353558" />
-      <property name="Triangles" value="115904" />
+      <property name="Vertices" value="352319" />
+      <property name="Triangles" value="115397" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="28181" />
-      <property name="Triangles" value="15067" />
+      <property name="Vertices" value="27443" />
+      <property name="Triangles" value="14369" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

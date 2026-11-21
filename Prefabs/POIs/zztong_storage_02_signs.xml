@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="0cb1ec02-ded5-4e16-975b-ba25a331f7cf" name="ZZTong Prefabs Noise" modified="2026-11-21 17:44:48Z" next_poly_id="0" next_text_id="0" next_noise_id="0" next_group_id="0">
+    <layer name="" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2222222" color="#93281EFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Group 17" type="GroupSignLayer" pos="-0.5990206, 0.075" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="PolygonSignLayer" pos="-0.2332596, -0.000341773" rot="0" scale="0.09706004, 0.1075458" color="#E0B12AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="TextSignLayer" pos="-0.2327924, 0.0003418028" rot="0" scale="0.2443519, 0.2443519" color="#2A2A2AFF" mode="ColorOnly" font="LiberationSans" text="U" direction="0" spacing="1" softness="0" dilate="0.3635821" />
+      <layer name="Group 16" type="GroupSignLayer" pos="0.2332595, 0.0003418028" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2443519, 0.2443519" color="#D7D7D7FF" mode="ColorOnly" font="LiberationSans" text="MOVE" direction="0" spacing="1" softness="0" dilate="0.5373135" />
+        <layer name="" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2443519, 0.2443519" color="#2A2A2AFF" mode="ColorOnly" font="LiberationSans" text="MOVE" direction="0" spacing="1" softness="0" dilate="0.2835821" />
+      </layer>
+    </layer>
+    <layer name="Group 03" type="GroupSignLayer" pos="0.5182457, 0" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="TextSignLayer" pos="-0.002050519, 0.14" rot="-7.450581E-08" scale="0.15, 0.15" color="#505050FF" mode="ColorOnly" font="Montserrat" text="U RENT" direction="0" spacing="1" softness="0" dilate="0.6268656" />
+      <layer name="" type="TextSignLayer" pos="-0.002050519, 0.14" rot="-7.450581E-08" scale="0.15, 0.15" color="#ECECECFF" mode="ColorOnly" font="Montserrat" text="U RENT" direction="0" spacing="1" softness="0" dilate="0.3134328" />
+      <layer name="" type="TextSignLayer" pos="0.01564747, 0" rot="-7.450581E-08" scale="0.15, 0.15" color="#505050FF" mode="ColorOnly" font="Montserrat" text="U LOAD" direction="0" spacing="1" softness="0" dilate="0.621791" />
+      <layer name="" type="TextSignLayer" pos="0.01564747, 0" rot="-7.450581E-08" scale="0.15, 0.15" color="#ECECECFF" mode="ColorOnly" font="Montserrat" text="U LOAD" direction="0" spacing="1" softness="0" dilate="0.2985075" />
+      <layer name="" type="TextSignLayer" pos="-0.01564753, -0.14" rot="-7.450581E-08" scale="0.15, 0.15" color="#505050FF" mode="ColorOnly" font="Montserrat" text="U TOW" direction="0" spacing="1" softness="0" dilate="0.621791" />
+      <layer name="" type="TextSignLayer" pos="-0.01564753, -0.14" rot="-7.450581E-08" scale="0.15, 0.15" color="#ECECECFF" mode="ColorOnly" font="Montserrat" text="U TOW" direction="0" spacing="1" softness="0" dilate="0.3134328" />
+    </layer>
+    <layer name="" type="TextSignLayer" pos="-0.4837487, -0.15" rot="0" scale="0.1191643, 0.1191643" color="#EFEFEFFF" mode="ColorOnly" font="Montserrat" text="1-888-555-1365" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Group 21" type="GroupSignLayer" pos="-1.00996, 0.6906924" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+      <layer name="" type="NoiseSignLayer" pos="1.00996, -0.6906924" rot="0" scale="0.132038, 0.132038" color="#00000033" mode="ColorOnly" seed="0" detail="4" softness="0.2466241" dilate="-0.119403" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="1.054206, -0.6228496" rot="30" scale="0.1796212, 0.1796212" color="#2E2E2E18" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="-0.119403" fade="0" />
+      <layer name="" type="NoiseSignLayer" pos="1.086652, -0.6611955" rot="-25" scale="0.3499056, 0.3499056" color="#2E2E2E12" mode="ColorOnly" seed="0" detail="4" softness="0" dilate="0.1044776" fade="0" />
+      <layer name="" type="PolygonSignLayer" pos="1.00996, -0.6906924" rot="0" scale="1.027437, 0.5551856" color="#7474741E" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+      <layer name="" type="NoiseSignLayer" pos="1.027658, -0.6552962" rot="7.450581E-08" scale="0.02834046, 2.106808" color="#2E2E2E68" mode="ColorOnly" seed="0" detail="4" softness="0.09701493" dilate="-0.2537314" fade="0" />
+      <layer name="Group 20" type="GroupSignLayer" pos="-1.086652, 0.6906924" rot="0" scale="1, 1" color="#FFFFFFFF" mode="ColorOnly">
+        <layer name="Noise 01" type="NoiseSignLayer" pos="-0.001120329, 0.001790524" rot="15" scale="0.2443519, 0.2443519" color="#1A1A1A35" mode="ColorOnly" seed="0" detail="6" softness="0.1940299" dilate="-0.2835821" fade="0" />
+        <layer name="Noise 01" type="NoiseSignLayer" pos="-0.001120329, 0.001790524" rot="15" scale="0.2443519, 0.2443519" color="#474747FF" mode="ColorAndMask" seed="0" detail="6" softness="0" dilate="-0.2835821" fade="0" />
+        <layer name="Noise 01" type="NoiseSignLayer" pos="0.001120567, -0.001790404" rot="15" scale="0.2443519, 0.2443519" color="#B3B3B3FF" mode="ColorAndMask" seed="0" detail="6" softness="0.02" dilate="-0.2835821" fade="0" />
+        <layer name="Noise 01" type="NoiseSignLayer" pos="8.869171E-05, -0.0002254248" rot="15" scale="0.03140217, 0.03140217" color="#A9A9A9FF" mode="ColorOnly" seed="0" detail="6" softness="0.1940299" dilate="-0.02985072" fade="0" />
+      </layer>
+    </layer>
+  </sign>
+</signs>

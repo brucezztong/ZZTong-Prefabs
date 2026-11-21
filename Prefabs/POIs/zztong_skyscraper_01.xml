@@ -31,16 +31,18 @@
   <property name="POIMarkerPartRotations" value="0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.4,0.2" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="1720768" />
-    <property name="TotalTriangles" value="728612" />
+    <property name="LightsVolume" value="6879.041" />
+    <property name="TotalVertices" value="1995758" />
+    <property name="TotalTriangles" value="864327" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1445297" />
-      <property name="Triangles" value="560663" />
+      <property name="Vertices" value="1718349" />
+      <property name="Triangles" value="696556" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="267245" />
-      <property name="Triangles" value="157545" />
+      <property name="Vertices" value="269183" />
+      <property name="Triangles" value="157367" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,11 +69,14 @@
     <property class="challenge_mech_parts">
       <property name="0" value="37, 10, 7" />
     </property>
+    <property class="TraderOnOff">
+      <property name="0" value="37, 3, 20" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="39, 3, 19" />
     </property>
     <property class="POILight">
-      <property name="0" value="33, 11, 37" />
+      <property name="0" value="38, 11, 7" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="24, 38, 22" />
@@ -140,15 +145,6 @@
       <property name="33" value="32, 22, 31" />
       <property name="34" value="27, 22, 32" />
       <property name="35" value="31, 22, 32" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="32, 26, 23" />
-      <property name="1" value="32, 30, 23" />
-      <property name="2" value="26, 34, 24" />
-      <property name="3" value="21, 26, 26" />
-      <property name="4" value="27, 22, 26" />
-      <property name="5" value="26, 3, 28" />
-      <property name="6" value="26, 22, 29" />
     </property>
     <property class="Rally">
       <property name="0" value="22, 3, 1" />

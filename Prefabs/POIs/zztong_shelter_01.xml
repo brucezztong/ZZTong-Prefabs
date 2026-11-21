@@ -20,7 +20,7 @@
   <property name="SleeperVolumeGroupId" value="0,0,0,0,0,0,0,0,0,0,0" />
   <property name="ShowQuestClearCount" value="2" />
   <property name="Tags" value="commercial" />
-  <property name="POIMarkerSize" value="8, 16, 7#4, 7, 10#4, 3, 9" />
+  <property name="POIMarkerSize" value="8, 16, 7#4, 6, 10#4, 3, 9" />
   <property name="POIMarkerStart" value="44, 15, 36#10, 16, 40#16, 21, 12" />
   <property name="POIMarkerGroup" value="tower,billboard,hvac" />
   <property name="POIMarkerTags" value="##" />
@@ -31,6 +31,7 @@
   <property name="YOffset" value="-6" />
   <property name="PrefabSize" value="60, 25, 60" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="quest_wood_trees">
       <property name="0" value="58, 6, 48" />
@@ -52,7 +53,9 @@
       <property name="0" value="6, 6, 21" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="53, 15, 30" />
+      <property name="0" value="53, 3, 30" />
+      <property name="1" value="53, 9, 30" />
+      <property name="2" value="53, 15, 30" />
     </property>
     <property class="quest_feather">
       <property name="0" value="53, 16, 33" />
@@ -99,15 +102,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="1208022" />
-    <property name="TotalTriangles" value="508761" />
+    <property name="LightsVolume" value="7170.352" />
+    <property name="TotalVertices" value="1509662" />
+    <property name="TotalTriangles" value="563296" />
     <property class="BlockEntities">
-      <property name="Vertices" value="1055948" />
-      <property name="Triangles" value="413058" />
+      <property name="Vertices" value="1357548" />
+      <property name="Triangles" value="467857" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="139798" />
-      <property name="Triangles" value="75727" />
+      <property name="Vertices" value="139838" />
+      <property name="Triangles" value="75463" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

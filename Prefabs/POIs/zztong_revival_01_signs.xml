@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="be1a8895-73c8-473d-9479-06f169341aa1" name="Revival" modified="2026-11-21 14:36:05Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.13" rot="0" scale="0.22, 0.22" color="#202020FF" mode="ColorOnly" font="Sedwick Ave Display" text="Jebediah Zaleski's" direction="0" spacing="1.05" softness="0" dilate="0.2" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.13" rot="0" scale="0.18, 0.18" color="#202020FF" mode="ColorOnly" font="Sedwick Ave Display" text="Judgement Day Revival" direction="0" spacing="1.05" softness="0" dilate="0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.2798917, -5.807082" rot="0" scale="0.33241, 0.33241" color="#888888FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.061565, -3.379616" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="d4fef3a1-8b9c-438e-885f-56a63ee2d04e" name="Repent" modified="2026-11-21 14:37:48Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.01" rot="0" scale="0.3, 0.2" color="#000000FF" mode="ColorOnly" font="Sedwick Ave Display" text="Repent or Die" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#888888FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

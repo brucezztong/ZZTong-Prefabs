@@ -29,6 +29,7 @@
   <property name="POIMarkerPartToSpawn" value="part_driveway_rural_12" />
   <property name="POIMarkerPartRotations" value="2" />
   <property name="POIMarkerPartSpawnChance" value="1" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="POILight">
       <property name="0" value="12, 9, 14" />
@@ -46,25 +47,26 @@
       <property name="0" value="7, 3, 14" />
       <property name="1" value="7, 3, 17" />
     </property>
-    <property class="challenge_sinks">
-      <property name="0" value="19, 3, 14" />
-      <property name="1" value="16, 4, 19" />
-    </property>
     <property class="TraderOnOff">
       <property name="0" value="19, 3, 16" />
       <property name="1" value="12, 3, 19" />
     </property>
+    <property class="challenge_sinks">
+      <property name="0" value="19, 3, 14" />
+      <property name="1" value="16, 4, 19" />
+    </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="131527" />
-    <property name="TotalTriangles" value="54750" />
+    <property name="LightsVolume" value="1436.755" />
+    <property name="TotalVertices" value="148790" />
+    <property name="TotalTriangles" value="59767" />
     <property class="BlockEntities">
-      <property name="Vertices" value="110711" />
-      <property name="Triangles" value="41026" />
+      <property name="Vertices" value="127622" />
+      <property name="Triangles" value="46067" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="19044" />
-      <property name="Triangles" value="10628" />
+      <property name="Vertices" value="19396" />
+      <property name="Triangles" value="10604" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
