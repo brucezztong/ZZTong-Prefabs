@@ -29,16 +29,18 @@
   <property name="POIMarkerPartRotations" value="0,2,3,0,1,0,2" />
   <property name="POIMarkerPartSpawnChance" value="0.6,1,0.6,0.8,0.4,0.4,1" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="221804" />
-    <property name="TotalTriangles" value="90300" />
+    <property name="LightsVolume" value="4201.357" />
+    <property name="TotalVertices" value="240753" />
+    <property name="TotalTriangles" value="95825" />
     <property class="BlockEntities">
-      <property name="Vertices" value="183936" />
-      <property name="Triangles" value="67191" />
+      <property name="Vertices" value="203261" />
+      <property name="Triangles" value="73170" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="35034" />
-      <property name="Triangles" value="19231" />
+      <property name="Vertices" value="34658" />
+      <property name="Triangles" value="18777" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -73,9 +75,16 @@
       <property name="0" value="12, 6, 12" />
       <property name="1" value="14, 6, 12" />
       <property name="2" value="14, 13, 14" />
-      <property name="3" value="16, 5, 17" />
-      <property name="4" value="18, 5, 17" />
-      <property name="5" value="18, 11, 17" />
+      <property name="3" value="16, 4, 15" />
+      <property name="4" value="16, 5, 17" />
+      <property name="5" value="18, 5, 17" />
+      <property name="6" value="18, 11, 17" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="17, 3, 17" />
+      <property name="1" value="17, 9, 17" />
+      <property name="2" value="12, 3, 18" />
+      <property name="3" value="16, 9, 18" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="16, 3, 16" />
@@ -86,11 +95,6 @@
       <property name="2" value="12, 9, 20" />
       <property name="3" value="13, 3, 20" />
       <property name="4" value="13, 9, 20" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="17, 9, 17" />
-      <property name="1" value="12, 3, 18" />
-      <property name="2" value="16, 9, 18" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="12, 11, 12" />

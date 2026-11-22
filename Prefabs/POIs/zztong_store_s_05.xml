@@ -30,26 +30,31 @@
   <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_greeble_rooftop_05,part_zztong_barrier6_white,part_zztong_delivery_01,part_zztong_dumpster_01,part_zztong_ladder_wood_01,part_zztong_pallets_cement_01,part_zztong_shelf_wooden_01,,," />
   <property name="POIMarkerPartRotations" value="0,0,0,0,0,0,0,0,1,2,0" />
   <property name="POIMarkerPartSpawnChance" value="0.8,0.5,0.2,0.5,0.5,0.5,0.5,0.5,1,1,1" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="challenge_polymers">
       <property name="0" value="37, 14, 5" />
     </property>
     <property class="POILight">
       <property name="0" value="11, 16, 21" />
-      <property name="1" value="5, 21, 22" />
-      <property name="2" value="5, 12, 23" />
-      <property name="3" value="13, 17, 23" />
-      <property name="4" value="14, 12, 23" />
-      <property name="5" value="13, 22, 25" />
-      <property name="6" value="5, 12, 26" />
-      <property name="7" value="6, 17, 26" />
-      <property name="8" value="6, 22, 26" />
-      <property name="9" value="13, 17, 26" />
-      <property name="10" value="14, 12, 26" />
-      <property name="11" value="15, 19, 27" />
-      <property name="12" value="7, 20, 28" />
-      <property name="13" value="11, 19, 28" />
-      <property name="14" value="13, 16, 28" />
+      <property name="1" value="14, 20, 21" />
+      <property name="2" value="5, 21, 22" />
+      <property name="3" value="5, 12, 23" />
+      <property name="4" value="13, 17, 23" />
+      <property name="5" value="14, 12, 23" />
+      <property name="6" value="13, 22, 25" />
+      <property name="7" value="5, 12, 26" />
+      <property name="8" value="6, 17, 26" />
+      <property name="9" value="6, 22, 26" />
+      <property name="10" value="13, 17, 26" />
+      <property name="11" value="14, 12, 26" />
+      <property name="12" value="5, 15, 27" />
+      <property name="13" value="14, 15, 27" />
+      <property name="14" value="15, 19, 27" />
+      <property name="15" value="7, 20, 28" />
+      <property name="16" value="8, 20, 28" />
+      <property name="17" value="11, 19, 28" />
+      <property name="18" value="13, 16, 28" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="39, 14, 14" />
@@ -57,7 +62,7 @@
       <property name="2" value="39, 14, 15" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="38, 14, 13" />
+      <property name="0" value="37, 14, 29" />
     </property>
     <property class="quest_wood">
       <property name="0" value="11, 1, 1" />
@@ -90,22 +95,23 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="613196" />
-    <property name="TotalTriangles" value="252332" />
+    <property name="LightsVolume" value="4205.546" />
+    <property name="TotalVertices" value="713369" />
+    <property name="TotalTriangles" value="275619" />
     <property class="BlockEntities">
-      <property name="Vertices" value="522414" />
-      <property name="Triangles" value="191369" />
+      <property name="Vertices" value="622888" />
+      <property name="Triangles" value="214956" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="79528" />
-      <property name="Triangles" value="44293" />
+      <property name="Vertices" value="79201" />
+      <property name="Triangles" value="43973" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes2">
-      <property name="Vertices" value="1186" />
+      <property name="Vertices" value="1198" />
       <property name="Triangles" value="842" />
     </property>
     <property class="ChunkMeshes3">
@@ -117,8 +123,8 @@
       <property name="Triangles" value="0" />
     </property>
     <property class="ChunkMeshes5">
-      <property name="Vertices" value="9636" />
-      <property name="Triangles" value="15612" />
+      <property name="Vertices" value="9650" />
+      <property name="Triangles" value="15632" />
     </property>
   </property>
 </prefab>

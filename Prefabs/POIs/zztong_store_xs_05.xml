@@ -30,16 +30,18 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.6,0.4" />
   <property name="PrefabSize" value="25, 12, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="259279" />
-    <property name="TotalTriangles" value="98187" />
+    <property name="LightsVolume" value="4201.357" />
+    <property name="TotalVertices" value="334985" />
+    <property name="TotalTriangles" value="129310" />
     <property class="BlockEntities">
-      <property name="Vertices" value="232645" />
-      <property name="Triangles" value="80987" />
+      <property name="Vertices" value="310637" />
+      <property name="Triangles" value="114320" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="24686" />
-      <property name="Triangles" value="13912" />
+      <property name="Vertices" value="22400" />
+      <property name="Triangles" value="11702" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -69,10 +71,11 @@
       <property name="2" value="16, 7, 15" />
       <property name="3" value="19, 5, 15" />
       <property name="4" value="19, 9, 18" />
-      <property name="5" value="14, 5, 19" />
-      <property name="6" value="19, 5, 19" />
-      <property name="7" value="15, 8, 20" />
-      <property name="8" value="20, 7, 20" />
+      <property name="5" value="21, 8, 18" />
+      <property name="6" value="14, 5, 19" />
+      <property name="7" value="19, 5, 19" />
+      <property name="8" value="15, 8, 20" />
+      <property name="9" value="20, 7, 20" />
     </property>
     <property class="Rally">
       <property name="0" value="2, 3, 2" />

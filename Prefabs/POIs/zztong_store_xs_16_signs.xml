@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="f9eccc6b-67f8-4985-a988-3e6f6cdfd83b" name="Julio's" modified="2026-11-22 14:45:53Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2857143" color="#3F3A3AFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="Sedwick Ave Display" text="Julio's" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.1" rot="0" scale="0.3, 0.3" color="#242424FF" mode="ColorOnly" font="Sedwick Ave Display" text="Julio's" direction="0" spacing="1" softness="0" dilate="-0.3" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.14" rot="0" scale="0.3, 0.25" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="Bar &amp; Grill" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.14" rot="0" scale="0.3, 0.25" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Bar &amp; Grill" direction="0" spacing="1" softness="0" dilate="-0.2" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.442713, 2.522457" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>

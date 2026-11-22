@@ -28,18 +28,20 @@
   <property name="POIMarkerPartToSpawn" value="part_greeble_rooftop_03,part_driveway_countrytown_02" />
   <property name="POIMarkerPartRotations" value="0,2" />
   <property name="POIMarkerPartSpawnChance" value="0.6,1" />
-  <property name="PrefabSize" value="25, 16, 25" />
+  <property name="PrefabSize" value="25, 13, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="208156" />
-    <property name="TotalTriangles" value="71863" />
+    <property name="LightsVolume" value="4314.455" />
+    <property name="TotalVertices" value="217860" />
+    <property name="TotalTriangles" value="74168" />
     <property class="BlockEntities">
-      <property name="Vertices" value="189805" />
-      <property name="Triangles" value="59492" />
+      <property name="Vertices" value="200122" />
+      <property name="Triangles" value="62401" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="15999" />
-      <property name="Triangles" value="8863" />
+      <property name="Vertices" value="15386" />
+      <property name="Triangles" value="8259" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -63,12 +65,18 @@
     </property>
   </property>
   <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="16, 3, 17" />
+      <property name="1" value="20, 3, 17" />
+      <property name="2" value="19, 7, 18" />
+    </property>
     <property class="POILight">
       <property name="0" value="12, 5, 13" />
       <property name="1" value="14, 4, 13" />
       <property name="2" value="18, 5, 13" />
       <property name="3" value="19, 4, 14" />
       <property name="4" value="12, 5, 19" />
+      <property name="5" value="19, 4, 20" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="20, 3, 13" />
@@ -76,11 +84,6 @@
     </property>
     <property class="challenge_polymers">
       <property name="0" value="23, 3, 23" />
-    </property>
-    <property class="TraderOnOff">
-      <property name="0" value="16, 3, 17" />
-      <property name="1" value="20, 3, 17" />
-      <property name="2" value="19, 7, 18" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="20, 3, 21" />

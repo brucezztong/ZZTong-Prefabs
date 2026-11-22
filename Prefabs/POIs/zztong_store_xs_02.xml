@@ -30,16 +30,18 @@
   <property name="POIMarkerPartSpawnChance" value="1" />
   <property name="PrefabSize" value="25, 13, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="307613" />
-    <property name="TotalTriangles" value="111317" />
+    <property name="LightsVolume" value="4898.268" />
+    <property name="TotalVertices" value="301214" />
+    <property name="TotalTriangles" value="107979" />
     <property class="BlockEntities">
-      <property name="Vertices" value="268786" />
-      <property name="Triangles" value="88242" />
+      <property name="Vertices" value="263217" />
+      <property name="Triangles" value="85715" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="36233" />
-      <property name="Triangles" value="19213" />
+      <property name="Vertices" value="35403" />
+      <property name="Triangles" value="18402" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -81,20 +83,29 @@
       <property name="1" value="19, 7, 14" />
       <property name="2" value="20, 8, 14" />
       <property name="3" value="17, 3, 18" />
+      <property name="4" value="19, 3, 21" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="18, 3, 14" />
     </property>
     <property class="POILight">
       <property name="0" value="14, 5, 12" />
-      <property name="1" value="19, 9, 14" />
-      <property name="2" value="19, 9, 16" />
-      <property name="3" value="19, 5, 17" />
-      <property name="4" value="14, 5, 18" />
-      <property name="5" value="14, 9, 18" />
-      <property name="6" value="18, 9, 18" />
-      <property name="7" value="19, 5, 20" />
-      <property name="8" value="19, 5, 22" />
+      <property name="1" value="13, 8, 14" />
+      <property name="2" value="19, 9, 14" />
+      <property name="3" value="16, 8, 16" />
+      <property name="4" value="18, 9, 16" />
+      <property name="5" value="19, 9, 16" />
+      <property name="6" value="19, 5, 17" />
+      <property name="7" value="14, 5, 18" />
+      <property name="8" value="14, 9, 18" />
+      <property name="9" value="18, 9, 18" />
+      <property name="10" value="12, 8, 20" />
+      <property name="11" value="13, 4, 20" />
+      <property name="12" value="14, 4, 20" />
+      <property name="13" value="15, 4, 20" />
+      <property name="14" value="15, 8, 20" />
+      <property name="15" value="19, 5, 20" />
+      <property name="16" value="19, 5, 22" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="19, 7, 15" />

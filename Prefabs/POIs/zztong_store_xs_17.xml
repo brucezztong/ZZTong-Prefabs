@@ -30,16 +30,18 @@
   <property name="POIMarkerPartToSpawn" value="part_zztong_camper_01,part_zztong_delivery_04,part_zztong_vending_01,part_driveway_rural_17" />
   <property name="POIMarkerPartRotations" value="0,0,1,2" />
   <property name="POIMarkerPartSpawnChance" value="0.1,0.5,0.2,1" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="308143" />
-    <property name="TotalTriangles" value="104534" />
+    <property name="LightsVolume" value="5616.593" />
+    <property name="TotalVertices" value="351399" />
+    <property name="TotalTriangles" value="118502" />
     <property class="BlockEntities">
-      <property name="Vertices" value="277057" />
-      <property name="Triangles" value="85920" />
+      <property name="Vertices" value="321611" />
+      <property name="Triangles" value="101164" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="29090" />
-      <property name="Triangles" value="15406" />
+      <property name="Vertices" value="27792" />
+      <property name="Triangles" value="14130" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -67,6 +69,8 @@
       <property name="0" value="17, 9, 15" />
       <property name="1" value="17, 4, 16" />
       <property name="2" value="17, 9, 18" />
+      <property name="3" value="15, 4, 21" />
+      <property name="4" value="15, 4, 22" />
     </property>
     <property class="challenge_sinks">
       <property name="0" value="18, 4, 14" />
@@ -87,7 +91,8 @@
       <property name="4" value="14, 7, 16" />
       <property name="5" value="14, 15, 16" />
       <property name="6" value="16, 13, 17" />
-      <property name="7" value="15, 6, 22" />
+      <property name="7" value="19, 5, 18" />
+      <property name="8" value="15, 6, 22" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="19, 4, 17" />
@@ -95,13 +100,13 @@
     <property class="FetchContainer">
       <property name="0" value="6, 10, 15" />
     </property>
+    <property class="Rally">
+      <property name="0" value="17, 3, 3" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="13, 9, 12" />
       <property name="1" value="21, 4, 18" />
       <property name="2" value="17, 3, 22" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="17, 3, 3" />
     </property>
   </property>
 </prefab>

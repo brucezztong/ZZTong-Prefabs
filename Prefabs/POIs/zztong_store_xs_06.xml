@@ -30,16 +30,18 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.2" />
   <property name="PrefabSize" value="25, 17, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="283374" />
-    <property name="TotalTriangles" value="119282" />
+    <property name="LightsVolume" value="6350.206" />
+    <property name="TotalVertices" value="294480" />
+    <property name="TotalTriangles" value="121227" />
     <property class="BlockEntities">
-      <property name="Vertices" value="247070" />
-      <property name="Triangles" value="96950" />
+      <property name="Vertices" value="260102" />
+      <property name="Triangles" value="100801" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="34224" />
-      <property name="Triangles" value="18996" />
+      <property name="Vertices" value="32298" />
+      <property name="Triangles" value="17090" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -68,17 +70,19 @@
     </property>
     <property class="POILight">
       <property name="0" value="18, 13, 13" />
-      <property name="1" value="13, 13, 15" />
-      <property name="2" value="17, 5, 15" />
-      <property name="3" value="14, 5, 16" />
-      <property name="4" value="21, 7, 16" />
-      <property name="5" value="17, 5, 18" />
-      <property name="6" value="20, 5, 18" />
-      <property name="7" value="13, 9, 19" />
-      <property name="8" value="15, 13, 19" />
-      <property name="9" value="17, 5, 19" />
-      <property name="10" value="17, 9, 19" />
-      <property name="11" value="17, 5, 21" />
+      <property name="1" value="21, 12, 14" />
+      <property name="2" value="13, 13, 15" />
+      <property name="3" value="17, 5, 15" />
+      <property name="4" value="14, 5, 16" />
+      <property name="5" value="21, 7, 16" />
+      <property name="6" value="16, 4, 18" />
+      <property name="7" value="17, 5, 18" />
+      <property name="8" value="20, 5, 18" />
+      <property name="9" value="13, 9, 19" />
+      <property name="10" value="15, 13, 19" />
+      <property name="11" value="17, 5, 19" />
+      <property name="12" value="17, 9, 19" />
+      <property name="13" value="17, 5, 21" />
     </property>
     <property class="challenge_cars">
       <property name="0" value="4, 3, 7" />
@@ -104,6 +108,7 @@
       <property name="5" value="15, 11, 18" />
       <property name="6" value="17, 7, 18" />
       <property name="7" value="21, 15, 19" />
+      <property name="8" value="17, 3, 20" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="21, 12, 12" />

@@ -30,16 +30,18 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.8,0.2" />
   <property name="PrefabSize" value="25, 16, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="365502" />
-    <property name="TotalTriangles" value="126066" />
+    <property name="LightsVolume" value="4243.245" />
+    <property name="TotalVertices" value="398125" />
+    <property name="TotalTriangles" value="136884" />
     <property class="BlockEntities">
-      <property name="Vertices" value="336962" />
-      <property name="Triangles" value="107377" />
+      <property name="Vertices" value="370299" />
+      <property name="Triangles" value="118887" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="25732" />
-      <property name="Triangles" value="14017" />
+      <property name="Vertices" value="25018" />
+      <property name="Triangles" value="13325" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -73,18 +75,24 @@
       <property name="3" value="16, 6, 16" />
       <property name="4" value="12, 10, 17" />
       <property name="5" value="19, 2, 19" />
+      <property name="6" value="20, 6, 22" />
     </property>
     <property class="POILight">
-      <property name="0" value="15, 11, 16" />
-      <property name="1" value="16, 4, 17" />
-      <property name="2" value="14, 7, 19" />
-      <property name="3" value="16, 8, 19" />
-      <property name="4" value="17, 8, 19" />
-      <property name="5" value="20, 4, 19" />
-      <property name="6" value="16, 4, 20" />
-      <property name="7" value="15, 7, 21" />
-      <property name="8" value="20, 8, 21" />
-      <property name="9" value="20, 8, 23" />
+      <property name="0" value="15, 11, 14" />
+      <property name="1" value="15, 11, 16" />
+      <property name="2" value="16, 4, 17" />
+      <property name="3" value="18, 3, 17" />
+      <property name="4" value="14, 3, 19" />
+      <property name="5" value="14, 7, 19" />
+      <property name="6" value="16, 8, 19" />
+      <property name="7" value="17, 8, 19" />
+      <property name="8" value="20, 4, 19" />
+      <property name="9" value="16, 4, 20" />
+      <property name="10" value="15, 7, 21" />
+      <property name="11" value="17, 7, 21" />
+      <property name="12" value="20, 8, 21" />
+      <property name="13" value="21, 7, 21" />
+      <property name="14" value="20, 8, 23" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="15, 11, 15" />

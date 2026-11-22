@@ -29,16 +29,18 @@
   <property name="YOffset" value="-3" />
   <property name="Tags" value="countrytown, diagonal" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="628039" />
-    <property name="TotalTriangles" value="248844" />
+    <property name="LightsVolume" value="6353.293" />
+    <property name="TotalVertices" value="661764" />
+    <property name="TotalTriangles" value="267948" />
     <property class="BlockEntities">
-      <property name="Vertices" value="536610" />
-      <property name="Triangles" value="188625" />
+      <property name="Vertices" value="571178" />
+      <property name="Triangles" value="208565" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="85399" />
-      <property name="Triangles" value="51691" />
+      <property name="Vertices" value="84556" />
+      <property name="Triangles" value="50855" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,6 +73,9 @@
     <property class="challenge_cars">
       <property name="0" value="10, 3, 37" />
     </property>
+    <property class="Rally">
+      <property name="0" value="5, 3, 22" />
+    </property>
     <property class="TraderOnOff">
       <property name="0" value="37, 3, 26" />
     </property>
@@ -78,9 +83,6 @@
       <property name="0" value="38, 8, 26" />
       <property name="1" value="38, 14, 28" />
       <property name="2" value="37, 14, 35" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="5, 3, 22" />
     </property>
     <property class="challenge_steel">
       <property name="0" value="18, 3, 39" />

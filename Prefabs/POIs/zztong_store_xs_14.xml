@@ -30,16 +30,18 @@
   <property name="SleeperVolumeFlags" value="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # # # # # # # # # " />
   <property name="EditorGroups" value="commercial" />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="492170" />
-    <property name="TotalTriangles" value="190732" />
+    <property name="LightsVolume" value="4197.168" />
+    <property name="TotalVertices" value="539165" />
+    <property name="TotalTriangles" value="203123" />
     <property class="BlockEntities">
-      <property name="Vertices" value="426606" />
-      <property name="Triangles" value="151606" />
+      <property name="Vertices" value="474533" />
+      <property name="Triangles" value="164821" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="61840" />
-      <property name="Triangles" value="33250" />
+      <property name="Vertices" value="60908" />
+      <property name="Triangles" value="32426" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -71,14 +73,17 @@
     </property>
     <property class="POILight">
       <property name="0" value="17, 22, 13" />
-      <property name="1" value="14, 6, 14" />
-      <property name="2" value="17, 16, 14" />
-      <property name="3" value="19, 6, 14" />
-      <property name="4" value="17, 10, 16" />
-      <property name="5" value="16, 6, 19" />
-      <property name="6" value="17, 22, 19" />
-      <property name="7" value="17, 15, 20" />
-      <property name="8" value="17, 16, 20" />
+      <property name="1" value="18, 21, 13" />
+      <property name="2" value="20, 15, 13" />
+      <property name="3" value="14, 6, 14" />
+      <property name="4" value="17, 16, 14" />
+      <property name="5" value="19, 6, 14" />
+      <property name="6" value="17, 10, 16" />
+      <property name="7" value="13, 21, 19" />
+      <property name="8" value="16, 6, 19" />
+      <property name="9" value="17, 22, 19" />
+      <property name="10" value="17, 15, 20" />
+      <property name="11" value="17, 16, 20" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="12, 8, 14" />
@@ -86,6 +91,7 @@
       <property name="2" value="12, 20, 14" />
       <property name="3" value="14, 2, 17" />
       <property name="4" value="17, 14, 17" />
+      <property name="5" value="14, 8, 22" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="17, 20, 12" />

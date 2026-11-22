@@ -31,13 +31,14 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.4" />
   <property name="PrefabSize" value="25, 23, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # # # # # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
+    <property class="Rally">
+      <property name="0" value="3, 5, 1" />
+    </property>
     <property class="challenge_polymers">
       <property name="0" value="19, 5, 15" />
       <property name="1" value="13, 5, 16" />
-    </property>
-    <property class="Rally">
-      <property name="0" value="3, 5, 1" />
     </property>
     <property class="FetchContainer">
       <property name="0" value="19, 9, 13" />
@@ -45,16 +46,19 @@
     </property>
     <property class="POILight">
       <property name="0" value="17, 3, 12" />
-      <property name="1" value="20, 9, 14" />
-      <property name="2" value="16, 15, 16" />
-      <property name="3" value="19, 7, 16" />
-      <property name="4" value="16, 11, 17" />
-      <property name="5" value="17, 3, 18" />
-      <property name="6" value="15, 7, 19" />
-      <property name="7" value="15, 9, 20" />
-      <property name="8" value="18, 9, 20" />
-      <property name="9" value="19, 7, 20" />
-      <property name="10" value="19, 7, 22" />
+      <property name="1" value="17, 14, 12" />
+      <property name="2" value="16, 7, 13" />
+      <property name="3" value="20, 9, 14" />
+      <property name="4" value="12, 7, 16" />
+      <property name="5" value="16, 15, 16" />
+      <property name="6" value="19, 7, 16" />
+      <property name="7" value="16, 11, 17" />
+      <property name="8" value="17, 3, 18" />
+      <property name="9" value="15, 7, 19" />
+      <property name="10" value="15, 9, 20" />
+      <property name="11" value="18, 9, 20" />
+      <property name="12" value="19, 7, 20" />
+      <property name="13" value="19, 7, 22" />
     </property>
     <property class="TraderOnOff">
       <property name="0" value="14, 9, 12" />
@@ -63,6 +67,8 @@
       <property name="3" value="16, 1, 16" />
       <property name="4" value="14, 10, 17" />
       <property name="5" value="19, 5, 17" />
+      <property name="6" value="19, 5, 21" />
+      <property name="7" value="19, 5, 22" />
     </property>
     <property class="challenge_mech_parts">
       <property name="0" value="13, 1, 12" />
@@ -101,15 +107,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="505275" />
-    <property name="TotalTriangles" value="189358" />
+    <property name="LightsVolume" value="4237.933" />
+    <property name="TotalVertices" value="558185" />
+    <property name="TotalTriangles" value="199907" />
     <property class="BlockEntities">
-      <property name="Vertices" value="459089" />
-      <property name="Triangles" value="160840" />
+      <property name="Vertices" value="511944" />
+      <property name="Triangles" value="172083" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="44226" />
-      <property name="Triangles" value="25230" />
+      <property name="Vertices" value="44281" />
+      <property name="Triangles" value="24536" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

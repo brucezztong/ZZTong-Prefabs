@@ -31,6 +31,7 @@
   <property name="POIMarkerPartToSpawn" value="part_zztong_delivery_03,part_zztong_land_mine_fake_01,part_zztong_spikes_wood5,part_driveway_rural_17,part_greeble_rooftop_05" />
   <property name="POIMarkerPartRotations" value="0,0,0,2,1" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.3,0.2,1,0.8" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="challenge_sinks">
       <property name="0" value="20, 19, 13" />
@@ -82,15 +83,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="481463" />
-    <property name="TotalTriangles" value="174457" />
+    <property name="LightsVolume" value="5101.947" />
+    <property name="TotalVertices" value="590823" />
+    <property name="TotalTriangles" value="207970" />
     <property class="BlockEntities">
-      <property name="Vertices" value="433059" />
-      <property name="Triangles" value="143191" />
+      <property name="Vertices" value="543429" />
+      <property name="Triangles" value="177666" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="44764" />
-      <property name="Triangles" value="25338" />
+      <property name="Vertices" value="43754" />
+      <property name="Triangles" value="24376" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

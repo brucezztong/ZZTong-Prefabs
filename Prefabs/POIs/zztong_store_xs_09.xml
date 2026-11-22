@@ -30,16 +30,18 @@
   <property name="POIMarkerPartSpawnChance" value="1,0.4,0.8,0.8" />
   <property name="PrefabSize" value="25, 11, 25" />
   <property name="SleeperVolumeTriggeredBy" value=" # # " />
+  <property name="AllowDecorations" value="True" />
   <property class="Stats">
-    <property name="TotalVertices" value="130830" />
-    <property name="TotalTriangles" value="53485" />
+    <property name="LightsVolume" value="4376.762" />
+    <property name="TotalVertices" value="143410" />
+    <property name="TotalTriangles" value="55511" />
     <property class="BlockEntities">
-      <property name="Vertices" value="118130" />
-      <property name="Triangles" value="44373" />
+      <property name="Vertices" value="131664" />
+      <property name="Triangles" value="47317" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="10866" />
-      <property name="Triangles" value="5908" />
+      <property name="Vertices" value="9912" />
+      <property name="Triangles" value="4990" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />
@@ -78,11 +80,13 @@
       <property name="0" value="2, 3, 8" />
     </property>
     <property class="POILight">
-      <property name="0" value="13, 5, 16" />
-      <property name="1" value="20, 5, 16" />
-      <property name="2" value="12, 5, 20" />
-      <property name="3" value="16, 5, 20" />
-      <property name="4" value="20, 5, 20" />
+      <property name="0" value="14, 4, 15" />
+      <property name="1" value="13, 5, 16" />
+      <property name="2" value="20, 5, 16" />
+      <property name="3" value="19, 4, 17" />
+      <property name="4" value="12, 5, 20" />
+      <property name="5" value="16, 5, 20" />
+      <property name="6" value="20, 5, 20" />
     </property>
     <property class="challenge_polymers">
       <property name="0" value="12, 3, 17" />

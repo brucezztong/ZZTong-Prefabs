@@ -30,6 +30,7 @@
   <property name="POIMarkerPartRotations" value="0,0,0,0,3,0,0,0,2,0,0" />
   <property name="POIMarkerPartSpawnChance" value="0.2,0.5,0.5,0.5,0.2,0.1,0.2,0.5,0.5,0.4,0.5" />
   <property name="YOffset" value="-8" />
+  <property name="AllowDecorations" value="True" />
   <property class="IndexedBlockOffsets">
     <property class="challenge_cars">
       <property name="0" value="36, 8, 29" />
@@ -41,7 +42,8 @@
       <property name="3" value="24, 9, 25" />
     </property>
     <property class="TraderOnOff">
-      <property name="0" value="25, 8, 26" />
+      <property name="0" value="23, 8, 38" />
+      <property name="1" value="23, 8, 39" />
     </property>
     <property class="POILight">
       <property name="0" value="21, 38, 39" />
@@ -85,15 +87,16 @@
     </property>
   </property>
   <property class="Stats">
-    <property name="TotalVertices" value="865214" />
-    <property name="TotalTriangles" value="331232" />
+    <property name="LightsVolume" value="5248.554" />
+    <property name="TotalVertices" value="896523" />
+    <property name="TotalTriangles" value="341670" />
     <property class="BlockEntities">
-      <property name="Vertices" value="747280" />
-      <property name="Triangles" value="254403" />
+      <property name="Vertices" value="777865" />
+      <property name="Triangles" value="265393" />
     </property>
     <property class="ChunkMeshes0">
-      <property name="Vertices" value="109670" />
-      <property name="Triangles" value="64777" />
+      <property name="Vertices" value="110394" />
+      <property name="Triangles" value="64225" />
     </property>
     <property class="ChunkMeshes1">
       <property name="Vertices" value="0" />

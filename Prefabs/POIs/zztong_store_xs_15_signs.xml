@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<signs version="2">
+  <sign guid="90e46fc9-0ee7-42a2-ab6e-f59d9f147b5b" name="Tattoo" modified="2026-11-22 14:24:45Z" next_poly_id="1" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2857143" color="#805C4CFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.3, 0.3" color="#FFD700FF" mode="ColorOnly" font="Stardos Stencil" text="Jim Dandy's" direction="0" spacing="1" softness="0" dilate="0.5" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.15" rot="0" scale="0.3, 0.3" color="#6F2426FF" mode="ColorOnly" font="Stardos Stencil" text="Jim Dandy's" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.3" color="#FFD700FF" mode="ColorOnly" font="Stardos Stencil" text="Tattoo Shop" direction="0" spacing="1" softness="0" dilate="0.3" />
+    <layer name="Text 02" type="TextSignLayer" pos="0, -0.1" rot="0" scale="0.3, 0.3" color="#6F2426FF" mode="ColorOnly" font="Stardos Stencil" text="Tattoo Shop" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-5.212521, 1.633086" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-4.517479, -2.550407" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+  <sign guid="c9897a03-e7d4-4a23-8d28-a6fc32bdcaf2" name="UPS" modified="2026-11-22 14:34:42Z" next_poly_id="2" next_text_id="2" next_noise_id="0" next_group_id="0">
+    <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="1, 0.2857143" color="#B69F78FF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.3, 0" rot="0" scale="0.2, 0.3" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="The UPS Store" direction="0" spacing="1" softness="0" dilate="0.4" />
+    <layer name="Text 01" type="TextSignLayer" pos="-0.3, 0" rot="0" scale="0.2, 0.3" color="#FFFFFFFF" mode="ColorOnly" font="LiberationSans" text="The UPS Store" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.7, 0.11" rot="0" scale="0.25, 0.15" color="#774623FF" mode="ColorOnly" sides="4" smoothness="0.6" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Poly 02" type="PolygonSignLayer" pos="0.7, -0.03000001" rot="90" scale="0.2, 0.25" color="#774623FF" mode="ColorOnly" sides="6" smoothness="0.2" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
+    <layer name="Text 02" type="TextSignLayer" pos="0.7, 0.06999999" rot="0" scale="0.28, 0.28" color="#EFB51DFF" mode="ColorOnly" font="LiberationSans" text="ups" direction="0" spacing="1" softness="0" dilate="0" />
+    <layer name="" type="NoiseSignLayer" pos="-0.06801003, -5.548118" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+    <layer name="" type="NoiseSignLayer" pos="-4.736445, 2.734337" rot="15" scale="0.3, 0.3" color="#1C1919FF" mode="ColorOnly" seed="0" detail="6" softness="0" dilate="-0.2985075" fade="0" />
+    <layer name="" type="NoiseSignLayer" pos="-6.72783, -1.982779" rot="-7.450581E-08" scale="0.03479482, 0.7175009" color="#000000FF" mode="ColorOnly" seed="8" detail="6" softness="0.2089552" dilate="-0.2388059" fade="1" />
+  </sign>
+</signs>
