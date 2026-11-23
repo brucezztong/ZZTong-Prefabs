@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="AllowDecorations" value="True" />
+  <property name="DifficultyTier" value="0" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="YOffset" value="-8" />
+  <property name="PrefabSize" value="42, 17, 42" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property class="Stats">
+    <property name="LightsVolume" value="0" />
+    <property name="TotalVertices" value="45858" />
+    <property name="TotalTriangles" value="29426" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="214" />
+      <property name="Triangles" value="128" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="38550" />
+      <property name="Triangles" value="19038" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="1040" />
+      <property name="Triangles" value="520" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="6054" />
+      <property name="Triangles" value="9740" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="TraderOnOff">
+      <property name="0" value="16, 10, 9" />
+      <property name="1" value="19, 10, 9" />
+      <property name="2" value="18, 10, 20" />
+    </property>
+  </property>
+</prefab>
