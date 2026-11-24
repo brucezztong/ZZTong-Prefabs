@@ -32,4 +32,44 @@
     <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Gift Shop" direction="0" spacing="1" softness="0" dilate="0.1" />
     <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
   </sign>
+  <sign guid="b1599e48-2d2c-4f39-9c7f-0cbd87af3c81" name="Marketing" modified="2026-11-24 15:34:54Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Marketing" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
+  <sign guid="9b501e2d-bdef-402a-999b-fbf493fa3ecc" name="Production" modified="2026-11-24 15:35:18Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Production" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
+  <sign guid="722c6146-ce4d-42b0-8808-f4cfd3219991" name="COO" modified="2026-11-24 15:47:06Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.2" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="COO" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.2" rot="0" scale="0.25, 0.25" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Daniel Mercer" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
+  <sign guid="9e5a36c9-6218-4a31-8149-9238fc276151" name="Studio A" modified="2026-11-24 15:36:56Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Studio A" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
+  <sign guid="74a85c6a-452e-401a-915a-a28cca8e0247" name="Studio B" modified="2026-11-24 15:37:11Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Studio B" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
+  <sign guid="1e3fecc0-23df-40f2-a126-1c9429dfaa8e" name="CFO" modified="2026-11-24 15:46:50Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.2" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CFO" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.2" rot="0" scale="0.25, 0.25" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Victoria Caldwell" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
+  <sign guid="7d3f81fd-d4ec-4839-a9b3-f5e056a17d90" name="CEO" modified="2026-11-24 15:49:28Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.2" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CEO" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.2" rot="0" scale="0.25, 0.25" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Marcus Sterling" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
+  <sign guid="27484f58-f7c1-4d72-9225-d35622a55269" name="Talent" modified="2026-11-24 15:49:47Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Talent" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
+  <sign guid="f4709065-dea5-401f-8cc4-86cefb034c4d" name="CTO" modified="2026-11-24 15:52:26Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
+    <layer name="Text 01" type="TextSignLayer" pos="0, 0.2" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CTO" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="Text 01" type="TextSignLayer" pos="0, -0.2" rot="0" scale="0.25, 0.25" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Natalie Bennett" direction="0" spacing="1" softness="0" dilate="0.1" />
+    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
+  </sign>
 </signs>
