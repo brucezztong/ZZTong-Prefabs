@@ -4,6 +4,7 @@ V3.1.033 (ZZ033)
 * Removed AllowTopSoilDecorations from XML to go with the game's v3.2 release.
 * Widespread support for the new Sign Tech. (This was a lot of work.)
 * Numerous small adjustments to POIs and bug fixes.
+* Replaced the zztong_skyscraper_01 eyesore with something nicer.
 
 V3.0.032 (ZZ032)
 * Numerous bug fixes that I didn't record. Whoops.
