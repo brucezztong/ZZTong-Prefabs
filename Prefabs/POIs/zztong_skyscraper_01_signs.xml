@@ -71,11 +71,6 @@
     <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Talent" direction="0" spacing="1" softness="0" dilate="0.1" />
     <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
   </sign>
-  <sign guid="f4709065-dea5-401f-8cc4-86cefb034c4d" name="CTO" modified="2026-11-24 15:52:26Z" next_poly_id="0" next_text_id="1" next_noise_id="0" next_group_id="0">
-    <layer name="Text 01" type="TextSignLayer" pos="0, 0.2" rot="0" scale="0.4, 0.4" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="CTO" direction="0" spacing="1" softness="0" dilate="0.1" />
-    <layer name="Text 01" type="TextSignLayer" pos="0, -0.2" rot="0" scale="0.25, 0.25" color="#000000FF" mode="ColorOnly" font="LiberationSans" text="Natalie Bennett" direction="0" spacing="1" softness="0" dilate="0.1" />
-    <layer name="" type="NoiseSignLayer" pos="0.389755, -6.377324" rot="0" scale="0.33241, 0.33241" color="#000000FF" mode="ColorOnly" seed="0" detail="6" softness="1" dilate="-0.2686567" fade="0.7910448" />
-  </sign>
   <sign guid="3a99522e-3372-428a-9fc3-3b2eae1180b0" name="ZZTong Prefabs Noise" modified="2026-11-25 10:28:08Z" next_poly_id="1" next_text_id="1" next_noise_id="0" next_group_id="0">
     <layer name="Poly 01" type="PolygonSignLayer" pos="0, 0" rot="0" scale="0.3, 0.3" color="#BDBDBDFF" mode="ColorOnly" sides="4" smoothness="0" starify="0" softness="0" dilate="0" frequency="5" shapeMode="Normal" />
     <layer name="Text 01" type="TextSignLayer" pos="0, 0" rot="0" scale="0.2, 0.2" color="#483C32FF" mode="ColorOnly" font="Permanent Marker" text="Love" direction="0" spacing="1" softness="0" dilate="0.2">
