@@ -5,6 +5,7 @@ V4.0.033 (ZZ033)
 * Widespread support for the new Sign Tech. (This was a lot of work.)
 * Numerous small adjustments to POIs and bug fixes.
 * Replaced the zztong_skyscraper_01 eyesore with something nicer.
+* Added zztong_office_building_04.
 
 V3.0.032 (ZZ032)
 * Numerous bug fixes that I didn't record. Whoops.

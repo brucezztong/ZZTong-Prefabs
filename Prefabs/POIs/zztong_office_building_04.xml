@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+  <property name="CopyAirBlocks" value="True" />
+  <property name="ExcludeDistantPOIMesh" value="False" />
+  <property name="ExcludePOICulling" value="False" />
+  <property name="DistantPOIYOffset" value="0" />
+  <property name="DifficultyTier" value="2" />
+  <property name="ShowQuestClearCount" value="1" />
+  <property name="TraderArea" value="False" />
+  <property name="RotationToFaceNorth" value="2" />
+  <property name="Zoning" value="none" />
+  <property name="YOffset" value="-3" />
+  <property name="SleeperVolumeSize" value="17, 22, 22#5, 23, 8" />
+  <property name="SleeperVolumeStart" value="8, 2, 12#25, 3, 16" />
+  <property name="SleeperVolumeGroupId" value="0,0" />
+  <property name="SleeperVolumeGroup" value="ZomBusinessman,1,1,GroupAbandonedHouse,1,1" />
+  <property name="SleeperIsLootVolume" value="False,False" />
+  <property name="SleeperIsQuestExclude" value="False,False" />
+  <property name="SleeperVolumeFlags" value="0,0" />
+  <property name="EditorGroups" value="commercial" />
+  <property name="Tags" value="commercial" />
+  <property name="PrefabSize" value="42, 25, 42" />
+  <property name="SleeperVolumeTriggeredBy" value=" # " />
+  <property name="AllowDecorations" value="True" />
+  <property name="DuplicateRepeatDistance" value="2000" />
+  <property name="QuestTags" value="clear, fetch, infested" />
+  <property class="Stats">
+    <property name="LightsVolume" value="908.9675" />
+    <property name="TotalVertices" value="327366" />
+    <property name="TotalTriangles" value="124750" />
+    <property class="BlockEntities">
+      <property name="Vertices" value="245660" />
+      <property name="Triangles" value="74506" />
+    </property>
+    <property class="ChunkMeshes0">
+      <property name="Vertices" value="75468" />
+      <property name="Triangles" value="41612" />
+    </property>
+    <property class="ChunkMeshes1">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes2">
+      <property name="Vertices" value="1144" />
+      <property name="Triangles" value="572" />
+    </property>
+    <property class="ChunkMeshes3">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes4">
+      <property name="Vertices" value="0" />
+      <property name="Triangles" value="0" />
+    </property>
+    <property class="ChunkMeshes5">
+      <property name="Vertices" value="5094" />
+      <property name="Triangles" value="8060" />
+    </property>
+  </property>
+  <property class="IndexedBlockOffsets">
+    <property class="POILight">
+      <property name="0" value="40, 13, 40" />
+    </property>
+    <property class="quest_wood_trees">
+      <property name="0" value="24, 3, 37" />
+    </property>
+    <property class="TraderOnOff">
+      <property name="0" value="21, 4, 31" />
+      <property name="1" value="22, 19, 31" />
+    </property>
+    <property class="challenge_mech_parts">
+      <property name="0" value="23, 14, 30" />
+      <property name="1" value="22, 9, 30" />
+      <property name="2" value="22, 9, 27" />
+    </property>
+    <property class="quest_wood">
+      <property name="0" value="31, 3, 24" />
+      <property name="1" value="29, 3, 24" />
+      <property name="2" value="27, 3, 24" />
+      <property name="3" value="25, 3, 24" />
+      <property name="4" value="25, 3, 26" />
+      <property name="5" value="25, 3, 28" />
+      <property name="6" value="25, 3, 30" />
+      <property name="7" value="25, 3, 32" />
+      <property name="8" value="31, 3, 22" />
+    </property>
+    <property class="quest_feather">
+      <property name="0" value="29, 24, 22" />
+    </property>
+    <property class="challenge_polymers">
+      <property name="0" value="23, 14, 32" />
+    </property>
+    <property class="challenge_sinks">
+      <property name="0" value="23, 4, 30" />
+      <property name="1" value="23, 4, 32" />
+      <property name="2" value="23, 5, 27" />
+      <property name="3" value="23, 5, 26" />
+      <property name="4" value="22, 4, 26" />
+    </property>
+  </property>
+</prefab>
